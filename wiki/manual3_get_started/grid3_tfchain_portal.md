@@ -61,7 +61,7 @@ Click `CREATE FARM` and choose a name.
 
 Click `CREATE` and sign the action. 
 
-The farm is by default set up as 'DIY'. A farm can become certified through certification program. More info to be found [here](farming_certified_requirements).
+The farm is by default set up as 'DIY'. A farm can become certified through certification program. More info to be found [here](threefold:farming_certified_requirements).
 Also a pricing policy is defined. Pricing policy is currently the same for all farms, the field is created for future use. 
 
 ## Add a public IP to your Farm

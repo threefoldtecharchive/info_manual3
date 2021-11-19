@@ -208,7 +208,7 @@ So to add a VM
   }
 ```
 - We give it a name within our deployment `vm1`
-- `flist` is used to  define the [flist](zos_fs) to run within the VM. Check the [supported flists](grid3_supported_flists)
+- `flist` is used to  define the [flist](threefold:zos_fs) to run within the VM. Check the [supported flists](grid3_supported_flists)
 - `cpu` and `memory` are used to define the cpu and memory
 - `publicip` is usued to define if it requires a public IP or not
 - `entrypoint` is used define the entrypoint which in most of the cases in `/sbin/zinit init`, but in case of flists based on containers it can be specific to each flist

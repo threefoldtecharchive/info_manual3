@@ -2,7 +2,7 @@
 
 In TFGrid 3.0 billing is in accordance with proof of utilization
 
-!!!include:utility_token_model
+!!!include:threefold:utility_token_model
 
 
 ## Use TFTs on Parity Substrate
@@ -13,7 +13,7 @@ These TFTs have the same value as on the Stellar network, there is a bridging me
 
 ## Post-billing
 
-All resource utilisation is registered on the TFChain. We can this [Proof Of Utilization](proof_of_utilization).
+All resource utilisation is registered on the TFChain. We can this [Proof Of Utilization](threefold:proof_of_utilization).
 
 Deployers may choose to fund their wallets with large or small amounts at a time, according to their preferences.
 
@@ -38,7 +38,6 @@ A personal staking mechanism has been put in place that provides token holders w
 
 The discount is expressed in relation to the number of months one commits to use the ThreeFold Grid. By staking TFT, users express their loyalty to the ecosystem, and by buying TFT upfront they become like co-investors in the growth of the ThreeFold Grid. The amount of TFT staked will define the discount level. It will be possible for anyone to leave the personal staking pool at any point of time, evidently the discount gets lost as well then.
 
-A more detailed overview of prices can be found [here](pricing).
+A more detailed overview of prices can be found [here](threefold:pricing).
 
 !!!def alias:grid_billing
-

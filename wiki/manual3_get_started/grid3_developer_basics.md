@@ -4,7 +4,7 @@ This should be a simple intro for developers or operations
 ## networking
 
 ### Private network (ZNET)
-For a project that needs a private network, we need a network that can span across multiple nodes, this can be achieved by the network workload reservation [Network](@tfgrid_networking_toc)
+For a project that needs a private network, we need a network that can span across multiple nodes, this can be achieved by the network workload reservation [Network](@threefold:tfgrid_networking_toc)
 
 ### Planetary network
 For a project that want their workloads directly connected to the planetary network we will need the option planetary enabled when deploying a VM or kubernetes. Check [Planetary network](@grid3_planetary_network) for more info about 
@@ -14,7 +14,7 @@ When you want to have a public IP assigned to your workload, you need to reserve
 
 ## Exposing the workloads to the public
 
-Typically, if you reserved a public IP you can do that directly and create a domain referencing you public IP. Threefold provides also [Webgateway technology](webgateway3) a very cost-efficient technology to help with exposing your workloads
+Typically, if you reserved a public IP you can do that directly and create a domain referencing you public IP. Threefold provides also [Webgateway technology](threefold:webgateway3) a very cost-efficient technology to help with exposing your workloads
 
 ### how it works
 Basically you create a `domain reservation` that can be 
@@ -31,7 +31,7 @@ As a user, you have two options
 
 ## Compute
 
-VM workload is the only workload that you will need to run a full blown VM or an [flist-based](@zos_fs) container
+VM workload is the only workload that you will need to run a full blown VM or an [flist-based](@threefold:zos_fs) container
 
 ### How can I create an flist?
 
@@ -58,6 +58,6 @@ For detailed information check
 - [Overview](@grid3_overview)
 - [Components Interaction](@grid3_components)
 - [Definitions](@grid3_definitions)
-- [ZOS Primitives](tfgrid_primitives)
+- [ZOS Primitives](threefold:tfgrid_primitives)
 - [Getting started](@grid3_get_started)
 - [Billing](@grid3_billing)

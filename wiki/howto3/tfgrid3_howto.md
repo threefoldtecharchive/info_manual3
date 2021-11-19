@@ -4,5 +4,4 @@
 
 
 - [Planetary Network](@grid3_planetary_network)
-- [Quantum Safe Storage System](@qsss_home)
-
+- [Quantum Safe Storage System](@threefold:qsss_home)

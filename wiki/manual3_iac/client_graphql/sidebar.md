@@ -1,5 +1,5 @@
-- [**ThreeFold Home**](@threefold_home)
-- [**Manual 3 Home**](@manual3_home)
+- [**ThreeFold Home**](@threefold:threefold_home)
+- [**Manual 3 Home**](@manual3_home_new)
 -----------
 
 **client graphql**

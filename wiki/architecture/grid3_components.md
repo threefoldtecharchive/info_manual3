@@ -9,7 +9,7 @@ Responses from the node **must** be signed with the twin secret key, signature c
 
 Node uses the same verification mechanism against requests from twins.
 
-### TFGrid-DB
+### TFTFCHain
 
 #### Definitions
 - `entity`: this represents a legal entity or a person, the entity is the public key of the user associated with name, country, and a unique identifier.
