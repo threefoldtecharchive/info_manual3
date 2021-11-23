@@ -33,5 +33,7 @@
 - [ThreeFold Peer-to-Peer Cloud](@threefold:cloud_home)
 - [Technology](@threefold:technology)
 ------------
-- [Definitions & Concepts](@threefold:definitions_concepts)
 - [Legal](!@legal:legal_home)
+
+
+<!-- - [Definitions & Concepts](@threefold:definitions_concepts) -->
