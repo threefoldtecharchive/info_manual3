@@ -1,5 +1,4 @@
-- [ThreeFold Grid Home](@threefold:grid_home)
-- [Manual 3 Home](@manual3_home_new)
+- [Knowledgebase](!@threefold:threefold_home)
 -----------
 **Manual 3.0**
 - [TFGrid 3](manual3_home_new)
@@ -27,11 +26,6 @@
   - [Quantum Safe Storage System](@threefold:qsss_home)
 - [Help us test](@testing_home)
 - [Threefold Services](manual3_tfservices)
------------
-- [Farming](@threefold:farming_intro)
-- [ThreeFold Token](@threefold:tokens_home)
-- [ThreeFold Peer-to-Peer Cloud](@threefold:cloud_home)
-- [Technology](@threefold:technology)
 ------------
 - [Legal](!@legal:legal_home)
 
