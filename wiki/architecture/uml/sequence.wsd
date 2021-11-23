@@ -17,5 +17,5 @@ group if accepted
     ...
     node -> db: consumption reports ever <b>X</b> amount of minutes
 end group
-db -> user: Billing based on node reports
+db -> user: Proof of Utilization based on node reports
 @enduml

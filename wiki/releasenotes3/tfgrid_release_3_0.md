@@ -27,7 +27,7 @@ Features :
    - Ansible (planned for Q4 2021)
 - Use RMB = peer2peer secure Reliable Message Bus to communicate with Zero-OS
 
-### Billing
+### Proof of Utilization
 
 - Resource utilisation is captured and calculated on hourly basis
 - Resource utilisation stored in TFChain

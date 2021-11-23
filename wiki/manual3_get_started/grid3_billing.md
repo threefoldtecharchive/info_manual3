@@ -1,21 +1,21 @@
-# Billing on ThreeFold Grid 3.0
-
-In TFGrid 3.0 billing is in accordance with proof of utilization
+# Proof of Utilization on ThreeFold Grid 3.0
 
 !!!include:threefold:utility_token_model
 
 
-## Use TFTs on Parity Substrate
+## TFChain 3.0
 
-As from v3.0, TFTs exist on TFChain, which is ThreeFold's blockchain on Parity Substrate.
+TF_Chain is our blockchain used to manage our TFGrid (based on Substrate). The TF_Grid operates as a DAO.
 
-These TFTs have the same value as on the Stellar network, there is a bridging mechanism in place that allows to transfer TFTs between the 2 blockchains, in both directions.
+Our token TFT is multi blockchain compatible, we support TF_Chain, Stellar and Binance Smartchain as money blockchain. The user can transfer his TFT between these Blockchains.
+
+If a user wants to use Internet Capacity (storage, compute and network) on the TF_Grid, then the user will have to transfer money to his account on TFChain.
 
 ## Proof of Utilization
 
 All resource utilisation is registered on the TFChain on an hourly basis. We call this [Proof Of Utilization](threefold:proof_of_utilization).
 
-These resources are a combination of cloud units: 
+TFGrid is tracking utilization based on following parameters:
 
 - Compute resources ("CU")
 - Storage resources ("SU")
@@ -28,7 +28,7 @@ and network utilization :
 
 ## Discount on staked tokens
 
-A personal staking mechanism has been put in place that provides token holders with discounts on the capacity they purchase.
+A personal automatic staking mechanism has been put in place that provides token holders with discounts on the capacity they purchase.
 
 !!!include:threefold:staking_discount_levels0
 

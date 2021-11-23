@@ -9,5 +9,5 @@
 ## Background Info
 
 - [What's New](grid3_new)
-- [Billing](grid3_billing)
+- [Proof of Utilization](grid3_billing)
 - [Definitions](grid3_definitions)

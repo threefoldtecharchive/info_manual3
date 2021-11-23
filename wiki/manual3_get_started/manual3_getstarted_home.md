@@ -22,7 +22,7 @@ Once you have installed the TFChain toolkit, you can [Get started with portal](g
 - Farming
   - [Create a Farm](create_farm)
   - [Booting a node](booting_node)
-  - [Billing](@grid3_billing)
+  - [Proof of Utilization](@grid3_billing)
   - [Learn About TFGrid 3](@manual3_tfgrid_home)
   
 ## Website overview

@@ -74,4 +74,4 @@ The node can call `add_reports` on this module to submit reports in batches.
 
 Usage of SU, CU and NU will be computed based on the prices and the rules that Threefold set out for cloud pricing.
 
-Billing will be done in TFT and will be send to the corresponding farmer. If the user runs out of funds the TF-Chain will set the contract state to `cancelled` or it will be removed from storage. The Node needs to act on this 'contract cancelled' event and decommission the workload.
+Proof of Utilization will be done in TFT and will be send to the corresponding farmer. If the user runs out of funds the TF-Chain will set the contract state to `cancelled` or it will be removed from storage. The Node needs to act on this 'contract cancelled' event and decommission the workload.

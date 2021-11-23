@@ -1,10 +1,10 @@
-- [Knowledgebase](!@threefold:threefold_home)
+- [**Knowledgebase**](!@threefold:threefold_home)
 -----------
 **Manual 3.0**
 - [TFGrid 3](manual3_home_new)
     - [ZOS Primitives](threefold:tfgrid_primitives)
     - [What's New](grid3_new)
-    - [Billing](grid3_billing)
+    - [Proof of Utilization](grid3_billing)
     - [Definitions](grid3_definitions)
 - [Getting Started](manual3_getstarted_home)
     - [Get Started](@grid3_get_started)

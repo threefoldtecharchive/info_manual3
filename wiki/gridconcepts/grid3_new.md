@@ -20,7 +20,7 @@ Features :
 - Support for app deployment using CapRover
 - Use RMB = peer2peer secure Reliable Message Bus to communicate with Zero-OS
 
-### Billing
+### Proof of Utilization
 
 - Resource utilisation is captured and calculated on hourly basis
 - Resource utilisation stored in TFChain

@@ -60,4 +60,4 @@ For detailed information check
 - [Definitions](@grid3_definitions)
 - [ZOS Primitives](threefold:tfgrid_primitives)
 - [Getting started](@grid3_get_started)
-- [Billing](@grid3_billing)
+- [Proof of Utilization](@grid3_billing)
