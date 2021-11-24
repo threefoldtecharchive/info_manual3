@@ -1,6 +1,6 @@
 Info on TFChain is indexed over GraphQL and is available for queries. 
-- [Devnet GraphQL](https://tfchain.dev.threefold.io/graphql/graphql)
-- [Testnet GraphQL](https://tfchain.test.threefold.io/graphql/graphql)
+- [Devnet GraphQL](https://graphql.dev.grid.tf/graphql)
+- [Testnet GraphQL](https://graphql.test.grid.tf/graphql)
 - Mainnet -not live yet-
 
 
