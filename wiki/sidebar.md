@@ -2,12 +2,20 @@
 -----------
 **Manual 3.0**
 - [Concepts](manual3_home_new)
+    - [How it works](grid3_howitworks)
     - [Grid Primitives](threefold:tfgrid_primitives)
     - [Proof of Utilization](proof_of_utilization_manual)
     - [Concepts](grid3_definitions)
+<<<<<<< HEAD
 - [Getting Started](tfgrid3_getstarted)
 - [TFChain Portal](tfchain_portal_home)
 - [TFGrid Explorer](explorer_home)
+=======
+- [Getting Started](manual3_getstarted_home)
+    - [Get Started](@grid3_get_started)
+    - [Portal](@grid3_tfchain_init)
+    - [Exploring Capacity](@explorer_home)
+>>>>>>> ce28dc8b49153210766519307b3dd3e2106c11c9
 - [Infrastructure As Code](manual3_iac_home)
     - [What you need to know](@grid3_developer_basics)
     - [Terraform](@grid3_terraform_home)
@@ -17,8 +25,7 @@
   - [Release Notes](releasenotes3)
   - [What's New](grid3_new)
 - [Farming](create_farm)
-  - [On Devnet](@create_farm_devnet)
-  - [On Testnet](@create_farm_testnet)
+  - [Portal](@grid3_tfchain_init)
   - [Booting nodes](@booting_node)
 - [Howto](tfgrid3_howto)
   - [Planetary Network](@grid3_planetary_network)

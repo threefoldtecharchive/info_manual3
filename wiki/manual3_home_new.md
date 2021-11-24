@@ -2,8 +2,11 @@
 
 # Manual TFGrid 3.0
 
+
+
 ## Learn The Basics
 
+- [How it works](grid3_howitworks)
 - [ZOS Primitives](threefold:tfgrid_primitives)
 
 ## Background Info
