@@ -119,4 +119,4 @@ Click on `SUBMIT WITHDRAW` and sign using your password.
 
 ## Capacity Explorer
 
-In the upper right corner, you can click on `CAPACITY EXPLORER` to get a view of all capacity connected to TFGrid v3. For more info, see [here](grid3_explorer).
+In the upper right corner, you can click on `CAPACITY EXPLORER` to get a view of all capacity connected to TFGrid v3. For more info, see [here](explorer_home).

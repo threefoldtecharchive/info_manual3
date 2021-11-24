@@ -260,7 +260,7 @@ resource "grid_deployment" "d1" {
     mode = "user"
   }
   zdbs{
-    name = "zdb2"You can easily check using [explorer-ui](@grid3_explorer) , 
+    name = "zdb2"You can easily check using [explorer-ui](@explorer_home) , 
     size = 2
     description = "zdb2 description"
     password = "zdbpasswd2"

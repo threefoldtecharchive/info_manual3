@@ -1,7 +1,11 @@
 
 # Get Started
 
-In this section we describe the different installations needed to get started with [Threefold Grid v3](https://library.threefold.me/info/tfgrid/#/grid/grid_home.md).
+In this section we describe the different installations needed to get started with TFGrid.
+
+
+
+> TODO: keep it in todo until all are alive
 
 Steps:
 
@@ -13,7 +17,7 @@ Once you have installed the TFChain toolkit, you can [Get started with portal](g
 
 
 - Using the TFGrid:  
-  - [Exploring capacity](grid3_explorer)
+  - [Exploring capacity](explorer_home)
     - [GraphQL examples](explorer_graphql_examples)
   - Use [Terraform](grid3_terraform_home)
   - Deploy using [CapRover](terraform_caprover)
@@ -22,7 +26,7 @@ Once you have installed the TFChain toolkit, you can [Get started with portal](g
 - Farming
   - [Create a Farm](create_farm)
   - [Booting a node](booting_node)
-  - [Proof of Utilization](@grid3_billing)
+  - [Proof of Utilization](@proof_of_utilization_manual)
   - [Learn About TFGrid 3](@manual3_tfgrid_home)
   
 ## Website overview

@@ -86,4 +86,4 @@ query MyQuery {
 
 ```
 
-> NOTE: most of this is available on [explorer](grid3_explorer)
+> NOTE: most of this is available on [explorer](explorer_home)

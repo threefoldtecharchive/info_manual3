@@ -60,7 +60,7 @@ The grid client requires a communication transport, the availlable options are `
 
 
 
-> Note: The choice of the node is completely up to the user at this point. They need to do the capacity planning. Check [Exploring Capacity](grid3_explorer) to know which nodes fits your deployment criteria.
+> Note: The choice of the node is completely up to the user at this point. They need to do the capacity planning. Check [Exploring Capacity](explorer_home) to know which nodes fits your deployment criteria.
 
 Check the document for [capacity planning using code](grid3_javascript_capacity_planning) if you want to automate it
 > Note: this feature is still experimental

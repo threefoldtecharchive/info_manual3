@@ -47,7 +47,7 @@ We leverage the VM primitive to allow provisioning kubernetes clusters across mu
 
 
 ## Exploring the capacity
-You can easily check using [explorer-ui](@grid3_explorer) , also to plan your deployment you can use these [example queries](explorer_graphql_examples)
+You can easily check using [explorer-ui](@explorer_home) , also to plan your deployment you can use these [example queries](explorer_graphql_examples)
 
 ## Getting started
 
@@ -61,4 +61,4 @@ For detailed information check
 - [Definitions](@grid3_definitions)
 - [ZOS Primitives](threefold:tfgrid_primitives)
 - [Getting started](@grid3_get_started)
-- [Proof of Utilization](@grid3_billing)
+- [Proof of Utilization](@proof_of_utilization_manual)

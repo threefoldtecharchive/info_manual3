@@ -1,6 +1,6 @@
 ## Redis
 
-For now, Redis is an external dependency of the protocol used to communicate with nodes on the Grid.
+Redis can be used as backend mechanism to communicate with the nodes on TFGrid using the RMB.
 
 ### Install
 

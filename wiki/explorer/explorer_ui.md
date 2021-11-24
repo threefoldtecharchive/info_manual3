@@ -18,14 +18,17 @@ Here you can see generic overview about
 - the number of public IPs available
 
 ## Exploring farms
+
 You can see a list of all farms with filtering options
 ![explorer_farms](img/explorer_farms.png)
 
 ## Farm details
+
 Click on a farm shows up the farm details information
 ![explorer_farm_details](img/explorer_farm_details.png)
 
 ## Exploring nodes
+
 Explorer UI allows exploring the nodes and filtering them by many filtering option 
 ![exporer_nodes](img/explorer_nodes.png)
 
@@ -51,19 +54,6 @@ Can also see a map of how the capacity is distributed
 A map is available with a global overview, showing in which countries capacity is offered. 
 
 ![capacity_distribution](img/explorer_nodes_distribution.png)
-
-## Available explorers
-- [Devnet explorer](https://explorer.dev.grid.tf)
-- [Testnet explorer](https://explorer.test.grid.tf)
-- [Mainnet explorer -not live yet-](https://explorer.grid.tf)
-
-> TODO: keep it in todo until all are alive
-
-## GraphQL
-Info on TFChain is indexed over GraphQL and is available for queries. 
-- [Devnet GraphQL](https://graphql.dev.grid.tf/graphql)
-- [Testnet GraphQL](https://graphql.test.grid.tf/graphql)
-- Mainnet GraphQL - not yet live
 
 ## Reporting issues
 Please open a github issue in [grid_explorer_ui repo](https://github.com/threefoldtech/grid_explorer_ui)
