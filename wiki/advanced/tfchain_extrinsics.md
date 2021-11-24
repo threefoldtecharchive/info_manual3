@@ -1,4 +1,4 @@
-## Grid3 Functions Overview
+## TFChain Grid3 Functions Overview
 
 A list of functions available on TFGrid 3.0 are available in the extrinsics section for developers. 
 

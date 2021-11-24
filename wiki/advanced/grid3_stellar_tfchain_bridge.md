@@ -1,6 +1,6 @@
 # Transferring TFT between Stellar and TF Chain
 
-!!!include grid3_portal_notice
+> TODO: review what is useful and how, how does it relate with token_transfer_keygenerator
 
 ## Usage
 

@@ -6,4 +6,7 @@ Info on TFChain is indexed over GraphQL and is available for queries.
 - [Testnet GraphQL](https://graphql.test.grid.tf/graphql)
 - Mainnet GraphQL - not yet live
 
+> TODO: more info about graphql
+
+!!!include:explorer_toc
 

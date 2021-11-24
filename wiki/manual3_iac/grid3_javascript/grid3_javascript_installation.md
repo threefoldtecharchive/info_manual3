@@ -26,7 +26,7 @@ From now on in the document we will assume you already have
 - twin
 - mnemonics
 
-If you don't, please visit the [Get started section](manual3_getstarted_home)
+If you don't, please visit the [Get started section](tfgrid3_getstarted)
 
 We provided set of scripts to play around with in the repository in the `scripts` directory. [check how to run them](grid3_javascript_run_scripts)
 
