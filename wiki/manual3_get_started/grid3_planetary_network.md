@@ -4,7 +4,8 @@
 An extensive explanation on the Planetary Network can be found [here](threefold:planetary_network). 
 
 In a first phase, to get started, you need to launch the planetary network by running [Yggdrasil](https://yggdrasil-network.github.io) from the command line. 
-Yggdrasil is an early-stage implementation of a fully end-to-end encrypted IPv6 network. It is lightweight, self-arranging, supported on multiple platforms, and allows pretty much any IPv6-capable application to communicate securely with other nodes on the network. Yggdrasil does not require you to have IPv6 Internet connectivity - it also works over IPv4.
+
+Yggdrasil is an implementation of a fully end-to-end encrypted IPv6 network. It is lightweight, self-arranging, supported on multiple platforms, and allows pretty much any IPv6-capable application to communicate securely with other nodes on the network. Yggdrasil does not require you to have IPv6 Internet connectivity - it also works over IPv4.
 
 ### Install
 
@@ -37,6 +38,7 @@ yggdrasilctl getSelf
 ```
 
 #### MacOS
+
 The MacOS package will automatically install and start the `launchd` service. After adding peers to your config file, restart Yggdrasil by stopping the service (it will be restarted automatically):
 
 ```
@@ -58,6 +60,7 @@ http://[319:3cf0:dd1d:47b9:20c:29ff:fe2c:39be]/
 ```
 
 ### Firewalls
+
 Creating deployments on the Grid also requires that nodes can reach your machine as well. This means that a local firewall preventing inbound connections will cause deployments to fail.
 
 #### Linux
@@ -90,6 +93,7 @@ sudo ip6tables -P INPUT DROP
 The MacOS system firewall is disabled by default. You can check your firewall settings according to instructions here.
 
 ### Get Yggdrasil IP
+
 Once Yggdrasil is installed, you can find your Yggdrasil IP address using this command on both Linux and Mac:
 
 ```
@@ -128,4 +132,5 @@ You'll need this address when registering your twin on TF Chain in the next step
 
 
 # Desktop apps
+
 - [yggdrassil connector](https://github.com/MohamedElmdary/yggdrasil-connector)

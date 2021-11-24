@@ -1,9 +1,8 @@
 - [**Knowledgebase**](!@threefold:threefold_home)
 -----------
 **Manual 3.0**
-- [TFGrid 3](manual3_home_new)
-    - [ZOS Primitives](threefold:tfgrid_primitives)
-    - [What's New](grid3_new)
+- [Concepts](manual3_home_new)
+    - [Grid Primitives](threefold:tfgrid_primitives)
     - [Proof of Utilization](grid3_billing)
     - [Definitions](grid3_definitions)
 - [Getting Started](manual3_getstarted_home)
@@ -16,7 +15,9 @@
     - [Terraform](@grid3_terraform_home)
     - [TypeScript Client](@grid3_javascript_home)
     - [GraphQL Client](@graphql)
-- [Release Notes](releasenotes3)
+- [roadmap](!@roadmap_product)
+  - [Release Notes](releasenotes3)
+  - [What's New](grid3_new)
 - [Farming](create_farm)
   - [On Devnet](@create_farm_devnet)
   - [On Testnet](@create_farm_testnet)
@@ -24,6 +25,7 @@
 - [Howto](tfgrid3_howto)
   - [Planetary Network](@grid3_planetary_network)
   - [Quantum Safe Storage System](@threefold:qsss_home)
+- [Advanced](advanced)
 - [Help us test](@testing_home)
 - [Threefold Services](manual3_tfservices)
 ------------

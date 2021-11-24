@@ -4,6 +4,7 @@ This should be a simple intro for developers or operations
 ## networking
 
 ### Private network (ZNET)
+
 For a project that needs a private network, we need a network that can span across multiple nodes, this can be achieved by the network workload reservation [Network](@threefold:tfgrid_networking_toc)
 
 ### Planetary network
