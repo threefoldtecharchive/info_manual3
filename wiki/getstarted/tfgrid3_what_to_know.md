@@ -1,5 +1,7 @@
 # TFGrid 3.0 Whats There To Know
 
+- [Storage Concepts](tfgrid3_storage_concepts)
+- [Network Concepts]
 
 ## networking
 

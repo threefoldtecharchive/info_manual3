@@ -2,9 +2,7 @@
 
 The portal is an easy interface containing all elements needed to create an account, a twin, money transfers on tfchain, and farm management, and can be found : 
 
-- on [Devnet](https://portal.dev.grid.tf/)
-- on [Testnet](https://portal.test.grid.tf/)
-<!-- - on Mainnet : under construction -->
+!!!include:tfchain_portal_list
 
 ![](img/grid3_portal_account.png ':size=600')
 

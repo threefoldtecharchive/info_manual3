@@ -7,17 +7,17 @@ Also, capacity that is reserved is paid to the Substrate account. For multiple r
 
 ### Deposit
 
-A deposit of tokens from the Stellar network onto TF-Chain needs to happen from a Stellar wallet, like in the ThreeFold Connect App. Instructions are given how to do it: money needs to be sent to the bridge account, specifying in the memo field the twinID that was generated with the Twin creation. 
+A deposit of tokens from the Stellar network onto TF-Chain needs to happen from a Stellar wallet, like in the ThreeFold Connect App. 
 
-1 TFT will be withdrawn from a transfer over the bridge. 
+- TFT needs to be sent to the bridge account 
+- specifying in the memo field the twinID that was generated with the Twin creation e.g. twin_110 (dont forget twin_)
+- Note there is a transaction cost of 1 TFT.
 
 ![](img/grid3_portal_deposit_tft.png ':size=400')
 
 ### Withdraw 
 
 Sending tokens to the Stellar network can happen from this portal, after indicating the destination address and the amount to be transferred. 
-
-1 TFT will be withdrawn from a transfer over the bridge. 
 
 ![](img/grid3_portal_withdraw_tft.png ':size=400')
 

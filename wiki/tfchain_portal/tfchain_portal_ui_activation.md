@@ -2,7 +2,11 @@
 
 ## Activate your Account 
 
-You now have an account, but it's inactive and does not contain any TFT. Click on `ACTIVATE ACCOUNT`, this will result in TFT being known in your account. 
+!!!include:tfchain_portal_list
+
+You now have an account, but it's inactive and does not contain any TFT. 
+
+Click on `ACTIVATE ACCOUNT`, this will result in TFT being known in your account. 
 
 ![](img/grid3_portal_activate_account.png ':size=300')
 
@@ -22,5 +26,11 @@ This address is reserved for future usage once the digital twin will launch.
 Submit the transaction using the password selected when creating the account.
 
 The Twin IP can be modified at any moment. 
+
+## Required result
+
+Shoud see something like:
+
+![](img/tfchain_portal_result.png)
 
 !!!include:tfchain_portal_toc

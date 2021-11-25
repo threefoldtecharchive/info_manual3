@@ -24,3 +24,7 @@ Remember the ID, this is the number you will need to specify your node.
 
 - make sure there is enough capacity on the node for your workload requirements
 - make sure you use the right explorer, each net has a different explorer.
+
+## Node details
+
+![](img/node_detail_.png)

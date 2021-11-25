@@ -1,7 +1,9 @@
 ## Booting a node into a farm
+
 This explain the step necessary to boot a `zos` node into a farm
 
 ### Requirements
+
 - Farm created on the chain. Please make a node of the `network` [devnet](create_farm_devnet) or [testnet](create_farm_testnet) and  `farm-id`
 
 ## Steps
@@ -17,6 +19,7 @@ This explain the step necessary to boot a `zos` node into a farm
 Last step is to write the image to the usb stick, linux user can use `dd` command to fully copy the image to the usb stick. Windows users can use a usb writer app.
 
 ## Configuring your machine to boot zos
+
 - ZOS need to have all the physical disks erased. ZOS will not do itself to avoid data loss. Instead for custom builds, you have to make sure the disks don't have a partition table. On linux this can be done `wipefs` command
   - for example a `sudo wipefs -a -f /dev/vdX`
 - Once all disks are wiped, you can now boot into ZOS by:
@@ -25,6 +28,7 @@ Last step is to write the image to the usb stick, linux user can use `dd` comman
 - Reboot
 
 ## Checking the node console
+
 ![zos-screen](img/zos_screen.png)
 
 The screen (eventually) should show similar screen like above. the `farmer` in your case should show the farmer ID you used to build the usb image, and next to it your farm name.
@@ -32,16 +36,19 @@ The screen (eventually) should show similar screen like above. the `farmer` in y
 Network setup will also be completely different. also `PUB` will show `not configured` which is normal for a new node.
 
 ## Setting up public configuration `PUB`
+
 Nodes don't need `public config` to host workloads, put a node with public config can also do
 - Work as an access point for user networks (ipv4 and ipv6)
 - Handle gateway workloads (gateway workloads allow users to expose services from their private workloads)
 
 ### Requirements
+
 - PolkaDot UI on the desired environment
 - A node booted into your farm.
 - The node ID shown from your node console (15 in the screenshot above)
 
 ### Steps
+
 Open polkadot UI and navigate to `Developer > Extrinsics`
 
 ![set public config](img/public_config.png)
