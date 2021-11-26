@@ -2,7 +2,6 @@
 -----------
 **Manual 3.0**
 - [Concepts](manual3_home_new)
-    - [How it works](grid3_howitworks)
     - [Grid Primitives](threefold:tfgrid_primitives)
     - [Proof of Utilization](proof_of_utilization_manual)
 - [**Getting Started**](tfgrid3_getstarted)
@@ -21,9 +20,6 @@
   - [Creating a Farm](@create_farm)
   - [Portal](@grid3_tfchain_init)
   - [Booting a node](@booting_node)
-- [Howto](tfgrid3_howto)
-  - [Planetary Network](@grid3_planetary_network)
-  - [Quantum Safe Storage System](@threefold:qsss_home)
 - [Advanced](advanced)
 - [Help us test](@testing_home)
 - [Threefold Services](manual3_tfservices)
@@ -34,3 +30,9 @@
 <!-- - [Definitions & Concepts](@threefold:definitions_concepts) -->
 <!-- - [Concepts](grid3_definitions) -->
 <!-- - [What you need to know](@grid3_developer_basics) -->
+<!-- - [How it works](grid3_howitworks) -->
+
+
+<!-- - [Howto](tfgrid3_howto)
+  - [Planetary Network](@grid3_planetary_network)
+  - [Quantum Safe Storage System](@threefold:qsss_home) -->

@@ -1,12 +1,15 @@
 ![](img/freedom_.png)
 
+> **THIS MANUAL IS ONLY A FIRST EARLY VERSION <BR>**
+> **ANYONE WHO WANTS TO HELP, PLEASE LET US KNOW <BR>**
+> **GRANTS ARE AVAILABLE.**
+
 # Manual TFGrid 3.0
 
-
+> [**Please start here**](tfgrid3_getstarted)
 
 ## Learn The Basics
 
-- [How it works](grid3_howitworks)
 - [ZOS Primitives](threefold:tfgrid_primitives)
 
 ## Background Info

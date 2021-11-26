@@ -1,9 +1,9 @@
 
 # Get Started
 
-## What do you need to know?
+<!-- ## What do you need to know?
 
-- [The Basic Concepts of TFGrid 3.0](tfgrid3_what_to_know)
+- [The Basic Concepts of TFGrid 3.0](tfgrid3_what_to_know) -->
 
 ## Your First Tutorial, lets install caprover
 
