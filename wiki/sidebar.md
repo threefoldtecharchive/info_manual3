@@ -13,7 +13,7 @@
     - [Terraform](@grid3_terraform_home)
     - [TypeScript Client](@grid3_javascript_home)
     - [GraphQL Client](@graphql)
-- [roadmap](!@roadmap_grid)
+- [roadmap](!@threefold:roadmap_grid)
   - [Release Notes](releasenotes3)
   - [What's New](grid3_new)
 - [Farming](create_farm)

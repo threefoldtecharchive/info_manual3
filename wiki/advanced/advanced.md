@@ -1,4 +1,4 @@
-![](img/advanced.png)
+![](img/advanced_.png)
 
 # TFGrid Advanced
 
