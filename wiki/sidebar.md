@@ -1,4 +1,4 @@
-- [**Knowledgebase**](!@threefold:threefold_home)
+- [**To Home Knowledgebase**](!@threefold:threefold_home)
 -----------
 **Manual 3.0**
 - [Concepts](manual3_home_new)

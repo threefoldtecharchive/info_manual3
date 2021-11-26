@@ -1,4 +1,5 @@
-![](img/freedom_.png)
+<!-- ![](img/freedom_.png) -->
+![](img/manual_home_.png)
 
 > **THIS MANUAL IS ONLY A FIRST EARLY VERSION <BR>**
 > **ANYONE WHO WANTS TO HELP, PLEASE LET US KNOW <BR>**
