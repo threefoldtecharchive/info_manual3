@@ -1,3 +1,5 @@
+![](img/proof_utilization_.png)
+
 # Proof of Utilization on ThreeFold Grid 3.0
 
 !!!include:threefold:utility_token_model

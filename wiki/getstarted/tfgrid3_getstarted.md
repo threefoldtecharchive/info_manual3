@@ -1,3 +1,4 @@
+![](img/endlessscalable.png)
 
 # Get Started
 

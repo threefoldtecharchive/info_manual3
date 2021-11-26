@@ -1,3 +1,5 @@
+![](img/farming_.png)
+
 ## Booting a node into a farm
 
 This explain the step necessary to boot a `zos` node into a farm

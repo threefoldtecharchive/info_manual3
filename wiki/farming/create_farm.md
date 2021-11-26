@@ -1,3 +1,4 @@
+![](img/farming_.png)
 
 # Farming
 
