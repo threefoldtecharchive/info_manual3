@@ -1,10 +1,10 @@
 - [**To Home Knowledgebase**](!@threefold:threefold_home)
 -----------
 **Manual 3.0**
+- [**Getting Started**](@tfgrid3_getstarted)
 - [Concepts](manual3_home_new)
     - [Grid Primitives](threefold:tfgrid_primitives)
     - [Proof of Utilization](proof_of_utilization_manual)
-- [**Getting Started**](tfgrid3_getstarted)
 - [TFGrid Tools](tfgrid_services)
     - [TFChain Portal](tfchain_portal_home)
     - [TFGrid Explorer](explorer_home)

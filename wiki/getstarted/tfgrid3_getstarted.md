@@ -8,12 +8,7 @@
 
 ## Your First Tutorial, lets install caprover
 
-- [Install Polkadot Widget](tfchain_portal_polkadot_widget)
-- [Create your account](tfchain_portal_polkadot_create_account)
-- [Activate your account on TFChain](tfchain_portal_ui_activation)
-- [Manage your Tokens on TFChain](tfchain_portal_ui_tokens): transfer TFT from Stellar to TFChain
-- [Find node to deploy an application on](explorer_find_capacity)
-- [Deploy your first cluster (caprover) on the TFGrid](weblets_caprover)
+!!!include:getstarted_toc
 
 About caprover
 
