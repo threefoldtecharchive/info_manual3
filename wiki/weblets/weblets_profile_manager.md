@@ -2,7 +2,7 @@
 
 ![](img/weblets_profile_mgr.png)
 
-- see https://play.grid.tf/#/
+- go to https://play.grid.tf
 - Click on Profile manager
 
 Process

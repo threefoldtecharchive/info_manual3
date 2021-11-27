@@ -13,11 +13,17 @@ It has following benefits
 
 We have integrated TFGrid support inside caprover, from caprover you can now add/remove 3Nodes to extend the size of your cluster.
 
+## How does it work
+
+We have developed a set of weblets which allow you to deploy workloads in a very easy way.
+
+See https://play.grid.tf
+
 ## requirements
 
-- you need an account on tfchain, and there need to be TFT on the account
-- [make sure your profile has been filled in.](weblets_profile_manager)\
-- [First unlock your profile on profile manager](profile_manager_unlock)
+- you need an account on tfchain, and there need to be TFT on the account (see getting started)
+- [Make sure your profile has been filled in in the weblets playground.](weblets_profile_manager)
+- [Unlock your profile on profile manager, if already filled in before.](profile_manager_unlock)
 
 ## Use the weblet
 

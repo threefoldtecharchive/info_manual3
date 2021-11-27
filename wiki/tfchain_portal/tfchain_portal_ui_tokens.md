@@ -13,11 +13,19 @@ A deposit of tokens from the Stellar network onto TF-Chain needs to happen from 
 - specifying in the memo field the twinID that was generated with the Twin creation e.g. twin_110 (dont forget twin_)
 - Note there is a transaction cost of 1 TFT.
 
+Go to portal
+
+!!!include:tfchain_portal_list
+
 ![](img/grid3_portal_deposit_tft.png ':size=400')
 
 ### Withdraw 
 
 Sending tokens to the Stellar network can happen from this portal, after indicating the destination address and the amount to be transferred. 
+
+Go to portal
+
+!!!include:tfchain_portal_list
 
 ![](img/grid3_portal_withdraw_tft.png ':size=400')
 

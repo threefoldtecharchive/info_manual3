@@ -17,6 +17,8 @@ In the next screen, you can choose a network. Select `Allow use on any chain`. G
 
 Once the account is generated, you can see it in the portal. 
 
+!!!include:tfchain_portal_list
+
 ![](img/grid3_portal_overview.png ':size=700')
 
 Click on `MANAGE` to continue. 
