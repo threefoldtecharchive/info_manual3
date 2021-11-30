@@ -6,7 +6,7 @@ Open https://raw.githubusercontent.com/threefoldtech/tfgrid-api-client/master/ty
 
 ## Step 2: browse to Polkadot UI
 
-Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.threefold.io#/settings/developer in your browser.
+Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.grid.tf#/settings/developer in your browser.
 
 Paste the types in in the box and hit `save`
 
@@ -14,7 +14,7 @@ Paste the types in in the box and hit `save`
 
 ## Step 3: Create an account
 
-- Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.threefold.io#/accounts in your browser, 
+- Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.grid.tf#/accounts in your browser, 
 
 - Click `Add account`, take note of the seed. Click on the `Advanced creation options` arrow, and select keypair crypto type: `Edwards(ed25519, alternative)`
 
@@ -36,7 +36,7 @@ Once completed, you can sign any extrinsic to create a twin / farm with your ext
 
 On the accounts page, scroll down to your account and click on your name that you gave it. On the right, copy the address under your name.
 
-Browse to https://tfchain.test.threefold.io/activation/ and input your account address.
+Browse to https://activation.test.grid.tf/activation/ and input your account address.
 
 ![account_creation](img/activation_service.png)
 
@@ -46,7 +46,7 @@ Browse to https://tfchain.test.threefold.io/activation/ and input your account a
 
 ## Step 5: Create a Twin
 
-Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.threefold.io#/extrinsics in your browser 
+Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.grid.tf#/extrinsics in your browser 
 
 and select your account from the list. Next, select `tfgridModule` -> `createTwin(ip)` from the list.
 
@@ -56,11 +56,11 @@ Fill in your [Yggdrasil](https://github.com/yggdrasil-network/yggdrasil-go) IPV6
 
 ## Step 6: Create a Farm
 
-Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.threefold.io#/extrinsics in your browser
+Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.grid.tf#/extrinsics in your browser
 
 and select your account from the list. Next, select `tfgridModule` -> `createFarm(..)` from the list.
 
-Fill in a name, select a certification type and leave `country_id` and `city_id` to 0. You can, if you want, set the country/city id values to a value from the https://tfchain.test.threefold.io/graphql/graphql explorer. 
+Fill in a name, select a certification type and leave `country_id` and `city_id` to 0. You can, if you want, set the country/city id values to a value from the [GraphQL Explorer](https://graphql.test.grid.tf/graphql). 
 
 To find a country or city you can query all the available countries and cities in graphql.
 
@@ -68,13 +68,11 @@ Optionally you can also provide public ips on your farm.
 
 ![create_farm](img/create_farm_1.jpg)
 
-
-
 ## Step 8: query twin ID and Farm ID
 
 ### Query twin
 
-Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.threefold.io#/chainstate
+Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.grid.tf#/chainstate
 
 and select `tfgridModule` -> scroll all the way down to `twinIdByAccountID(accountID):u32` and select your account ID from the list. Hit the PLUS symbol and you should see your twin ID.
 
@@ -82,7 +80,7 @@ and select `tfgridModule` -> scroll all the way down to `twinIdByAccountID(accou
 
 ### Query farm:
 
-Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.threefold.io#/chainstate
+Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.grid.tf#/chainstate
 
 and select `tfgridModule` -> scroll to `farmIdByName(bytes):u32` and search your farm ID based on your farm name. Hit the PLUS symbol and you should see your farm ID.
 
@@ -92,7 +90,7 @@ and select `tfgridModule` -> scroll to `farmIdByName(bytes):u32` and search your
 
 You can add public IP's to your farm as following:
 
-Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.threefold.io#/chainstate
+Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.grid.tf#/chainstate
 
 and select your account from the list. Next, select `tfgridModule` -> `addFarmIp(..)` from the list.
 
@@ -106,7 +104,7 @@ IP should be in CIDR format.
 
 You can remove public IP's from your farm as following:
 
-Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.threefold.io#/chainstate
+Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.grid.tf#/chainstate
 
 and select your account from the list. Next, select `tfgridModule` -> `removeFarmIp(..)` from the list.
 
@@ -121,7 +119,7 @@ IP should be in CIDR format.
 The reward process for farming does the payout on the Stellar network. 
 That is why a farmer needs to provide a Stellar wallet address, so the minting process can pay out the correct amount of TFT onto that Stellar wallet address. 
 
-Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.threefold.io#/extrinsics in your browser
+Open https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.grid.tf#/extrinsics in your browser
 
 and select your account from the list. Next, select `tfgridModule` -> `addStellarPayoutV2Address(..)` from the list.
 Fill in the farmId you obtained in step 7. 
