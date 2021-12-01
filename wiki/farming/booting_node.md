@@ -6,7 +6,9 @@ This explain the step necessary to boot a `zos` node into a farm
 
 ### Requirements
 
-- Farm created on the chain. Please make a node of the `network` [devnet](create_farm_devnet) or [testnet](create_farm_testnet) and  `farm-id`
+Farm created on TF-Chain on the network of choice using the portal. 
+- [Portal instructions](tfchain_portal_home)
+- [Create farm](tfchain_portal_ui_farming) 
 
 ## Steps
 - Visit [bootstrap](https://dev.bootstrap.grid.tf/generate)
@@ -14,9 +16,9 @@ This explain the step necessary to boot a `zos` node into a farm
 - Under `Which release do you want?` choose the right network
   - Development for `devnet`
   - Testing for `testnet`
-- Last step is generate the proper booting image. For simplicity of this walk through we go with `EFI USB` choice
+- Last step is generate the proper booting image. For simplicity of this walk through we go with `EFI USB` choice.
 
-> The farm id must exist on the network of choice
+> The farm ID must exist on the network of choice.
 
 Last step is to write the image to the usb stick, linux user can use `dd` command to fully copy the image to the usb stick. Windows users can use a usb writer app.
 

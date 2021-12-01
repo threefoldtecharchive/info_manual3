@@ -2,7 +2,7 @@
 
 A list of functions available on TFGrid 3.0 are available in the extrinsics section for developers. 
 
-Once you have created an account, you are able to execute these functions. Only the entities (Farms, nodes, ...) under your control can be updated.
+Once you have created an account, you are able to execute these functions in the Parity Substrate interface for TF-Chain. Only the entities (farms, nodes, ...) under your control can be updated.
 
 Important for users now :
 
@@ -19,7 +19,6 @@ Important for users now :
 | `updateFarm(id, name, pricingPolicyId)` | Update farm variables |
 | `updateTwin(ip)` | Update the IP address of the Twin on Planetary Network |
 | `deleteTwin(TwinId)` | Delete a Twin with the specified TwinID |
-
 
 Other functions (not to be used manually, or for later usage): 
 

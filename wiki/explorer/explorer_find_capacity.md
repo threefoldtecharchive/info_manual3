@@ -2,7 +2,7 @@
 
 ![](img/explorer_basics_.png)
 
-Before you can deploy on the TFGrid you need to find a node which fits your requirements.
+Before you can deploy on the TFGrid you need to find a node which fits your requirements, in terms of location, available resources, ... .
 
 ## Use the explorer you need for your chosen tfgrid net.
 

@@ -6,9 +6,9 @@
 
 The architecture can be described as follows:
 
-- Components talk to each other on the 'Planetary Network' using Yggdrasil
-- Nodes and users have to create a “twin” object on TFCHain which is associated with an Yggdrasil IP address. Then, to communicate with any twin, the IP can be looked up using the twin ID, over the 'Reliable Message Bus' (RMB).
-- When starting for the first time, the node needs to self-register on the TFCHain, which is a decentralized database, built on top of Substrate. The registration need to have information about:
+- Components talk to each other on the 'Planetary Network' using Yggdrasil.
+- Nodes and users have to create a “twin” object on TF-Chain which is associated with an Yggdrasil IP address. Then, to communicate with any other twin, the IP can be looked up using the twin ID, over the 'Reliable Message Bus' (RMB).
+- When starting for the first time, the node needs to self-register on the TF-Chain, which is a decentralized database, built on top of Substrate. The registration need to have information about:
   - Which farm it belongs to;
   - What capacity it has;
   - Twin ID for that node (which is associated with its Yggdrasil IP);

@@ -2,7 +2,7 @@
 
 ![](img/explorer_basics_.png)
 
-This UI allows you to find nodes in the world which fullfil your requirements
+This UI allows you to find nodes in the world which fulfil your requirements
 
 !!!include:explorer_list
 
