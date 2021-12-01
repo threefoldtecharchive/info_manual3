@@ -3,19 +3,19 @@
 ![](img/weblets_profile_mgr.png)
 
 - go to https://play.grid.tf
-- Click on Profile manager
+- Click on `Profile Manager`
 
-Process
+__Process__ : 
 
 - fill in the secret you want to use to remember your profile information (do not forget please)
 
 ![](img/profile_manager_2.png)
 
-- profile name: any chosen name, makes it easy for you to remember between sessions.
-- Choose which network to use
-- Mnemonics, is your secret key of your polkadot account, [see here how to create](tfchain_portal_polkadot_create_account)
-- You passwd as is used to store info on the TFChain
-- Your public ssh key, used to login into VM's, Kubernetes, ... 
+- `Profile Name` : any chosen name, makes it easy for you to remember between sessions.
+- `Network Environment` : Choose which network to use
+- `Mnemonics` are the secret words of your Polkadot account, [see here how to create](tfchain_portal_polkadot_create_account)
+- `TF Configuration Secret` is the password used to store info on the TFChain
+- Your `Public SSH Key` is used to login into VM's, Kubernetes, ... 
 
 
 
