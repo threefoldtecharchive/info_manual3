@@ -1,6 +1,6 @@
 # Canceling contracts
 
-Right now there is no easy, friendly way to cancel all of your contracts
+Right now there is no easy, friendly way to cancel all of your contracts (it's planned to have an easier way)
 
 from the graphql service e.g https://graphql.dev.grid.tf/graphql execute the following query
 
@@ -24,3 +24,6 @@ then from polkadot UI
 go to extrinsics, choose the smartContract module and cancelContract extrinsic and use the IDs from graphql to execute the cancelation 
 
 > Note for the full list of threefold services for the urls of portal and graphql updated to your active network go to [threefold services](manual3_tfservices)
+
+
+can also cancel them using [code](https://github.com/threefoldtech/grid3_client_ts/blob/development/scripts/delete_all_contracts.ts) 
