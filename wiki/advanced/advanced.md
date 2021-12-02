@@ -18,3 +18,4 @@ Advanced topics to do with TFGrid 3.0.
 - [TFChain Extrinsics = blockchain functions](tfchain_extrinsics)
 - [create_farm_devnet](create_farm_devnet)
 - [create_farm_testnet](create_farm_testnet)
+- [cancel contracts](cancel_contracts)
