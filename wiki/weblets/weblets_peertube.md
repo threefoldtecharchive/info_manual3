@@ -24,4 +24,6 @@ After that is done you can see a list of all of your deployed instances
 Clicking on visit redirects you to the homepage of your peertube
 ![](img/weblet_peertube_instance.png)
 
+> Please note it may take sometime to be ready
+
 > Note the deployment can be bit slow because it's spreaded over three images. the upcoming version will have them all in one image.
