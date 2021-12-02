@@ -17,6 +17,7 @@ TODO: fixme `wss://` for tfchain
 - [TFChain-Stellar Bridge](https://bridge.dev.grid.tf)
 - [Twin Resolver](https://twin.dev.grid.tf)
 - [TFGrid Proxy ](https://gridproxy.dev.grid.tf)
+- [Grid Playground](https://play.grid.tf)
 
 
 ## Testnet
@@ -30,6 +31,7 @@ TODO: fixme `wss://`for tfchain
 - [TFChain-Stellar Bridge](https://bridge.test.grid.tf)
 - [Twin Resolver](https://twin.test.grid.tf)
 - [TFGrid Proxy ](https://gridproxy.test.grid.tf)
+- [Grid Playground](https://play.grid.tf)
 
 ## Mainnet
 
@@ -45,3 +47,4 @@ TODO: fixme wss:// for tfchain
 - [TFChain-Stellar Bridge](https://bridge.grid.tf)
 - [Twin Resolver](https://twin.grid.tf)
 - [TFGrid Proxy ](https://gridproxy.grid.tf)
+- [Grid Playground](https://play.grid.tf)
