@@ -14,9 +14,6 @@
     - [Terraform](@grid3_terraform_home)
     - [TypeScript Client](@grid3_javascript_home)
     - [GraphQL Client](@graphql)
-- [roadmap](!@threefold:roadmap_grid)
-  - [Release Notes](releasenotes3)
-  - [What's New](grid3_new)
 - [Farming](create_farm)
   - [Creating a Farm](@create_farm)
   - [Portal](@grid3_tfchain_init)
@@ -24,6 +21,9 @@
 - [Advanced](advanced)
 - [Help us test](@testing_home)
 - [Threefold Services](manual3_tfservices)
+- [Roadmap](!@threefold:roadmap_grid)
+  - [Release Notes](releasenotes3)
+  - [What's New](grid3_new)
 ------------
 - [Legal](!@legal:legal_home)
 
