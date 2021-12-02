@@ -27,3 +27,4 @@ Playground is available on [https://play.grid.tf](https://play.grid.tf)
 - don't move between pages while deploying (you will lose the feedback)
 - there's no easy way to delete everything. check [cancel_contracts](cancel_contracts) for more info
 - sometimes some nodes are listed as having sufficient capacity while they're not, that's because of the usage caching in the grid proxy, we will be reducing the caching time
+- it may take sometime to deploy a solution like peertube, so you should wait a little bit until it's fully running
