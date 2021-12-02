@@ -2,6 +2,7 @@
 -----------
 **Manual 3.0**
 - [**Getting Started**](@tfgrid3_getstarted)
+- [How it works](grid3_howitworks)
 - [Concepts](manual3_home_new)
     - [Grid Primitives](threefold:tfgrid_primitives)
     - [Proof of Utilization](proof_of_utilization_manual)

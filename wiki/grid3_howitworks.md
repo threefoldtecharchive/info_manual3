@@ -21,7 +21,6 @@ TFChain is a blockchain orchestrating the interactions on the grid
 And more.
 
 
-
 #### The farmers
 People (we call them farmers) provide internet capacity using one or mode 3Nodes. these nodes are registered on `TFChain` in what we call a "farm". 
 
@@ -49,5 +48,8 @@ The provisioning process is done mainly using two systems.
 - [Terraform](grid3_terraform_home) 
 - [Typescript Client](grid3_javascript_home)
 
-More will be coming in the future e.g Ansible support.
+> More will be coming in the future e.g Ansible support.
 
+
+
+So what happens is we build the deployment information (what workloads we want to deploy) and create a contract(s) on the blockchain between us and a 3Node that will fulfil the provisioning of the resources needed in the contract for us, and automatically the node reports to the blockchain periodically to deduct the money from the user account based on the consumption.
