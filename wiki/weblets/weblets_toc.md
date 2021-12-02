@@ -6,3 +6,4 @@
 - [Virtual Machine](weblets_vm)
 - [Funkwhale](weblets_funkwhale)
 - [Peertube](weblets_peertube)
+- [Deployments List](weblets_deployments_list)

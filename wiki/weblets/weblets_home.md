@@ -13,6 +13,8 @@ __Advantages__ :
 ## Some cool weblets to start with
 
 - [Caprover](weblets_caprover)
+- [Virtual Machine](weblets_vm)
+- [Funkwhale](weblets_funkwhale)
+- [Peertube](weblets_peertube)
 
-> TODO: the other weblets
 

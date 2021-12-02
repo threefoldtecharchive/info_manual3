@@ -18,6 +18,7 @@
   - [Creating a Farm](@create_farm)
   - [Portal](@grid3_tfchain_init)
   - [Booting a node](@booting_node)
+- [Weblets](weblets_toc)
 - [Advanced](advanced)
 - [Help us test](@testing_home)
 - [Threefold Services](manual3_tfservices)
