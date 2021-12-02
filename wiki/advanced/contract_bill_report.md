@@ -48,3 +48,5 @@ query MyQuery {
   }
 }
 ``` 
+
+> Note for the full list of threefold services for the urls of portal and graphql updated to your active network go to [threefold services](manual3_tfservices)
