@@ -30,3 +30,21 @@ query MyQuery {
 }
 
 ```
+
+
+
+## consumption
+
+
+```graphql
+query MyQuery {
+  consumptions(where: {contractId_eq: 10}) {
+    contractId
+    cru
+    sru
+    mru
+    hru
+    nru
+  }
+}
+``` 
