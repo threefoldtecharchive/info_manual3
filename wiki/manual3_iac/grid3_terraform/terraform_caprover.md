@@ -100,23 +100,15 @@ resource "grid_deployment" "d0" {
       disk_name   = "data1"
       mount_point = "/captain"
     }
-    env_vars {
-      key = "PUBLIC_KEY"
-      value = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC9MI7fh4xEOOEKL7PvLvXmSeRWesToj6E26bbDASvlZnyzlSKFLuYRpnVjkr8JcuWKZP6RQn8+2aRs6Owyx7Tx+9kmEh7WI5fol0JNDn1D0gjp4XtGnqnON7d0d5oFI+EjQQwgCZwvg0PnV/2DYoH4GJ6KPCclPz4a6eXrblCLA2CHTzghDgyj2x5B4vB3rtoI/GAYYNqxB7REngOG6hct8vdtSndeY1sxuRoBnophf7MPHklRQ6EG2GxQVzAOsBgGHWSJPsXQkxbs8am0C9uEDL+BJuSyFbc/fSRKptU1UmS18kdEjRgGNoQD7D+Maxh1EbmudYqKW92TVgdxXWTQv1b1+3dG5+9g+hIWkbKZCBcfMe4nA5H7qerLvoFWLl6dKhayt1xx5mv8XhXCpEC22/XHxhRBHBaWwSSI+QPOCvs4cdrn4sQU+EXsy7+T7FIXPeWiC2jhFd6j8WIHAv6/rRPsiwV1dobzZOrCxTOnrqPB+756t7ANxuktsVlAZaM= sameh@sameh-inspiron-3576"
-    }
+    env_vars = {
+      "PUBLIC_KEY" = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC9MI7fh4xEOOEKL7PvLvXmSeRWesToj6E26bbDASvlZnyzlSKFLuYRpnVjkr8JcuWKZP6RQn8+2aRs6Owyx7Tx+9kmEh7WI5fol0JNDn1D0gjp4XtGnqnON7d0d5oFI+EjQQwgCZwvg0PnV/2DYoH4GJ6KPCclPz4a6eXrblCLA2CHTzghDgyj2x5B4vB3rtoI/GAYYNqxB7REngOG6hct8vdtSndeY1sxuRoBnophf7MPHklRQ6EG2GxQVzAOsBgGHWSJPsXQkxbs8am0C9uEDL+BJuSyFbc/fSRKptU1UmS18kdEjRgGNoQD7D+Maxh1EbmudYqKW92TVgdxXWTQv1b1+3dG5+9g+hIWkbKZCBcfMe4nA5H7qerLvoFWLl6dKhayt1xx5mv8XhXCpEC22/XHxhRBHBaWwSSI+QPOCvs4cdrn4sQU+EXsy7+T7FIXPeWiC2jhFd6j8WIHAv6/rRPsiwV1dobzZOrCxTOnrqPB+756t7ANxuktsVlAZaM= sameh@sameh-inspiron-3576"
     # SWM_NODE_MODE env var is required, should be "leader" or "worker"
     # leader: will run sshd, containerd, dockerd as zinit services plus caprover service in leader mode which start caprover, lets encrypt, nginx containers.
     # worker: will run sshd, containerd, dockerd as zinit services plus caprover service in orker mode which only join the swarm cluster. check the wroker terrafrom file example.
-    env_vars {
-      key = "SWM_NODE_MODE"
-      value = "leader"
-    }
+      "SWM_NODE_MODE" = "leader"
     # CAPROVER_ROOT_DOMAIN is optional env var, by providing it you can access the captain dashboard after vm initilization by visiting http://captain.your-root-domain
     # otherwise you will have to add the root domain manually from the captain dashboard by visiting http://{publicip}:3000 to access the dashboard
-    env_vars {
-      key = "CAPROVER_ROOT_DOMAIN"
-      value = "roverapps.grid.tf"
-    }
+      "CAPROVER_ROOT_DOMAIN" = "roverapps.grid.tf"
   }
 }
 
@@ -397,29 +389,20 @@ resource "grid_deployment" "d2" {
       disk_name   = "data2"
       mount_point = "/var/lib/docker"
     }
-    env_vars {
-      key = "PUBLIC_KEY"
-      value = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC9MI7fh4xEOOEKL7PvLvXmSeRWesToj6E26bbDASvlZnyzlSKFLuYRpnVjkr8JcuWKZP6RQn8+2aRs6Owyx7Tx+9kmEh7WI5fol0JNDn1D0gjp4XtGnqnON7d0d5oFI+EjQQwgCZwvg0PnV/2DYoH4GJ6KPCclPz4a6eXrblCLA2CHTzghDgyj2x5B4vB3rtoI/GAYYNqxB7REngOG6hct8vdtSndeY1sxuRoBnophf7MPHklRQ6EG2GxQVzAOsBgGHWSJPsXQkxbs8am0C9uEDL+BJuSyFbc/fSRKptU1UmS18kdEjRgGNoQD7D+Maxh1EbmudYqKW92TVgdxXWTQv1b1+3dG5+9g+hIWkbKZCBcfMe4nA5H7qerLvoFWLl6dKhayt1xx5mv8XhXCpEC22/XHxhRBHBaWwSSI+QPOCvs4cdrn4sQU+EXsy7+T7FIXPeWiC2jhFd6j8WIHAv6/rRPsiwV1dobzZOrCxTOnrqPB+756t7ANxuktsVlAZaM= sameh@sameh-inspiron-3576"
+    env_vars = {
+      "PUBLIC_KEY" = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC9MI7fh4xEOOEKL7PvLvXmSeRWesToj6E26bbDASvlZnyzlSKFLuYRpnVjkr8JcuWKZP6RQn8+2aRs6Owyx7Tx+9kmEh7WI5fol0JNDn1D0gjp4XtGnqnON7d0d5oFI+EjQQwgCZwvg0PnV/2DYoH4GJ6KPCclPz4a6eXrblCLA2CHTzghDgyj2x5B4vB3rtoI/GAYYNqxB7REngOG6hct8vdtSndeY1sxuRoBnophf7MPHklRQ6EG2GxQVzAOsBgGHWSJPsXQkxbs8am0C9uEDL+BJuSyFbc/fSRKptU1UmS18kdEjRgGNoQD7D+Maxh1EbmudYqKW92TVgdxXWTQv1b1+3dG5+9g+hIWkbKZCBcfMe4nA5H7qerLvoFWLl6dKhayt1xx5mv8XhXCpEC22/XHxhRBHBaWwSSI+QPOCvs4cdrn4sQU+EXsy7+T7FIXPeWiC2jhFd6j8WIHAv6/rRPsiwV1dobzZOrCxTOnrqPB+756t7ANxuktsVlAZaM= sameh@sameh-inspiron-3576"
     }
     # SWM_NODE_MODE env var is required, should be "leader" or "worker"
     # leader: check the wroker terrafrom file example.
     # worker: will run sshd, containerd, dockerd as zinit services plus caprover service in orker mode which only join the swarm cluster. 
-    env_vars {
-      key = "SWM_NODE_MODE"
-      value = "worker"
-    }
+
+      "SWM_NODE_MODE" = "worker"
     # from the leader node (the one running caprover) run `docker swarm join-token worker`
     # you must add the generated token to SWMTKN env var and the leader public ip to LEADER_PUBLIC_IP env var
-    env_vars {
-      key = "SWMTKN"
-      # make sure to update this
-      value = "SWMTKN-1-522cdsyhknmavpdok4wi86r1nihsnipioc9hzfw9dnsvaj5bed-8clrf4f2002f9wziabyxzz32d"
-    }
-    env_vars {
-      key = "LEADER_PUBLIC_IP"
-      # make sure to update this
-      value = "185.206.122.38"
-    }
+
+      "SWMTKN"="SWMTKN-1-522cdsyhknmavpdok4wi86r1nihsnipioc9hzfw9dnsvaj5bed-8clrf4f2002f9wziabyxzz32d"
+    "LEADER_PUBLIC_IP" = "185.206.122.38"
+
   }
 }
 
