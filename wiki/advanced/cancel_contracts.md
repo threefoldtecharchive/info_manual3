@@ -26,4 +26,7 @@ go to extrinsics, choose the smartContract module and cancelContract extrinsic a
 > Note for the full list of threefold services for the urls of portal and graphql updated to your active network go to [threefold services](manual3_tfservices)
 
 
+## cancel using code
 can also cancel them using [code](https://github.com/threefoldtech/grid3_client_ts/blob/development/scripts/delete_all_contracts.ts) 
+
+after cloning `grid3_client_ts` and `yarn install` execute  `yarn run ts-node --project ./tsconfig-node.json scripts/delete_all_contracts.ts` 
