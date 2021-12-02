@@ -18,5 +18,5 @@ __Process__ :
 After that is done you can see a list of all of your deployed instances
 ![](img/funkwhale2.png)
 
-Clicking on visit redirects you to the homepage of your funkwhale instance.
+Clicking on visit redirects you to the homepage of your funkwhale
 ![](img/funkwhale3.png)
