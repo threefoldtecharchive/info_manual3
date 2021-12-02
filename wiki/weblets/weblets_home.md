@@ -18,3 +18,11 @@ __Advantages__ :
 - [Peertube](weblets_peertube)
 
 
+## Playground
+
+Playground is available on [https://play.grid.tf](https://play.grid.tf)
+
+### limitations
+- can only deploy one thing at a time
+- don't move between pages while deploying (you will lose the feedback)
+- there's no easy way to delete everything. check [cancel_contracts](cancel_contracts) for more info
