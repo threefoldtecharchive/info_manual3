@@ -20,3 +20,4 @@ Advanced topics to do with TFGrid 3.0.
 - [create_farm_testnet](create_farm_testnet)
 - [cancel contracts](cancel_contracts)
 - [contract bills reports](contract_bill_report)
+- [listing free public ips](list_public_ips)
