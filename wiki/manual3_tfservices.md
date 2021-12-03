@@ -18,7 +18,7 @@ TODO: fixme `wss://` for tfchain
 - [Twin Resolver](https://twin.dev.grid.tf)
 - [TFGrid Proxy ](https://gridproxy.dev.grid.tf)
 - [Grid Playground](https://play.grid.tf)
-
+- [PolkaUI](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.dev.grid.tf%2Fws)
 
 ## Testnet
 
@@ -32,6 +32,7 @@ TODO: fixme `wss://`for tfchain
 - [Twin Resolver](https://twin.test.grid.tf)
 - [TFGrid Proxy ](https://gridproxy.test.grid.tf)
 - [Grid Playground](https://play.grid.tf)
+- [PolkaUI](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.grid.tf%2Fws)
 
 ## Mainnet
 
