@@ -7,7 +7,7 @@
 
 ## Secure 
 
-The profile manager creates a profile, which is only available in your browser in an encrypted way. There is no risk of hacking, just be careful not to share your browser setting secret. 
+The profile manager creates a profile, which is only available locally, in your browser, and in an encrypted way. There is no risk of hacking, just be careful not to share your browser setting secret. 
 
 ## Process
 

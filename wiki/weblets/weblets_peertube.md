@@ -1,14 +1,15 @@
 # Peertube
 
-[peertube](https://joinpeertube.org/) aspires to be a decentralized and free/libre alternative to video broadcasting services.
+[Peertube](https://joinpeertube.org/) aspires to be a decentralized and free/libre alternative to video broadcasting services.
+
+__Steps__ 
+
+- Go to https://play.grid.tf
+- Make sure you have a [profile](weblets_profile_manager) activated
+- Click on Peertube
 
 
-- go to https://play.grid.tf
-- make sure you have a [profile](weblets_profile_manager) activated
-- click on Peertube
-
-
-__Process__ : 
+__Process__ 
 
 ![](img/weblet_peertube1.png)
 
@@ -20,10 +21,9 @@ __Process__ :
 After that is done you can see a list of all of your deployed instances
 ![](img/weblet_peertube2.png)
 
-
 Clicking on visit redirects you to the homepage of your peertube
 ![](img/weblet_peertube_instance.png)
 
 > Please note it may take sometime to be ready
 
-> Note the deployment can be bit slow because it's spreaded over three images. the upcoming version will have them all in one image.
+> Note the deployment can be a bit slow because it's spread over three images. The upcoming version will have them all in one image.
