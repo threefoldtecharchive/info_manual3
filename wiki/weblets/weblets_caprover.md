@@ -9,23 +9,23 @@ It has following benefits :
 - easy to deploy apps (in seconds)
 - easy to create new apps
 - super good monitoring
-- can be extended over the TFGrid.
+- can be extended over the TFGrid
 
 We have integrated TFGrid support inside CapRover, from within CapRover you can now add/remove 3Nodes to extend the size of your cluster.
 
-## How does it work
+## How does it work ?
 
 We have developed a set of weblets which allow you to deploy workloads in a very easy way.
 
 See https://play.grid.tf
 
-## Requirements
+### Requirements
 
 - you need an account on TF-Chain, and there needs to be TFT on the account (see getting started)
 - [Make sure your profile has been filled in in the weblets playground](weblets_profile_manager)
 - [Unlock your profile on profile manager, if already filled in before](profile_manager_unlock)
 
-## Use the weblet
+### Use the weblet
 
 ![](img/weblet_form_caprover.png)
 
@@ -37,7 +37,7 @@ See https://play.grid.tf
 
 Deployment will take couple of minutes.
 
-## The Domain Name
+### The Domain Name
 
 - e.g. I choose ```apps.openly.life``` which is a domain name who will point to the ip address of the CapRover (which we only know after install).
 
@@ -46,7 +46,7 @@ Deployment will take couple of minutes.
 
 > Note how the *.apps.openly.life points to the public IPv4 address as has been returned from the deployment.
 
-## How to know what the IP address is?
+### How to know what the IP address is?
 
 Go back to your CapRover weblet and go to the deployment list. Click on `Show Details`.
 
@@ -102,7 +102,7 @@ Click on details if you want to see more details
 }
 ```
 
-## How to access the admin interface
+### How to access the admin interface ?
 
 - make sure your public IP address (in my case ```185.206.122.136```) is filled in in the domain name record.
 
@@ -116,6 +116,6 @@ You should now see
 
 ![](img/captain_login+weblet_caprover_.png)
 
-## How to work with caprover
+### How to work with CapRover
 
 > [see our caprover admin small tutorial](weblets_caprover_admin)
