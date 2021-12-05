@@ -10,7 +10,7 @@ Here we aggregate a list of all of the services running Threefold Grid 3 infrast
 TODO: fixme `wss://` for tfchain
 
 - [TFGrid Portal ](https://portal.dev.grid.tf)
-- [TFChain](https://tfchain.dev.grid.tf) `wss://tfchain.dev.grid.tf`
+- [TFChain](https://tfchain.dev.grid.tf) `wss://tfchain.dev.grid.tf/ws`
 - [GraphQL](https://graphql.dev.grid.tf/graphql)
 - [Capacity Explorer](https://explorer.dev.grid.tf)
 - [Activation Service](https://activation.dev.grid.tf/activation/)
@@ -24,7 +24,7 @@ TODO: fixme `wss://` for tfchain
 
 TODO: fixme `wss://`for tfchain
 - [TFGrid Portal ](https://portal.test.grid.tf)
-- [TFChain](https://tfchain.test.grid.tf) `wss://tfchain.test.grid.tf`
+- [TFChain](https://tfchain.test.grid.tf) `wss://tfchain.test.grid.tf/ws`
 - [GraphQL](https://graphql.test.grid.tf/graphql)
 - [Capacity Explorer](https://explorer.test.grid.tf)
 - [Activation Service](https://activation.test.grid.tf/activation/)
@@ -41,7 +41,7 @@ TODO: fixme `wss://`for tfchain
 
 TODO: fixme wss:// for tfchain
 - [TFGrid Portal ](https://portal.grid.tf)
-- [TFChain](https://tfchain.grid.tf) `wss://tfchain.grid.tf`
+- [TFChain](https://tfchain.grid.tf) `wss://tfchain.grid.tf/ws`
 - [GraphQL](https://graphql.grid.tf/graphql)
 - [Capacity Explorer](https://explorer.grid.tf)
 - [Activation Service](https://activation.grid.tf/activation/)
