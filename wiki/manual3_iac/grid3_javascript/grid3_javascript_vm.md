@@ -12,7 +12,7 @@
 
 #### building network
 
-```javascript
+```typescript
 // create network Object
 const n = new NetworkModel();
 n.name = "montest";
@@ -23,7 +23,7 @@ Here we prepare the network model that is going to be used by specifying a name 
 
 ### building the disk model
 
-```javascript
+```typescript
 // create disk Object
 const disk = new DiskModel();
 disk.name = "newDisk";
@@ -34,7 +34,7 @@ here we create the disk model specifying its name, size in GB and where it will 
 
 ### building the VM
 
-```javascript
+```typescript
 // create vm node Object
 const vm = new MachineModel();
 vm.name = "testvm";
@@ -71,7 +71,7 @@ We need to specify its
 ### building VMs collection
 
 
-```javascript
+```typescript
 // create VMs Object
 const vms = new MachinesModel();
 vms.name = "monVMS";
@@ -83,30 +83,29 @@ vms.description = "test deploying VMs via ts grid3 client";
 Here it's quite simple we can add one or more VM to the `machines` property to have them deployed as part of our project
 
 
-### deploy
+### deployment
 
-```javascript
+```typescript
 // deploy vms
 const res = await grid3.machines.deploy(vms);
-console.log(JSON.stringify(res));
+log(res);
 ```
 
-### get deployment information
+### getting deployment information
 
 can do so based on the name you gave to the `vms` collection
-```javascript
+```typescript
 // get the deployment
 const l = await grid3.machines.getObj(vms.name);
-console.log(JSON.stringify(l));
+log(l);
 ```
 
 
 ### deleting a deployment
 
-```javascript
-// // delete
-
+```typescript
+// delete
 const d = await grid3.machines.delete({ name: vms.name });
-console.log(d);
+log(d);
 ```
 In the underlying layer we cancel the contracts that were created on the chain and as a result all of the workloads tied to his project will get deleted.

@@ -1,6 +1,6 @@
 This section covers developing projects on top of Threefold Grid using Javascript language.
 
-Javascript has a huge ecosystem, and first class citzen when it comes to blockchain technologies like substrateand that was one of the reasons for it to become one the very first supported languages on the grid
+Javascript has a huge ecosystem, and first class citzen when it comes to blockchain technologies like substrate and that was one of the reasons for it to become one the very first supported languages on the grid
 
 Please make sure to check the [basics](grid3_developer_basics) before continuing
 

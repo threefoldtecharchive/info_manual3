@@ -15,18 +15,17 @@ As part of the tfchain, we support a keyvalue store module that can be used for 
 `db.set` is used to set key to any value `serialized as string`
 
 ```typescript
-    const key = "hamada";
-    await db.set({ key, value: JSON.stringify(exampleObj) });
+await db.set({ key, value: JSON.stringify(exampleObj) });
 ```
 
 
-#### get key
+#### getting key
 
 `db.get` is used to get a specific key
 
 ```typescript
-    const data = await db.get({ key });
-    console.log(JSON.parse(data.toString()));
+const data = await db.get({ key });
+log(JSON.parse(data));
 ```
 
 
@@ -35,6 +34,15 @@ As part of the tfchain, we support a keyvalue store module that can be used for 
 `db.list` is used to list all the keys.
 
 ```typescript
-    const keys = await db.list();
-    console.log(keys);
+const keys = await db.list();
+log(keys);
 ```
+
+#### deleting key
+
+`db.remove` is used to delete a specific key.
+
+```typescript
+await db.remove({ key });
+```
+
