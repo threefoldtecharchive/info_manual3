@@ -147,11 +147,11 @@ output "wg_config" {
     value = grid_network.net1.access_wg_config
 }
 
-output "node1_container1_ip" {
+output "node1_vm1_ip" {
     value = grid_deployment.d1.vms[0].ip
 }
 
-output "node1_container2_ip" {
+output "node1_vm2_ip" {
     value = grid_deployment.d1.vms[1].ip
 }
 
@@ -219,12 +219,12 @@ output "wg_config" {
     value = grid_network.net1.access_wg_config
 }
 
-output "node1_container1_ip" {
+output "node1_vm1_ip" {
     value = grid_deployment.d1.vms[0].ip
 }
 
 
-output "node2_container1_ip" {
+output "node2_vm1_ip" {
     value = grid_deployment.d2.vms[0].ip
 }
 
