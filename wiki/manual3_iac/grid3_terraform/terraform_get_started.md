@@ -38,6 +38,7 @@ resource "grid_network" "net1" {
     ip_range = "10.1.0.0/16"
     name = "network"
     description = "newer network"
+    add_wg_access = true
 }
 resource "grid_deployment" "d1" {
   node = 2
@@ -125,9 +126,10 @@ resource "grid_network" "net1" {
     ip_range = "10.1.0.0/16"
     name = "network"
     description = "some network"
+    add_wg_access = true
 }
 ```
-We tell terraform we will have a network spanning two nodes `having the node IDs 2 and 4` using the IP Range `10.1.0.0/16`
+We tell terraform we will have a network spanning two nodes `having the node IDs 2 and 4` using the IP Range `10.1.0.0/16` and add wireguard access for this network
 
 ### describing the deployment
 
@@ -275,6 +277,7 @@ resource "grid_network" "net1" {
     ip_range = "172.20.0.0/16"
     name = "net1"
     description = "new network"
+    add_wg_access = true
 }
 
 resource "grid_deployment" "d1" {
