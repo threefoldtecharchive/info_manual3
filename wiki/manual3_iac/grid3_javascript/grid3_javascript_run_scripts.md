@@ -13,3 +13,4 @@ or
 ```bash
 yarn run ts-node --project tsconfig-node.json scripts/zdb.ts
 ```
+

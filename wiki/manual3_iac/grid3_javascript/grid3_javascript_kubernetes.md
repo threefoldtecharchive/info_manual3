@@ -11,7 +11,7 @@
 
 #### Building network
 
-```javascript
+```typescript
 // create network Object
 const n = new NetworkModel();
 n.name = "monNetwork";
@@ -21,7 +21,7 @@ n.ip_range = "10.238.0.0/16";
 
 #### Building nodes
 
-```javascript
+```typescript
 // create k8s node Object
 const master = new KubernetesNodeModel();
 master.name = "master";
@@ -50,7 +50,7 @@ worker.planetary = true;
 
 Here we specify the cluster project name, cluster secret, network model to be used, master and workers nodes and sshkey to access them
 
-```javascript
+```typescript
 // create k8s Object
 const k = new K8SModel();
 k.name = "testk8s";
@@ -69,25 +69,23 @@ k.ssh_key =
 
 use `deploy` function to deploy the kubernetes project
 
-```javascript
-    const res = await grid3.k8s.deploy(k);
-    console.log(res);
+```typescript
+const res = await grid3.k8s.deploy(k);
+log(res);
 ```
 
 #### Getting deployment information
 
-```javascript
+```typescript
 const l = await grid3.k8s.getObj(k.name);
-console.log(l);
+log(l);
 ```
 
 
 #### Deleting deployment
 
-```javascript
-
+```typescript
 const d = await grid3.k8s.delete({ name: k.name });
-console.log(d);
-
+log(d);
 ```
 

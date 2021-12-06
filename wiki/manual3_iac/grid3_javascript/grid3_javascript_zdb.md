@@ -11,34 +11,34 @@
 
 #### Getting the client
 
-```javascript
+```typescript
 const grid3 = getClient();
 ```
 
 #### Building the model
 
-```javascript
+```typescript
 // create zdb object
 const zdb = new ZDBModel();
 zdb.name = "hamada";
-zdb.node_id = 18;
+zdb.node_id = 16;
 zdb.mode = ZdbModes.user;
 zdb.disk_size = 9;
-zdb.public = false;
+zdb.publicNamespace = false;
 zdb.password = "testzdb";
 ```
 
 Here we define a `ZDB model` and setting the relevant properties e.g 
 - name
 - node_id : where to deploy on
-- mode: `user or seq`
+- mode: `user` or `seq`
 - disk_size: disk size in GB
-- public: public ipv6
+- publicNamespace: a public namespace can be read-only if a password is set
 - password: namespace password
 
 
 #### preparing ZDBs collection
-```javascript
+```typescript
 // create zdbs object
 const zdbs = new ZDBSModel();
 zdbs.name = "tttzdbs";
@@ -46,34 +46,37 @@ zdbs.zdbs = [zdb];
 zdbs.metadata = '{"test": "test"}';
 
 ```
-you can attach multiple ZDBs innto the collection nand send it for deployment
+you can attach multiple ZDBs into the collection nand send it for deployment
 
 
 
 #### Deployment
 
 
-```javascript
-    const res = await grid3.zdbs.deploy(zdbs);
-    console.log(JSON.stringify(res));
+```typescript
+const res = await grid3.zdbs.deploy(zdbs);
+log(res);
 ```
 
 
-#### Get Deployment information
+#### Getting Deployment information
 
 `getObj` gives detailed information about the workload.
-```javascript
-    // get the deployment
-    const l = await grid3.zdbs.getObj(zdbs.name);
-    console.log(l);
+
+```typescript
+// get the deployment
+const l = await grid3.zdbs.getObj(zdbs.name);
+log(l);
 ```
 
 
 #### Deleting a deployment
 
 `.delete` method helps cancelling the relevant contracts related to that ZDBs deployment
-```javascript
-    // delete
-    const d = await grid3.zdbs.delete({name:zdbs.name});
-    console.log(d);
+
+```typescript
+// delete
+const d = await grid3.zdbs.delete({ name: zdbs.name });
+log(d);
 ```
+

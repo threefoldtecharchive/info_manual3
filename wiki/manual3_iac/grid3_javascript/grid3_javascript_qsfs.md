@@ -6,71 +6,74 @@
 
 !!!code url:https://github.com/threefoldtech/grid3_client_ts/blob/development/scripts/vm_with_qsfs.ts
 
-
-
 ### Detailed explanation
 
 #### Getting the client
 
-```javascript
+```typescript
 const grid3 = getClient();
 ```
-
-
 
 #### preparing QSFS 
 
 ```javascript
-    const qsfs_name = "wed2710q1";
-    const machines_name = "wed2710t1";
+const qsfs_name = "wed2710q1";
+const machines_name = "wed2710t1";
 ```
 We prepare here some names to use across the client for the QSFS and the machines project
 
 
-```javascript
-    // deploy qsfs backend zdbs first
-    const qsfs_res = await grid3.qsfs_zdbs.deploy({
-        name: qsfs_name,
-        count: 8,
-        node_ids: [2, 3],
-        password: "mypassword",
-        disk_size: 10,
-        description: "my qsfs test",
-        metadata: ""
-    });
-    console.log(JSON.stringify(qsfs_res));
+```typescript
+// deploy qsfs backend zdbs first
+const qsfs = {
+    name: qsfs_name,
+    count: 8,
+    node_ids: [16, 17],
+    password: "mypassword",
+    disk_size: 10,
+    description: "my qsfs test",
+    metadata: "",
+}
+const res = await grid3.qsfs_zdbs.deploy(qsfs);
+log(">>>>>>>>>>>>>>>QSFS backend has been created<<<<<<<<<<<<<<<");
+log(res);
 ```
 
 Here we deploy `8` ZDBs on nodes `2,3` with password `mypassword`, all of them having disk size of `10GB` 
 
 #### Deploying a VM with QSFS
 
-```javascript
+```typescript
  // deploy vms
-    const res = await grid3.machines.deploy({
-        name: machines_name,
-        network: {
-            name: "wed2710n1",
-            ip_range: "10.201.0.0/16",
-        },
-        machines: [{
+const vms = {
+    name: machines_name,
+    network: {
+        name: "wed2710n1",
+        ip_range: "10.201.0.0/16",
+    },
+    machines: [
+        {
             name: "wed2710v1",
-            node_id: 7,
-            disks: [{
-                name: "wed2710d1",
-                size: 10,
-                mountpoint: "/mydisk",
-            }],
-            qsfs_disks: [{
-                qsfs_zdbs_name: qsfs_name,
-                name: "wed2710d2",
-                minimal_shards: 2,
-                expected_shards: 4,
-                encryption_key: "hamada",
-                prefix: "hamada",
-                cache: 1,
-                mountpoint: "/myqsfsdisk"
-            }],
+            node_id: 17,
+            disks: [
+                {
+                    name: "wed2710d1",
+                    size: 10,
+                    mountpoint: "/mydisk",
+                },
+            ],
+            qsfs_disks: [
+                {
+                    qsfs_zdbs_name: qsfs_name,
+                    name: "wed2710d2",
+                    minimal_shards: 2,
+                    expected_shards: 4,
+                    encryption_key: "hamada",
+                    prefix: "hamada",
+                    cache: 1,
+                    mountpoint: "/myqsfsdisk",
+                },
+            ],
             public_ip: false,
             planetary: true,
             cpu: 1,
@@ -80,20 +83,20 @@ Here we deploy `8` ZDBs on nodes `2,3` with password `mypassword`, all of them h
             entrypoint: "/sbin/zinit init",
             env: {
                 SSH_KEY:
-                    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDWlguBuvfQikkRJZXkLPei7Scvo/OULUEvjWVR4tCZ5V85P2F4SsSghxpRGixCNc7pNtgvdwJegK06Tn7SkV2jYJ9kBJh8PA06CPSz1mnpco4cgktiWx/R8xBvLGlyO0BwUuD3/WFjrc6fzH9E7Bpkel/xTnacx14w1bZAC1R35hz7BaHu1WrXsfxEd0VH7gpMPoQ4+l+H38ULPTiC+JcOKJOqVafgcc0sU7otXbgCa1Frr4QE5bwiMYhOlsRfRv/hf08jYsVo+RUO3wD12ylLWR7a7sJDkBBwgir8SwAvtRlT6k9ew9cDMQ7H8iWNCOg2xqoTLpVag6RN9kGzA5LGL+qHEcBr6gd2taFEy9+mt+TWuKp6reUeJfTu9RD1UgB0HpcdgTHtoUTISW7Mz4KNkouci2DJFngDWrLRxRoz81ZwfI2hjFY0PYDzF471K7Nwwt3qKYF1Js9a6VO38tMxSU4mTO83bt+dUFozgpw2Y0KKJGHDwU66i2MvTPg3EGs= ayoub@ayoub-Inspiron-3576",
-            }
-        }],
-        metadata: "{'testVMs': true}",
-        description: "test deploying VMs via ts grid3 client",
-
-
-    });
-    console.log(">>>>>>>>>>>>>>>VM has been created<<<<<<<<<<<<<<<");
-    console.log(JSON.stringify(res));
+                    "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCt1LYcIga3sgbip5ejiC6R7CCa34omOwUilR66ZEvUh/u4RpbZ9VjRryVHVDyYcd/qbUzpWMzqzFlfFmtVhPQ0yoGhxiv/owFwStqddKO2iNI7T3U2ytYLJqtPm0JFLB5n07XLyFRplq0W2/TjNrYl51DedDQqBJDq34lz6vTkECNmMKg9Ld0HpxnpHBLH0PsXMY+JMZ8keH9hLBK61Mx9cnNxcLV9N6oA6xRCtwqOdLAH08MMaItYcJ0UF/PDs1PusJvWkvsH5/olgayeAReI6JFGv/x4Eqq5vRJRQjkj9m+Q275gzf9Y/7M/VX7KOH7P9HmDbxwRtOq1F0bRutKF",
+            },
+        },
+    ],
+    metadata: "{'testVMs': true}",
+    description: "test deploying VMs via ts grid3 client",
+}
+const vm_res = await grid3.machines.deploy(vms);
+log(">>>>>>>>>>>>>>>vm has been created<<<<<<<<<<<<<<<");
+log(vm_res);
 ```
 So this deployment is almost similiar to what we have in the [vm deployment section](grid3_javascript_vm). We only have a new section `qsfs_disks`
 
-```javascript
+```typescript
     qsfs_disks: [{
         qsfs_zdbs_name: qsfs_name,
         name: "wed2710d2",
@@ -114,18 +117,19 @@ So this deployment is almost similiar to what we have in the [vm deployment sect
 #### Getting deployment information
 
 
-```javascript
-    const l = await grid3.machines.getObj(machines_name);
-    console.log(JSON.stringify(l))
+```typescript
+const l = await grid3.machines.getObj(vms.name);
+log(l);
 ```
 
 
 #### Deleting a deployment
 
-```javascript
-    // // delete
-    const d = await grid3.machines.delete({ name: vms.name });
-    console.log(d);
-    const r = await grid3.qsfs_zdbs.delete({ name: qsfs_name });
-    console.log(r);
+```typescript
+// delete
+const d = await grid3.machines.delete({ name: machines_name });
+log(d);
+const r = await grid3.qsfs_zdbs.delete({ name: qsfs_name });
+log(r);
 ```
+
