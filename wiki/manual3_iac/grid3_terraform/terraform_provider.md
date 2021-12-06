@@ -1,7 +1,7 @@
 # Terraform integration
 
 ## provider initialization
-
+Grid terraform provider is hosted on terraform registery [here](https://registry.terraform.io/providers/threefoldtech/grid/latest/docs?pollNotifications=true) 
 
 ```
 terraform {
