@@ -65,11 +65,9 @@ You have to set the required values:
 - `gw6` (optional) gateway for ipv6
 - `domain` (optional) assign a domain name
 
-Note: For optional value enter the value `0x` for empty.
-- `domain` is needed if the node will host named gateway workloads. The domain mut be configured in your name server as
-  -
+> Note: For optional value enter the value `0x` for empty.
 
-let's assume you own domain `farmer.com` and you wanna name your gateway `gateway.farmer.com` then:
+`domain` is needed if the node will host named gateway workloads. Let's assume you own domain `farmer.com` and you wanna name your gateway `gateway.farmer.com` then:
 - `A` record `gatway.farmer.com` to node public IPV4
 - `CNAME` record `*.gateway.farmer.com` to `gateway.farmer.com`
 - `NS` record `_acme-challenge.gateway.farmer.com` to `gateway.farmer.com`
