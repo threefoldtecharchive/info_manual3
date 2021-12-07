@@ -10,28 +10,7 @@
 
 ### Detailed explanation
 
-
-#### building network
-
-```javascript
-// create network Object
-const n = new NetworkModel();
-n.name = "montest";
-n.ip_range = "10.232.0.0/16";
-```
-Here we prepare the network model that is going to be used by specifying a name to our network and the range it will be spanning over
-
-
-### building the disk model
-
-```javascript
-// create disk Object
-const disk = new DiskModel();
-disk.name = "newDisk";
-disk.size = 100;
-disk.mountpoint = "/testdisk";
-```
-here we create the disk model specifying its name, size in GB and where it will be mounted eventually
+So this deployment is almost similiar to what we have in the [vm deployment section](grid3_javascript_vm). We only have different environment variables
 
 ### building the VM
 
@@ -92,14 +71,6 @@ vms.metadata = "{'testVMs': true}";
 vms.description = "test deploying VMs via ts grid3 client";
 ```
 
-
-### deploy
-
-```javascript
-// deploy vms
-const res = await grid3.machines.deploy(vms);
-console.log(JSON.stringify(res));
-```
 
 ### get deployment information
 
