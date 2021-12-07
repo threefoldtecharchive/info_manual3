@@ -14,7 +14,7 @@ So this deployment is almost similiar to what we have in the [vm deployment sect
 
 ### building the VM
 
-```javascript
+```typescript
 // create vm node Object
 const vm = new MachineModel();
 vm.name = "testvm";
@@ -58,24 +58,10 @@ We need to specify its
 
 
 
-### building VMs collection
-
-
-```javascript
-// create VMs Object
-const vms = new MachinesModel();
-vms.name = "newVMS5";
-vms.network = n;
-vms.machines = [vm];
-vms.metadata = "{'testVMs': true}";
-vms.description = "test deploying VMs via ts grid3 client";
-```
-
-
 ### get deployment information
 
 can do so based on the name you gave to the `vms` collection
-```javascript
+```typescript
 // get the deployment
 const l = await grid3.machines.getObj(vms.name);
 console.log(JSON.stringify(l));
@@ -84,9 +70,8 @@ console.log(JSON.stringify(l));
 
 ### deleting a deployment
 
-```javascript
+```typescript
 // // delete
-
 const d = await grid3.machines.delete({ name: vms.name });
 console.log(d);
 ```
@@ -110,24 +95,10 @@ Before worker node deployment:
   For futher inforamtion please [check](https://github.com/freeflowuniverse/freeflow_caprover#step-4-access-the-captain-dashboard)
 
 
-to deploy a worked Node it has the same details as a leader node regarding the deployment details except:
-
-- In building VMs collection
-
-```javascript
-// create VMs Object
-const vms = new MachinesModel();
-vms.name = "newVMS6";
-vms.network = n;
-vms.machines = [vm];
-vms.metadata = "{'testVMs': true}";
-vms.description = "test deploying VMs via ts grid3 client";
-```
-
-in `vms.name` use different name from the leader node VM to prevent any conflicts
+to deploy a worked Node it has the same details as a leader node regarding the deployment details except environment variables.
 
 - In building the VM
-```javascript
+```typescript
 const vm = new MachineModel();
 vm.name = "capworker1";
 vm.node_id = 14;
