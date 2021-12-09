@@ -1,5 +1,5 @@
 
-- [Install Polkadot Widget](tfchain_portal_caprover)
+- [Install Caprover](tfchain_portal_caprover)
 - [Install Polkadot Widget](tfchain_portal_polkadot_widget)
 - [Create account](tfchain_portal_polkadot_create_account)
 - [Activate account](tfchain_portal_ui_activation)
