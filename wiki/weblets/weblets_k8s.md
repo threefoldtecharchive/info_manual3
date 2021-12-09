@@ -22,7 +22,7 @@ On the TF grid, Kubernetes clusters can be deployed out of the box. We have impl
 
 ## *Master* and *Worker* tabs
 
-### Currently, we only support "single-master-multi-worker" k8s clusters. So you could always add more than one worker node by clicking on the **+** in the ***Worker*** tab.
+#### Currently, we only support "single-master-multi-worker" k8s clusters. So you could always add more than one worker node by clicking on the **+** in the ***Worker*** tab.
 
 ![](img/kubernetes2.png)
 ![](img/kubernetes3.png)
