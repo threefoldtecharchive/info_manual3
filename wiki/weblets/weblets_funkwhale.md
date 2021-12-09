@@ -28,4 +28,5 @@ After that is done you can see a list of all of your deployed instances
 ![](img/funkwhale2.png)
 
 Click on ***Visit*** to go to the homepage of your Funkwhale instance!
+
 ![](img/funkwhale3.png)
