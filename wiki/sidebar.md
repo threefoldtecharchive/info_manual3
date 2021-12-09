@@ -1,7 +1,7 @@
-- [**To Home Knowledgebase**](!@threefold:threefold_home)
+- [**ThreeFold Wiki**](!@threefold:threefold_home)
 -----------
-**Manual 3.0**
-- [Get Started](@tfgrid3_getstarted)
+**TFGrid 3.0**
+- [**Get Started**](@tfgrid3_getstarted)
 - [Introduction](grid3_howitworks)
 - [Concepts](manual3_home_new)
     - [Grid Primitives](threefold:tfgrid_primitives)
