@@ -15,7 +15,7 @@ __Process__ :
 - Enter an Application Name. It's used in generating a subdomain on one of the gateways on the network. Ex. ***myfunk*.gent02.dev.grid.tf**
 - Choose a node to deploy your Funkwhale instance on.
     
-- Either use the **Capacity Filter**. Which simply lets you pick a *Farm* and *Country* and then it lists available nodes with these preferences and you pick. 
+- Either use the **Capacity Filter**. Which simply lets you pick a *Farm* and *Country*, after clicking on *Apply filters and suggest nodes* then it lists available nodes with these preferences and you pick. 
 
 ![](img/funkwhale5.png)   
     
