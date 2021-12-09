@@ -7,7 +7,7 @@ On the TF grid, Kubernetes clusters can be deployed out of the box. We have impl
 - Visit https://play.grid.tf
 - Make sure you have an activated [profile](weblets_profile_manager) 
 - Click on the **Kubernetes** tab
-- 
+
 ### *Configs* tab
 
 ![](img/kubernetes1.png)
