@@ -1,4 +1,4 @@
-# weblets_profile_manager
+# Profile Manager
 
 - Go to https://play.grid.tf
 
@@ -6,13 +6,13 @@
 
 Start by creating a profile from the upper right button. This creates a profile, saved and encrypted locally in your browser.
 
-## Secure 
+### Secure 
 
 ![](img/pro_manager2.png)
 
 The **Browser Session Secret** is how you store your profile info locally, in your browser. So you shouldn't be sharing it with anyone and always remember it. After you're done typing your secret, click on **Create a New Store**.
 
-## Process
+### Process
 
 ![](img/pro_manager3.png)
 

@@ -8,7 +8,7 @@ On the TF grid, Kubernetes clusters can be deployed out of the box. We have impl
 - Make sure you have an activated [profile](weblets_profile_manager) 
 - Click on the **Kubernetes** tab
 - 
-## *Configs* tab
+### *Configs* tab
 
 ![](img/kubernetes1.png)
 
@@ -18,9 +18,9 @@ On the TF grid, Kubernetes clusters can be deployed out of the box. We have impl
 - `Network Name`: It's used for Wireguard's private network.
 - `Network IP Range`: It's a private subnet for Wireguard's network. You could use the auto-generated one or replace it with a **private** subnet.
 
-## *Master* and *Worker* tabs
-
-#### Currently, we only support "single-master-multi-worker" k8s clusters. So you could always add more than one worker node by clicking on the **+** in the ***Worker*** tab.
+### *Master* and *Worker* tabs
 
 ![](img/kubernetes2.png)
 ![](img/kubernetes3.png)
+
+> Currently, we only support "single-master-multi-worker" k8s clusters. So you could always add more than one worker node by clicking on the **+** in the ***Worker*** tab.
