@@ -38,4 +38,4 @@ High level overview on getting started and run ThreeFold Grid 3.0.
 
 ## Help Improve This Manual
 
-**ThreeFold Grid 3.0 Manual** is is a open-sourcedocumentation project currently maintained by ThreeFold Foundation's internal team, and constantly undergoes evolving documentation phases. Help us improve this manual. Documentation grants are available for external documentary contributors. Contact **info@threefold.io** for more information on how to become a contributor. 
+**ThreeFold Grid 3.0 Manual** is is a open-source documentation project currently maintained by ThreeFold Foundation's internal team, and constantly undergoes evolving documentation phases. Help us improve this manual. Documentation grants are available for external documentary contributors. Contact **info@threefold.io** for more information on how to become a contributor. 
