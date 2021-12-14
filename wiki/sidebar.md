@@ -21,7 +21,7 @@
 - [Weblets](weblets_home)
   - [Profile Manager](weblets_profile_manager)
   - [CapRover](weblets_caprover)
-  - [Virtual Machines](weblets_vm)
+  - [Virtual Machine](weblets_vm)
   - [Funkwhale](weblets_funkwhale)
   - [Peertube](weblets_peertube)
   - [Deployments List](weblets_deployments_list)
