@@ -2,16 +2,21 @@
 
 ![](img/caprover_1.png)
 
-Caprover is a very cool management app for containers based on Docker Swarm.
+About caprover
 
-It has following benefits : 
+CapRover is an extremely easy to use app/database deployment & web server manager for your NodeJS, Python, PHP, ASP.NET, Ruby, MySQL, MongoDB, Postgres, WordPress (and etc...) applications!
 
-- easy to deploy apps (in seconds)
-- easy to create new apps
-- super good monitoring
-- can be extended over the TFGrid
+It's blazingly fast and very robust as it uses Docker, nginx, LetsEncrypt and NetData under the hood behind its simple-to-use interface.
+
+- CLI for automation and scripting
+- Web GUI for ease of access and convenience
+- No lock-in! Remove CapRover and your apps keep working!
+- Docker Swarm under the hood for containerization and clustering
+- Nginx (fully customizable template) under the hood for load-balancing
+- Let's Encrypt under the hood for free SSL (HTTPS)
 
 We have integrated TFGrid support inside CapRover, from within CapRover you can now add/remove 3Nodes to extend the size of your cluster.
+
 
 ## How does it work ?
 
