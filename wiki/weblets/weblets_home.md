@@ -14,6 +14,7 @@ __Advantages__ :
 
 - [Caprover](weblets_caprover)
 - [Virtual Machine](weblets_vm)
+- [Kubernetes](weblets_k8s)
 - [Funkwhale](weblets_funkwhale)
 - [Peertube](weblets_peertube)
 

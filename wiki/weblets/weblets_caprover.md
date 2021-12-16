@@ -1,4 +1,4 @@
-# Weblets Caprover
+# Caprover
 
 ![](img/caprover_1.png)
 
@@ -11,26 +11,25 @@ It has following benefits :
 - super good monitoring
 - can be extended over the TFGrid
 
-We have integrated TFGrid support inside CapRover, from within CapRover you can now add/remove 3Nodes to extend the size of your cluster.
-
-## How does it work ?
-
-We have developed a set of weblets which allow you to deploy workloads in a very easy way.
-
-See https://play.grid.tf
-
 ### Requirements
 
 - you need an account on TF-Chain, and there needs to be TFT on the account (see getting started)
-- [Make sure your profile has been filled in in the weblets playground](weblets_profile_manager)
+- [Make sure your profile is activated](weblets_profile_manager)
 - [Unlock your profile on profile manager, if already filled in before](profile_manager_unlock)
 
-### Use the weblet
+### Usage
 
-![](img/weblet_form_caprover.png)
+![](img/caprover1.png)
 
-- You can specify the NodeID manually or use the automatic resource finder.
-- If you use `manual`, make sure that there is enough capacity available.
+- Choose a node to deploy Caprover on.
+- Either use the **Capacity Filter**. Which simply lets you pick a *Farm* and *Country*, after clicking on *Apply filters and suggest nodes* then it lists available nodes with these preferences and you pick. 
+
+![](img/caprover2.png)   
+    
+- Or use **Manual** and type a specific node number to deploy on.
+
+![](img/caprover3.png)  
+
 - Be very careful about the domain name: it needs to be a wildcard domain name you can configure in your chosen domain name system.
 
 ![](img/caprover_deploying.png)

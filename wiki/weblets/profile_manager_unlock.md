@@ -4,7 +4,8 @@
 To unlock a previously created profile manager, do the following steps: 
 
 - Go to https://play.grid.tf
-- Fill in the secret passphrase used when you created the profile
-- Click `Unlock Store`
+- Go to the **Activate Profile Manager** tab.
+- Fill in the **Profile Manager Password** used when you created the profile
+- Click `Load Profiles`
 
-![](img/unlock_profile_manager.png)
+![](img/pro_manager6.png)
