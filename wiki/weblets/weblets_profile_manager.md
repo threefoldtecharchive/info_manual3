@@ -8,20 +8,25 @@ Start by creating a profile from the upper right button. This creates a profile,
 
 ### Secure 
 
-![](img/pro_manager2.png)
+![](img/pro_manager5.png)
 
-The **Browser Session Secret** is how you store your profile info locally, in your browser. So you shouldn't be sharing it with anyone and always remember it. After you're done typing your secret, click on **Create a New Store**.
+The **Profile Manager Password** is how you store your profile info locally, in your browser. So you shouldn't be sharing it with anyone and always remember it. Create a new profile by visiting the **Create Profile Manager** tab and enter your new password. After you're done, click on **Create New Profile Manager**. 
+
+You'll need that password to be able to load your profiles afterwards from the **Activate Profile Manager** tab.
+
+![](img/pro_manager6.png)
 
 ### Process
 
-![](img/pro_manager3.png)
+Start entering the following information required to create your new profile.
+
+![](img/pro_manager7.png)
 
 - `Profile Name`: Any chosen name, makes it easy for you to remember between sessions.
 - `Network Environment` : Choose the network you want to use.
 - `Mnemonics` are the secret words of your Polkadot account, [Generate yours here!](tfchain_portal_polkadot_create_account). 
-- `TF Configuration Secret` is the password used to store info on the TFChain
 - Your `Public SSH Key` is used to login into VM's, Kubernetes, ... 
 
-After you finish typing your credentials, click on **Activate**. Once your profile gets activated, you should find your **Twin ID** and **Address** generated under your ***Mnemonics*** for verification.
+After you finish typing your credentials, click on **Activate**. Once your profile gets activated, you should find your **Twin ID** and **Address** generated under your ***Mnemonics*** for verification. Also, your **Account Balance** will be available at the top right corner under your profile name. 
 
-![](img/pro_manager4.png)
+![](img/pro_manager8.png)
