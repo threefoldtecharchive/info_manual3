@@ -36,5 +36,4 @@ in the bottom of the page you can see a list of all of the virual machines you d
 You can also choose json option for full details
 ![](img/weblet_vm6.png)
 
-> Deletion happens sequentially, you can only delete one at a time.
 

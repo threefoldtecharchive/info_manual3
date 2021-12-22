@@ -1,9 +1,0 @@
-- [ThreeFold Grid](@threefold:grid_home)
-- [Farming](@threefold:farming_intro)
-- [ThreeFold Tokens](@threefold:tokens_home)
-- [ThreeFold Peer-to-Peer Cloud](@threefold:cloud_home)
-- [Sustainability](@threefold:carbon_double_win)
-- [About](@threefold:about)
-------------
-- [Definitions & Concepts](@threefold:definitions_concepts)
-- [Legal](!@legal:legal_home)

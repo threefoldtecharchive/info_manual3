@@ -3,4 +3,4 @@
 - [Activate account](tfchain_portal_ui_activation)
 - [TFT to TFChain](tfchain_portal_ui_tokens)
 - [Find Node](explorer_find_capacity)
-- [Deploy Caprover](weblets_caprover)
+- [Deploy Your First VM](weblets_vm)
