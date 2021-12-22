@@ -1,4 +1,6 @@
-# freeflow_caprover
+![](img/terraform_.png)
+
+# Terraform Caprover
 
 ### What is CapRover?
 

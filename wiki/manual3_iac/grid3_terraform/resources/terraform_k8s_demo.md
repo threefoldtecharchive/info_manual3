@@ -1,3 +1,5 @@
+![](img/terraform_.png)
+
 ## Demo video showing deploying k8s with terraform
 
 <div class="aspect-w-16 aspect-h-9">

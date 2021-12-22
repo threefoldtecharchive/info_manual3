@@ -1,0 +1,1 @@
+- go to https://play.grid.tf or https://play.dev.grid.tf (development version, works on testnet too)

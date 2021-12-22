@@ -2,7 +2,7 @@
 
 Deployments List is a generic weblet for listing deployments on Threefold Grid
 
-- go to https://play.grid.tf
+!!!include:weblets_play_go
 - make sure you have a [profile](weblets_profile_manager) activated
 - click on Deployments
 

@@ -19,6 +19,8 @@ It has following benefits :
 
 ### Usage
 
+!!!include:weblets_play_go
+
 ![](img/caprover1.png)
 
 - Choose a node to deploy Caprover on.

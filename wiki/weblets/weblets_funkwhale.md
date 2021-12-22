@@ -4,7 +4,7 @@
 Funkwhale is a community-driven project that lets you listen and share music and audio within a decentralized, open network.
 
 
-- Visit https://play.grid.tf
+!!!include:weblets_play_go
 - Make sure you have an activated [profile](weblets_profile_manager) 
 - Click on the **Funkwhale** tab
 

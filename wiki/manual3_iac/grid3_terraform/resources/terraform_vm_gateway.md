@@ -1,8 +1,10 @@
-In this example we will see how to deploy a single VM and expose it over the gateway on the Threefold grid v3 
 
-!!!include terraform_basics
+![](img/terraform_.png)
+
+# Terraform Web Gateway With VM
 
 ## expose with prefix
+
 A complete list of gateway name workload parameters can be found [here](https://github.com/threefoldtech/terraform-provider-grid/blob/development/docs/resources/name_proxy.md).
 !!!code url:'https://github.com/threefoldtech/terraform-provider-grid/blob/development/examples/resources/expose-vm/main.tf'
 
@@ -19,7 +21,9 @@ Here
 
 
 ## expose with fulldomain
+
 A complete list of gateway fqdn workload parameters can be found [here](https://github.com/threefoldtech/terraform-provider-grid/blob/development/docs/resources/fqdn_proxy.md).
+
 it is more like the above example the only difference is you need to create an `A record` on your name provider for `remote.omar.grid.tf`  to gateway node `7` IPv4.
 
 ```
@@ -38,4 +42,3 @@ output "fqdn" {
 ```
 
 
-!!!include terraform_outputs

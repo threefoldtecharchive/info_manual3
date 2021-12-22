@@ -2,6 +2,8 @@
 
 If you want to start farming, you need a farmID, the ID of the farm that is owning the hardware node(s) you connect to the TFGrid. 
 
+!!!include:tfchain_portal_list
+
 Click `CREATE FARM` and choose a name. 
 
 ![](img/grid3_portal_farm.png ':size=600')

@@ -1,6 +1,19 @@
-## terraform basics
 
-please make sure to read [What you need to know before getting started](grid3_developer_basics)
+![](img/terraform_.png)
+
+# terraform basics
+
+## Requirements
+
+<!-- please make sure to read [What you need to know before getting started](grid3_developer_basics) -->
+
+Make sure following is done:
+
+- [Get started with your account on TFGrid](!@tfgrid3_getstarted)
+- [Install Terraform](terraform_install)
+
+
+## Prepare
 
 - make a directory for your project `mkdir myfirstproject`
 - `cd myfirstproject`
@@ -22,18 +35,22 @@ provider "grid" {
     network = "dev" # or test to use testnet
 }
 
-... MORE TO BE ADDED
 ```
-- all provider input variables and their description can be found [here](https://github.com/threefoldtech/terraform-provider-grid/blob/development/docs/index.md)
-- capitalized environment variables can be used instead of writing them in the provider (e.g. MNEMONICS)
+
+
+
+## basic commands
 
 - to execute a terraform file `terraform apply -parallelism=1`
 - to see the output `terraform output`
+    - can be used to get the relevant output variables e.g public ip, planetary network ip, wireguard configurations .. 
 - to see the state `terraform show`
 - to destroy `terraform destroy -parallelism=1`
 
+## Find your Node
 
+The choice of the node is up to the user. They need to do the capacity planning.
 
-Please check [Get started](terraform_get_started) section for a detailed walkthrough
+Make sure you choose a node which has enough capacity and is available (up and running).
 
-> Note: The choice of the node is completely up to the user at this point. They need to do the capacity planning. Check [Exploring Capacity](explorer_home) to know which nodes fits your deployment criteria.
+> Check [Exploring Capacity](explorer_home) to know which nodes fits your deployment criteria.

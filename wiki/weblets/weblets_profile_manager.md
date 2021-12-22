@@ -1,6 +1,6 @@
 # Profile Manager
 
-- Go to https://play.grid.tf
+!!!include:weblets_play_go
 
 ![](img/pro_manager1.png)
 

@@ -1,14 +1,13 @@
+![](img/terraform_.png)
+
 ## Capacity planning
 
 In this example we will discuss capacity planning on top of Threefold grid v3
-
-!!!include terraform_basics
 
 
 ## Example
 
 !!!code url:'https://github.com/threefoldtech/terraform-provider-grid/blob/development/examples/resources/simple-dynamic/main.tf'
-
 
 
 ### preparing the requests

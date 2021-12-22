@@ -2,7 +2,7 @@
 
 [Peertube](https://joinpeertube.org/) aspires to be a decentralized and free/libre alternative to video broadcasting services.
 
-- Visit https://play.grid.tf
+!!!include:weblets_play_go
 - Make sure you have an activated [profile](weblets_profile_manager) 
 - Click on the **Peertube** tab
 
