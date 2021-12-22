@@ -29,7 +29,7 @@
 - [Advanced](advanced)
 - [Help us test](@testing_home)
 - [Threefold Services](manual3_tfservices)
-- [Roadmap](@threefold:roadmap_grid)
+- [Roadmap](threefold:roadmap_grid)
   - [Release Notes](releasenotes3)
   - [What's New](grid3_new)
 ------------
