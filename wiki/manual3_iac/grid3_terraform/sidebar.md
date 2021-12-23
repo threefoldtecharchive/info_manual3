@@ -18,6 +18,7 @@
 - [CapRover](@terraform_caprover)
 **Advanced**
 - [Terraform Provider](@terraform_provider)
+- [Terraform Provisioners](@terraform_provisioners)
 - [Mounts](@terraform_mounts)
 - [Capacity planning](@terraform_capacity_planning)
 - [Updates](terraform_updates)
