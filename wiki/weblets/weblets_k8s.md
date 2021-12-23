@@ -58,3 +58,6 @@ users:
 root@WR768dbf76:~# 
 
 ```
+
+If you want to use kubectl through another machine, you need to change the line `server: https://127.0.0.1:6443` to be `server: https://PLANETARYIP_OR_PUBLICIP/6443`
+replace PLANETARYIP_OR_PUBLICIP with the IP you want to reach th cluster through.
