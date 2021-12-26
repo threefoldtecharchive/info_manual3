@@ -6,8 +6,6 @@ In this example we will see how to deploy a VM and apply provisioner commands on
 
 !!!code url:'https://github.com/threefoldtech/terraform-provider-grid/blob/development/examples/resources/external_provisioner/main.tf'
 
-## More Info
-
 ## Params docs
 ### Requirements
 - the machine should have `ssh server` running
@@ -39,4 +37,6 @@ host: the ip/host of the remote machine
 - inline: This is a list of command strings. They are executed in the order they are provided. This cannot be provided with script or scripts.
 - script: This is a path (relative or absolute) to a local script that will be copied to the remote resource and then executed. This cannot be provided with inline or scripts.
 - scripts: his is a list of paths (relative or absolute) to local scripts that will be copied to the remote resource and then executed. They are executed in the order they are provided. This cannot be provided with inline or script.
+
+## More Info
 A complete list of provisioner parameters can be found [here](https://www.terraform.io/language/resources/provisioners/remote-exec).
