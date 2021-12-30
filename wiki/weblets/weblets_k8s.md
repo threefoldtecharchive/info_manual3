@@ -61,3 +61,25 @@ root@WR768dbf76:~#
 
 If you want to use kubectl through another machine, you need to change the line `server: https://127.0.0.1:6443` to be `server: https://PLANETARYIP_OR_PUBLICIP/6443`
 replace PLANETARYIP_OR_PUBLICIP with the IP you want to reach th cluster through.
+
+
+### Manage Workers
+Add or Remove workers in any **Kubernetes cluster**.
+```html
+<tf-deployedlist tab="k8s"></tf-deployedlist>
+```
+
+- Kubernetes DeployedList Weblet
+![](img/k8s_dl_1.png)
+
+- Manager kubernetes workers
+![](img/k8s_dl_2.png)
+
+- Add a new worker
+![](img/k8s_dl_3.png)
+
+- Successfully added new worker
+![](img/k8s_dl_4.png)
+
+- Delete a worker
+![](img/k8s_dl_5.png)
