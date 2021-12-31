@@ -1,7 +1,7 @@
 
 # Unlock Profile Manager
 
-To unlock a previously created profile manager, do the following steps: 
+To unlock a previously created profile manager, do the following steps:
 
 !!!include:weblets_play_go
 - Go to the **Activate Profile Manager** tab.

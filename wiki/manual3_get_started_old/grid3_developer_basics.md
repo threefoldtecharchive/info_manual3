@@ -8,7 +8,7 @@ This should be a simple intro for developers or operations
 For a project that needs a private network, we need a network that can span across multiple nodes, this can be achieved by the network workload reservation [Network](@threefold:tfgrid_networking_toc)
 
 ### Planetary network
-For a project that want their workloads directly connected to the planetary network we will need the option planetary enabled when deploying a VM or kubernetes. Check [Planetary network](@grid3_planetary_network) for more info about 
+For a project that want their workloads directly connected to the planetary network we will need the option planetary enabled when deploying a VM or kubernetes. Check [Planetary network](planetary_network) for more info about 
 
 ### Public IPs
 When you want to have a public IP assigned to your workload, you need to reserve the number of IPs along with your contract and then you can attach it to the VM workload
@@ -51,14 +51,13 @@ You can easily check using [explorer-ui](@explorer_home) , also to plan your dep
 
 ## Getting started
 
-Please check [Getting started](@grid3_get_started) to get the necessary software / configurations
+Please check [Getting started](@tfgrid3_getstarted) to get the necessary software / configurations
 
 
 For detailed information check
 
-- [Overview](@grid3_overview)
 - [Components Interaction](@grid3_components)
 - [Definitions](@grid3_definitions)
 - [ZOS Primitives](threefold:tfgrid_primitives)
-- [Getting started](@grid3_get_started)
+- [Getting started](@tfgrid3_getstarted)
 - [Proof of Utilization](@proof_of_utilization_manual)
