@@ -20,7 +20,7 @@ Supported flists
 
 ## centos
 - [CentOS](https://hub.grid.tf/tf-official-apps/threefoldtech-centos-8.flist)
-- 
+
 ### entrypoint
 `/entrypoint.sh`
 
