@@ -1,19 +1,28 @@
 Supported flists
 
 ## alpine
-- [Alpine](https://hub.grid.tf/tf-official-apps/base:latest.flist)
+- [Alpine](https://hub.grid.tf/tf-official-apps/threefoldtech-alpine-3.flist)
 ### entrypoint
 
-`/sbin/zinit init`
+`/entrypoint.sh`
 
 ### env vars
 - `SSH_KEY`
 
 ## ubuntu
-- [Ubuntu](https://hub.grid.tf/omar0.3bot/omarelawady-ubuntu-20.04.flist)
+- [Ubuntu](https://hub.grid.tf/tf-official-apps/threefoldtech-ubuntu-20.04.flist)
 
 ### entrypoint
 `/init.sh`
+
+### env vars
+- `SSH_KEY`
+
+## centos
+- [CentOS](https://hub.grid.tf/tf-official-apps/threefoldtech-centos-8.flist)
+- 
+### entrypoint
+`/entrypoint.sh`
 
 ### env vars
 - `SSH_KEY`
@@ -33,4 +42,3 @@ Supported flists
 - `K3S_NODE_NAME`
 - `K3S_URL` `https://${masterIp}:6443`
 
-TODO:  promote ubuntu and k3s images to official.
