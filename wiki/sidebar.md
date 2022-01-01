@@ -18,6 +18,7 @@
   - [Creating a Farm](@create_farm)
   - [Portal](@grid3_tfchain_init)
   - [Booting a node](@booting_node)
+  - [TFGrid Networking](threefold:tfgrid_networking)
 - [Weblets](weblets_home)
   - [Profile Manager](weblets_profile_manager)
   - [CapRover](weblets_caprover)
