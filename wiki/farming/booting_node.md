@@ -1,73 +1,29 @@
-![](img/farming_.png)
+## Boot a node
 
-## Booting a node into a farm
+To boot Zero OS on your node, plug in the USB stick and configure the BIOS to use it as the boot device. You can reference the documentation for your mainboard to learn how to do this. In case the node loses power or needs to restart for an update, this setting needs to be saved within the BIOS.
 
-This explain the step necessary to boot a `zos` node into a farm
+While you're in the BIOS, check that the "Network Stack" or "Network Boot" is also enabled to allow Zero OS to boot over the network. Some farmers have also found that "AHCI mode for SATA" is required to support SATA disks.
 
-### Requirements
+### Wiping disks
 
-Farm created on TF-Chain on the network of choice using the portal. 
-- [Portal instructions](tfchain_portal_home)
-- [Create farm](tfchain_portal_ui_farming) 
+If the disks in your node have any data or partition tables on them, they will need to be wiped before Zero OS will utilize them. Nodes previously running on Grid 2 may not require this step.
 
-## Steps
-- Visit [bootstrap](https://dev.bootstrap.grid.tf/generate)
-- Enter the farm id from the requirement into the `Farmer ID` field
-- Under `Which release do you want?` choose the right network
-  - Development for `devnet`
-  - Testing for `testnet`
-- Last step is generate the proper booting image. For simplicity of this walk through we go with `EFI USB` choice.
+See [these instructions](https://forum.threefold.io/t/how-to-clear-disks-for-diy-3nodes/987) for details on how to properly wipe disks.
 
-> The farm ID must exist on the network of choice.
-
-Last step is to write the image to the usb stick, linux user can use `dd` command to fully copy the image to the usb stick. Windows users can use a usb writer app.
-
-## Configuring your machine to boot zos
-
-- ZOS need to have all the physical disks erased. ZOS will not do itself to avoid data loss. Instead for custom builds, you have to make sure the disks don't have a partition table. On linux this can be done `wipefs` command
-  - for example a `sudo wipefs -a -f /dev/vdX`
-- Once all disks are wiped, you can now boot into ZOS by:
-  - Sticking the usb stick into the node
-  - The machine need to able to boot from a USB stick. This can be configured in your machine BIOS. Please refer to the motherboard manual for how to configure it to boot from USB stick
-- Reboot
-
-## Checking the node console
+### The node console screen
 
 ![zos-screen](img/zos_screen.png)
 
-The screen (eventually) should show similar screen like above. the `farmer` in your case should show the farmer ID you used to build the usb image, and next to it your farm name.
+It may take a while for your node to boot up. Once that's complete, the screen should show something like you see above, with your own farm id and name listed.
 
-Network setup will also be completely different. also `PUB` will show `not configured` which is normal for a new node.
+Network setup will also look different. `PUB` will show `not configured` which is normal for a new node. If your node is assigned a public IP address and you'd like to register it for use on the Grid, see [public network config](public_config). This is not required to farm tokens or host workloads, so dont' worry about it if you're not sure.
 
-## Setting up public configuration `PUB`
+### Checking the Explorer
 
-Nodes don't need `public config` to host workloads, put a node with public config can also do
-- Work as an access point for user networks (ipv4 and ipv6)
-- Handle gateway workloads (gateway workloads allow users to expose services from their private workloads)
+You can use the Grid Explorer to check that your node is utilizing all of its disks and if it is online. Use the link for the network your node is on shown below. You can filter by your farm id to only show nodes attached to your farm.
 
-### Requirements
+!!!include:explorer_list
 
-- PolkaDot UI on the desired environment
-- A node booted into your farm.
-- The node ID shown from your node console (15 in the screenshot above)
+### Finished
 
-### Steps
-
-Open polkadot UI and navigate to `Developer > Extrinsics`
-
-![set public config](img/public_config.png)
-
-You have to set the required values:
-- `ipv4` is the public IPv4 assigned to the node in CIDR format (x.x.x.x/mask)
-  (for example: 10.20.30.40/24)
-- `ipv6` (optional) is the public IPv6 assigned to the node in CIDR format (IP/prefix)
-- `gw4` gateway for ipv4
-- `gw6` (optional) gateway for ipv6
-- `domain` (optional) assign a domain name
-
-> Note: For optional value enter the value `0x` for empty.
-
-`domain` is needed if the node will host named gateway workloads. Let's assume you own domain `farmer.com` and you wanna name your gateway `gateway.farmer.com` then:
-- `A` record `gatway.farmer.com` to node public IPV4
-- `CNAME` record `*.gateway.farmer.com` to `gateway.farmer.com`
-- `NS` record `_acme-challenge.gateway.farmer.com` to `gateway.farmer.com`
+That's it, you're now farming on ThreeFold Grid 3. Please considering sharing about your farm in [this thread](https://forum.threefold.io/t/lets-share-our-farming-setup/286) on our forum so other farmers can learn from your setup. You can also join our [farmers chat](https://t.me/threefoldfarmers) on Telegram for farming related discussion.
