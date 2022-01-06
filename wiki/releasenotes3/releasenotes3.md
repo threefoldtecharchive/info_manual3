@@ -5,7 +5,7 @@
 
 # ThreeFold Release Notes TFGrid 3.0.0 Alpha 2 (Live on testnet)
 
-## TFChain
+## TFChain v1.0.0
 
 - DAO Requests
 	- Becoming council member
@@ -14,16 +14,29 @@
 	- Upgrading tfchain
 	- Changing farming rewards
 
-## Admin Portal
+## Admin Portal v3.0.1-rc1
 
 - Terms and conditions support
 - Fix reasking for activation when the balance reaches 0
 - Show amount of bridge deposit/withdraw fee
 - Get more TFT button when connected to devnet
  
+## tfchain explorer v3.0.0-rc19
 
+- certifcation type filter
+- adding certification type to nodes
+- add zos version to node details
+- update map to reflect the selected node 
+- UX fixes for filters and data sorting 
+- include version of tfchain, explorer, grid proxy 
+- showing available resources
+- showing online / offline nodes
+- showing number of available IPs in a farm 
+- adding favicon
+- satistics page improvements
 
-## ZOS
+## ZOS v3.0.4
+
 - public IPv6 support
 - Min rootfs for more than 1 CU = 2GB, and anything less will be 500MB  
 - Mainnet image
@@ -36,21 +49,21 @@
 - Decommission on too many QSFS metric fetches failure
 https://github.com/threefoldtech/zos/releases
 
-## Terraform
+## Terraform v0.1.20
 - Support for public IPv6
 - Support planetary option for k8s
 
 https://github.com/threefoldtech/tf-terraform-provider/releases
 
 
-## grid3_client_ts
+## grid3_client_ts v1.0.3
 - Cert type for nodes
 - public IPv6 support
 - TwinServer command to be used from other langauges
 https://github.com/threefoldtech/grid3_client_ts/releases
 
 
-## Weblets
+## Weblets v1.2.0
 
 - Support peertube
 - Support funkwhale
@@ -76,7 +89,14 @@ https://github.com/threefoldtech/grid_weblets/releases
 
 TODO
 
+## gridproxy v1.0.0-rc8
 
+- generic performance improvements
+- reduce caching time
+- enable CORS in version 
+- include certification types in nodes
+- fix regression on nodes query 
+- 
 
 ## Known Issues 3.0.0 Alpha 2
 
