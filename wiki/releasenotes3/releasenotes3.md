@@ -1,7 +1,7 @@
 
 ![](img/releasenotes.jpg)
 
-# ThreeFold Release Notes TFGrid 3.x
+# ThreeFold Release Notes TFGrid 3.0.0 Alpha 1
 
 ## TFChain
 
@@ -74,7 +74,7 @@ TODO
 - [Whats new in TFGrid 3.0](https://forum.threefold.io/t/what-is-new-in-tfgrid-3-0/1133)
 - [Roadmap](https://circles.threefold.me/project/despiegk-product_tfgrid3_roadmap/wiki/home)
 
-## Known Issues 3.0
+## Known Issues 3.0.0 Alpha 1
 
 Following list is incomplete but gives some issues to think about.
 
