@@ -2,6 +2,13 @@
 
 A computer becomes a 3Node when it boots Zero OS by downloading it over a network connection. For most farmers, this means copying a "bootstrap" file onto a USB flash drive. When the computer is instructed to boot from the USB stick, it bootstraps the system into a state where it can download and start the operating system.
 
+> __IMPORTANT:__ Disks won't be accepted as storage devices unless they're completely empty. 
+>Please ensure that all disks are wiped before booting the nodes. 
+Also when moving nodes from TFGrid2 to TFGrid3, this step is absolutely necessary.
+>
+> A way to do it: 
+> - Boot an arch linux from an USB stick and execute `wipefs -a -f /dev/sda/$YOURSSD`.
+
 ### Bootstrap
 
 Proceed to the [bootstrap site](http://v3.bootstrap.grid.tf) to generate your boot media. Enter your farm id and select the same network that your farm is registered on (note that mainnet is called "Production" here).
