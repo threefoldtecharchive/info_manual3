@@ -3,7 +3,8 @@
 The fastest way to mount a Presearch node on TFGrid3 is inside a VM. 
 
 Steps : 
-- Set up a VM, see [here](weblets_vm). In case you want to reserve a fix IP, you can do so, but as long as the node you select is connected to the internet through an IPv4 address that isn't used yet for a Presearch node, you don't explicitly need to reserve a public IPv4 address. 
+- Set up a VM, see [here](weblets_vm). It is recommended to reserve a fix IP. You can also try out the planetary network (so reserve a VM without public IP), as long as the node you select is connected to the internet through an IPv4 address that isn't used yet for a Presearch node, you don't explicitly need to reserve a public IPv4 address. However, the planetary network is still in beta phase and might generate performance issues. 
+- 1 CPU is enough for a PRE node. As we still need to install Docker on the VM, please choose 8192 memory size. 
 - Once your VM is set up, SSH into our machine. 
 
 ![](img/weblet_vm_overview.png)
@@ -30,16 +31,13 @@ sudo apt install apt-transport-https ca-certificates curl software-properties-co
 curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add - ;
 sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu focal stable" ; 
 ``` 
-Finally, install Docker: 
+Finally, install Docker. The Ubuntu machine does not come with `systemd`. The following does the trick : 
 
 ```
-sudo apt install docker-ce
+apt-get install docker-ce docker-ce-cli containerd.io
+apt-cache madison docker-ce
 ``` 
-The Ubuntu machine does not come with `systemd`. The following does the trick : 
 
-```
-dockerd &
-``` 
 Once Docker is set up, you can launch the PRE node instructions on your VM: 
 
 ```
