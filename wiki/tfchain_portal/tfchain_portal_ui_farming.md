@@ -39,6 +39,10 @@ In a first phase, farming of tokens still results in payout on the Stellar netwo
 
 Once you know your farmID, you can set up your node on TFGrid3. Click on `Take me to bootstrap page`.
 
+After booting a node, the info will become available in your portal, including the status info. 
+
+![](img/grid3_portal_node_info.png ':size=600')
+
 ## Capacity Explorer
 
 In the upper right corner, you can click on `CAPACITY EXPLORER` to get a view of all capacity connected to TFGrid v3. For more info, see [here](explorer_home).
