@@ -1,4 +1,4 @@
-# ThreeFold Grid v3.0.0 Alpha-1
+# TFGrid release 3.0
 
 ![](img/releasenotes.jpg)
 
