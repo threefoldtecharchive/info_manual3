@@ -18,7 +18,7 @@ Get yourself an account on TFChain
 - [Create Account for TFChain](tfchain_portal_polkadot_create_account)
 - [Activate your account on TFChain](tfchain_portal_ui_activation)
 
-## Create & Activate Your Account
+## Transfer TFT
 
 - [Manage your Tokens on TFChain](tfchain_portal_ui_tokens) e.g. transfer TFT to TFChain
 
