@@ -132,7 +132,8 @@ the cru/... are in bytes !
 
 ```graphql
 query MyQuery {
-  nodes(where: {cru_gt: "2", hru_gt: "5000", mru_gt: "500", sru_gt: "1000"}) {
+  nodes(where: {cru_gt: "2", hru_gt: "500000000", mru_gt: "50000000", sru_gt: "1000000000"}) {
+    nodeId
     cru
     hru
     mru
