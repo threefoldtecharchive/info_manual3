@@ -1,10 +1,41 @@
 # TF Grid DB client
 
+is written in vlang see https://vlang.io/
+
+source see https://github.com/threefoldtech/vgrid/tree/main/tfgriddb
+
+
+
+## Prerequisites
+
+- install vlang
+
+to install client do
+
+```
+v install https://github.com/threefoldtech/vgrid
+```
+
 ## Usage
 
+By default the client has a local cache which makes sure you are not hitting the graphql backend all the time.
+Caching happens in redis (if started on your local machine).
+
 ```v
+#import explorer client
+import threefoldtech.vgrid.explorer
+
 // Create a new instance of the client
-mut tfgrid := tfgrid.tfgrid_new() ?
+mut explorer := explorer.get(.test)
+
+//TO MAKE SURE CACHE IS EMPTY DO FOLLOWING
+explorer.cache_drop_all()?
+
+// mut r := explorer.twin_list()?
+mut r := explorer.nodes_list()?
+
+println(r)
+
 ```
 
 ## List entities

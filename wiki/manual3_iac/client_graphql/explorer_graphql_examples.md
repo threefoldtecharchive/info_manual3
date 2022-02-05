@@ -1,9 +1,63 @@
 Info on TFChain is indexed over GraphQL and is available for queries. 
+
 - [Devnet GraphQL](https://graphql.dev.grid.tf/graphql)
 - [Testnet GraphQL](https://graphql.test.grid.tf/graphql)
-- Mainnet -not live yet-
+- [Mainnet GraphQL](https://graphql.grid.tf/graphql)
 
 
+## getting lots of nodes
+
+```graphql
+query MyQuery {
+  nodes(orderBy: nodeId_ASC, limit: 5000, where: {
+      cru_gt: "2", hru_gt: "500000000", mru_gt: "50000000", sru_gt: "1000000000", 
+      deletedAt_eq: null
+    }) 
+    {
+    twinId
+    city
+    certificationType
+    country
+    created
+    createdById
+    cru
+    farmId
+    hru
+    id
+    uptime
+    version
+    mru
+    sru
+    nodeId
+    interfaces {
+      ips
+      name
+      node {
+        city
+        country
+        cru
+        hru
+        sru
+        mru
+      }
+    }
+    location {
+      latitude
+      longitude
+    }
+    publicConfig {
+      domain
+      gw4
+      gw6
+      ipv4
+      ipv6
+    }
+    deletedById
+  }
+}
+
+
+```
 
 ##  finding  gateways
 
@@ -72,6 +126,8 @@ query MyQuery {
 
 ```
 
+the cru/... are in bytes !
+
 ##  filtering nodes with capacity
 
 ```graphql
@@ -86,4 +142,6 @@ query MyQuery {
 
 ```
 
-> NOTE: most of this is available on [explorer](explorer_home)
+the cru/... are in bytes !
+
+> NOTE: most of this is available on our [explorer portal](explorer_home).

@@ -2,8 +2,8 @@
 - [**Manual 3 Home**](@manual3_home_new)
 -----------
 
-**client graphql**
+**GraphQL**
 
-- [Explorer API](@explorer_api)
-- [Explorer API Examples](@explorer_api_examples)
-- [Explorer Client](@explorer_client)
+- [Grapqhl Examples](@explorer_graphql_examples)
+- [V Explorer Client](@explorer_api)
+- [V Explorer API Examples](@explorer_api_examples)
