@@ -1,10 +1,10 @@
 # Profile Manager
 
-!!!include:weblets_play_go
+Currently, we're supporting three different networks. One for testing (Testnet) where you can find it at https://play.test.grid.tf, one for development purposes (Devnet) where you can find it at https://play.dev.grid.tf and last one is for our mainnet and you can find it at https://play.grid.tf.
 
 For example, using Devnet at https://play.dev.grid.tf
 
-![](img/dev-profile1.png)
+![](img/dev_profile1.png)
 
 Start by creating a profile from the upper right button. This creates a profile, saved and encrypted locally in your browser.
 
@@ -22,7 +22,7 @@ You'll need that password to be able to load your profiles afterwards from the *
 
 Start entering the following information required to create your new profile.
 
-![](img/dev-profile2.png)
+![](img/dev_profile2.png)
 
 - `Profile Name`: Any chosen name, makes it easy for you to remember between sessions.
 - `Mnemonics` are the secret words of your Polkadot account, [Generate yours here!](tfchain_portal_polkadot_create_account). 
@@ -30,4 +30,4 @@ Start entering the following information required to create your new profile.
 
 After you finish typing your credentials, click on **Activate**. Once your profile gets activated, you should find your **Twin ID** and **Address** generated under your ***Mnemonics*** for verification. Also, your **Account Balance** will be available at the top right corner under your profile name. 
 
-![](img/dev-profile3.png)
+![](img/dev_profile3.png)

@@ -1,1 +1,1 @@
-- Currently, we're supporting three different networks. One for testing (Testnet) where you can find it at https://play.test.grid.tf, one for development purposes (Devnet) where you can find it at https://play.dev.grid.tf and last one is for our mainnet and you can find it at https://play.grid.tf.
+- Go to https://play.grid.tf for Mainnet, https://play.dev.grid.tf for Devnet or https://play.test.grid.tf for Testnet.
