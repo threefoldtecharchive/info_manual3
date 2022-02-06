@@ -10,7 +10,7 @@ On the TF grid, Kubernetes clusters can be deployed out of the box. We have impl
 
 ### **Configs** tab
 
-![](img/kubernetes1.png)
+![](img/new-k8s1.png)
 
 - `Name`: Your Kubernetes Cluster name.
 - `Cluster Token`: It's used for authentication between your worker nodes and master node. You could use the auto-generated one or type your own.
@@ -20,8 +20,8 @@ On the TF grid, Kubernetes clusters can be deployed out of the box. We have impl
 
 ### **Master** and **Worker** tabs
 
-![](img/kubernetes2.png)
-![](img/kubernetes3.png)
+![](img/new-k8s2.png)
+![](img/new-k8s3.png)
 
 > Currently, we only support "single-master-multi-worker" k8s clusters. So you could always add more than one worker node by clicking on the **+** in the ***Worker*** tab.
 
@@ -76,10 +76,10 @@ Add or Remove workers in any **Kubernetes cluster**.
 ![](img/k8s_dl_2.png)
 
 - Add a new worker
-![](img/k8s_dl_3.png)
+![](img/new-k8s4.png)
 
 - Successfully added new worker
 ![](img/k8s_dl_4.png)
 
 - Delete a worker
-![](img/k8s_dl_5.png)
+![](img/new-k8s4.png)
