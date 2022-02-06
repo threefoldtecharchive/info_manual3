@@ -8,7 +8,7 @@
 
 __Process__
 
-![](img/weblet_peertube1.png)
+![](img/new-peer1.png)
 
 - Enter an Application Name. It's used in generating a unique subdomain on one of the gateways on the network alongside your twin ID. Ex. ***pt100peerprod*.gent02.dev.grid.tf**
 
@@ -18,11 +18,11 @@ __Process__
 
 - Either use the **Capacity Filter**. Which simply lets you pick a *Farm* and *Country*, after clicking on *Apply filters and suggest nodes* then it lists available nodes with these preferences and you pick.
 
-![](img/peertube1.png)
+![](img/new-peer2.png)
 
 - Or use **Manual** and type a specific node number to deploy on.
 
-![](img/peertube2.png)
+![](img/new-peer3.png)
 
 After that is done you can see a list of all of your deployed instances
 
