@@ -17,7 +17,7 @@ __Advantages__ :
 - [Kubernetes](weblets_k8s)
 - [Funkwhale](weblets_funkwhale)
 - [Peertube](weblets_peertube)
-
+- [Taiga]()
 
 ## Playground
 
