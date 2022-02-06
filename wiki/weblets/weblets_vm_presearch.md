@@ -36,6 +36,8 @@ Finally, install Docker. The Ubuntu machine does not come with `systemd`. The fo
 ```
 apt-get install docker-ce docker-ce-cli containerd.io
 apt-cache madison docker-ce
+
+dockerd &
 ``` 
 
 Once Docker is set up, you can launch the PRE node instructions on your VM: 
