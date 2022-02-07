@@ -30,7 +30,7 @@
   - [Taiga](weblets_taiga)
   - [Owncloud](weblets_owncloud)
   - [Discourse](weblets_discourse)
-  - [Mattermost](weblets_mattermost.md)
+  - [Mattermost](weblets_mattermost)
   - [Deployments List](weblets_deployments_list)
 - [Advanced](advanced)
 - [Help us test](@testing_home)
