@@ -27,6 +27,7 @@
   - [Kubernetes](weblets_k8s)
   - [Funkwhale](weblets_funkwhale)
   - [Peertube](weblets_peertube)
+  - [Taiga](weblets_taiga)
   - [Deployments List](weblets_deployments_list)
 - [Advanced](advanced)
 - [Help us test](@testing_home)
