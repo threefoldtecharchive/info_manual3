@@ -21,7 +21,7 @@ __Advantages__ :
 
 ## Playground
 
-Playground is available on [https://play.grid.tf](https://play.grid.tf)
+Playgrounds are available on [https://play.grid.tf](https://play.grid.tf) for Mainnet, [https://play.dev.grid.tf](https://play.dev.grid.tf) for Devnet and [https://play.test.grid.tf](https://play.test.grid.tf) for Testnet.
 
 ### limitations
 - can only deploy one thing at a time
