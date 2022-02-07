@@ -20,6 +20,7 @@ __Advantages__ :
 - [Taiga](weblets_taiga)
 - [Owncloud](weblets_owncloud)
 - [Discourse](weblets_discourse)
+- [Mattermost](weblets_mattermost.md)
 
 ## Playground
 
