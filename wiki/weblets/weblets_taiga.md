@@ -12,7 +12,7 @@ __Process__ :
 
 ![](img/taiga1.png)
 
-- Enter an Application Name. It's used in generating a unique subdomain on one of the gateways on the network alongside your twin ID. Ex. ***tg98myfunk*.gent02.dev.grid.tf**
+- Enter an Application Name. It's used in generating a unique subdomain on one of the gateways on the network alongside your twin ID. Ex. ***tg98taigar*.gent02.dev.grid.tf**
 
 - Enter administrator information including **Username**, **Email** and **Password**. This admin user will have full permission on the deployed instance.
 
