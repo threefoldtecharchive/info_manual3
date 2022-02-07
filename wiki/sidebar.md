@@ -28,6 +28,7 @@
   - [Funkwhale](weblets_funkwhale)
   - [Peertube](weblets_peertube)
   - [Taiga](weblets_taiga)
+  - [Owncloud](weblets_owncloud)
   - [Deployments List](weblets_deployments_list)
 - [Advanced](advanced)
 - [Help us test](@testing_home)
