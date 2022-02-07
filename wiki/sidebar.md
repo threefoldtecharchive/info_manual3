@@ -29,6 +29,7 @@
   - [Peertube](weblets_peertube)
   - [Taiga](weblets_taiga)
   - [Owncloud](weblets_owncloud)
+  - [Discourse](weblets_discourse)
   - [Deployments List](weblets_deployments_list)
 - [Advanced](advanced)
 - [Help us test](@testing_home)
