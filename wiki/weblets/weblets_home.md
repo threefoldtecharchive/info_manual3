@@ -17,12 +17,16 @@ __Advantages__ :
 - [Kubernetes](weblets_k8s)
 - [Funkwhale](weblets_funkwhale)
 - [Peertube](weblets_peertube)
-
+- [Taiga](weblets_taiga)
+- [Owncloud](weblets_owncloud)
+- [Discourse](weblets_discourse)
+- [Mattermost](weblets_mattermost)
 
 ## Playground
 
-Playground is available on [https://play.grid.tf](https://play.grid.tf)
+Playgrounds are available on [https://play.grid.tf](https://play.grid.tf) for Mainnet, [https://play.dev.grid.tf](https://play.dev.grid.tf) for Devnet and [https://play.test.grid.tf](https://play.test.grid.tf) for Testnet.
 
-### limitations
-- can only deploy one thing at a time
-- it may take sometime to deploy a solution like peertube, so you should wait a little bit until it's fully runningg
+## Limitations
+
+- Deploys one thing at a time.
+- Might take sometime to deploy a solution like Peertube, so you should wait a little bit until it's fully running.

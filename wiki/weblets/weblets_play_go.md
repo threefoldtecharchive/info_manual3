@@ -1,1 +1,1 @@
-- go to https://play.grid.tf or https://play.dev.grid.tf (development version, works on testnet too)
+- Go to https://play.grid.tf for Mainnet, https://play.dev.grid.tf for Devnet or https://play.test.grid.tf for Testnet.
