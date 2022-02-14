@@ -17,7 +17,6 @@ Make sure following is done:
 
 - make a directory for your project `mkdir myfirstproject`
 - `cd myfirstproject`
-- to initialize the repo `terraform init`
 
 - create `main.tf`  <- creates the terraform main file 
 
@@ -36,8 +35,7 @@ provider "grid" {
 }
 
 ```
-
-
+- to initialize the repo `terraform init`
 
 ## basic commands
 
