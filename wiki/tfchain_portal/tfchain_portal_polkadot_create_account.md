@@ -15,13 +15,11 @@ In the next screen, you can choose a network. Select `Allow use on any chain`. G
 
 ![](img/grid3_portal_create_account_2.png ':size=400')
 
-Once the account is generated, you can see it in the portal. 
+Once the account is generated, you can activate it by accepting the Terms & Conditions. 
+
+![](img/grid3_portal_terms_conditions.png ':size=600')
 
 !!!include:tfchain_portal_list
-
-![](img/grid3_portal_overview.png ':size=700')
-
-Click on `MANAGE` to continue. 
 
 >> PLEASE DO NOT FORGET TO REMEMBER YOUR MNEMONIC WORDS, YOU WILL NEED THEM IN NEXT STEPS.
 
