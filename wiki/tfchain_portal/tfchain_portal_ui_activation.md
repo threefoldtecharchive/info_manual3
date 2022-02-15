@@ -19,7 +19,7 @@ If not, no need to fill in the ip address, use ```127.0.0.1```.
 
 This address is reserved for future usage once the digital twin will launch.
 
-![](img/grid3_portal_fill_ipv6.png ':size=600')
+![](img/grid3_portal_fill_ipv6.png ':size=400')
 
 Submit the transaction using the password selected when creating the account.
 
@@ -29,6 +29,6 @@ The Twin IP can be modified at any moment.
 
 Shoud see something like:
 
-![](img/grid3_portal_twin_created.png)
+![](img/grid3_portal_twin_created.png ':size=600')
 
 !!!include:tfchain_portal_toc
