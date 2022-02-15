@@ -1,6 +1,6 @@
 # TF-Chain Portal Activation
 
-## Activate your Account 
+## Go to the Portal
 
 !!!include:tfchain_portal_list
 
