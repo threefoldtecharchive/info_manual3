@@ -15,7 +15,7 @@ In the next screen, you can choose a network. Select `Allow use on any chain`. G
 
 ![](img/grid3_portal_create_account_2.png ':size=400')
 
-Once the account is generated, you can activate it by accepting the Terms & Conditions. 
+Once the account is generated, activate it by accepting the Terms & Conditions. You will get prompted to sign in the Polkadot extension.
 
 ![](img/grid3_portal_terms_conditions.png ':size=600')
 
