@@ -4,7 +4,7 @@
 
 !!!include:tfchain_portal_list
 
-Activate your account by accepting the Terms & Conditions. 
+Activate your account by accepting the Terms & Conditions. You will get prompted to sign in the Polkadot extension. 
 
 ![](img/grid3_portal_terms_conditions.png ':size=600')
 
