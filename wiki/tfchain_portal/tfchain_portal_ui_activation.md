@@ -4,10 +4,6 @@
 
 !!!include:tfchain_portal_list
 
-Activate your account by accepting the Terms & Conditions. You will get prompted to sign in the Polkadot extension. 
-
-![](img/grid3_portal_terms_conditions.png ':size=600')
-
 ## Create a Twin
 
 A twin is a unique identifier of where you can be found digitally. Click on `CREATE TWIN` to register your Twin on TF-Chain. 
