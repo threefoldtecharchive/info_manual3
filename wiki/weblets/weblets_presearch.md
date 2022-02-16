@@ -37,7 +37,7 @@ After that is done you can see a list of all of your deployed instances
 
 ![](img/presearch4.png)
 
-Now if you had to your [dashboard](https://nodes.presearch.org/dashboard)again and scroll down to **Current Nodes**, you'll see your newly created node up and connected!
+Now head to your [dashboard](https://nodes.presearch.org/dashboard)again and scroll down to **Current Nodes**, you'll see your newly created node up and connected!
 
 ![](img/presearch5.png)
 
