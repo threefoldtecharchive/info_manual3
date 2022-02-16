@@ -1,7 +1,6 @@
 # Taiga
 
-[Taiga](https://funkwhale.audio/) is social platform to enjoy and share music.
-Funkwhale is a community-driven project that lets you listen and share music and audio within a decentralized, open network.
+[Taiga](https://www.taiga.io/) is the project management tool for multi-functional agile teams. It has a rich feature set and at the same time it is very simple to start with through its intuitive user interface.
 
 
 !!!include:weblets_play_go
