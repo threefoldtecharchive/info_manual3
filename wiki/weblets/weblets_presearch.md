@@ -10,11 +10,9 @@ __Process__
 
 ![](img/presearch1.png)
 
-- Enter an Application Name. It's used in generating a unique subdomain on one of the gateways on the network alongside your twin ID. Ex. ***pt100peerprod*.gent02.dev.grid.tf**
+- Enter an instance name, specs for memory and disk size you'll need.
 
 - You need to sign up on Presearch in order to get your *Presearch Registeration Code*. To sign up, go to [Presearch](https://presearch.org/), create your account and then head to your [dashboard](https://nodes.presearch.org/dashboard) to find your registration code.
-
-- Enter the specs you need from memory and disk size.
   
 - Choose a node to deploy your Presearch instance on.
 
@@ -30,8 +28,8 @@ After that is done you can see a list of all of your deployed instances
 
 ![](img/presearch4.png)
 
-Now if you had to your [dashboard](https://nodes.presearch.org/dashboard) again and scroll down to **Current Nodes**, you'll see your newly created node up and connected!
+Now if you had to your [dashboard](https://nodes.presearch.org/dashboard)again and scroll down to **Current Nodes**, you'll see your newly created node up and connected!
 
 ![](img/presearch5.png)
 
-You should visit [Presearch's docs](https://docs.presearch.org/) if you want to learn more!
+You should visit Presearch's [docs](https://docs.presearch.org/)if you want to learn more!
