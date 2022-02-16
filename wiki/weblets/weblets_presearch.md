@@ -1,0 +1,37 @@
+# Presearch
+
+[Presearch](https://www.presearch.io/)is a community-powered, decentralized search engine that provides better results while protecting your privacy and rewarding you when you search.
+
+!!!include:weblets_play_go
+- Make sure you have an activated [profile](weblets_profile_manager)
+- Click on the **Presearch** tab
+
+__Process__
+
+![](img/presearch1.png)
+
+- Enter an Application Name. It's used in generating a unique subdomain on one of the gateways on the network alongside your twin ID. Ex. ***pt100peerprod*.gent02.dev.grid.tf**
+
+- You need to sign up on Presearch in order to get your *Presearch Registeration Code*. To sign up, go to [Presearch](https://presearch.org/), create your account and then head to your [dashboard](https://nodes.presearch.org/dashboard) to find your registration code.
+
+- Enter the specs you need from memory and disk size.
+  
+- Choose a node to deploy your Presearch instance on.
+
+- Either use the **Capacity Filter**. Which simply lets you pick a *Farm* and *Country*, after clicking on *Apply filters and suggest nodes* then it lists available nodes with these preferences and you pick.
+
+![](img/presearch2.png)
+
+- Or use **Manual** and type a specific node number to deploy on.
+
+![](img/presearch3.png)
+
+After that is done you can see a list of all of your deployed instances
+
+![](img/presearch4.png)
+
+Now if you had to your [dashboard](https://nodes.presearch.org/dashboard) again and scroll down to **Current Nodes**, you'll see your newly created node up and connected!
+
+![](img/presearch5.png)
+
+You should visit [Presearch's docs](https://docs.presearch.org/) if you want to learn more!
