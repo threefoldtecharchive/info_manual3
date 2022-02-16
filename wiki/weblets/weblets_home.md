@@ -21,6 +21,7 @@ __Advantages__ :
 - [Owncloud](weblets_owncloud)
 - [Discourse](weblets_discourse)
 - [Mattermost](weblets_mattermost)
+- [Presearch](weblets_presearch.md)
 
 ## Playground
 
