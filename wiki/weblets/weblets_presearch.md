@@ -24,7 +24,7 @@ __Process__
 
 ![](img/presearch3.png)
 
-## Now what if you already have a Presearch node deployed somewhere and would like to migrate to Threefold?
+### Now what if you already have a Presearch node deployed somewhere and would like to migrate to Threefold?
 
 We got you! All you need to do is:
 
