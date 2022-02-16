@@ -24,6 +24,14 @@ __Process__
 
 ![](img/presearch3.png)
 
+Now what if you already have a Presearch node deployed somewhere and would like to migrate to Threefold?
+
+1. All you need to do is to login to your old server that has your node via SSH.
+2. Run `docker cp presearch-node:/app/node/.keys presearch-node-keys` in order to generate your key-pair.
+3. Head to the *Restore* tab in the Presearch weblet and paste your key-pair in the fields below and you'll be good to deploy!
+
+![](img/presearch6.png)
+
 After that is done you can see a list of all of your deployed instances
 
 ![](img/presearch4.png)
