@@ -1,6 +1,6 @@
 # Presearch
 
-[Presearch](https://www.presearch.io/)is a community-powered, decentralized search engine that provides better results while protecting your privacy and rewarding you when you search.
+[Presearch](https://www.presearch.io/) is a community-powered, decentralized search engine that provides better results while protecting your privacy and rewarding you when you search. This weblet deploys a Presearch node. Presearch Nodes are used to process user search requests, and node operators earn Presearch PRE tokens for joining and supporting the network.
 
 !!!include:weblets_play_go
 - Make sure you have an activated [profile](weblets_profile_manager)
@@ -12,11 +12,11 @@ __Process__
 
 - Enter an instance name, specs for memory and disk size you'll need.
 
-- You need to sign up on Presearch in order to get your *Presearch Registeration Code*. To sign up, go to [Presearch](https://presearch.org/), create your account and then head to your [dashboard](https://nodes.presearch.org/dashboard) to find your registration code.
+- You need to sign up on Presearch in order to get your *Presearch Registration Code*. To sign up, go to [Presearch](https://presearch.org/), create your account and then head to your [dashboard](https://nodes.presearch.org/dashboard) to find your registration code.
   
 - Choose a node to deploy your Presearch instance on.
 
-- Either use the **Capacity Filter**. Which simply lets you pick a *Farm* and *Country*, after clicking on *Apply filters and suggest nodes* then it lists available nodes with these preferences and you pick.
+- Either use the **Capacity Filter** which simply lets you pick a *Farm* and *Country*, after clicking on *Apply filters and suggest nodes* then it lists available nodes with these preferences and you pick.
 
 ![](img/presearch2.png)
 
@@ -41,4 +41,4 @@ Now head to your [dashboard](https://nodes.presearch.org/dashboard)again and scr
 
 ![](img/presearch5.png)
 
-You should visit Presearch's [docs](https://docs.presearch.org/)if you want to learn more!
+You should visit Presearch's [docs](https://docs.presearch.org/) if you want to learn more!
