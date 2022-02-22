@@ -22,6 +22,7 @@ __Advantages__ :
 - [Discourse](weblets_discourse)
 - [Mattermost](weblets_mattermost)
 - [Presearch](weblets_presearch)
+- [CasperLabs](weblets_casper.md)
 
 ## Playground
 

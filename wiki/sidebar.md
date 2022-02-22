@@ -32,6 +32,7 @@
   - [Discourse](weblets_discourse)
   - [Mattermost](weblets_mattermost)
   - [Presearch](weblets_presearch)
+  - [CasperLabs](weblets_casper)
   - [Deployments List](weblets_deployments_list)
 - [Advanced](advanced)
 - [Help us test](@testing_home)
