@@ -22,7 +22,7 @@ __Advantages__ :
 - [Discourse](weblets_discourse)
 - [Mattermost](weblets_mattermost)
 - [Presearch](weblets_presearch)
-- [CasperLabs](weblets_casper.md)
+- [CasperLabs](weblets_casper)
 
 ## Playground
 
@@ -30,5 +30,6 @@ Playgrounds are available on [https://play.grid.tf](https://play.grid.tf) for Ma
 
 ## Limitations
 
+- Regarding browser support, we're only supporting Google Chrome browser at the moment with more browsers to be supported soon. 
 - Deploys one thing at a time.
 - Might take sometime to deploy a solution like Peertube, so you should wait a little bit until it's fully running.
