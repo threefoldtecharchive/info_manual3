@@ -23,7 +23,7 @@
  
 ## tfchain explorer v3.0.0-rc19
 
-- certifcation type filter
+- certification type filter
 - adding certification type to nodes
 - add zos version to node details
 - update map to reflect the selected node 
@@ -33,7 +33,7 @@
 - showing online / offline nodes
 - showing number of available IPs in a farm 
 - adding favicon
-- satistics page improvements
+- statistics page improvements
 
 ## ZOS v3.0.4
 
@@ -111,11 +111,6 @@ Following list is incomplete but gives some issues to think about.
 - Terraform projects [don't reflect in the weblets](https://github.com/threefoldtech/terraform-provider-grid/issues/146)
 - Can't detach public IP from a VM and removing it from a contract [issue](https://github.com/threefoldtech/tfchain_pallets/issues/73), please note you can still create each in separate contracts.
 
-
-
-
-
-
 # ThreeFold Release Notes TFGrid 3.0.0 Alpha 1 (Live on mainnet)
 
 - [TFgrid 3.0 announcement](https://forum.threefold.io/t/announcement-of-tfgrid-3-0/1132)
@@ -135,8 +130,8 @@ Following list is incomplete but gives some issues to think about.
 ## Admin Portal
 
 - Creation of twins
-- Bridge from and to stellar
-- Farm management
+- Bridge from and to Stellar
+- Farm Management
  
 
 ## Tfchain explorer
