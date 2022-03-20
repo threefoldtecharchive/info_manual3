@@ -4,7 +4,7 @@ Currently, we're supporting three different networks. One for testing (Testnet) 
 
 For example, using Devnet at https://play.dev.grid.tf
 
-![](img/dev_profile1.png)
+![](img/profile-manager1.png)
 
 Start by creating a profile from the upper right button. This creates a profile, saved and encrypted locally in your browser.
 
