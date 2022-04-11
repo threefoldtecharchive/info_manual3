@@ -5,9 +5,12 @@ This should be a simple intro for developers or operations
 
 ### Private network (ZNET)
 
-For a project that needs a private network, we need a network that can span across multiple nodes, this can be achieved by the network workload reservation [Network](@threefold:tfgrid_networking_toc)
+For a project that needs a private network, we need a network that can span across multiple nodes.
+
+See znet .
 
 ### Planetary network
+
 For a project that want their workloads directly connected to the planetary network we will need the option planetary enabled when deploying a VM or kubernetes. Check [Planetary network](threefold:planetary_network) for more info about 
 
 ### Public IPs

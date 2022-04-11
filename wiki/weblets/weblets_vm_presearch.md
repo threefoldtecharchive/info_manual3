@@ -14,7 +14,7 @@ For the VM having an IP address you can enter the terminal command
 ssh root@185.206.122.162
 ```
 
-If you didn't reserve a public IPv4 address, you can ssh into your machine using the IPv6 address. Peopl doing this, should however first set up their identity in the Planetary Network with Yggdrasil. See [here](manual__yggdrasil_client) to know how to do this. 
+If you didn't reserve a public IPv4 address, you can ssh into your machine using the IPv6 address. Peopl doing this, should however first set up their identity in the Planetary Network with Yggdrasil. See [here](yggdrasil_client) to know how to do this. 
 
 ```
 ssh root@300:aa1b:e91b:720f:ae5f:8991:6df8:1ec9
