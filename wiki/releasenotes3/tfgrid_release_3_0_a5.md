@@ -1,5 +1,6 @@
 # ThreeFold Grid v3.0.0 Alpha - 5 Release Note
 
+This is the release note of TFGrid v3.0.0 Alpha 5. It includes updates, improvements and fixes of numerous grid components as described below.
 
 ## TFT Shop v1.1.0
 
@@ -15,8 +16,6 @@ On this v1.1.0 release, we are giving users another **option to buy TFT by using
 This new feature release of ZOS v3.1.0 includes a lot of improvements such as **improvements on performance issues** (disk and IO), grid events handling, and improvement on the current yggdrasil network by start and maintaining our public peers.
 
 ### ZOS Supoort Dedicated Nodes
-
-Project: https://github.com/threefoldtech/home/issues/1156
 
 To empower community-driven decentralization on the TFGrid, we would like to soon invite anyone to deploy their own solutions on the TFGrid. This is feasible to do by allowing any external developers to** deploy their own workloads on** **dedicated nodes** and provide the deployment documentation. By choosing to deploy on dedicated nodes, a user can reserve an entire node, then use it exclusively to deploy solutions for themselves or for other customers. Therefore on this release we are happy to announce that we are supporting dedicated nodes deployment, apply the dedicated node contracts on TFChain and support mechanism on ZOS' next release.
 
@@ -38,10 +37,6 @@ We have added **capacity sizing** for each deployment, such as: “small”, “
 ### Uhuru Backend Changes
 
 [Uhuru](www.uhuru.me) is a digital product on top of a the TFGrid that enhance collaboration with features such as chat, videocall, office tools, and file storage, all in one platform. You can visit [beta.uhuru.me](beta.uhuru.me) to try its latest beta release of v.1.0.0.
-
-On this release, a big backend change was required to actually communicate using the [RMB (Remote Message Bus)](https://github.com/threefoldtech/rmb) and include the full stack on TFGrid. In this version we are not changing anything on Uhuru functionally, but we have included the backend changes needed to execute necessary fixes.
-
-To decentralize this entirely, we will search other addresses on the blockchain, through RMB. Included as a result of these major backend changes, there will be a lot of bug fixing and rewriting flows/code to work with the new backend.
 
 
 ## ThreeFold Wallet v3.0.0
@@ -65,10 +60,6 @@ Recently a change was made within the codes of TFChain, thus broke the farm mana
 ### Generic Frontend and Backend Improvements
 This new feature release of TFConnect App includes new features such as **enabling user to sign documents on the app** directly, and many other backend improvements.
 
-### Planetary network v0.2.0 iOS
-
-On last release, we have officially released Planetary Network v0.2.0 on TFConnect App - Android. On this release we are releasing** Planetary Network v0.2.0 on TFConnect App on iOS**. Planetary Network is your gateway to access ThreeFold’s p2p internet. Click here to read more about[ TF Planetary Network](https://library.threefold.me/info/manual/#/manual__yggdrasil_client). 
-
 ### Integrate TFConnect SSO to TFPlay Solutions
 
 We need to simplify peer-to-peer collaboration and how users interact with their TFPlay solutions. On this release, we have eliminated a complicated way of signing up to solutions (emails, username and password) by replacing it using **TFConnect app SSO login**. Therefore on this release, we successfully created TFConnect Native SSO backend environments for the following TFPlay solutions**: Discourse. Mattermost, and Gitea, that will allow users to sign in and start using the solutions with just few clicks.
@@ -77,13 +68,13 @@ We need to simplify peer-to-peer collaboration and how users interact with their
 
 ### ThreeFold DAO Pt. 2: Adjoint Validator-Council member request
 
-From version 3.0 on, [ThreeFold Grid operates as a DAO](https://library.threefold.me/info/threefold#/tfgrid/threefold__dao). On the last release of TFChain v1.0.0,  we have successfully implemented The first TF-DAO that allows farmers to request to become DAO council members. 
+From version 3.0 on, [ThreeFold Grid operates as a DAO](https://library.threefold.me/info/threefold#/tfgrid/threefold__dao). On the last release of TFChain v1.0.0,  we have successfully implemented The first TF-DAO that allows users to request to become DAO council members. 
 
-On this release we also have successfully implemented **ThreeFold DAO Request part 2 where any farmer could request to become an adjoint validator-council member**: by running a a validator node, not only that they become a validator, they would also gain a seat as DAO council member that give them the right to vote for organizational changes.
+On this release we also have successfully implemented **ThreeFold DAO Request part 2 where any user could request to become an adjoint validator-council member**: by running a a validator node, not only that they become a validator, they would also gain a seat as DAO council member that give them the right to vote for organizational changes.
 
 ### ThreeFold DAO Pt. 2: Enable Validator Application
 
-On this release we implemented ThreeFold DAO Request part 2 any farmer could **apply to become a validator **and register the validator application on-chain if they meet the validator requirements.
+On this release we implemented ThreeFold DAO Request part 2 any user could **apply to become a validator **and register the validator application on-chain if they meet the validator requirements.
 
 ## TFGrid Client Proxy v1.2.0
 
@@ -93,6 +84,3 @@ TFGrid Client Proxy contains list of farms, nodes and node details information o
 
 One of the key advantages of applying REST APIs is that they provide a great deal of flexibility. Data is not tied to resources or methods, so REST can handle multiple types of calls, return different data formats and even change structurally with the correct implementation of hypermedia. This would be beneficial to **make the way we handle datas of farms and nodes on TFGrid more flexible and independent. 
 **
-
-
-
