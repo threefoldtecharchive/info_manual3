@@ -23,7 +23,7 @@ To empower community-driven decentralization on the TFGrid, we would like to soo
 ## TF Playground v3.0.0 Alpha-5
 
 ### New community and blockchain solutions
-On the last release, we have added new deployable community solutions on TF Playground, such as Peertube, Funkwhale and Taiga, Mattermost as well as some developer tools like CapRover, Virtual Machine, Kubernetes and Owncloud.
+On the last release, we have added new deployable community solutions on [TF Playground](https://play.grid.tf/#/), such as Peertube, Funkwhale and Taiga, Mattermost as well as some developer tools like CapRover, Virtual Machine, Kubernetes and Owncloud.
 
 On this release, we have added **community and blockchain solutions** such as Discourse (forum), Presearch Node and Casperlabs validator node.
 
