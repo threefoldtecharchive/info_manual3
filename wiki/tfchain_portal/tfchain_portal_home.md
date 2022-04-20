@@ -36,3 +36,7 @@ A twinIP can be edited at any moment. Simply update the field and sign afterward
 Probably not needed right now.
 
 !!!def alias:tf_chain_portal
+
+## Dedicated Nodes
+Rent a whole node to serve your solutions.
+[Dedicated Nodes](tfchain_portal_dedicated_nodes.md)
