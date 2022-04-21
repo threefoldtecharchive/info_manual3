@@ -22,11 +22,6 @@ To empower community-driven decentralization on the TFGrid, we would like to soo
 
 ## TF Playground v3.0.0 Alpha-5
 
-### New community and blockchain solutions
-On the last release, we have added new deployable community solutions on [TF Playground](https://play.grid.tf/#/), such as Peertube, Funkwhale and Taiga, Mattermost as well as some developer tools like CapRover, Virtual Machine, Kubernetes and Owncloud.
-
-On this release, we have added **community and blockchain solutions** such as Discourse (forum), Presearch Node and Casperlabs validator node.
-
 ### UX Improvements: Simplified Solution Deployment Sizing
 On this release we have created **UX improvements on the existing TF Playground** website to provide a better experience for our users. One of them is by simplifying solution deployment processes by adding deployment size options.
 
@@ -75,12 +70,3 @@ On this release we also have successfully implemented **ThreeFold DAO Request pa
 ### ThreeFold DAO Pt. 2: Enable Validator Application
 
 On this release we implemented ThreeFold DAO Request part 2 any user could **apply to become a validator **and register the validator application on-chain if they meet the validator requirements.
-
-## TFGrid Client Proxy v1.2.0
-
-### Implement REST API
-
-TFGrid Client Proxy contains list of farms, nodes and node details information on the TFGrid. On this release of TFGrid Client Proxy, we have implemented REST API:  a set of application integration protocols that follows the **REST- (REpresentational State Transfer)** architectural style for distributed hypermedia systems. 
-
-One of the key advantages of applying REST APIs is that they provide a great deal of flexibility. Data is not tied to resources or methods, so REST can handle multiple types of calls, return different data formats and even change structurally with the correct implementation of hypermedia. This would be beneficial to **make the way we handle datas of farms and nodes on TFGrid more flexible and independent. 
-**
