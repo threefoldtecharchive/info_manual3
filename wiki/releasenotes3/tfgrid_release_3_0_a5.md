@@ -4,7 +4,7 @@ This is the release note of TFGrid v3.0.0 Alpha 5. It includes updates, improvem
 
 ## TFT Shop v1.1.0
 
-On the first initial release of TFT Shop v1.0.0, we have made it easier for users to buy TFT by trading their BTC on our official [TFT Shop website](https://gettft.com/gettft/).
+On the first initial release of TFT Shop v1.0.0, we have made it easier for users to buy TFT by BTC on the [TFT Shop website](https://gettft.com/gettft/).
 
 On this v1.1.0 release, we are giving users another **option to buy TFT by using fiat currency**. This is made possible by integrating [mercuryo.io](http://www.mercuryo.io/) (third-party) widget onto the shop. By buying TFT using TFT Shop, you confirm that you have read and agree to [ThreeFold’s terms and conditions](https://library.threefold.me/info/legal/#/legal__terms_conditions_gettft).
 
