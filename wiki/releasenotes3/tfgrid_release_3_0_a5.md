@@ -22,10 +22,10 @@ To empower community-driven decentralization on the TFGrid, we would like to soo
 
 ## TF Playground v3.0.0 Alpha-5
 
-### UX Improvements: Simplified Solution Deployment Sizing
-On this release we have created **UX improvements on the existing TF Playground** website to provide a better experience for our users. One of them is by simplifying solution deployment processes by adding deployment size options.
+### New community and blockchain solutions
+On the last release, we have added new deployable community solutions on [TF Playground](https://play.grid.tf/#/), such as Peertube, Funkwhale and Taiga, Mattermost as well as some developer tools like CapRover, Virtual Machine, Kubernetes and Owncloud.
 
-We have added **capacity sizing** for each deployment, such as: “small”, “medium” and “large”. Each size requires a different capacity amount. For example, an ‘S’ size for a Funkwhale deployment, would need a different capacity amount to ‘S size for a Peertube deployment.
+On this release, we have added **community and blockchain solutions** such as Discourse (forum), Presearch Node and Casperlabs validator node.
 
 ## Uhuru v1.1 (beta)
 
