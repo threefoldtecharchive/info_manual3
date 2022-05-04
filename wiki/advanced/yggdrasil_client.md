@@ -127,6 +127,6 @@ You'll need this address when registering your twin on TF Chain in the next step
 
         systemctl restart yggdrasil
 
-# Desktop apps
+# Clients
 
-- [yggdrassil connector](https://github.com/MohamedElmdary/yggdrasil-connector)
+- [planetary network connector](https://github.com/threefoldtech/planetary_network)
