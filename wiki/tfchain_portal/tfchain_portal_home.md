@@ -39,4 +39,4 @@ Probably not needed right now.
 
 ## Dedicated Nodes
 Rent a whole node to serve your solutions.
-[Dedicated Nodes](tfchain_portal_dedicated_nodes.md)
+[Dedicated Nodes](tfchain_portal_dedicated_nodes)
