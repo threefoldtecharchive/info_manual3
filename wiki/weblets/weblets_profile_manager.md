@@ -1,9 +1,11 @@
 # Profile Manager
 
-Currently, we're supporting three different networks. One for testing (Testnet) where you can find it at https://play.test.grid.tf, one for development purposes (Devnet) where you can find it at https://play.dev.grid.tf and last one is for our mainnet and you can find it at https://play.grid.tf.
+Currently, we're supporting three different networks.
+- One for development purposes (Devnet) where you can find it at https://play.dev.grid.tf 
+- One for testing (Testnet) where you can find it at https://play.test.grid.tf,
+- One for our mainnet and you can find it at https://play.grid.tf.
 
-For example, using Devnet at https://play.dev.grid.tf
-
+    
 ![](img/profile_manager1.png)
 
 Start by creating a profile from the upper right button. This creates a profile, saved and encrypted locally in your browser.

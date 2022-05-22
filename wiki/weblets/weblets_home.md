@@ -1,32 +1,41 @@
 # Weblets
 
-Weblets are a super cool way how to deploy solutions on our tfgrid.
+Weblets are a UI tool helps to deploy solutions on TF Grid v3.
 
-A weblet is a compiled javascript component which can be embedded in any website.
-The weblet uses the TFChain javascript client to talk directly to TFChain and ZOS enabled nodes over RMB.
+A weblet is a compiled javascript web component which can be embedded in HTML page of a web app.
+
+The backend for the weblets is introduced with [grid client](../manual3_iac/grid3_javascript/) which communicate to TF Chain and TF Grid over RMB.
 
 __Advantages__ :
 
-- It makes it very easy to deploy a solution
+- It is a non-code easy way to deploy a whole solution on the Grid.
 - It is 100% decentralized, there is no server involved
 
-## Some cool weblets to start with
+## Weblets list
 
-- [Caprover](weblets_caprover)
-- [Virtual Machine](weblets_vm)
-- [Kubernetes](weblets_k8s)
-- [Funkwhale](weblets_funkwhale)
-- [Peertube](weblets_peertube)
-- [Taiga](weblets_taiga)
-- [Owncloud](weblets_owncloud)
-- [Discourse](weblets_discourse)
-- [Mattermost](weblets_mattermost)
-- [Presearch](weblets_presearch)
-- [CasperLabs](weblets_casper)
+There are several weblets you can use like: 
+    - Basic Environments:
+      - [Virtual Machine](weblets_vm)
+      - [Kubernetes](weblets_k8s)
+    - Ready Comunity Soutions
+      - [Caprover](weblets_caprover)
+      - [Funkwhale](weblets_funkwhale)
+      - [Peertube](weblets_peertube)
+      - [Taiga](weblets_taiga)
+      - [Owncloud](weblets_owncloud)
+      - [Discourse](weblets_discourse)
+      - [Mattermost](weblets_mattermost)
+      - [Presearch](weblets_presearch)
+      - [CasperLabs](weblets_casper)
+    - Some utils:
+      - [Profile Manager](weblets_profile_manager)
+      - [Deployment List](weblets_deployments_list)
 
 ## Playground
-
-Playgrounds are available on [https://play.grid.tf](https://play.grid.tf) for Mainnet, [https://play.dev.grid.tf](https://play.dev.grid.tf) for Devnet and [https://play.test.grid.tf](https://play.test.grid.tf) for Testnet.
+Playground is a Vue app that has the weblets imbededd. so you can try it out on different TF Chain networks.
+- [https://play.dev.grid.tf](https://play.dev.grid.tf) for Devnet 
+- [https://play.test.grid.tf](https://play.test.grid.tf) for Testnet.
+- [https://play.grid.tf](https://play.grid.tf) for Mainnet, 
 
 ## Limitations
 

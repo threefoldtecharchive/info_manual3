@@ -10,11 +10,12 @@ __Process__
 
 ![](img/new_peer1.png)
 
-- Enter an Application Name. It's used in generating a unique subdomain on one of the gateways on the network alongside your twin ID. Ex. ***pt100peerprod*.gent02.dev.grid.tf**
-
-- Enter required capacity for this Peertube instance, **Disk** will be the storage capacity for videos. Better to have a look at this [FAQ](https://joinpeertube.org/faq#should-i-have-a-big-server-to-run-peertube) for more insights about server requirements.
-
-- Choose a node to deploy your Peertube instance on.
+- Enter an Application Name. It's used in generating a unique subdomain on one of the gateways on the network alongside your twin ID. 
+  the applied format `<solution-code><twin-id><solution-name>.<gateway-subdomain>` Ex. ***pt100peerprod*.gent02.dev.grid.tf**
+- Enter an email and password which will be used for the admin login.
+- Select a capacity package:
+  !!!code url:https://github.com/threefoldtech/grid_weblets/blob/261b7e99d9965a8ba427c3f9804c8e147c42d6ec/src/elements/peertube/Peertube.wc.svelte#L42-L46
+- Select a node to deploy your Peertube instance on.
 
 - Either use the **Capacity Filter**. Which simply lets you pick a *Farm* and *Country*, after clicking on *Apply filters and suggest nodes* then it lists available nodes with these preferences and you pick.
 

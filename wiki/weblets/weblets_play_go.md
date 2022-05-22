@@ -1,1 +1,4 @@
-- Go to https://play.grid.tf for Mainnet, https://play.dev.grid.tf for Devnet or https://play.test.grid.tf for Testnet.
+- Choose one of the networks:
+  -  https://play.dev.grid.tf for Devnet.
+  -  https://play.test.grid.tf for Testnet.
+  -  https://play.grid.tf for Mainnet.
