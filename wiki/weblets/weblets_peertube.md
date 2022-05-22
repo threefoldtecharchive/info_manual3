@@ -14,7 +14,8 @@ __Process__
   the applied format `<solution-code><twin-id><solution-name>.<gateway-subdomain>` Ex. ***pt100peerprod*.gent02.dev.grid.tf**
 - Enter an email and password which will be used for the admin login.
 - Select a capacity package:
-  !!!code url:https://github.com/threefoldtech/grid_weblets/blob/261b7e99d9965a8ba427c3f9804c8e147c42d6ec/src/elements/peertube/Peertube.wc.svelte#L42-L46
+!!!code url:https://github.com/threefoldtech/grid_weblets/blob/261b7e99d9965a8ba427c3f9804c8e147c42d6ec/src/elements/peertube/Peertube.wc.svelte#L42-L46
+
 - Select a node to deploy your Peertube instance on.
 
 - Either use the **Capacity Filter**. Which simply lets you pick a *Farm* and *Country*, after clicking on *Apply filters and suggest nodes* then it lists available nodes with these preferences and you pick.
