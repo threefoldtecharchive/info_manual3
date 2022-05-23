@@ -15,7 +15,13 @@ __Process__ :
 
 - Enter administrator information including **Username**, **Email** and **Password**. This admin user will have full permission on the deployed instance.
 
-- Choose a node to deploy your Funkwhale instance on.
+- Select a capacity package:
+    - **Minimum**: { cpu: 2, memory: 1024 * 2, diskSize: 100 }
+    - **Standard**: { cpu: 2, memory: 1024 * 4, diskSize: 150 }
+    - **Recommended**: { cpu: 4, memory: 1024 * 4, diskSize: 250 }
+    - Or choose a **Custom** plan
+
+- Select a node to deploy your Taiga instance on.
 
 - Either use the **Capacity Filter**. Which simply lets you pick a *Farm* and *Country*, after clicking on *Apply filters and suggest nodes* then it lists available nodes with these preferences and you pick.
 

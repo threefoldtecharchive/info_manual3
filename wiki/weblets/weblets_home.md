@@ -14,22 +14,25 @@ __Advantages__ :
 ## Weblets list
 
 There are several weblets you can use like: 
-    - Basic Environments:
-      - [Virtual Machine](weblets_vm)
-      - [Kubernetes](weblets_k8s)
-    - Ready Comunity Soutions
-      - [Caprover](weblets_caprover)
-      - [Funkwhale](weblets_funkwhale)
-      - [Peertube](weblets_peertube)
-      - [Taiga](weblets_taiga)
-      - [Owncloud](weblets_owncloud)
-      - [Discourse](weblets_discourse)
-      - [Mattermost](weblets_mattermost)
-      - [Presearch](weblets_presearch)
-      - [CasperLabs](weblets_casper)
-    - Some utils:
-      - [Profile Manager](weblets_profile_manager)
-      - [Deployment List](weblets_deployments_list)
+
+- Basic Environments:
+  - [Virtual Machine](weblets_vm)
+  - [Kubernetes](weblets_k8s)
+
+- Ready Comunity Soutions
+  - [Caprover](weblets_caprover)
+  - [Funkwhale](weblets_funkwhale)
+  - [Peertube](weblets_peertube)
+  - [Taiga](weblets_taiga)
+  - [Owncloud](weblets_owncloud)
+  - [Discourse](weblets_discourse)
+  - [Mattermost](weblets_mattermost)
+  - [Presearch](weblets_presearch)
+  - [CasperLabs](weblets_casper)
+
+- Some utils:
+  - [Profile Manager](weblets_profile_manager)
+  - [Deployment List](weblets_deployments_list)
 
 ## Playground
 Playground is a Vue app that has the weblets imbededd. so you can try it out on different TF Chain networks.

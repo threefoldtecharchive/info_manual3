@@ -14,7 +14,10 @@ __Process__
   the applied format `<solution-code><twin-id><solution-name>.<gateway-subdomain>` Ex. ***pt100peerprod*.gent02.dev.grid.tf**
 - Enter an email and password which will be used for the admin login.
 - Select a capacity package:
-!!!code url:https://github.com/threefoldtech/grid_weblets/blob/261b7e99d9965a8ba427c3f9804c8e147c42d6ec/src/elements/peertube/Peertube.wc.svelte#L42-L46
+    - **Minimum**: { cpu: 1, memory: 1024, diskSize: 100 }
+    - **Standard**: { cpu: 2, memory: 1024 * 2, diskSize: 250 }
+    - **Recommended**: { cpu: 4, memory: 1024 * 4, diskSize: 500 }
+    - Or choose a **Custom** plan
 
 - Select a node to deploy your Peertube instance on.
 

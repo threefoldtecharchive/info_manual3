@@ -14,7 +14,8 @@ Start by creating a profile from the upper right button. This creates a profile,
 
 ![](img/pro_manager5.png)
 
-The **Profile Manager Password** is how you store your profile info locally, in your browser. So you shouldn't be sharing it with anyone and always remember it. Create a new profile by visiting the **Create Profile Manager** tab and enter your new password. After you're done, click on **Create New Profile Manager**. 
+The **Profile Manager Password** is how you store your profile info in browser local storage.
+Create a new profile by visiting the **Create Profile Manager** tab and enter your new password. After you're done, click on **Create New Profile Manager**. 
 
 You'll need that password to be able to load your profiles afterwards from the **Activate Profile Manager** tab.
 

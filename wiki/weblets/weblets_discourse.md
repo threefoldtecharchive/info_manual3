@@ -15,15 +15,19 @@ __Process__ :
 
 - Enter administrator information including **Email**. This admin will have full permission on the deployed instance.
 
-- Choose a node to deploy your Discourse instance on.
+- Select a capacity package:
+    - **Minimum**: {cpu: 1, memory: 1024 * 2, diskSize: 10 }
+    - **Standard**: {cpu: 2, memory: 1024 * 2, diskSize: 50 }
+    - **Recommended**: {cpu: 4, memory: 1024 * 4, diskSize: 100 }
+    - Or choose a **Custom** plan
+
+- Select a node to deploy your Discourse instance on.
 
 - Either use the **Capacity Filter**. Which simply lets you pick a *Farm* and *Country*, after clicking on *Apply filters and suggest nodes* then it lists available nodes with these preferences and you pick.
 
-![](img/discourse2.png)
 
 - Or use **Manual** and type a specific node number to deploy on.
 
-![](img/discourse3.png)
 
 Unlike other solutions, Discourse requires that you have an SMTP server. So make sure you fill the fields in the **Mail Server** tab in order to deploy your instance successfully.
 

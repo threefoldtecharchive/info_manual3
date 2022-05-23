@@ -18,11 +18,9 @@ __Process__
 
 - Either use the **Capacity Filter** which simply lets you pick a *Farm* and *Country*, after clicking on *Apply filters and suggest nodes* then it lists available nodes with these preferences and you pick.
 
-![](img/presearch2.png)
 
 - Or use **Manual** and type a specific node number to deploy on.
 
-![](img/presearch3.png)
 ### Now what if you already have a Presearch node deployed somewhere and would like to migrate to Threefold?
 
 We got you! All you need to do is:

@@ -15,7 +15,14 @@ __Process__ :
 
 - Enter administrator information including **Username** and **Password**. This admin user will have full permission on the deployed instance.
 
-- Choose a node to deploy your Owncloud instance on.
+
+- Select a capacity package:
+    - **Minimum**: { cpu: 2, memory: 1024 * 16, diskSize: 250 }
+    - **Standard**: { cpu: 2, memory: 1024 * 16, diskSize: 500 }
+    - **Recommended**: { cpu: 4, memory: 1024 * 16, diskSize: 1000 }
+    - Or choose a **Custom** plan
+
+- Select a node to deploy your OwnCloud instance on.
 
 - Either use the **Capacity Filter**. Which simply lets you pick a *Farm* and *Country*, after clicking on *Apply filters and suggest nodes* then it lists available nodes with these preferences and you pick.
 

@@ -18,8 +18,12 @@ __Process__ :
 
 - Choose a node to deploy your Funkwhale instance on.
 - Select a capacity package:
-!!!code url:https://github.com/threefoldtech/grid_weblets/blob/261b7e99d9965a8ba427c3f9804c8e147c42d6ec/src/elements/funkwhale/Funkwhale.wc.svelte#L51-L55
+    - **Minimum**: {cpu: 2, memory: 1024, diskSize: 50 }
+    - **Standard**: {cpu: 2, memory: 1024 * 2, diskSize: 100 }
+    - **Recommended**: {cpu: 4, memory: 1024 * 4, diskSize: 250 }
+    - Or choose a **Custom** plan
 
+- Select a node to deploy your Funkwhale instance on.
 - Either use the **Capacity Filter**. Which simply lets you pick a *Farm* and *Country*, after clicking on *Apply filters and suggest nodes* then it lists available nodes with these preferences and you pick.
 
 ![](img/new_funk2.png)
