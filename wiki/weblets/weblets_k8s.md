@@ -32,6 +32,8 @@ Once the cluster is ready, you can SSH into the cluster using `ssh root@IP`
 
 Onced connected via SSH, you can execute commands on the cluster like `kubectl get nodes`, and to get the kubeconfig, you can find it in `/root/.kube/config` 
 
+> if it doesn't exist in `/root/.kube/config` it can be in `/etc/rancher/k3s/k3s.yaml`
+
 example:
 
 ```
