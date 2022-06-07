@@ -30,7 +30,6 @@ You can attach one or more disks to the Virtual Machine by clicking on the Disks
    - Disk size
    - Mount point
 
-![](img/weblet_vm4.png)
 in the bottom of the page you can see a list of all of the virual machines you deployed. you can click on `Show details` for more details
 
 ![](img/weblet_vm5.png)

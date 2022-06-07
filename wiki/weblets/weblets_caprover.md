@@ -39,16 +39,13 @@ It has following benefits :
 
 - Choose a node to deploy Caprover on.
 - Either use the **Capacity Filter**. Which simply lets you pick a *Farm* and *Country*, after clicking on *Apply filters and suggest nodes* then it lists available nodes with these preferences and you pick. 
-
-![](img/new_cap2.png)   
+ 
     
 - Or use **Manual** and type a specific node number to deploy on.
 
-![](img/new_cap3.png)  
 
 - Be very careful about the domain name: it needs to be a wildcard domain name you can configure in your chosen domain name system.
 
-![](img/caprover_deploying.png)
 
 Deployment will take couple of minutes.
 

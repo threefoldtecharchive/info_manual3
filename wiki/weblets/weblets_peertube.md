@@ -23,11 +23,11 @@ __Process__
 
 - Either use the **Capacity Filter**. Which simply lets you pick a *Farm* and *Country*, after clicking on *Apply filters and suggest nodes* then it lists available nodes with these preferences and you pick.
 
-![](img/new_peer2.png)
+
 
 - Or use **Manual** and type a specific node number to deploy on.
 
-![](img/new_peer3.png)
+
 
 After that is done you can see a list of all of your deployed instances
 

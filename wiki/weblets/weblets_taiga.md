@@ -25,11 +25,11 @@ __Process__ :
 
 - Either use the **Capacity Filter**. Which simply lets you pick a *Farm* and *Country*, after clicking on *Apply filters and suggest nodes* then it lists available nodes with these preferences and you pick.
 
-![](img/taiga2.png)
+
 
 - Or use **Manual** and type a specific node number to deploy on.
 
-![](img/taiga3.png)
+
 
 There's also an optional **Mail Server** tab if you'd like to have your Taiga instance configured with an SMTP server.
 
