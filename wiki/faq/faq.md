@@ -1,4 +1,4 @@
-![wethreepedia_faq_poster](faq/img/wethreepedia_faq_poster.jpg)
+![wethreepedia_faq_poster](img/wethreepedia_faq_poster.jpg)
 
 ***
     Welcome to the Threefold FAQ!
@@ -330,7 +330,7 @@
 ***
 
 # GENERAL FAQ
-![wethreepedia_grid](faq/img/tf_general.jpg)
+![wethreepedia_grid](img/tf_general.jpg)
 ## Basic Facts
 ***
 
@@ -842,7 +842,7 @@ If you are not deploying/doing things on the TF Grid (dev, test or mainnet) you 
 
 # USER FAQ
 
-![wethreepedia_grid](faq/img/tf_grid.png)
+![wethreepedia_grid](img/tf_grid.png)
 
 
 ## TF Grid Functionalities
@@ -1025,7 +1025,7 @@ Note: There will not be an automatic function in the app to create a new wallet.
 ***
 
 # DEVELOPER FAQ
-![wethreepedia_developer](faq/img/wethreepedia_developer.png)
+![wethreepedia_developer](img/wethreepedia_developer.png)
 
 ## General Information for Developer
 ***
@@ -1086,7 +1086,7 @@ Of course! And they'll be happy to help you. [Reach the TF community on Telegram
 ***
 
 # VALIDATOR FAQ
-![wethreepedia_validator](faq/img/wethreepedia_validator.jpg)
+![wethreepedia_validator](img/wethreepedia_validator.jpg)
 
 ## General Information of Validator
 
@@ -1239,7 +1239,7 @@ We're looking forward to driving the expansion and decentralization of the Three
 ***
 
 # FARMER FAQ
-![wethreepedia_grid](faq/img/3nodes.png)
+![wethreepedia_grid](img/3nodes.png)
 ## TFT Farming Basics
 
 ***
@@ -1320,7 +1320,7 @@ Each period has: 2630880 seconds = 43848 minutes = 730.8 hours. For more info, c
 
 The minting period for the months of the year 2022 are the following:
 
-![threefold_minting_2022](faq/img/minting2022.png) 
+![threefold_minting_2022](img/minting2022.png) 
 
 ***
 
@@ -2643,4 +2643,4 @@ If you have any question, you can ask the Threefold community via the Threefold 
 
 > Note 2: This is a collective effort. A big  ***Thank You***  to the great Threefold Community. Many Q+A are contributions from the enthusiast farmers, users and developers of the ever-growing Threefold community.
 
-![wethreepedia_grid](faq/img/tf_grid_3nodes.png)
+![wethreepedia_grid](img/tf_grid_3nodes.png)
