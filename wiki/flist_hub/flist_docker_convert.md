@@ -10,7 +10,6 @@ docker push <image_name>
    ![](img/docker_convert.png)
 
 3. Copy the name of the uploaded Docker image to the Docker Image Name field.
-   ![](img/docker_field.png)
 
 4. Then press the convert button.
 
