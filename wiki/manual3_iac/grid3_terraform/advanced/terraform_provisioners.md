@@ -4,7 +4,7 @@
 
 In this example we will see how to deploy a VM and apply provisioner commands on it on the Threefold grid v3
 
-!!!code url:'https://github.com/threefoldtech/terraform-provider-grid/blob/development/examples/resources/external_provisioner/main.tf'
+!!!code url:'https://github.com/threefoldtech/terraform-provider-grid/blob/development/examples/resources/external_provisioner/remote-exec_hello-world/main.tf'
 
 ## Params docs
 ### Requirements
