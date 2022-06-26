@@ -33,6 +33,7 @@
   - [Mattermost](weblets_mattermost)
   - [Presearch](weblets_presearch)
   - [CasperLabs](weblets_casper)
+  - [Node Pilot](weblets_nodepilot)
   - [Deployments List](weblets_deployments_list)
 - [Advanced](advanced)
 - [Help us test](@testing_home)
