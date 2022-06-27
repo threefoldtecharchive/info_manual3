@@ -1,9 +1,10 @@
 # Profile Manager
 
-Currently, we're supporting three different networks.
-- One for development purposes (Devnet) where you can find it at https://play.dev.grid.tf 
-- One for testing (Testnet) where you can find it at https://play.test.grid.tf,
-- One for our mainnet and you can find it at https://play.grid.tf.
+Currently, we're supporting four different networks.
+- One for development purposes (Devnet) where you can find it at https://play.dev.grid.tf
+- One for internal testing and verifications (QAnet) where you can find it at https://play.qa.grid.tf
+- One for testing (Testnet) where you can find it at https://play.test.grid.tf
+- One for our mainnet and you can find it at https://play.grid.tf
 
     
 ![](img/profile_manager1.png)

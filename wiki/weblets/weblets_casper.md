@@ -12,6 +12,12 @@ __Process__ :
 
 - Enter an Application Name. It's used in generating a unique subdomain on one of the gateways on the network alongside your twin ID. Ex. ***cl98casp*.gent02.dev.grid.tf**
 
+- Select a capacity package:
+    - **Minimum**: {cpu: 1, memory: 1024 * 4, diskSize: 100 }
+    - **Standard**: {cpu: 2, memory: 1024 * 16, diskSize: 500 }
+    - **Recommended**: {cpu: 4, memory: 1024 * 32, diskSize: 1000 }
+    - Or choose a **Custom** plan
+
 - Choose a node to deploy your Casperlabs instance on.
 
 - Either use the **Capacity Filter**. Which simply lets you pick a *Farm* and *Country*, after clicking on *Apply filters and suggest nodes* then it lists available nodes with these preferences and you pick.
