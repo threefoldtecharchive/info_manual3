@@ -41,6 +41,7 @@
 - [Roadmap](threefold:roadmap_grid)
   - [Release Notes](releasenotes3)
   - [What's New](grid3_new)
+- [FAQ](faq)
 ------------
 - [Legal](!@legal:legal_home)
 
