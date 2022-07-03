@@ -4,7 +4,7 @@ Weblets are a UI tool helps to deploy solutions on TF Grid v3.
 
 A weblet is a compiled javascript web component which can be embedded in HTML page of a web app.
 
-The backend for the weblets is introduced with [grid client](../manual3_iac/grid3_javascript/) which communicate to TF Chain and TF Grid over RMB.
+The backend for the weblets is introduced with [grid client](../manual3_iac/grid3_javascript/grid3_javascript_home) which communicate to TF Chain and TF Grid over RMB.
 
 __Advantages__ :
 
@@ -19,7 +19,7 @@ There are several weblets you can use like:
   - [Virtual Machine](weblets_vm)
   - [Kubernetes](weblets_k8s)
 
-- Ready Comunity Soutions
+- Ready Community Solutions:
   - [Caprover](weblets_caprover)
   - [Funkwhale](weblets_funkwhale)
   - [Peertube](weblets_peertube)
@@ -36,10 +36,11 @@ There are several weblets you can use like:
   - [Deployment List](weblets_deployments_list)
 
 ## Playground
-Playground is a Vue app that has the weblets imbededd. so you can try it out on different TF Chain networks.
-- [https://play.dev.grid.tf](https://play.dev.grid.tf) for Devnet 
+Playground is a Vue app that has the weblets embedded. so you can try it out on different TF Chain networks.
+- [https://play.dev.grid.tf](https://play.dev.grid.tf) for Devnet.
+- [https://play.qa.grid.tf](https://play.qa.grid.tf) for QAnet.
 - [https://play.test.grid.tf](https://play.test.grid.tf) for Testnet.
-- [https://play.grid.tf](https://play.grid.tf) for Mainnet, 
+- [https://play.grid.tf](https://play.grid.tf) for Mainnet.
 
 ## Limitations
 

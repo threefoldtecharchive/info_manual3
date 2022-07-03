@@ -10,7 +10,7 @@ __Process__
 
 ![](img/presearch1.png)
 
-- Enter an instance name, specs for memory and disk size you'll need.
+- Enter an instance name.
 
 - You need to sign up on Presearch in order to get your *Presearch Registration Code*. To sign up, go to [Presearch](https://presearch.org/), create your account and then head to your [dashboard](https://nodes.presearch.org/dashboard) to find your registration code.
   

@@ -14,9 +14,9 @@ __Process__ :
 - Enter an Application Name. It's used in generating a unique subdomain on one of the gateways on the network alongside your twin ID. Ex. ***matter*.gent02.dev.grid.tf**
 
 - Select a capacity package:
-    - **Minimum**: {cpu: 1, memory: 1024 * 2}
-    - **Standard**: {cpu: 2, memory: 1024 * 4}
-    - **Recommended**: {cpu: 4, memory: 1024 * 4 }
+    - **Minimum**: {cpu: 1, memory: 1024 * 2, diskSize: 10 }
+    - **Standard**: {cpu: 2, memory: 1024 * 4, diskSize: 50 }
+    - **Recommended**: {cpu: 4, memory: 1024 * 4, diskSize: 100 }
     - Or choose a **Custom** plan
 
 - Select a node to deploy your MatterMost instance on.
@@ -26,7 +26,9 @@ __Process__ :
 
 - Or use **Manual** and type a specific node number to deploy on.
 
-- Mattermost requires an SMTP server. So make sure you have one configured and fill the fields with its credentials.
+- There's also an optional **Mail Server** tab if you'd like to have your Mattermost instance configured with an SMTP server.
+
+   ![](img/mattermost3.png)
 
 After that is done you can see a list of all of your deployed instances
 

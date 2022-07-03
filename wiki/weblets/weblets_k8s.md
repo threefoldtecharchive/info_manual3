@@ -14,7 +14,6 @@ On the TF grid, Kubernetes clusters can be deployed out of the box. We have impl
 
 - `Name`: Your Kubernetes Cluster name.
 - `Cluster Token`: It's used for authentication between your worker nodes and master node. You could use the auto-generated one or type your own.
-- Your `Public SSH Key` is used to login into VM's, K8s clusters, etc..
 - `Network Name`: It's used for Wireguard's private network.
 - `Network IP Range`: It's a private subnet for Wireguard's network. You could use the auto-generated one or replace it with a **private** subnet.
 

@@ -1,8 +1,8 @@
-# Caprover
+# CapRover
 
 ![](img/caprover_1.png)
 
-About caprover
+About CapRover
 
 CapRover is an extremely easy to use app/database deployment & web server manager for your NodeJS, Python, PHP, ASP.NET, Ruby, MySQL, MongoDB, Postgres, WordPress (and etc...) applications!
 
@@ -37,6 +37,12 @@ It has following benefits :
 
 ![](img/new_cap1.png)
 
+- Select a capacity package:
+    - **Minimum**: {cpu: 1, memory: 1024, diskSize: 50 }
+    - **Standard**: {cpu: 2, memory: 1024 * 2, diskSize: 100 }
+    - **Recommended**: {cpu: 4, memory: 1024 * 4, diskSize: 250 }
+    - Or choose a **Custom** plan
+
 - Choose a node to deploy Caprover on.
 - Either use the **Capacity Filter**. Which simply lets you pick a *Farm* and *Country*, after clicking on *Apply filters and suggest nodes* then it lists available nodes with these preferences and you pick. 
  
@@ -51,12 +57,12 @@ Deployment will take couple of minutes.
 
 ### The Domain Name
 
-- e.g. I choose ```apps.openly.life``` which is a domain name who will point to the ip address of the CapRover (which we only know after install).
+- e.g. I picked ```apps.openly.life``` which is a domain name that will point to the ip address of the CapRover instance (which we only know after deployment).
 
 ![](img/domain_name_caprover_config.png)
 
 
-> Note how the *.apps.openly.life points to the public IPv4 address as has been returned from the deployment.
+> Note how the *.apps.openly.life points to the public IPv4 address that has been returned from the deployment.
 
 ### How to know what the IP address is?
 
