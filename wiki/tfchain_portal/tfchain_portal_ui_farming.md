@@ -27,6 +27,25 @@ Deleting IPv4 addresses is also possible here. The `Deployed Contract ID` gives 
 
 ![](img/grid3_portal_ip_result.png ':size=400')
 
+## Adding public configuration
+
+![set public config](img/tfchain_portal_farming_publicconfig.png)
+
+You have to set the required values:
+- `ipv4` is the public IPv4 assigned to the node in CIDR format (x.x.x.x/mask)
+  (for example: 10.20.30.40/24)
+- `ipv6` (optional) is the public IPv6 assigned to the node in CIDR format (IP/prefix)
+- `gw4` gateway for ipv4
+- `gw6` (optional) gateway for ipv6
+- `domain` (optional) assign a domain name
+
+> Note: For optional value enter the value `0x` for empty.
+
+`domain` is needed if the node will host named gateway workloads. Let's assume you own domain `farmer.com` and you wanna name your gateway `gateway.farmer.com` then:
+- `A` record `gatway.farmer.com` to node public IPV4
+- `CNAME` record `*.gateway.farmer.com` to `gateway.farmer.com`
+- `NS` record `_acme-challenge.gateway.farmer.com` to `gateway.farmer.com`
+
 ## Add a Stellar address for payout
 
 In a first phase, farming of tokens still results in payout on the Stellar network. So to get the farming reward, a Stellar address needs to be provided. 
