@@ -13,7 +13,7 @@
 - [Infrastructure As Code](manual3_iac_home)
     - [Terraform](@grid3_terraform_home)
     - [TypeScript Client](@grid3_javascript_home)
-    - [Query Interface TFChain](@graphql)
+    <!-- - [Query Interface TFChain](@graphql) -->
     - [RMB Proxy](@grid_proxy)
 - [Farming](farming)
   - [Create a Farm](create_farm)
