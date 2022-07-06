@@ -51,8 +51,12 @@ See [pricing](tfchain_pricing) for more information on how the cost for a contra
 
 ## Contract locking
 
-To not overload the chain with transfer events and others we choose to lock the amount due for a contract every hour and after 24 hours unlock the amount and deduct it in 1 go.
+To not overload the chain with transfer events and others we choose to lock the amount due for a contract every hour and after 24 hours unlock the amount and deduct it in 1 go. This lock is saved on a user's account, if the user has multiple contracts the locked amount will be stacked.
 
 ## Contract grace period
 
-When the owner of a contract runs out funds on his wallet to pay for his deployment the contract goes in to a Grace Period state. The deployment, whatever that might be, will be unaccessible during this period to the user. When the wallet is funded with TFT again, the contract goes back to a normal operating state.
+When the owner of a contract runs out funds on his wallet to pay for his deployment, the contract goes in to a Grace Period state. The deployment, whatever that might be, will be unaccessible during this period to the user. When the wallet is funded with TFT again, the contract goes back to a normal operating state. If the grace period runs out (by default 2 weeks) the user's deployment and data will be deleted from the node.
+
+## Dao
+
+See [dao](tfchain_dao) for more information on the DAO on TF Chain.
