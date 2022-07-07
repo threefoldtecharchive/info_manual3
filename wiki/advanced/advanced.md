@@ -9,8 +9,8 @@ Advanced topics to do with TFGrid 3.0.
 
 ### Data Interface
 
-- [Query Interface TFChain = graphql](@graphql)
-  - [GraphQL support, a query language](explorer_graphql_intro)
+<!-- - [Query Interface TFChain = graphql](@graphql)
+  - [GraphQL support, a query language](explorer_graphql_intro) -->
 - [RMB Proxy](@grid_proxy)
 
 ### Howto's

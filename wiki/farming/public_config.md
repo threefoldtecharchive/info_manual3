@@ -30,3 +30,5 @@ You have to set the required values:
 - `A` record `gatway.farmer.com` to node public IPV4
 - `CNAME` record `*.gateway.farmer.com` to `gateway.farmer.com`
 - `NS` record `_acme-challenge.gateway.farmer.com` to `gateway.farmer.com`
+
+
