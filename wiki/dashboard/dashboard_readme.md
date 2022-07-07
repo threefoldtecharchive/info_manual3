@@ -1,11 +1,22 @@
 ## Dashboard
-Is a unified admin interface for everything related to Threefold Grid. 
+The dashboard is a unified admin interface for everything related to Threefold Grid such as:
 
 - Twin management
+![twin mgmt](img/dashboard_portal_twin.png)
 - Farms management
+![farm mgmt](img/dashboard_portal_farms.png)
 - Nodes management
+![nodemgmt](img/dashboard_portal_nodes.png)
 - TFChain DAO
-- Explorer
-    - exploring nodes
-    - exploring farms
-    - exploring grid statistics
+![dao](img/dashboard_dao.png)
+- Swapping with Binance and Stellar
+![swap](img/dashboard_swap.png)
+- Transferring money to other tfchain user
+![transfer](img/dashboard_portal_transfer.png)
+
+- Exploring Threefold nodes
+![nodes](img/dashboard_explorer_nodes.png)
+- Exploring farms
+![farms](img/dashboard_explorer_farms.png)
+- Grid statistics
+![stats](img/dasboard_explorer_statistics.png)
