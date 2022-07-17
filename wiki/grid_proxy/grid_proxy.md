@@ -1,8 +1,13 @@
-<!-- Generator: Widdershins v4.0.1 -->
-
 <h1 id="grid-proxy-server-api">Grid Proxy Server API v1.0</h1>
 
-grid proxy server has the main methods to list farms, nodes, node details in the grid.
+What is Grid Proxy Server API?
+
+The Grid Proxy Server API is a set of web services that allow developers to access the data about TF grid. The API design is flexible and easy to use, allowing developers to integrate the data into their applications. API provides access to data items such nodes, farms, and contracts. The API is available in REST architecture with JSON responses.
+
+How do I Use Grid Proxy Server API?
+
+For trying the API you can use the swagger to make live calls to the API server, or use one of the API client libraries to make calls to the API server.
+in the doc, You will also find some sample codes written in Bash, Python and javascript, which you can use to test the API alongside the API specs and documentation.
 
 Base URLs:
 
@@ -11,7 +16,11 @@ Base URLs:
 * <a href="https://gridproxy.qa.grid.tf">https://gridproxy.qa.grid.tf</a> - QA Network
 * <a href="https://gridproxy.grid.tf">https://gridproxy.grid.tf</a> - Main Network
 
+Try it for yourself
+
 Swagger:
+
+swagger is an interactive tool to make live calls to the API server
 
 * <a href="https://gridproxy.dev.grid.tf/swagger/index.html">https://gridproxy.dev.grid.tf/swagger/index.html</a> - Dev Network
 * <a href="https://gridproxy.test.grid.tf/swagger/index.html">https://gridproxy.test.grid.tf/swagger/index.html</a> - Test Network
@@ -21,6 +30,12 @@ Swagger:
 Installation and Production setup:
 
 * <a href="https://github.com/threefoldtech/tfgridclient_proxy">Github Documentation</a>
+
+Using Client Libraries:
+
+While you can use Grid Proxy Server APIs directly by making raw requests to the server, client libraries provide simplifications that significantly reduce the amount of code you need to write.
+
+* V lang: <a href="https://github.com/threefoldtech/vgrid/tree/development/gridproxy">VGrid Documentation</a> 
 
 License: <a href="http://www.apache.org/licenses/LICENSE-2.0.html">Apache 2.0</a>
 
