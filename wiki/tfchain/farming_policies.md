@@ -9,7 +9,7 @@ A farming policy has the following fields:
 - Default. This indicates if the policy can be used by any new node (if the parent farm does not have a dedicated attached policy). Essentially, a `Default` policy serves as a base which can be overriden per farm by linking a non default policy to said farm.
 - Reward tft per CU, SU and NU
 - Minimal uptime needed in percentage (can be decimal e.g. 99.8%)
-- Policy end date (After this data the policy can not be linked to new farms any more)
+- Policy end date (After this date the policy can not be linked to new farms any more)
 - If this policy is immutable or not. Immutable policies can never be changed again
 
 Additionally, we also use the following fields, though those are only useful for `Default` farming policies:
