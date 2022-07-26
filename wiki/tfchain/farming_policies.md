@@ -39,14 +39,18 @@ Once a limit is reached, the farming policy is removed from the farm, so new nod
 
 ## Creating a Policy
 
-A council member can create a Farming Policy in the following way:
+A council member can create a Farming Policy (DAO) in the following way:
 
 1: Open [PolkadotJS](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.grid.tf#/council/motions) apps on the corresponding network and go to `Council`
 2: Create a council motion (proposal). Click on `Propose motion`
 3: Now select the account to propose from (should be an account that's a council member).
-4: Select a threshold (amount of council members to approve the motion)
-5: As action, select `tfgridModule` -> `createFarmingPolicy` and fill in all the fields.
-6: If all the fields are filled in, click `Propose`. Now other council members can vote, if there are enought votes, the proposal should be closed. This `Close` action will show in the UI once there are enough votes.
+4: Select as proposal `dao` -> `propose`
+5: Set a threshold (amount of farmers to vote)
+6: Select an actions `tfgridModule` -> `createFarmingPolicy` and fill in all the fields.
+7: Create a forum post with the details of the farming policy and fill in the link of that post in the `link` field
+8: Give it some good description.
+9: Duration is optional (by default it's 7 days)
+10: If all the fields are filled in, click `Propose`. Now Farmers can vote, if there are enough votes, the proposal should be closed. This `Close` action will show in the UI once there are enough votes.
 
 All (su, cu, nu, ipv4) values should be expressed in units USD. Minimal uptime should be expressed as integer that represents an percentage (example: `95`).
 
@@ -54,4 +58,25 @@ Policy end is optional (0 or some block number in the future). This is used for 
 
 For reference:
 
-![image](./img/create_policy.png)
+![image](./img/create_policy_dao.png)
+
+## Linking a policy to a Farm
+
+First identify the policy ID to link to a farm.
+
+1: Open [PolkadotJS](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.grid.tf#/council/motions) apps on the corresponding network and go to `Council`
+2: Create a council motion (proposal). Click on `Propose motion`
+3: Now select the account to propose from (should be an account that's a council member).
+4: Select as proposal `dao` -> `propose`
+5: Select threshold for this proposal to 1 (this means that it will directly become available to farmers to vote).
+6: Set a threshold (amount of farmers to vote)
+7: Select an actions `tfgridModule` -> `attachPolicyToFarm` and fill in all the fields (FarmID and Limits).
+8: Limits contains a `farming_policy_id` (Required) and cu, su, end, node count (which are all optional). It also contains `node_certification`, if this is set to true only certified nodes can have this policy.
+9: Create a forum post with the details of why we want to link that farm to that policy and fill in the link of that post in the `link` field
+10: Give it some good description.
+11: Duration is optional (by default it's 7 days)
+12: If all the fields are filled in, click `Propose`. Now Farmers can vote, if there are enough votes, the proposal should be closed. This `Close` action will show in the UI once there are enough votes.
+
+For reference:
+
+![image](./img/attach_policy.png)
