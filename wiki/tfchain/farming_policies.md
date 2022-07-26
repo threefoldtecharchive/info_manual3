@@ -30,6 +30,7 @@ Important here is that certification of a node only happens after it comes live 
 
 When a council member attaches a policy to a farm, limits can be set. These limits define how much a policy can be used for nodes, before it becomes unusable and gets removed. The limits currently are:
 
+- Farming Policy ID: the ID of the farming policy which we want to limit to a farm.
 - CU. Every time a node is added in the farm, it's CU is calculated and deducted from this amount. If the amount drops below 0, the maximum amount of CU that can be attached to this policy is reached.
 - SU. Every time a node is added in the farm, it's SU is calculated and deducted from this amount. If the amount drops below 0, the maximum amount of SU that can be attached to this policy is reached.
 - End date. After this date the policy is not effective anymore and can't be used. It is removed from the farm and a default policy is used.
@@ -41,16 +42,15 @@ Once a limit is reached, the farming policy is removed from the farm, so new nod
 
 A council member can create a Farming Policy (DAO) in the following way:
 
-1: Open [PolkadotJS](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.grid.tf#/council/motions) apps on the corresponding network and go to `Council`
-2: Create a council motion (proposal). Click on `Propose motion`
-3: Now select the account to propose from (should be an account that's a council member).
-4: Select as proposal `dao` -> `propose`
-5: Set a threshold (amount of farmers to vote)
+1: Open [PolkadotJS](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.grid.tf#/extrinsics) apps on the corresponding network and go to `Extrinsics`
+2: Now select the account to propose from (should be an account that's a council member).
+3: Select as action `dao` -> `propose`
+5: Set a `threshold` (amount of farmers to vote)
 6: Select an actions `tfgridModule` -> `createFarmingPolicy` and fill in all the fields.
 7: Create a forum post with the details of the farming policy and fill in the link of that post in the `link` field
-8: Give it some good description.
-9: Duration is optional (by default it's 7 days)
-10: If all the fields are filled in, click `Propose`. Now Farmers can vote, if there are enough votes, the proposal should be closed. This `Close` action will show in the UI once there are enough votes.
+8: Give it some good `description`.
+9: Duration is optional (by default it's 7 days). A proposal cannot be closed before the duration is "expired". If you wish to set a duration, the duration should be expressed in number of blocks from `now`. For example, 2 hours is equal to 1200 blocks (blocktime is 6 seconds) in this case, the duration should be filled in as `1200`.
+10: If all the fields are filled in, click `Propose`, now Farmers can vote. A proposal can be closed manually once there are enough votes AND the proposal is expired. To close go to extrinsics -> `dao` -> `close` -> fill in proposal hash and index (both can be found in chainstate).
 
 All (su, cu, nu, ipv4) values should be expressed in units USD. Minimal uptime should be expressed as integer that represents an percentage (example: `95`).
 
@@ -58,25 +58,23 @@ Policy end is optional (0 or some block number in the future). This is used for 
 
 For reference:
 
-![image](./img/create_policy_dao.png)
+![image](./img/create_policy.png)
 
 ## Linking a policy to a Farm
 
-First identify the policy ID to link to a farm.
+First identify the policy ID to link to a farm. You can check for farming policies in [chainstate](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.grid.tf#/chainstate) -> `tfgridModule` -> `farmingPolciesMap`, start with ID 1 and increment with 1 until you find the farming policy which was created when the proposal was expired and closed.
 
-1: Open [PolkadotJS](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.grid.tf#/council/motions) apps on the corresponding network and go to `Council`
-2: Create a council motion (proposal). Click on `Propose motion`
-3: Now select the account to propose from (should be an account that's a council member).
-4: Select as proposal `dao` -> `propose`
-5: Select threshold for this proposal to 1 (this means that it will directly become available to farmers to vote).
-6: Set a threshold (amount of farmers to vote)
-7: Select an actions `tfgridModule` -> `attachPolicyToFarm` and fill in all the fields (FarmID and Limits).
-8: Limits contains a `farming_policy_id` (Required) and cu, su, end, node count (which are all optional). It also contains `node_certification`, if this is set to true only certified nodes can have this policy.
-9: Create a forum post with the details of why we want to link that farm to that policy and fill in the link of that post in the `link` field
-10: Give it some good description.
-11: Duration is optional (by default it's 7 days)
-12: If all the fields are filled in, click `Propose`. Now Farmers can vote, if there are enough votes, the proposal should be closed. This `Close` action will show in the UI once there are enough votes.
+1: Open [PolkadotJS](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.grid.tf#/extrinsics) apps on the corresponding network and go to `Extrinsics`
+2: Now select the account to propose from (should be an account that's a council member).
+3: Select as proposal `dao` -> `propose`
+4: Set a `threshold` (amount of farmers to vote)
+5: Select an actions `tfgridModule` -> `attachPolicyToFarm` and fill in all the fields (FarmID and Limits).
+6: Limits contains a `farming_policy_id` (Required) and cu, su, end, node count (which are all optional). It also contains `node_certification`, if this is set to true only certified nodes can have this policy.
+7: Create a forum post with the details of why we want to link that farm to that policy and fill in the link of that post in the `link` field
+8: Give it some good `description`.
+9: Duration is optional (by default it's 7 days). A proposal cannot be closed before the duration is "expired". If you wish to set a duration, the duration should be expressed in number of blocks from `now`. For example, 2 hours is equal to 1200 blocks (blocktime is 6 seconds) in this case, the duration should be filled in as `1200`.
+10: If all the fields are filled in, click `Propose`, now Farmers can vote. A proposal can be closed manually once there are enough votes AND the proposal is expired. To close go to extrinsics -> `dao` -> `close` -> fill in proposal hash and index (both can be found in chainstate).
 
 For reference:
 
-![image](./img/attach_policy.png)
+![image](./img/attach.png)
