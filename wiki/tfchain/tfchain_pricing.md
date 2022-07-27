@@ -56,11 +56,13 @@ First read the pricing from either:
 ```
 cost_usd_month = (CU * price CU in mUsd) * (SU * price SU in mUsd) * 24 (hours) * 30 (days) / 1000 (for conversion to usd)
 
-const_usd_month = (2 * 30.56) + (0.5 * 19.44) * 24 * 30 / 10000
+const_usd_month = (2 * 30.56) + (0.5 * 19.44) * 24 * 30 / 1000
 = 5.10048 USD / Month
 ```
 
 ### Getting the price from chain:
+
+Pricing defined on chain is in units usd (usd / 1e7). This is because we also work with the smallest unit of TFT on chain.
 
 Go to one of following links based on the network you are on:
 
@@ -110,11 +112,11 @@ Following similar object should be returned:
 }
 ```
 
-If for example you want to know the pricing in mUsd for `cu`
+If for example you want to know the pricing in mUsd for `cu` (price is expressed in units USD)
 
 ->
 
 ```
-cu (200000 / 1000)
-= 200 mUsd
+cu (200000 / 10000)
+= 20 mUsd
 ```
