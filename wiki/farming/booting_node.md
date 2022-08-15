@@ -27,3 +27,8 @@ You can use the Grid Explorer to check that your node is utilizing all of its di
 ### Finished
 
 That's it, you're now farming on ThreeFold Grid 3. Please considering sharing about your farm in [this thread](https://forum.threefold.io/t/lets-share-our-farming-setup/286) on our forum so other farmers can learn from your setup. You can also join our [farmers chat](https://t.me/threefoldfarmers) on Telegram for farming related discussion.
+
+### Further Resources
+
+For a very detailed explanation of the farm creation process, view [this forum post](https://forum.threefold.io/t/threefold-farming-guide-part-1/2989).
+For a TL;DR, view [this forum post](https://forum.threefold.io/t/creating-a-farm-with-diy-nodes-tl-dr/3290)
