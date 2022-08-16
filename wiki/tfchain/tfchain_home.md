@@ -67,6 +67,12 @@ See [farming_policies](farming_policies) for more information on the farming pol
 
 ## Node Connection price
 
-A connection price is set to every new Node that boots on the Grid. This connection price influences the amount of TFT farmed in a period. The connection price set on a node is permanent. The DAO can propose the increase / decrease of connection price. At the time of writing the connection price is set to $ 0.08. When the DAO proposes a connection price and the vote is passed, new nodes will attach to the new connection price.
+A connection price is set to every new Node that boots on the Grid. This connection price influences the amount of TFT farmed in a period. The connection price set on a node is permanent. The DAO can propose the increase / decrease of the connection price. At the time of writing the connection price is set to $ 0.08. When the DAO proposes a connection price and the vote is passed, new nodes will attach to the new connection price.
 
 See [tfchain_dao](tfchain_dao) on how the DAO can change the connection price.
+
+## Node Certifiers
+
+Node certifiers are entities who are allowed to set a node's certification level to `Certified`. The DAO can propose to add / remove entities that can certify nodes. This is usefull for allowing approved resellers of Threefold nodes to mark nodes as Certified. A certified farms 25% more tokens than `Diy` nodes.
+
+See [tfchain_dao](tfchain_dao) on how the DAO can add/remove node certifiers.

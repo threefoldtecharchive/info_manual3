@@ -76,3 +76,9 @@ Importantly all proposals have a description.
 Price expressed in Musd (usd * 1000)
 
 ![farming_policy](./img/create_policy.png)
+
+### Add / Remove node certifiers
+
+![add](./img/add_certifier.png)
+
+![remove](./img/remove_certifier.png)
