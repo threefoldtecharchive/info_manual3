@@ -17,6 +17,12 @@ __Process__
 - `Public IPv6` flag gives the virtual machine a Public IPv6
 
 - `Planetary Network` to connect the Virtual Machine to Planetary network
+
+- Select a capacity package:
+    - **Minimum**: { cpu: 1, memory: 1024 , diskSize: 50 }
+    - **Standard**: { cpu: 2, memory: 1024 * 2, diskSize: 100 }
+    - **Recommended**: { cpu: 4, memory: 1024 * 4, diskSize: 250 }
+    - Or choose a **Custom** plan
   
 - Choose a node to deploy your Presearch instance on.
 
