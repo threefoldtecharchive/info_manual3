@@ -18,14 +18,13 @@ __Process__
     - **Standard**: { cpu: 2, memory: 1024 * 2, diskSize: 250 }
     - **Recommended**: { cpu: 4, memory: 1024 * 4, diskSize: 500 }
     - Or choose a **Custom** plan
+- Choose a gateway node to deploy your Subsquid instance on.
 
 - Select a node to deploy your Peertube instance on.
 
-- Either use the **Capacity Filter**. Which simply lets you pick a *Farm* and *Country*, after clicking on *Apply filters and suggest nodes* then it lists available nodes with these preferences and you pick.
+  - Either use the **Capacity Filter**. Which simply lets you pick a *Farm* and *Country*, after clicking on *Apply filters and suggest nodes* then it lists available nodes with these preferences and you pick.
 
-
-
-- Or use **Manual** and type a specific node number to deploy on.
+  - Or use **Manual** and type a specific node number to deploy on.
 
 
 
