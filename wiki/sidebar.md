@@ -1,20 +1,23 @@
 - [**To Home Knowledgebase**](!@threefold:threefold_home)
+
 -----------
 **Manual 3.0**
+
 - [**Getting Started**](@tfgrid3_getstarted)
 - [How it works](grid3_howitworks)
 - [Concepts](manual3_home_new)
-    - [Grid Primitives](threefold:tfgrid_primitives)
-    - [Proof of Utilization](proof_of_utilization_manual)
+  - [Grid Primitives](threefold:tfgrid_primitives)
+  - [Proof of Utilization](proof_of_utilization_manual)
+- [Dashboard](dashboard_readme)
+  - [TFChain Portal](dashboard_portal_home)
+  - [TFGrid Explorer](explorer_home)
 - [TFGrid Tools](tfgrid_services)
-    - [TFChain Portal](tfchain_portal_home)
-    - [TFGrid Explorer](explorer_home)
-    - [Flist HUB](flist_hub)
+  - [Flist HUB](flist_hub)
 - [Infrastructure As Code](manual3_iac_home)
-    - [Terraform](@grid3_terraform_home)
-    - [TypeScript Client](@grid3_javascript_home)
+  - [Terraform](@grid3_terraform_home)
+  - [TypeScript Client](@grid3_javascript_home)
     <!-- - [Query Interface TFChain](@graphql) -->
-    - [RMB Proxy](@grid_proxy)
+  - [RMB Proxy](@grid_proxy)
 - [Farming](farming)
   - [Create a Farm](create_farm)
   - [Generate boot media](boot_media)
@@ -42,15 +45,15 @@
   - [Release Notes](releasenotes3)
   - [What's New](grid3_new)
 - [FAQ](faq)
-------------
-- [Legal](!@legal:legal_home)
 
+------------
+
+- [Legal](!@legal:legal_home)
 
 <!-- - [Definitions & Concepts](@threefold:definitions_concepts) -->
 <!-- - [Concepts](grid3_definitions) -->
 <!-- - [What you need to know](@grid3_developer_basics) -->
 <!-- - [How it works](grid3_howitworks) -->
-
 
 <!-- - [Howto](tfgrid3_howto)
   - [Planetary Network](@threefold:planetary_network)
