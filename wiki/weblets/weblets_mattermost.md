@@ -18,13 +18,15 @@ __Process__ :
     - **Standard**: {cpu: 2, memory: 1024 * 4, diskSize: 50 }
     - **Recommended**: {cpu: 4, memory: 1024 * 4, diskSize: 100 }
     - Or choose a **Custom** plan
+- Choose a gateway node to deploy your Mattermost instance on.
+
 
 - Select a node to deploy your MatterMost instance on.
 
-- Either use the **Capacity Filter**. Which simply lets you pick a *Farm* and *Country*, after clicking on *Apply filters and suggest nodes* then it lists available nodes with these preferences and you pick.
+    - Either use the **Capacity Filter**. Which simply lets you pick a *Farm* and *Country*, after clicking on *Apply filters and suggest nodes* then it lists available nodes with these preferences and you pick.
 
 
-- Or use **Manual** and type a specific node number to deploy on.
+    - Or use **Manual** and type a specific node number to deploy on.
 
 - There's also an optional **Mail Server** tab if you'd like to have your Mattermost instance configured with an SMTP server.
 

@@ -17,13 +17,14 @@ __Process__ :
     - **Standard**: {cpu: 2, memory: 1024 * 16, diskSize: 500 }
     - **Recommended**: {cpu: 4, memory: 1024 * 32, diskSize: 1000 }
     - Or choose a **Custom** plan
+- Choose a gateway node to deploy your CasperLabs instance on.
 
 - Choose a node to deploy your Casperlabs instance on.
 
-- Either use the **Capacity Filter**. Which simply lets you pick a *Farm* and *Country*, after clicking on *Apply filters and suggest nodes* then it lists available nodes with these preferences and you pick.
+    - Either use the **Capacity Filter**. Which simply lets you pick a *Farm* and *Country*, after clicking on *Apply filters and suggest nodes* then it lists available nodes with these preferences and you pick.
 
 
-- Or use **Manual** and type a specific node number to deploy on.
+    - Or use **Manual** and type a specific node number to deploy on.
 
 
 
