@@ -5,8 +5,6 @@ The dashboard is a unified admin interface for everything related to Threefold G
 ![twin mgmt](img/dashboard_portal_twin.png)
 - Farms management
 ![farm mgmt](img/dashboard_portal_farms.png)
-- Nodes management
-![nodemgmt](img/dashboard_portal_nodes.png)
 - TFChain DAO
 ![dao](img/dashboard_dao.png)
 - Swapping with Binance and Stellar

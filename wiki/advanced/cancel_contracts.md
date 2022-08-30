@@ -15,7 +15,7 @@ query MyQuery {
 
 ```
 
-replace `TWIN_ID` with your twin id. the information should be available on the [portal](tfchain_portal_home) 
+replace `TWIN_ID` with your twin id. the information should be available on the [portal](dashboard_portal_home)
 
 then from [polkadot UI](https://polkadot.js.org/apps/), add the tfchain endpoint ([threefold services](manual3_tfservices)) to development 
 
