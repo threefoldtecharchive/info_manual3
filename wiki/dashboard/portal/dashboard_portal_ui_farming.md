@@ -41,9 +41,15 @@ In a first phase, farming of tokens still results in payout on the Stellar netwo
 
 Once you know your farmID, you can set up your node on TFGrid3. Click on `View bootstrap`.
 
-After booting a node, the info will become available in your portal, including the status info.
+After booting a node, the info will become available in your portal, including the status info along with the minting and fixup receipts.
 
 ![ ](../img/dashboard_portal_node_info.png ':size=600')
+
+Clicking on the node statistics will open up a calendar where you can view the periods the node was minting or undergoing a fixup. Clicking on the periods will show a popup with the start and end datetimes, receipt hash and the amount of TFTs minted (if it is a minting receipt).
+
+![ ](../img/dashboard_portal_ui_nodes_minting.png ':size=600')
+
+You can also download a single node's receipts using the `Download Receipts` button within the node statistics. Moreover, you can download all of the nodes' receipts using the `Download Receipts` button on the top left corner of the farm nodes table.
 
 ## Capacity Explorer
 
