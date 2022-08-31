@@ -19,7 +19,7 @@ TODO: fixme `wss://` for tfchain
 - [TFGrid Proxy](https://gridproxy.dev.grid.tf)
 - [Grid Playground](https://play.grid.tf)
 - [PolkaUI](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.dev.grid.tf%2Fws)
-- [Dashboard](https://dashobard.dev.grid.tf)
+- [Dashboard](https://dashboard.dev.grid.tf)
 
 ## Testnet
 
@@ -34,7 +34,7 @@ TODO: fixme `wss://`for tfchain
 - [TFGrid Proxy](https://gridproxy.test.grid.tf)
 - [Grid Playground](https://play.grid.tf)
 - [PolkaUI](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.test.grid.tf%2Fws)
-- [Dashboard](https://dashobard.test.grid.tf)
+- [Dashboard](https://dashboard.test.grid.tf)
 
 ## Mainnet
 
