@@ -17,4 +17,4 @@ The dashboard is a unified admin interface for everything related to Threefold G
 - Exploring farms
 ![farms](img/dashboard_explorer_farms.png)
 - Grid statistics
-![stats](img/dasboard_explorer_statistics.png)
+![stats](img/dashboard_explorer_statistics.png)
