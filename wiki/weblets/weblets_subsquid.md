@@ -14,7 +14,7 @@ __Process__
 
 - Enter an endpoint for a supported substrate chain. You can find the list of endpoints of supported cahins [here](https://github.com/polkadot-js/apps/blob/master/packages/apps-config/src/endpoints/production.ts).
 
-- `Public IPv6` flag gives the virtual machine a Public IPv6
+- `Public IPv4` flag gives the virtual machine a Public IPv4
 
 - Select a capacity package:
     - **Minimum**: { cpu: 1, memory: 1024 , diskSize: 50 }
