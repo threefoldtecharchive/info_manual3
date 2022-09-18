@@ -2,7 +2,7 @@
 
 ## Go to the Portal
 
-!!!include:tfchain_portal_list
+!!!include:dashboard_portal_list
 
 ## Create a Twin
 
@@ -25,6 +25,6 @@ The Twin IP can be modified at any moment.
 
 Shoud see something like:
 
-![ ](../img/dashboard_portal_twin_created.png ':size=600')
+![ ](img/dashboard_portal_twin_created.png ':size=600')
 
-!!!include:tfchain_portal_toc
+!!!include:dashboard_portal_toc

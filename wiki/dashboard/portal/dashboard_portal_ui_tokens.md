@@ -6,11 +6,11 @@ The portal can be used to transfer TFTs between 2 accounts that exist on the sam
 
 > Remark: testnet and mainnet both have the same TFTs but as the 2 chains are different, there is no way to do a direct transfer between accounts on testnet and on mainnet.
 
-![ ](../img/dashboard_portal_transfer.png ':size=600')
+![ ](img/dashboard_portal_transfer.png ':size=600')
 
 Click on `Transfer` in the sidebar to get the transfer screen.
 
-![ ](../img/dashboard_portal_transfer_detail.png ':size=300')
+![ ](img/dashboard_portal_transfer_detail.png ':size=300')
 
 Fill in the recipient address, the amount of tokens to transfer, and click on `Submit`. Sign in the extension screen, and you're done !
 
@@ -37,11 +37,11 @@ Or
 
 Go to portal
 
-!!!include:tfchain_portal_list
+!!!include:dashboard_portal_list
 
 Click on `Swap` in the sidebar to get the transfer screen. Click `Deposit`
 
-![ ](../img/dashboard_portal_deposit_tft.png ':size=400')
+![ ](img/dashboard_portal_deposit_tft.png ':size=400')
 
 ### Withdraw
 
@@ -49,14 +49,14 @@ Sending tokens to the Stellar network can happen from this portal, after indicat
 
 Go to portal
 
-!!!include:tfchain_portal_list
+!!!include:dashboard_portal_list
 
 Click on `Swap` in the sidebar to get the transfer screen. Click `Withdraw`.
 
-![ ](../img/dashboard_portal_withdraw_tft.png ':size=400')
+![ ](img/dashboard_portal_withdraw_tft.png ':size=400')
 
 Click on `Submit` and sign using your password.
 
-![ ](../img/dashboard_portal_transaction_sign.png ':size=400')
+![ ](img/dashboard_portal_transaction_sign.png ':size=400')
 
-!!!include:tfchain_portal_toc
+!!!include:dashboard_portal_toc

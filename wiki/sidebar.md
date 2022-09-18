@@ -35,6 +35,7 @@
   - [Discourse](weblets_discourse)
   - [Mattermost](weblets_mattermost)
   - [Presearch](weblets_presearch)
+  - [Subsquid](weblets_subsquid)
   - [CasperLabs](weblets_casper)
   - [Node Pilot](weblets_nodepilot)
   - [Deployments List](weblets_deployments_list)
