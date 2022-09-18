@@ -29,11 +29,11 @@ A user can reserve an entire node then use it exclusively to deploy solutions.
 
 - See list of all dedicated node on `Dedicated Nodes` tab on the portal.
 
-    ![ ](../img/dedicated_nodes.png)
+    ![ ](img/dedicated_nodes.png)
   - Hover on price to see discount
   - Expand row to see more info on the node:
   
-    ![ ](../img/node_info.png)
+    ![ ](img/node_info.png)
     - Resources
     - Location
     - Possible Public Ips *this dependes on the farm it belongs to*
@@ -47,7 +47,7 @@ A user can reserve an entire node then use it exclusively to deploy solutions.
   - Type your password on the polkadot pop up window.
   - Wait for the pop up message said `Transaction succeeded`
 
-    ![ ](../img/rented_succeeded.png)
+    ![ ](img/rented_succeeded.png)
 
 - Unreserve a node:
   - Simply as reserving but another check will be done to check you don't have any active workoad on the node before unreserving.

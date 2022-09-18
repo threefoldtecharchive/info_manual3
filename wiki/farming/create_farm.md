@@ -1,16 +1,16 @@
 ## Create a farm
 
-On Grid 3, farms are registered on the ThreeFold blockchain, TF Chain. To do this, you can use the Portal interface. No TFT is required for this process, but you will need an [account](tfchain_portal_polkadot_create_account) within the [Polkadot browser extension](tfchain_portal_polkadot_widget).
+On Grid 3, farms are registered on the ThreeFold blockchain, TF Chain. To do this, you can use the Portal interface. No TFT is required for this process, but you will need an [account](dashboard_portal_polkadot_create_account) within the [Polkadot browser extension](dashboard_portal_polkadot_widget).
 
 The Grid has three subnetworks, devnet, testnet, and mainnet. Devnet and testnet are used for testing updates to Zero OS before they are deployed to mainnet. You will need to use the same network for your farm and boot media. If you're not sure, choose mainnet.
 
 Navigate to the appropriate portal for the network you are joining, linked below:
 
-!!!include:tfchain_portal_list
+!!!include:dashboard_portal_list
 
 ### Activate account and create twin
 
-A twin is a basic identity entity on TF Chain. Every farm belongs to a twin so you'll need one before creating your farm. Activate your account and [create a twin](tfchain_portal_ui_activation) using the buttons within the portal. There's no need to fill in an IP address, the default is fine. When prompted, sign the transaction using your Polkadot extension password.
+A twin is a basic identity entity on TF Chain. Every farm belongs to a twin so you'll need one before creating your farm. Activate your account and [create a twin](dashboard_portal_ui_activation) using the buttons within the portal. There's no need to fill in an IP address, the default is fine. When prompted, sign the transaction using your Polkadot extension password.
 
 ### Create farm 
 

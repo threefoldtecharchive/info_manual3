@@ -29,7 +29,7 @@ Start entering the following information required to create your new profile.
 ![](img/dev_profile2.png)
 
 - `Profile Name`: Any chosen name, makes it easy for you to remember between sessions.
-- `Mnemonics` are the secret words of your Polkadot account, [Generate yours here!](tfchain_portal_polkadot_create_account). 
+- `Mnemonics` are the secret words of your Polkadot account, [Generate yours here!](dashboard_portal_polkadot_create_account). 
 - Your `Public SSH Key` is used to login into VM's, Kubernetes, ... 
 
 After you finish typing your credentials, click on **Activate**. Once your profile gets activated, you should find your **Twin ID** and **Address** generated under your ***Mnemonics*** for verification. Also, your **Account Balance** will be available at the top right corner under your profile name. 

@@ -2,9 +2,9 @@
 
 The portal is an easy interface containing all elements needed to create an account, a twin, money transfers on tfchain, and farm management, and can be found :
 
-!!!include:tfchain_portal_list
+!!!include:dashboard_portal_list
 
-![ ](../img/dashboard_portal_account.png ':size=600')
+![ ](img/dashboard_portal_account.png ':size=600')
 
 ## Install Polkadot Widget
 
