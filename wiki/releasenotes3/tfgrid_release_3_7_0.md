@@ -1,6 +1,7 @@
 # ThreeFold Grid v3.7.0 Release Note
 
-Release Note of ThreeFold Grid v3.6.1 It includes updates, improvements and fixes of numerous grid components as described below.
+Release Note of ThreeFold Grid v3.7.0.
+It includes updates, improvements and fixes of numerous grid components as described below.
 
 
 ## Component Upgrades
@@ -28,7 +29,7 @@ Release Note of ThreeFold Grid v3.6.1 It includes updates, improvements and fixe
 ### ThreeFold Grid Proxy Client v1.5.9
 - Initial Grid Proxy Client  implementation
 - Includes the gridproxy API client along with API-specific information
-- Includes classes that represent entities in the context of the API in the sub-module model, useful for making conversions between JSON objects and V objects.
+- Includes classes that represent entities in the context of the API in the sub-module model (for making conversions between JSON objects and V objects).
 - Added CI pipeline to run tests
 
 
