@@ -68,7 +68,7 @@ It includes updates, improvements and fixes of numerous grid components as descr
 ### TFGrid Dashboard v1.1.4 
 - UX/UI : Updated Color Palette
 - Updated Font styles
-- Updated sidebar menu UX to include TF Portal, TF Explorer, TF Bootstrap, TF Hub, and TF Playground
+- Updated sidebar menu UX to include TF Portal, TF Explorer
 - Enabled day/night mode 
 - TFGrid Explorer: Added Nodes page, Statistic Page, and Farms page ON TFGrid Explorer
 - TFGrid Explorer: Added category of listed nodes as (dedicated, rented, and arentable)
