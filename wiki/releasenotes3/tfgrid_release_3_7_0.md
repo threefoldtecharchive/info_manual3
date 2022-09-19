@@ -77,13 +77,13 @@ It includes updates, improvements and fixes of numerous grid components as descr
 - TFGrid Stats: Added Calendar UI
 - Clickable Live Support Chat Popup
 
-### TF Grid Weblets  v1.4.4
+### TF Playground v1.4.4
 - UX/UI : Updated Color Palette
 - Updated Fonts.
 - New Deployment/Solutions Icons in the sidebar.
 - New Actions Icons in the deployment list.
 - Added Solution Categories
-- Enabled custom ‘Presearch instance’ deployment\
+- Enabled custom ‘Presearch instance’ deployment
 - New Capacity Filter 
 - Add IPv4 Planetary Network Filter for specific instance deployments
 - Newly improved Capacity Management for solution deployment: enabling the setting of a full VM as the default Virtual Machine for deployment, 
