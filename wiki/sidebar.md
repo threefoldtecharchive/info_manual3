@@ -38,7 +38,7 @@
   - [Subsquid](weblets_subsquid)
   - [CasperLabs](weblets_casper)
   - [Node Pilot](weblets_nodepilot)
-  - [Algorand](weblets_algorand)
+  <!-- - [Algorand](weblets_algorand) -->
   - [Deployments List](weblets_deployments_list)
 - [Advanced](advanced)
 - [Help us test](@testing_home)

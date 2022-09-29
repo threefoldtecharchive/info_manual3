@@ -30,7 +30,7 @@ There are several weblets you can use like:
   - [Presearch](weblets_presearch)
   - [CasperLabs](weblets_casper)
   - [Node Pilot](weblets_nodepilot)
-  - [Algorand](weblets_algorand)
+  <!-- - [Algorand](weblets_algorand) -->
 
 - Some utils:
   - [Profile Manager](weblets_profile_manager)
