@@ -6,7 +6,7 @@ You'll have to add a default docker registry so other CapRover nodes in the clus
 
 ![ ](img/caprover_docker_registry.png)
 
-- Click on `Add Self-Hosted Registry` button, then click on `Enable Self-Hosted Registry`
+- Click `Add Self-Hosted Registry` button, then click `Enable Self-Hosted Registry`
 
 ![ ](img/caprover_docker_default_registry.png)
 
@@ -18,4 +18,4 @@ You can check [official documentation](https://caprover.com/docs/app-scaling-and
 
 - Add the public IPv4 address that has been returned from the worker deployment in the `New node IP Address` field.
 - Add your `SSH private key` (you can use this command `cat ~/.ssh/id_rsa` to get your private key).
-- Click on `Join cluster` button.
+- Click `Join cluster` button.

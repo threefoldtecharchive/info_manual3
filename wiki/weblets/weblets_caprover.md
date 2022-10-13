@@ -24,17 +24,23 @@ It has following benefits :
 - super good monitoring
 - can be extended over the TFGrid
 
-### Requirements
+## Requirements
 
 - you need an account on TF-Chain, and there needs to be TFT on the account (see getting started)
 - [Make sure your profile is activated](weblets_profile_manager)
 - [Unlock your profile on profile manager, if already filled in before](profile_manager_unlock)
 
-### Usage
+## Usage
 
 !!!include:weblets_play_go
 
 ![ ](img/new_cap1.png)
+
+- Be very careful about the domain name: it needs to be a wildcard domain name you can configure in your chosen domain name system.
+
+### Deploy a leader node
+
+![ ](img/caprover_deploy_leader.png)
 
 - Select a capacity package:
   - **Minimum**: {cpu: 1, memory: 1024, diskSize: 50 }
@@ -45,9 +51,21 @@ It has following benefits :
 - Choose a node to deploy Caprover on.
 - Either use the **Capacity Filter**. Which simply lets you pick a *Farm* and *Country*, after clicking on *Apply filters and suggest nodes* then it lists available nodes with these preferences and you pick.
 
-- Or use **Manual** and type a specific node number to deploy on.
+### Deploy a worker node
 
-- Be very careful about the domain name: it needs to be a wildcard domain name you can configure in your chosen domain name system.
+![ ](img/caprover_deploy_worker.png)
+
+- Click `Add` button to add a new worker.
+- Select a capacity package:
+  - **Minimum**: {cpu: 1, memory: 1024, diskSize: 50 }
+  - **Standard**: {cpu: 2, memory: 1024 * 2, diskSize: 100 }
+  - **Recommended**: {cpu: 4, memory: 1024 * 4, diskSize: 250 }
+  - Or choose a **Custom** plan
+
+- Choose a node to deploy Caprover on.
+- Either use the **Capacity Filter**. Which simply lets you pick a *Farm* and *Country*, after clicking on *Apply filters and suggest nodes* then it lists available nodes with these preferences and you pick.
+
+- Or use **Manual** and type a specific node number to deploy on.
 
 Deployment will take couple of minutes.
 
@@ -115,12 +133,12 @@ Click on details if you want to see more details
 }
 ```
 
-### How to access the admin interface ?
+## How to access the admin interface ?
 
 - make sure your public IP address (in my case ```185.206.122.136```) is filled in in the domain name record.
 
 > admin url: <https://captain.apps.openly.life/>   (note prefix captain, and the usage of our wildcard domain).
-<br>
+</br>
 > The password is generated and visible behind the `Show Details` button of your CapRover deployment.
 
 ![ ](img/caprover_login.png)
@@ -129,7 +147,7 @@ You should now see
 
 ![ ](img/captain_login+weblet_caprover_.png)
 
-### How to work with CapRover
+## How to work with CapRover
 
 > [see our caprover admin small tutorial](weblets_caprover_admin)
 > [How to add a new worker node](weblets_caprover_worker)
