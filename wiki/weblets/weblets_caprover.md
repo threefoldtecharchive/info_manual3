@@ -1,6 +1,6 @@
 # CapRover
 
-![](img/caprover_1.png)
+![ ](img/caprover_1.png)
 
 About CapRover
 
@@ -15,43 +15,57 @@ It's blazingly fast and very robust as it uses Docker, nginx, LetsEncrypt and Ne
 - Nginx (fully customizable template) under the hood for load-balancing
 - Let's Encrypt under the hood for free SSL (HTTPS)
 
-
 Caprover is a very cool management app for containers based on Docker Swarm.
 
-It has following benefits : 
+It has following benefits :
 
 - easy to deploy apps (in seconds)
 - easy to create new apps
 - super good monitoring
 - can be extended over the TFGrid
 
-### Requirements
+## Requirements
 
 - you need an account on TF-Chain, and there needs to be TFT on the account (see getting started)
 - [Make sure your profile is activated](weblets_profile_manager)
 - [Unlock your profile on profile manager, if already filled in before](profile_manager_unlock)
 
-### Usage
+## Usage
 
 !!!include:weblets_play_go
 
-![](img/new_cap1.png)
-
-- Select a capacity package:
-    - **Minimum**: {cpu: 1, memory: 1024, diskSize: 50 }
-    - **Standard**: {cpu: 2, memory: 1024 * 2, diskSize: 100 }
-    - **Recommended**: {cpu: 4, memory: 1024 * 4, diskSize: 250 }
-    - Or choose a **Custom** plan
-
-- Choose a node to deploy Caprover on.
-- Either use the **Capacity Filter**. Which simply lets you pick a *Farm* and *Country*, after clicking on *Apply filters and suggest nodes* then it lists available nodes with these preferences and you pick. 
- 
-    
-- Or use **Manual** and type a specific node number to deploy on.
-
+![ ](img/new_cap1.png)
 
 - Be very careful about the domain name: it needs to be a wildcard domain name you can configure in your chosen domain name system.
 
+### Deploy a leader node
+
+![ ](img/caprover_deploy_leader.png)
+
+- Select a capacity package:
+  - **Minimum**: {cpu: 1, memory: 1024, diskSize: 50 }
+  - **Standard**: {cpu: 2, memory: 1024 * 2, diskSize: 100 }
+  - **Recommended**: {cpu: 4, memory: 1024 * 4, diskSize: 250 }
+  - Or choose a **Custom** plan
+
+- Choose a node to deploy Caprover on.
+- Either use the **Capacity Filter**. Which simply lets you pick a *Farm* and *Country*, after clicking on *Apply filters and suggest nodes* then it lists available nodes with these preferences and you pick.
+
+### Deploy a worker node
+
+![ ](img/caprover_deploy_worker.png)
+
+- Click `Add` button to add a new worker.
+- Select a capacity package:
+  - **Minimum**: {cpu: 1, memory: 1024, diskSize: 50 }
+  - **Standard**: {cpu: 2, memory: 1024 * 2, diskSize: 100 }
+  - **Recommended**: {cpu: 4, memory: 1024 * 4, diskSize: 250 }
+  - Or choose a **Custom** plan
+
+- Choose a node to deploy Caprover on.
+- Either use the **Capacity Filter**. Which simply lets you pick a *Farm* and *Country*, after clicking on *Apply filters and suggest nodes* then it lists available nodes with these preferences and you pick.
+
+- Or use **Manual** and type a specific node number to deploy on.
 
 Deployment will take couple of minutes.
 
@@ -59,8 +73,7 @@ Deployment will take couple of minutes.
 
 - e.g. I picked ```apps.openly.life``` which is a domain name that will point to the ip address of the CapRover instance (which we only know after deployment).
 
-![](img/domain_name_caprover_config.png)
-
+![ ](img/domain_name_caprover_config.png)
 
 > Note how the *.apps.openly.life points to the public IPv4 address that has been returned from the deployment.
 
@@ -68,7 +81,7 @@ Deployment will take couple of minutes.
 
 Go back to your CapRover weblet and go to the deployment list. Click on `Show Details`.
 
-![](img/caprover_detail_weblet.png)
+![ ](img/caprover_detail_weblet.png)
 
 - The public IPv4 address is visible in here
 - Now you can configure the domain name (see above, don't forget to point the wildcard domain to the public IP address)
@@ -120,20 +133,21 @@ Click on details if you want to see more details
 }
 ```
 
-### How to access the admin interface ?
+## How to access the admin interface ?
 
 - make sure your public IP address (in my case ```185.206.122.136```) is filled in in the domain name record.
 
-> admin url: https://captain.apps.openly.life/   (note prefix captain, and the usage of our wildcard domain).
-<br> 
-> The password is generated and visible behind the `Show Details` button of your CapRover deployment. 
+> admin url: <https://captain.apps.openly.life/>   (note prefix captain, and the usage of our wildcard domain).
+</br>
+> The password is generated and visible behind the `Show Details` button of your CapRover deployment.
 
-![](img/caprover_login.png)
+![ ](img/caprover_login.png)
 
 You should now see
 
-![](img/captain_login+weblet_caprover_.png)
+![ ](img/captain_login+weblet_caprover_.png)
 
-### How to work with CapRover
+## How to work with CapRover
 
 > [see our caprover admin small tutorial](weblets_caprover_admin)
+> [How to add a new worker node](weblets_caprover_worker)
