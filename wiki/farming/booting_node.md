@@ -4,6 +4,9 @@ To boot Zero OS on your node, plug in the USB stick and configure the BIOS to us
 
 While you're in the BIOS, check that the "Network Stack" or "Network Boot" is also enabled to allow Zero OS to boot over the network. Some farmers have also found that "AHCI mode for SATA" is required to support SATA disks.
 
+> __Note__
+We strongly recommend to **always keep the USB stick plugged-in to your node**. Indeed, even if a minimum requirement is set at first boot, the USB stick is still needed for each reboot operation (in case of power outage for example). See [FAQ](https://library.threefold.me/info/manual/#/manual__faq?id=do-i-need-the-zero-os-bootstrap-image-drive-usb-or-cddvd-when-i-reboot-or-can-i-boot-zero-os-from-the-3node-main-hard-drive) for more technical details.
+
 ### Wiping disks
 
 If the disks in your node have any data or partition tables on them, they will need to be wiped before Zero OS will utilize them. Nodes previously running on Grid 2 may not require this step.
