@@ -13,17 +13,18 @@ A user can reserve an entire node then use it exclusively to deploy solutions.
 
 - Once a node is rented, there is a fixed charge billed to the tenant regardless of deployed workloads.
 - Any subsequent NodeContract deployed on a node where a rentContract is active (and the same user is creating the nodeContracts) can be excluded from billing (apart from public ip and network usage).
-- Reseved Disounts for renting a node on TFGrid internet capacity
+- Reserved Disounts for renting a node on TFGrid internet capacity
   - 70% for dedicated node (TF Pricing policies)
   - a second level discount up to 60% for balance level see [Discount Levels](https://library.threefold.me/info/threefold/#/tfgrid/grid/pricing?id=discount-levels)
 
-### Mark node as Dedicated
+### Which nodes are available for dedicated rental contracts
 
-> TODO...
-<!-- 
-- who mark as dedicated? you. and you will not recharge bill just for that
-- We can allow farmers only to mark up to 50% of their nodes as dedicated
--->
+At the moment there are 2 ways a server is made available as a dedicated servers?
+
+- The farm is marked as "dedicated only" by the council. In this case, all nodes in the farm are marked such that they can only be fully rented. This means that the node will not accept simple virtual machine or other flist based deployments.  Currently on mainnet no such farm exists. 
+- Introduced in version 3.7.1 a rent contract can be deployed on "applicable nodes". An applicable node is simply an "empty" node, i.e. one which does not have any active contract. This way, a user can choose to fully reserve the node if nothing is there yet.
+
+There is no direct control from the farmer (in the first case the farmer could ask the council to mark him as dedicated only, but that is unlikely to happen). In other words, all farmers implicitly support dedicated nodes now.
 
 ### Usage
 
