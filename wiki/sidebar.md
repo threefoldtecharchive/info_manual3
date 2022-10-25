@@ -5,7 +5,7 @@
 
 - [**Getting Started**](@tfgrid3_getstarted)
 - [How it works](grid3_howitworks)
-- [Concepts](manual3_home_new)
+- [Concepts](manual3_concept)
   - [Grid Primitives](threefold:tfgrid_primitives)
   - [Proof of Utilization](proof_of_utilization_manual)
 - [Dashboard](dashboard_readme)
