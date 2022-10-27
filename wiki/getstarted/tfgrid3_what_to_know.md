@@ -54,7 +54,7 @@ You can easily check using [explorer-ui](@explorer_home) , also to plan your dep
 
 ## Getting started
 
-Please check [Getting started](@tfgrid3_get_started) to get the necessary software / configurations
+Please check [Getting started](https://library.threefold.me/info/manual/#/getstarted/manual__tfgrid3_getstarted) to get the necessary software / configurations
 
 
 For detailed information check
@@ -62,5 +62,5 @@ For detailed information check
 - [Components Interaction](@grid3_components)
 - [Definitions](@grid3_definitions)
 - [ZOS Primitives](threefold:tfgrid_primitives)
-- [Getting started](@grid3_get_started)
+- [Getting started](https://library.threefold.me/info/manual/#/getstarted/manual__tfgrid3_getstarted)
 - [Proof of Utilization](@proof_of_utilization_manual)
