@@ -4,9 +4,6 @@
 
 For deployments, you'll need a TF-Chain account and a twin registered. You'll need both your mnemonic phrase and TwinID to pass to the Terraform plugin.
 
-#### Important notes:
-!!!include grid3_portal_notice
-
 - You must choose `ed25519` as the "crypto type" when setting up your account
 - The testnet used real TFT, which can be transferred from Stellar over the Stellar-Substrate Bridge (url TO DO).
 - The guide advises to find your twin ID by checking the `twinID()` method. However, this will only correspond to your ID until a new twin is created and the value is incremented. To make sure you're seeing the ID associated with your account, use `twinIdByAccountID(AccountId)` instead, and select your account name from the drop down.
