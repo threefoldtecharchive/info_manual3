@@ -6,7 +6,9 @@ If your ready to get started you can
 - [Set-up](setup) Your Playground 
 - [Deploy](deploy) Your Workload 
 - And if you run into any problems you can get [Support](support)
+ 
 If your looking for deployment specific guides checkout
+
 - [Setting up an Ubuntu VM on the Threefold Playground](setupubuntu) 
   - [Accessing Your Ubuntu VM Deployed on the Threefold Grid](accessubuntu) 
 
