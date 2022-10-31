@@ -1,3 +1,4 @@
+# <center> Playground Interface Setup </Center>
 In order to access the play interface you will use the [PolkdaDot-js Extension](https://polkadot.js.org/extension/), Once you have this extension you will have a couple options on how to create your wallet, 
 - If your strictly looking to deploy and have an existing stellar wallet, creating one in the browser extension is a great option.
 - Threefold also offers an integrated solution to your grid identities and wallets with the Threefold Connect App available for [Android](https://play.google.com/store/apps/details?id=org.jimber.threebotlogin&hl=en_US&gl=US) and [IOS](https://apps.apple.com/us/app/threefold-connect/id1459845885)
