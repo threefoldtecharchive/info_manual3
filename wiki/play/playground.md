@@ -10,5 +10,6 @@ If your ready to get started you can
 If your looking for deployment specific guides checkout
 
 - [Setting up an Ubuntu VM on the Threefold Playground](setupubuntu) 
-  - [Accessing Your Ubuntu VM Deployed on the Threefold Grid](accessubuntu) 
+  - [Accessing Your Ubuntu VM Deployed on the Threefold Grid](accessubuntu)
+  - [Customizing your Ubuntu Full VM Image on the Threefold Grid](custimg) 
 
