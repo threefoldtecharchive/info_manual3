@@ -40,6 +40,11 @@ After that is done you can see a list of all of your deployed instances
 
 ![](img/owncloud5.png)
 
-Click on ***Visit*** to go to the homepage of your Owncloud instance! If you'd like to be able to use TFConnect to login, you need to login using your admin username and password first and allow TFConnect login from settings.
+Click on ***Visit*** to go to the homepage of your Owncloud instance! 
+
+
+<h3>Login with ThreeFold Connect App</h3>
+
+If you'd like to be able to use TFConnect to login, click the **TF Connect** button on the login page first and proceed with the login using your ThreeFold Connect app. You will be shown a message saying *User disabled, please contact the administrator to enable this account*. Next you need to login to the Owncloud web interface using your admin username and password to allow TFConnect login for your user from within the user settings (those can be found on the top right of the UI). Once you're on the User page, locate the Settings button (on the bottom left of the screen) and click it. You will be shown a list of checkboxes. Activate the checkbox with the label *show enabled/disabled option*. Finally you need to find your 3bot user in the list of users (on the same page) and check the *enabled* checkbox. Now go back to the login page and login with your user using the ThreeFold Connect app.
 
 ![](img/owncloud6.png)
