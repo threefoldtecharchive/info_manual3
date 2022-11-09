@@ -1,6 +1,6 @@
 # The Threefold Dashboard. 
 
-$nbsp;$nbsp;$nbsp;$nbsp;$nbsp;$nbsp; The Threefold dashboard is your management portal for everything related to Threefold and has two main sections, The port and the Explorer
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Threefold dashboard is your management portal for everything related to Threefold and has two main sections, The port and the Explorer
 - **Portal**: Is where you will make changes that affect your twin or farm there are six sections currently in the portal 
   - *Twin*: here you will find your twin ID or the options surrounding creating your Twin
   - *Swap*: here you are able to move funds between your twins wallet and your stellar wallet, this is especially helpful with non Threefold Connect wallets
