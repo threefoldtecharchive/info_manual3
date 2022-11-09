@@ -16,3 +16,4 @@ If your looking for deployment specific guides checkout
   - [Deploy Mastadon on the Ubuntu 20.04 Image](https://github.com/Parkers145/info_manual3/blob/development/wiki/play/Mastodon.md)
   - [Deploy Peertube on the Ubuntu 20.04 Image](https://github.com/Parkers145/info_manual3/blob/development/wiki/play/peertube.md)
   - [Deploy Funkwhale on the Ubuntu 20.04 Image](https://github.com/Parkers145/info_manual3/blob/development/wiki/play/funkwhale.md)
+  - [Host Smtp Services on the Ubuntu 20.04 Image](https://github.com/Parkers145/info_manual3/blob/development/wiki/play/smtp.md)
