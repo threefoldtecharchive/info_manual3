@@ -1,3 +1,7 @@
+# Deploy Mastodon On the Threefold Decentralized Grid
+
+
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It is my recommendation that you setup your server using the Ubuntu 20.04 image deployable on the [Playground](https://Play.grid.tf) I have prepared documentation on doing this. read all of this post before you deploy any resources, you've been warned its not fun deleting half your deployments that were done before you read a requirement.  
 
   
