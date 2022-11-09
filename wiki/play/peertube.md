@@ -110,9 +110,9 @@ how they relate to the deployments
 
            apt update -y  
 
-		   apt upgrade -y  
-
-		   apt install unzip -y 
+           apt upgrade -y  
+           
+	   apt install unzip -y 
 
   
 
