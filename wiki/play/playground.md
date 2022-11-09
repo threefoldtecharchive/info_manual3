@@ -15,4 +15,4 @@ If your looking for deployment specific guides checkout
   - [Your Threefold Cloud Ubuntu VM's Network Interfaces](https://github.com/Parkers145/info_manual3/blob/development/wiki/play/ubuntunet.md)
   - [Deploy Mastadon on the Ubuntu 20.04 Image](https://github.com/Parkers145/info_manual3/blob/development/wiki/play/Mastodon.md)
   - [Deploy Peertube on the Ubuntu 20.04 Image](https://github.com/Parkers145/info_manual3/blob/development/wiki/play/peertube.md)
-
+  - [Deploy Funkwhale on the Ubuntu 20.04 Image](https://github.com/Parkers145/info_manual3/blob/development/wiki/play/funkwhale.md)
