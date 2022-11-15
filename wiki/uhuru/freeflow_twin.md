@@ -1,8 +1,8 @@
-# Uhuru
+# Freeeflow Twin
 
-Uhuru is an all in one productivity tool on top of a resilient internet infrastructure that keeps you always in charge, whatever happens.
+[Freeflow Twin](https://demo.freeflow.life/) is an all in one productivity tool on top of a resilient internet infrastructure that keeps you always in charge, whatever happens.
 
-Uhuru is a convenient ecosystem that brings you a new internet (based on a peer-to-peer grid) with a set of productivity tools so you can enhance collaboration within your country, your company, your community
+Freeflow Twin is a convenient ecosystem that brings you a new internet (based on a peer-to-peer grid) with a set of productivity tools so you can enhance collaboration within your country, your company, your community
 
 ## Features
 

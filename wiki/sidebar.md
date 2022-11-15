@@ -4,8 +4,8 @@
 **Manual 3.0**
 
 - [**Getting Started**](@tfgrid3_getstarted)
-- [How it works](grid3_howitworks)
-- [Concepts](manual3_home_new)
+- [How it Works](grid3_howitworks)
+- [Concepts](manual3_concept)
   - [Grid Primitives](threefold:tfgrid_primitives)
   - [Proof of Utilization](proof_of_utilization_manual)
 - [Dashboard](dashboard_readme)
@@ -20,9 +20,9 @@
   - [RMB Proxy](@grid_proxy)
 - [Farming](farming)
   - [Create a Farm](create_farm)
-  - [Generate boot media](boot_media)
-  - [Boot a node](booting_node)
-  - [Public network config](public_config)
+  - [Generate Boot Media](boot_media)
+  - [Boot a Node](booting_node)
+  - [Public Network Config](public_config)
 - [Weblets](weblets_home)
   - [Profile Manager](weblets_profile_manager)
   - [CapRover](weblets_caprover)
@@ -42,7 +42,7 @@
   <!-- - [Algorand](weblets_algorand) -->
   - [Deployments List](weblets_deployments_list)
 - [Advanced](advanced)
-- [Help us test](@testing_home)
+- [Help us Test](@testing_home)
 - [Threefold Services](manual3_tfservices)
 - [Roadmap](threefold:roadmap_grid)
   - [Release Notes](releasenotes3)

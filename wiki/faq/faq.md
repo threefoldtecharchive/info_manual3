@@ -2057,7 +2057,7 @@ If you want to put the rack vertically with the longest side of the rack laying 
 
 ### **Do I need the Zero-OS bootstrap image drive (USB or CD/DVD) when I reboot, or can I boot Zero-OS from the 3node main hard drive?**
 
-You need the bootstrap image device plugged in every time you reboot a 3node and it's a good practice to keep it plugged in all the time. For more information, have a look [here](https://forum.threefold.io/t/booting-zero-os-should-we-leave-the-usb-key-in/1738).
+You need the bootstrap image device plugged in every time you reboot a 3node and it's a good practice to keep it plugged in all the time. The technical explanation is: (1) at first boot, it creates a minimum requirement on SSD which is used as cache (2) each time the system restarts it reuses this SSD piece but Zero-OS bootstrap is also needed to download the last image. Indeed, image is not stored on the machine and also no boot loader is installed. For more information, have a look [here](https://forum.threefold.io/t/booting-zero-os-should-we-leave-the-usb-key-in/1738).
 
 ***
 
