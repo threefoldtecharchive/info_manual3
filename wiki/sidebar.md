@@ -26,6 +26,7 @@
 - [Weblets](weblets_home)
   - [Profile Manager](weblets_profile_manager)
   - [CapRover](weblets_caprover)
+  - [Full Virtual Machine](weblets_fullvm)
   - [Virtual Machine](weblets_vm)
   - [Kubernetes](weblets_k8s)
   - [Funkwhale](weblets_funkwhale)

@@ -18,12 +18,8 @@ Deploy a new full virtual machine on the Threefold Grid
 - Choose the node to deploy on which can be
 - Manual: where you specify the node id yourself
 - Automatic: Suggests nodes list based on search criteria e.g `country`, `farm`, capacity..
-  
-![Environment Variables tab](img/new_fullvm2.png)
-Clicking on enviornment allows you to define environment variables to pass to the full VM
-> Note the Public SSH key in the profile is automatically used as variable `SSH_KEY` passed to all Virtual Machines
 
-![Disks tab](img/new_fullvm3.png)
+![Disks tab](img/new_fullvm2.png)
 You can attach one or more disks to the Full Virtual Machine by clicking on the Disks tab and the plus `+` sign and specify the following parameters
 
 - Disk name
