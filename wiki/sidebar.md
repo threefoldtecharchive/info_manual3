@@ -1,6 +1,7 @@
 - [**To Home Knowledgebase**](!@threefold:threefold_home)
 
------------
+---
+
 **Manual 3.0**
 
 - [**Getting Started**](@tfgrid3_getstarted)
@@ -28,6 +29,7 @@
   - [CapRover](weblets_caprover)
   - [Full Virtual Machine](weblets_fullvm)
   - [Virtual Machine](weblets_vm)
+  - [Nixos Microvm](weblets_nixos_micro)
   - [Kubernetes](weblets_k8s)
   - [Funkwhale](weblets_funkwhale)
   - [Peertube](weblets_peertube)
@@ -49,7 +51,7 @@
   - [What's New](grid3_new)
 - [FAQ](faq)
 
-------------
+---
 
 - [Legal](!@legal:legal_home)
 
