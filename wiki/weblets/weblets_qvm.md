@@ -33,13 +33,13 @@ Clicking on _QSFS_ allows you to define QSFS configuration.
 ![](img/qvm_qsfs_config.png)
 
 - `Name`: QSFS disk Name: It’s used in links to the QSFS virtual machine
-- `Secret`: It's used in some encryption process.
-- `Count`: the count of ZDBs: minimum is three ZDBs, it actually added to 4 ZDBs that are used in cache
+- `Secret`: It's used in some encryption processes.
+- `Count`: the count of ZDBs: _minimum_ is three ZDBs, it actually added to 4 ZDBs that are used in cache
 - `Number of Nodes`: number of nodes that the ZDBs distributed on.
 - `mountpoint`: where it will be mounted on its VM by default it will be the same as the QSFS name
 
 ![](img/qvm_nodes.png)
-- Choose the nodes to deploy on which can be `Automatic` for now
+- Choose the nodes to deploy on which will be `Automatic` 
    - It suggests nodes list based on search criteria e.g `farm`, capacity..
-   - After clicking on `Apply Filters and Suggest Nodes` there is an indicator fot how many nodes founded available.
-   - Clicking on the `Please select a node` field , it will dropdown a list of the nodes, choose the nodes to meet the number of nodes selected in `Number of Nodes` field. 
+   - After clicking on `Apply Filters and Suggest Nodes` there is an indicator for how many nodes founded available.
+   - Clicking on the `Please select a node` field, will drop down a list of the nodes, choose the nodes to meet the number of nodes selected in the `Number of Nodes` field. 
