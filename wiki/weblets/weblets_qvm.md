@@ -10,11 +10,11 @@ __Process__ :
 
 ![](img/qvm1.png)
 
-- Fill in the instance name: it's used to reference the VM in the future.
+- Fill in the instance name: it's used to reference the QVM in the future.
 - For now the QVM comes with 
-  -  Ubuntu-22.04 image
-  -  1 CPU 
-  -  2 GB RAM
+  -  `Ubuntu-22.04 image`
+  -  `1 CPU`
+  -  `2 GB RAM`
 - `Public IPv4` flag gives the QSFS virtual machine a Public IPv4
 - `Public IPv6` flag gives the QSFS virtual machine a Public IPv6
 - `Planetary Network` to connect the QSFS Virtual Machine to Planetary network
