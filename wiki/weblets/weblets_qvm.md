@@ -30,3 +30,16 @@ Clicking on _Environment Variables_ then _Add_ button allows you to define envir
 Clicking on _QSFS_ allows you to define QSFS configuration.
 > For more information about QSFS, please consult [Quantum Safe Filesystem](https://library.threefold.me/info/manual/#/technology/threefold__qsfs)
 
+![](img/qvm_qsfs_config.png)
+
+- `Name`: QSFS disk Name: It’s used in links to the QSFS virtual machine
+- `Secret`: It's used in some encryption process.
+- `Count`: the count of ZDBs: minimum is three ZDBs, it actually added to 4 ZDBs that are used in cache
+- `Number of Nodes`: number of nodes that the ZDBs distributed on.
+- `mountpoint`: where it will be mounted on its VM by default it will be the same as the QSFS name
+
+![](img/qvm_nodes.png)
+- Choose the nodes to deploy on which can be `Automatic` for now
+   - It suggests nodes list based on search criteria e.g `farm`, capacity..
+   - After clicking on `Apply Filters and Suggest Nodes` there is an indicator fot how many nodes founded available.
+   - Clicking on the `Please select a node` field , it will dropdown a list of the nodes, choose the nodes to meet the number of nodes selected in `Number of Nodes` field. 
