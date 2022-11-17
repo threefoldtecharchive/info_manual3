@@ -1,6 +1,6 @@
 # QSFS Virtual Machine
 
-Deploy a new virtual machine wiht QSFS on the Threefold Grid
+Deploy a new virtual machine with QSFS on the Threefold Grid
 
 !!!include:weblets_play_go
 - Make sure you have an activated [profile](weblets_profile_manager) 
