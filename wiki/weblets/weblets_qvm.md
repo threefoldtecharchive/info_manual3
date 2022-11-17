@@ -23,5 +23,10 @@ __Process__ :
    - Automatic: Suggests nodes list based on search criteria e.g `country`, `farm`, capacity..
 
 ![](img/qvm2.png)
-Clicking on _Environment Variables_ then _Add_ button allows you to define environment variables to pass to the virtual machine. 
+Clicking on _Environment Variables_ then _Add_ button allows you to define environment variables to pass to the QSFS virtual machine. 
 > Note the Public SSH key in the profile is automatically used as variable `SSH_KEY` passed to all Virtual Machines, so you have to activate SSH key on the [profile](weblets_profile_manager) 
+
+### QSFS Disk
+Clicking on _QSFS_ allows you to define QSFS configuration.
+> For more information about QSFS, please consult [Quantum Safe Filesystem](https://library.threefold.me/info/manual/#/technology/threefold__qsfs)
+
