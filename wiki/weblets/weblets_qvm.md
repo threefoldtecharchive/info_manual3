@@ -21,3 +21,7 @@ __Process__ :
 - Choose the node to deploy on which can be
    - Manual: where you specify the node id yourself
    - Automatic: Suggests nodes list based on search criteria e.g `country`, `farm`, capacity..
+
+![](img/qvm2.png)
+Clicking on _Environment Variables_ then _Add_ button allows you to define environment variables to pass to the virtual machine. 
+> Note the Public SSH key in the profile is automatically used as variable `SSH_KEY` passed to all Virtual Machines, so you have to activate SSH key on the [profile](weblets_profile_manager) 
