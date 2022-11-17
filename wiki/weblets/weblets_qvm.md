@@ -23,8 +23,8 @@ __Process__ :
    - Automatic: Suggests nodes list based on search criteria e.g `country`, `farm`, capacity..
 
 ![](img/qvm2.png)
-Clicking on _Environment Variables_ then _Add_ button allows you to define environment variables to pass to the QSFS virtual machine. 
-> Note the Public SSH key in the profile is automatically used as variable `SSH_KEY` passed to all Virtual Machines, so you have to activate SSH key on the [profile](weblets_profile_manager) 
+Clicking on _Environment Variables_ and then _Add_ button allows you to define environment variables to pass to the QSFS virtual machine. 
+> Note the Public SSH key in the profile is automatically used as variable `SSH_KEY` passed to all Virtual Machines, so you have to activate the SSH key on the [profile](weblets_profile_manager) 
 
 ### QSFS Disk
 Clicking on _QSFS_ allows you to define QSFS configuration.
@@ -34,8 +34,8 @@ Clicking on _QSFS_ allows you to define QSFS configuration.
 
 - `Name`: QSFS disk Name: It’s used in links to the QSFS virtual machine
 - `Secret`: It's used in some encryption processes.
-- `Count`: the count of ZDBs: _minimum_ is three ZDBs, it actually added to 4 ZDBs that are used in cache
-- `Number of Nodes`: number of nodes that the ZDBs distributed on.
+- `Count`: the count of ZDBs: _minimum_ is three ZDBs, it actually added to 4 ZDBs that are used in the cache
+- `Number of Nodes`: a number of nodes that the ZDBs will distribute on.
 - `mountpoint`: where it will be mounted on its VM by default it will be the same as the QSFS name
 
 ![](img/qvm_nodes.png)
