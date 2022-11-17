@@ -28,6 +28,7 @@ There are several weblets you can use like:
   - [Owncloud](weblets_owncloud)
   - [Discourse](weblets_discourse)
   - [Mattermost](weblets_mattermost)
+  - [Mastodon](weblets_mastodon)
   - [Presearch](weblets_presearch)
   - [CasperLabs](weblets_casper)
   - [Node Pilot](weblets_nodepilot)

@@ -37,6 +37,7 @@
   - [Owncloud](weblets_owncloud)
   - [Discourse](weblets_discourse)
   - [Mattermost](weblets_mattermost)
+  - [Mastodon](weblets_mastodon)
   - [Presearch](weblets_presearch)
   - [Subsquid](weblets_subsquid)
   - [CasperLabs](weblets_casper)
