@@ -66,3 +66,5 @@ There is no direct control from the farmer (in the first case the farmer could a
 - Unreserve a node:
   - Simply as reserving but another check will be done to check you don't have any active workoad on the node before unreserving.
   - The node should disappear from both the `Rented` & `Mine` tabs and should reappear in the `Rentable tab`
+
+>Note: Users should also be able to reserve dedicated nodes even if the node is offline.
