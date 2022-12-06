@@ -7,10 +7,13 @@ Each user is a member of a specific `Mastodon` instance `also called a server`, 
 
 
 !!!include:weblets_play_go
-- Make sure you have an activated [profile](weblets_profile_manager)
-- Click on the **Mastodon** tab
 
-__Process__ :
+## Prerequisites
+- An active [deployment profile](weblets_profile_manager)
+
+## Get Started
+
+- Click on the **Mastodon** tab
 
 ![](img/mastodon1.jpg)
 

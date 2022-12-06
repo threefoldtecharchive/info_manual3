@@ -44,6 +44,7 @@
   - [Node Pilot](weblets_nodepilot)
   <!-- - [Algorand](weblets_algorand) -->
   - [Deployments List](weblets_deployments_list)
+- [TF Mastodon](threefold_mastodon)
 - [Advanced](advanced)
 - [Help us Test](@testing_home)
 - [Threefold Services](manual3_tfservices)
