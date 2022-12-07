@@ -83,7 +83,10 @@ If you choose to only do basic setup, you don't need to configure the advance se
 
 ![](img/getmastodon_success.png)
 
-Please keep in mind that **you need to have sufficient amount of TFTs** in your deployment wallet in order your deployment to be successful.
+Please keep in mind that **you need to have sufficient amount of TFTs** in your deployment wallet in order your deployment to be successful. 
+
+Upon a successful server deployment, you will need to also have sufficient TFTs to keep your deploy alive. Failure to do so will result in server deactivation (not deletion), and You will be given 2 weeks of grace period time to top up your account to reactivate your servers. [Click here for more detailed information about Grace Period.](https://library.threefold.me/info/manual/#/manual__grace_period?id=grace-period).
+
 To top up your wallet, simply go back to **'Credentials'** and transfer TFTs to your account.
 
 ## Advance Setup
