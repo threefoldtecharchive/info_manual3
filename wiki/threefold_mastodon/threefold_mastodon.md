@@ -145,6 +145,8 @@ Once you're logged in, you will also be shown how much TFT Balance left you have
 
 Deploying [Mastodon](https://www.mastodon.threefold.io/) have never been easier. ThreeFold has made it possible for everyone to deploy and run their own Mastodon Server, simply and effectively. Let’s get started and happy experimenting!
 
+> Read the FAQ on Mastodon Servers Powered by ThreeFold [here](threefold_mastodon_faq).
+
 
 
 
