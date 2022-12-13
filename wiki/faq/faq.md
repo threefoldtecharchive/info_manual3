@@ -14,9 +14,9 @@
 *Hint: Use the search function (Ctrl+F) to locate specific keywords*
 ***
 
-- [GENERAL FAQ](?id=general-faq)
-  - [Basic Facts](?id=basic-facts)
-    - [**What is the the Threefold blockchain?**](?id=what-is-the-the-threefold-blockchain)
+- [GENERAL FAQ](maunal__faq?id=general-faq)
+  - [Basic Facts](manual__faq?id=basic-facts)
+    - [**What is the the Threefold blockchain?**](manual__faq?id=what-is-the-the-threefold-blockchain)
     - [**What is the Threefold Token? What is the uses of the TF token?**](?id=what-is-the-threefold-token-what-is-the-uses-of-the-tf-token)
     - [**How are Threefold Token (TFT) produced?**](?id=how-are-threefold-token-tft-produced)
     - [**How are the TFT managed?**](?id=how-are-the-tft-managed)
