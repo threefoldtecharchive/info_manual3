@@ -48,7 +48,7 @@ Click on ***Visit*** to go to the homepage of your Mastodon instance! You have t
 
 ![](img/mastodon5.jpg)
 
-## Have a server and want to migrate it into an instance deployed on [getnastodon.mastodon.io](https://getmastodon.threefold.io/)?
+## Have a server and want to migrate it into an instance deployed on [getmastodon.threefold.io](https://getmastodon.threefold.io/)?
 
 ### Copying your Mastodon installation to a new server without losing anything
 
@@ -107,7 +107,7 @@ pg_restore -Fc -U postgres -n public --no-owner --role=postgres -d postgres back
 
 You can edit the ~/<remote_machine>/public/500.html page on the old machine if you want to show a nice error message to let existing users know that a migration is in progress.
 
-You’ll probably also want to set the DNS TTL to something small (30-60 minutes) about a day in advance, so that DNS can propagate quickly once you point it to the new IP address.
+You'll probably also want to set the DNS TTL to something small (30-60 minutes) about a day in advance, so that DNS can propagate quickly once you point it to the new IP address.
 
 ### After migrating
 
