@@ -864,6 +864,7 @@ Since Threefold 3nodes have their OS based on the Linux kernel, you can run just
 - [Peertube](https://play.grid.tf/#/peertube)
 - [Funkwhale](https://play.grid.tf/#/funkwhale)
 - [Mattermost](https://play.grid.tf/#/mattermost)
+- [Mastodon](https://play.grid.tf/#/mastodon)
 - [Discourse](https://play.grid.tf/#/discourse)
 - [Taiga](https://play.grid.tf/#/taiga)
 - [Owncloud](https://play.grid.tf/#/owncloud)
