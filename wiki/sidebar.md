@@ -9,7 +9,7 @@
 - [Concepts](manual3_concept)
   - [Grid Primitives](threefold:tfgrid_primitives)
   - [Proof of Utilization](proof_of_utilization_manual)
-  - [Contract Grace Period](gridconcepts/grace_period.md)
+  - [Contract Grace Period](grace_period.md)
 - [Dashboard](dashboard_readme)
   - [TFChain Portal](dashboard_portal_home)
   - [TFGrid Explorer](explorer_home)

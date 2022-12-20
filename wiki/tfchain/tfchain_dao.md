@@ -69,16 +69,16 @@ Importantly all proposals have a description.
 
 ### Changing connection price
 
-![connection_price](./img/new_connection_price.png)
+![connection_price](img/new_connection_price.png)
 
 ### Creating a farming policy
 
 Price expressed in Musd (usd * 1000)
 
-![farming_policy](./img/create_policy.png)
+![farming_policy](img/create_policy.png)
 
 ### Add / Remove node certifiers
 
-![add](./img/add_certifier.png)
+![add](img/add_certifier.png)
 
-![remove](./img/remove_certifier.png)
+![remove](img/remove_certifier.png)

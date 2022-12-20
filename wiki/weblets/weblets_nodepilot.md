@@ -8,7 +8,7 @@ This is a simple instance of upstream node-pilot: https://nodepilot.tech
 
 __Process__
 
-![](img/nodePilot_1.png)
+![](img/nodepilot_1.png)
 
 - Fill in the instance name: it's used to reference the node-pilot in the future.
 
@@ -24,11 +24,11 @@ __Process__
 
 After that is done you can see a list of all of your deployed instances
 
-![](img/nodePilot_2.png)
+![](img/nodepilot_2.png)
 
 Click on ***Visit*** to go to the registeration page of your Node Pilot instance!
 
-![](img/nodePilot_3.png)
+![](img/nodepilot_3.png)
 
 You can go to https://publicip and configure your node-pilot. You can upload a backup to the VM via ssh as well if you have a backup of a previous instance.
 

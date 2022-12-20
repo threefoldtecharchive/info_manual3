@@ -9,7 +9,7 @@ You can now add the solutionProviderId to your deployment as follows:
 vm.solutionProviderID = solutionProviderID;
 ```
 This should be added to your deployments as shown below
-![add_solutionProviderID](./img/grid3_solution.png)
+![add_solutionProviderID](img/grid3_solution.png)
 
 After deploying the machine, The solutionProviderID will be shown in the machine specs
-![specs](./img/machine_solution_provider.png)
+![specs](img/machine_solution_provider.png)

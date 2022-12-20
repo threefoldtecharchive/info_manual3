@@ -37,32 +37,32 @@ Fill in all the details, you can specify up to 5 target accounts which can have 
 
 Once this object is created, a forum post should be created here: https://forum.threefold.io/
 
-![create](./img/create_provider.png)
+![create](img/create_provider.png)
 
 ## Council needs to approve a provider before it can be used
 
 First propose the solution to be approved:
 
-![propose_approve](./img/propose_approve.png)
+![propose_approve](img/propose_approve.png)
 
 After submission it should like like this:
 
-![proposed_approved](./img/proposed_approve.png)
+![proposed_approved](img/proposed_approve.png)
 
 Now another member of the council needs to vote:
 
-![vote](./img/vote_proposal.png)
+![vote](img/vote_proposal.png)
 
 After enough votes are reached, it can be closed:
 
-![close](./img/close_proposal.png)
+![close](img/close_proposal.png)
 
 If the close was executed without error the solution should be approved and ready to be used
 
 Query the solution: `chainstate` -> `SmartContractModule` -> `solutionProviders`
 
-![query](./img/query_provider.png)
+![query](img/query_provider.png)
 
 Now the solution provider can be referenced on contract creation:
 
-![create](./img/create_contract.png)
+![create](img/create_contract.png)

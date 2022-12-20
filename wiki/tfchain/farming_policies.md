@@ -58,7 +58,7 @@ Policy end is optional (0 or some block number in the future). This is used for 
 
 For reference:
 
-![image](./img/create_policy.png)
+![image](img/create_policy.png)
 
 ## Linking a policy to a Farm
 
@@ -77,4 +77,4 @@ First identify the policy ID to link to a farm. You can check for farming polici
 
 For reference:
 
-![image](./img/attach.png)
+![image](img/attach.png)

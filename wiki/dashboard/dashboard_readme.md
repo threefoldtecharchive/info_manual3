@@ -12,7 +12,7 @@ The dashboard is a unified admin interface for everything related to Threefold G
 - Transferring money to other tfchain user
 ![transfer](img/dashboard_portal_transfer.png)
 - Dedicated Nodes
-  Rent a whole node to deploy your solutions on. [Dedicated Nodes](portal/dashboard_portal_dedicated_nodes.md)
+  Rent a whole node to deploy your solutions on. [Dedicated Nodes](dashboard_portal_dedicated_nodes.md)
   ![](img/dashboard_dedicated_nodes.png)
 - Exploring Threefold nodes
 ![nodes](img/dashboard_explorer_nodes.png)
