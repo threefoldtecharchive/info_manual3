@@ -10,7 +10,7 @@ Valid protocols are: `ws`, `wss`, and `redis`.
 
 For example, to deploy two VMs named "vm1" and "vm2", with one vm1 streaming logs to vm2. so the [multiple_vms.ts](https://github.com/threefoldtech/grid3_client_ts/blob/development/scripts/multiple_vms.ts) will be :
 
-````
+````js
 import { DiskModel, FilterOptions, MachineModel, MachinesModel, NetworkModel } from "../src";
 import { config, getClient } from "./client_loader";
 import { log } from "./utils";
@@ -51,6 +51,8 @@ async function main() {
     vm1.env = {
         SSH_KEY: config.ssh_key,
     };
+
+    //  Add the the target redis URL
     vm1.zlogsOutput = "redis://10.238.3.5:6379/zlog";
 
     // create disk Object
@@ -59,7 +61,7 @@ async function main() {
     disk2.size = 10;
     disk2.mountpoint = "/newDisk2";
 
-    // create another vm node Object
+    // create  vm2 node Object
     const vm2 = new MachineModel();
     vm2.name = "testvm2";
     vm2.node_id = +(await grid3.capacity.filterNodes(vmQueryOptions))[1].nodeId;
@@ -85,16 +87,12 @@ async function main() {
     vms.description = "test deploying VMs via ts grid3 client";
 
     // deploy vms
-    // const res = await grid3.machines.deploy(vms);
-    // log(res);
+    const res = await grid3.machines.deploy(vms);
+    log(res);
 
     // get the deployment
     const l = await grid3.machines.getObj(vms.name);
     log(l);
-
-    // // delete
-    const d = await grid3.machines.delete({ name: vms.name });
-    log(d);
 
     await grid3.disconnect();
 }
@@ -106,10 +104,12 @@ main();
 At this point, two VMs are deployed, and vm1 is ready to stream logs to vm2. But what is missing here is that vm1 is not actually producing any logs, and vm2 is not listening for incoming messages.
 
 ### Use Redis
+
 on vm2, we need to enable redis server on port `6379` and subscribe `zlog` channel, as we sat `vm1.zlogsOutput=redis://10.238.3.5:6379/zlog` 
 > Note : `10.238.3.5:6379` in `vm1.zlogsOutput` is vm1's ip.
 the python script will be :
-````
+
+````python
 import os
 import redis
 import gzip
@@ -139,10 +139,13 @@ Process(target=sub, args=("reader",)).start()
   
 ### Streaming logs
 
-- Zlogs streams anything written to stdout of the zinit process on a vm. 
+- Zlogs streams anything written to stdout of the zinit process on a vm.
 - So, simply running ```echo "to be streamed" 1>/proc/1/fd/1``` on vm1 should successfully stream this message to the vm2 and we should be able to see it in `output.txt`.
 - Also, if we want to stream a service's logs, a service definition file should be created in ```/etc/zinit/example.yaml``` on vm1 and should look like this:
-```
+  
+```yaml
 exec: sh -c "echo 'to be streamed'"
 log: stdout
 ```
+
+checkout more about [zinit](https://github.com/threefoldtech/zinit).
