@@ -71,7 +71,7 @@ async function main() {
     vm2.cpu = 1;
     vm2.memory = 1024 * 2;
     vm2.rootfs_size = 0;
-    vm2.flist = "https://hub.grid.tf/kassem.3bot/0om4r-zlog-latest.flist";
+    vm2.flist = "https://hub.grid.tf/tf-official-apps/base:latest.flist";
     vm2.entrypoint = "/sbin/zinit init";
     vm2.env = {
         SSH_KEY: config.ssh_key,
@@ -106,7 +106,8 @@ At this point, two VMs are deployed, and vm1 is ready to stream logs to vm2. But
 ### Use Redis
 
 on vm2, we need to enable redis server on port `6379` and subscribe `zlog` channel, as we sat `vm1.zlogsOutput=redis://10.238.3.5:6379/zlog` 
-> Note : `10.238.3.5:6379` in `vm1.zlogsOutput` is vm1's ip.
+> Note : `10.238.3.5` in `vm1.zlogsOutput` is vm2's ip.
+
 the python script will be :
 
 ````python
