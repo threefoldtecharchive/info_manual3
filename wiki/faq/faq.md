@@ -1020,11 +1020,12 @@ By simply hodling TFT in your TF Chain wallet, you can benefit from TFT discount
 
 The prerequisites are simple:
 
-1. Add the [Polkadot Substrate Extension](https://polkadot.js.org/extension/) to your browser
-2. Create an account (write down the mnemonics somewhere safe and offline)
-3. Go to [TF Dashboard Grid](http://dashboard.grid.tf) and select the newly created account
-4. Fund the TF Dashboard account by using the [TFChain-Stellar Bridge](#how-can-i-bridge-tft-from-stellar-chain-to-tf-chain-and-vice-versa) and the [Threefold Connect App](#is-there-a-threefold-app-for-mobile)
-5. Go to the [Threefold Play Grid](http://play.grid.tf) and start your deployment
+1. Go to the [TF Dashboard Grid](http://dashboard.grid.tf).
+2. Add the [Polkadot Substrate Extension](https://polkadot.js.org/extension/) to your browser.
+3. Create an account (write down the mnemonics somewhere safe and offline).
+4. Buy TFT online. Go to [GetTFT.com](https://gettft.com/gettft/), where you can directly download the [Threefold Connect App](https://library.threefold.me/info/threefold#/tokens/threefold__threefold_connect), and then fund your TF wallet with USD, EUR or BTC. 
+5. Swap your TFT from Stellar Chain to TF Chain by using the swap function in the Portal menu of the Dashboard. (GetTFT sends TFT on Stellar Chain, while the Playground is on TF Chain.)
+6. Go to the [Threefold Play Grid](http://play.grid.tf) and start your deployment. (See next question to set a profile manager.)
 
 ***
 
