@@ -20,10 +20,10 @@
 
 <ul>
 <li><a href="#faq?id=general-faq">GENERAL FAQ</a>
-<li><a href="#faq?id=user-faq">USER FAQ</a>
-<li><a href="#faq?id=validator-faq">VALIDATOR FAQ</a>
-<li><a href="#faq?id=farmer-faq">FARMER FAQ</a>
-<li><a href="#faq?id=developer-faq">DEVELOPER FAQ</a>
+<li><a href="#faq?id=users-faq">USERS FAQ</a>
+<li><a href="#faq?id=validators-faq">VALIDATORS FAQ</a>
+<li><a href="#faq?id=farmers-faq">FARMERS FAQ</a>
+<li><a href="#faq?id=developers-faq">DEVELOPERS FAQ</a>
 </li>
 </ul>
 
@@ -46,7 +46,7 @@
 <li><a href="#faq?id=who-are-the-co-founders-of-threefold">Who are the co-founders of Threefold?</a></li>
 <li><a href="#faq?id=in-a-nutshell-what-can-be-said-of-the-threefold-team">In a nutshell, what can be said of the Threefold team?</a></li>
 <li><a href="#faq?id=what-is-the-mission-of-threefold">What is the mission of Threefold?</a></li>
-<li><a href="#faq?id=does-threefold-have-any-partners">Does Threefold have any partners?</a></li>
+<li><a href="#faq?id=who-are-the-partners-of-threefold">Who are the partners of Threefold?</a></li>
 <li><a href="#faq?id=what-are-the-priorities-of-threefold-the-three-p-of-threefold-threefold-is-a-planet-first-project-what-does-it-mean">What are the priorities of Threefold (the Three P of Threefold)? Threefold is a Planet first project, what does it mean?</a></li>
 <li><a href="#faq?id=i-want-to-farm-tft-with-a-3node-what-are-my-choices">I want to farm TFT with a 3node. What are my choices?</a></li>
 <li><a href="#faq?id=i-want-to-buy-a-certified-3node-server-from-a-reliable-source-who-are-threefolds-partners-offering-certified-3nodes">I want to buy a certified 3node server from a reliable source. Who are Threefold's partners offering certified 3nodes?</a></li>
@@ -117,7 +117,7 @@
 </li>
 </ul>
 </li>
-<li><a href="#faq?id=user-faq">USER FAQ</a>
+<li><a href="#faq?id=users-faq">USERS FAQ</a>
 <ul>
 <li><a href="#faq?id=tf-grid-functionalities">TF Grid Functionalities</a>
 <ul>
@@ -154,7 +154,7 @@
 </li>
 </ul>
 </li>
-<li><a href="#faq?id=developer-faq">DEVELOPER FAQ</a>
+<li><a href="#faq?id=developers-faq">DEVELOPERS FAQ</a>
 <ul>
 <li><a href="#faq?id=general-information-for-developer">General Information for Developer</a>
 <ul>
@@ -177,7 +177,7 @@
 </li>
 </ul>
 </li>
-<li><a href="#faq?id=validator-faq">VALIDATOR FAQ</a>
+<li><a href="#faq?id=validators-faq">VALIDATORS FAQ</a>
 <ul>
 <li><a href="#faq?id=general-information-of-validator">General Information of Validator</a>
 <ul>
@@ -209,7 +209,7 @@
 </li>
 </ul>
 </li>
-<li><a href="#faq?id=farmer-faq">FARMER FAQ</a>
+<li><a href="#faq?id=farmers-faq">FARMERS FAQ</a>
 <ul>
 <li><a href="#faq?id=tft-farming-basics">TFT Farming Basics</a>
 <ul>
@@ -496,9 +496,11 @@ The mission of Threefold is to create a peer-to-peer Internet that can host all 
 
 ***
 
-### Does Threefold have any partners?
+### Who are the partners of Threefold?
 
 Threefold has great [partners](https://threefold.io/partners/) and we are proud of the amazing projects we have done throughout the years. Building the New Internet is a collective project and the Threefold team is always ready to create and collaborate with new partners aligned with our Planet first ethos.
+
+To learn more about our certified farming partners, click [here](https://marketplace.3node.global/index.php?dispatch=companies.catalog).
 ***
 
 
@@ -937,7 +939,7 @@ If you are not deploying/doing things on the TF Grid (dev, test or mainnet) you 
 
 ***
 
-# USER FAQ
+# USERS FAQ
 
 ![wethreepedia_grid](img/tf_grid.png)
 
@@ -1120,7 +1122,7 @@ Note: There will not be an automatic function in the app to create a new wallet.
 
 ***
 
-# DEVELOPER FAQ
+# DEVELOPERS FAQ
 ![wethreepedia_developer](img/wethreepedia_developer.png)
 
 ## General Information for Developer
@@ -1178,7 +1180,7 @@ Of course! And they'll be happy to help you. [Reach the TF community on Telegram
 
 ***
 
-# VALIDATOR FAQ
+# VALIDATORS FAQ
 ![wethreepedia_validator](img/wethreepedia_validator.jpg)
 
 ## General Information of Validator
@@ -1327,7 +1329,7 @@ We're looking forward to driving the expansion and decentralization of the Three
 
 ***
 
-# FARMER FAQ
+# FARMERS FAQ
 ![wethreepedia_grid](img/3nodes.png)
 ## TFT Farming Basics
 
