@@ -22,8 +22,8 @@
 <li><a href="#faq?id=general-faq">GENERAL FAQ</a>
 <li><a href="#faq?id=users-faq">USERS FAQ</a>
 <li><a href="#faq?id=validators-faq">VALIDATORS FAQ</a>
-<li><a href="#faq?id=farmers-faq">FARMERS FAQ</a>
 <li><a href="#faq?id=developers-faq">DEVELOPERS FAQ</a>
+<li><a href="#faq?id=farmers-faq">FARMERS FAQ</a>
 </li>
 </ul>
 
@@ -117,6 +117,7 @@
 </li>
 </ul>
 </li>
+<hr>
 <li><a href="#faq?id=users-faq">USERS FAQ</a>
 <ul>
 <li><a href="#faq?id=tf-grid-functionalities">TF Grid Functionalities</a>
@@ -154,6 +155,7 @@
 </li>
 </ul>
 </li>
+<hr>
 <li><a href="#faq?id=developers-faq">DEVELOPERS FAQ</a>
 <ul>
 <li><a href="#faq?id=general-information-for-developer">General Information for Developer</a>
@@ -177,6 +179,7 @@
 </li>
 </ul>
 </li>
+<hr>
 <li><a href="#faq?id=validators-faq">VALIDATORS FAQ</a>
 <ul>
 <li><a href="#faq?id=general-information-of-validator">General Information of Validator</a>
@@ -209,6 +212,7 @@
 </li>
 </ul>
 </li>
+<hr>
 <li><a href="#faq?id=farmers-faq">FARMERS FAQ</a>
 <ul>
 <li><a href="#faq?id=tft-farming-basics">TFT Farming Basics</a>
