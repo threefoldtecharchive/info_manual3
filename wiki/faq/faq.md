@@ -579,8 +579,6 @@ Of course. Here are the basic information:
 
 ***
 ## Threefold Communication
-***
-
 
 ### Is there a Threefold app for mobile?
 
@@ -1008,8 +1006,6 @@ By simply hodling TFT in your TF Chain wallet, you can benefit from TFT discount
 
 ## Tutorials and Guides
 
-***
-
 ### What are the prerequisites before using the Threefold Play Grid (play.grid.tf)?
 
 The prerequisites are simple:
@@ -1252,8 +1248,6 @@ For more information, read [this](https://library.threefold.me/info/threefold#/d
 
 ## Validator Requirements
 
-***
-
 ### What are the general requirements?
 
 * Reliable electricity. Either the electricity is always on or the validator owner takes precautions to put his/her node in a data center or invests in a UPS.
@@ -1480,8 +1474,6 @@ Create a new [bootstrap image](https://bootstrap.grid.tf/) using your new V3 Far
 ***
 
 ## Farming Rewards and Related Notions
-
-***
 
 ### What are the rewards of farming? Can I get more rewards when my 3node is being utilized?
 
@@ -1800,8 +1792,6 @@ This is not possible. A 3node needs at least one SSD disk of 500 GB.
 ***
 
 ## Building a 3node - Steps and Details
-
-***
 
 ### What are the main steps to build a DIY 3node, from start to finish?
 
@@ -2141,7 +2131,6 @@ If you want to put the rack vertically with the longest side of the rack laying 
 
 
 ## Farming and Maintenance
-***
 
 ### Do I need the Zero-OS bootstrap image drive (USB or CD-DVD) when I reboot, or can I boot Zero-OS from the 3node main hard drive?
 
