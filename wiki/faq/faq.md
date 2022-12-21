@@ -122,6 +122,7 @@
 <ul>
 <li><a href="#faq?id=tf-grid-functionalities">TF Grid Functionalities</a>
 <ul>
+<li><a href="#faq?id=how-can-i-filter-3nodes-by-country-and-by-network-ipv4-ipv6-and-planetary-network">How can I filter 3nodes by country and by network (IPv4, IPv6 and Planetary Network)?</a></li>
 <li><a href="#faq?id=can-i-have-the-link-to-deploy-a-vm-and-other-apps-on-the-grid">Can I have the link to deploy a VM and other apps on the Grid?</a></li>
 <li><a href="#faq?id=what-can-i-do-on-threefold-grid">What can I do on Threefold Grid?</a></li>
 <li><a href="#faq?id=i-want-to-become-a-threefold-validator-what-are-the-steps">I want to become a Threefold validator. What are the steps?</a></li>
@@ -948,6 +949,14 @@ If you are not deploying/doing things on the TF Grid (dev, test or mainnet) you 
 
 
 ## TF Grid Functionalities
+
+### How can I filter 3nodes by country and by network (IPv4, IPv6 and Planetary Network)?
+
+You can use the official [Dashboard Explorer](https://dashboard.grid.tf/explorer/nodes).
+There are also wonderful tools built by people from the Threefold community. 
+See this [Explorer](https://www.app-yoke.com/explorer.html) by [Teisie](https://forum.threefold.io/t/grant-suggestion-improve-network-map-in-the-threefold-explorer/3429/8).
+
+***
 
 ### Can I have the link to deploy a VM and other apps on the Grid?
 
