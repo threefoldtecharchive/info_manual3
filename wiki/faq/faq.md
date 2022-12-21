@@ -226,6 +226,7 @@
 <li><a href="#faq?id=what-is-the-necessary-uptime-for-a-3node-per-period-of-one-month">What is the necessary uptime for a 3node per period of one month?</a></li>
 <li><a href="#faq?id=i-set-up-a-3node-in-the-middle-of-the-month-does-it-affect-uptime-requirements-and-rewards">I set up a 3node in the middle of the month, does it affect uptime requirements and rewards?</a></li>
 <li><a href="#faq?id=what-is-the-difference-between-a-certified-and-a-non-certified-3node">What is the difference between a certified and a non-certified 3node?</a></li>
+<li><a href="#faq?id=what-are-the-different-certifications-available-for-3node-servers-and-farms-what-are-the-gold-and-silver-certifications">What are the different certifications available for 3node servers and farms? What are the Gold and Silver certifications?</a></li>
 <li><a href="#faq?id=what-is-the-difference-between-v2-and-v3-minting">What is the difference between V2 and V3 minting?</a></li>
 <li><a href="#faq?id=how-long-is-the-minting-period-of-the-tokens-on-threefold-how-long-is-the-farming-period">How long is the minting period of the tokens on Threefold? How long is the farming period?</a></li>
 <li><a href="#faq?id=what-are-the-minting-periods-for-2022">What are the minting periods for 2022?</a></li>
@@ -1387,7 +1388,19 @@ You will still need to meet the required uptime (95% for DIY, etc.3), but the pe
 ***
 ### What is the difference between a certified and a non-certified 3node?
 
-A certified 3node will receive 25% more reward compared to a non-certified 3node. As of now, [Titans](https://marketplace.3node.global/index.php?dispatch=categories.view&category_id=168) bought from Threefold can be certified as well as [certified 3nodes](https://marketplace.3node.global/index.php?dispatch=companies.catalog) bought on the Threefold Marketplace. DIY certified 3nodes are a future possibility.
+A certified 3node will receive 25% more reward compared to a non-certified 3node. 
+You can visit the [Threefold Marketplace](https://marketplace.3node.global/) for more information on certified 3nodes. 
+DIY certified 3nodes are a future possibility.
+
+***
+
+### What are the different certifications available for 3node servers and farms? What are the Gold and Silver certifications?
+
+3nodes can be certified. You can buy certified 3nodes [here](https://marketplace.3node.global/).
+
+Farms can also be certified. The certifications are: [gold certified farming](https://forum.threefold.io/t/gep-gold-certified-farming-specs-closed/2925) and [silver certified farming](https://forum.threefold.io/t/silver-booster-request-for-comments/3416).
+
+Note that gold and silver certifications are still being discussed. Join the discussion on the [Threefold Forum](http://forum.threefold.io/).
  
 ***
 ### What is the difference between V2 and V3 minting?
