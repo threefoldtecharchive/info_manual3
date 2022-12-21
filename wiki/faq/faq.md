@@ -21,8 +21,8 @@
 <ul>
 <li><a href="#faq?id=general-faq">GENERAL FAQ</a>
 <li><a href="#faq?id=users-faq">USERS FAQ</a>
-<li><a href="#faq?id=validators-faq">VALIDATORS FAQ</a>
 <li><a href="#faq?id=developers-faq">DEVELOPERS FAQ</a>
+<li><a href="#faq?id=validators-faq">VALIDATORS FAQ</a>
 <li><a href="#faq?id=farmers-faq">FARMERS FAQ</a>
 </li>
 </ul>
