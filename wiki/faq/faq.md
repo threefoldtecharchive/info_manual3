@@ -12,7 +12,24 @@
 
 ***
 *Hint: Use the search function (Ctrl+F) to locate specific keywords*
+
+*If you can't find the answer to your question*, <a href="#faq?id=ask-a-question-to-the-threefold-community">ask the Threefold Community</a>!
 ***
+
+<h2>Main Sections</h2>
+
+<ul>
+<li><a href="#faq?id=general-faq">GENERAL FAQ</a>
+<li><a href="#faq?id=user-faq">USER FAQ</a>
+<li><a href="#faq?id=validator-faq">VALIDATOR FAQ</a>
+<li><a href="#faq?id=farmer-faq">FARMER FAQ</a>
+<li><a href="#faq?id=developer-faq">DEVELOPER FAQ</a>
+</li>
+</ul>
+
+***
+
+<h2>Table of Contents</h2>
 
 <ul>
 <li><a href="#faq?id=general-faq">GENERAL FAQ</a>
@@ -417,7 +434,6 @@
 # GENERAL FAQ
 ![wethreepedia_grid](img/tf_general.jpg)
 ## Basic Facts
-***
 
 ### What is the the Threefold blockchain?
 
@@ -605,8 +621,6 @@ Yes, there is a Threefold podcast! Hosted by Kyle Ellicot, it is available to li
 ***
 
 ## The Technology of Threefold
-
-***
 
 ### What is a 3node?
 
@@ -863,8 +877,6 @@ First, make sure your wallet has a TFT trustline. Second, go on [StellarX Swap s
 ***
 ## TF Connect App, TF Portal & Polkadot Substrate
 
-***
-
 ### What is the Threefold Connect App download link?
 
 Threefold Connect App (TF Connect App) is available for download on [Android](https://play.google.com/store/apps/details?id=org.jimber.threebotlogin) and on [iOS](https://apps.apple.com/us/app/threefold-connect/id1459845885).
@@ -931,8 +943,6 @@ If you are not deploying/doing things on the TF Grid (dev, test or mainnet) you 
 
 
 ## TF Grid Functionalities
-***
-
 
 ### Can I have the link to deploy a VM and other apps on the Grid?
 
@@ -1094,7 +1104,7 @@ Learn all about this [here](https://library.threefold.me/info/manual/#/manual__y
 ***
 
 ## Threefold Connect App
-***
+
 ### TF Connect App is now asking for a 4-digit password (PIN). I don't remember it as I usually use touch or face ID to unlock the app. What can I do?
 
 When you set up your the app, you are asked a 4-digit password (PIN). After some time, the app will be asking for this PIN when users may have been exclusively using touch/face ID. You can reset it by recovering the account with your seedphrase.
@@ -1114,7 +1124,6 @@ Note: There will not be an automatic function in the app to create a new wallet.
 ![wethreepedia_developer](img/wethreepedia_developer.png)
 
 ## General Information for Developer
-***
 
 ### Can I use a docker with the Threefold Grid?
 Yes, you can. Simply [run a virtual machine on play.grid.tf](https://play.grid.tf/#/vm) and install your docker as per the given documentation of the software you want to implement. Note that you can also convert a docker into an flist, to simplify the process. For more information, read the next question.
@@ -1151,8 +1160,6 @@ MAC means *media access control*. It is a unique hardware ID. It helps the netwo
 
 ## Dev Net & Test Net
 
-***
-
 ### Is there a way to test the Grid with free TFT?
 
 You can get free TFT on the Dev Net, but note that these are not real TFTs. They are simply there for people to try and explore the Grid.
@@ -1175,8 +1182,6 @@ Of course! And they'll be happy to help you. [Reach the TF community on Telegram
 ![wethreepedia_validator](img/wethreepedia_validator.jpg)
 
 ## General Information of Validator
-
-***
 
 ### What are Validators?
 
@@ -1294,8 +1299,6 @@ Yes you can, you can run validators wherever you want. You can deploy manually (
 
 ## Application to run a Validator Node
 
-***
-
 ### When will Verification of applications start?
 
 Starting February 21, 2022
@@ -1327,8 +1330,6 @@ We're looking forward to driving the expansion and decentralization of the Three
 # FARMER FAQ
 ![wethreepedia_grid](img/3nodes.png)
 ## TFT Farming Basics
-
-***
 
 ### How can I create a Threefold farm?
 
@@ -1627,10 +1628,7 @@ This is normal. Grid utilization is low right now. We're still in the phase of b
 
 ***
 
-## 3node Farming Requirements 
-
-
-***
+## 3node Farming Requirements
 
 ### What are the general requirements for a DIY 3node?
 
@@ -2003,8 +2001,6 @@ The add IP option is for farmers that have a block of IP addresses routed to the
 ***
 
 ## Farming Optimization
-
-***
 
 ### What is the difference between a Threefold 3node and a Threefold farm? What is the difference between the farm ID and the node ID?
 
@@ -2595,8 +2591,6 @@ Usually, booting the 3node in BIOS mode instead of UEFI mode fixes this issue.
 
 ## Threefold Grid and Data
 
-***
-
 
 ### How is the farming minting reward calculated? Is the Grid always monitoring my 3node?
 
@@ -2650,7 +2644,6 @@ The explorer is showing your ISP location. This is perfectly normal.
 ***
 
 ## Memory
-***
 
 ### Can I use different type of RAM for the same 3node?
 
