@@ -102,11 +102,11 @@
 <li><a href="#faq?id=is-it-possible-to-swap-tft-on-stellar-blockain">Is it possible to swap TFT on Stellar Blockain?</a></li>
 </ul>
 </li>
-<li><a href="#faq?id=tf-connect-app-tf-portal--polkadot-substrate">TF Connect App, TF Portal &amp; Polkadot Substrate</a>
+<li><a href="#faq?id=tf-connect-app-tf-dashboard--polkadot-substrate">TF Connect App, TF Dashboard &amp; Polkadot Substrate</a>
 <ul>
 <li><a href="#faq?id=what-is-the-threefold-connect-app-download-link">What is the Threefold Connect App download link?</a></li>
-<li><a href="#faq?id=what-is-the-threefold-portal-link">What is the Threefold Portal link?</a></li>
-<li><a href="#faq?id=to-access-the-tf-portal-i-need-to-use-the-polkadot-extension-what-is-the-link">To access the TF Portal, I need to use the Polkadot Extension. What is the link?</a></li>
+<li><a href="#faq?id=what-is-the-threefold-dashboard-link">What is the Threefold Dashboard link?</a></li>
+<li><a href="#faq?id=to-access-the-tf-dashboard-i-need-to-use-the-polkadot-extension-what-is-the-link">To access the TF Dashboard, I need to use the Polkadot Extension. What is the link?</a></li>
 <li><a href="#faq?id=is-there-a-way-to-create-or-import-another-wallet-in-tf-connect-app">Is there a way to create or import another wallet in TF Connect App?</a></li>
 <li><a href="#faq?id=i-created-a-farm-on-the-tf-chain-on-the-tf-connect-app---farmer-migration-section-my-farm-is-under-other-v3-farms-is-this-normal">I created a farm on the TF Chain. On the TF Connect App - Farmer Migration section, my farm is under Other v3 farms, is this normal?</a></li>
 <li><a href="#faq?id=i-am-trying-to-access-my-wallet-in-the-threefold-connect-app-it-worked-fine-before-but-now-i-just-get-a-white-screen-what-does-it-mean-and-what-can-i-do">I am trying to access my wallet in the Threefold Connect App. It worked fine before, but now I just get a white screen. What does it mean and what can I do?</a></li>
@@ -334,15 +334,15 @@
 <li><a href="#faq?id=farming-and-maintenance">Farming and Maintenance</a>
 <ul>
 <li><a href="#faq?id=do-i-need-the-zero-os-bootstrap-image-drive-usb-or-cd-dvd-when-i-reboot-or-can-i-boot-zero-os-from-the-3node-main-hard-drive">Do I need the Zero-OS bootstrap image drive (USB or CD-DVD) when I reboot, or can I boot Zero-OS from the 3node main hard drive?</a></li>
-<li><a href="#faq?id=when-i-set-my-farm-on-polkadotjs-httpsportalgridtf-it-asks-for-a-stellar-payout-address-what-should-i-write">When I set my farm on polkadot.js (https://portal.grid.tf), it asks for a Stellar payout address. What should I write?</a></li>
+<li><a href="#faq?id=when-i-set-my-farm-on-polkadotjs-httpsdashboardgridtf-it-asks-for-a-stellar-payout-address-what-should-i-write">When I set my farm on polkadot.js (https://dashboard.grid.tf/), it asks for a Stellar payout address. What should I write?</a></li>
 <li><a href="#faq?id=its-written-that-my-node-is-using-100-of-hru-what-does-it-mean">It's written that my node is using 100% of HRU. What does it mean?</a></li>
 <li><a href="#faq?id=on-the-threefold-explorer-i-only-see-half-of-the-threads-my-3node-has-what-can-i-do">On the Threefold Explorer, I only see half of the threads my 3node has, what can I do?</a></li>
-<li><a href="#faq?id=why-are-the-3nodes-resources-different-on-the-threefold-explorer-and-the-threefold-portal">Why are the 3nodes' resources different on the Threefold Explorer and the Threefold Portal?</a></li>
+<li><a href="#faq?id=why-are-the-3nodes-resources-different-on-the-threefold-explorer-and-the-threefold-dashboard">Why are the 3nodes' resources different on the Threefold Explorer and the Threefold Portal?</a></li>
 <li><a href="#faq?id=what-do-cru-mru-hru-and-sru-mean-on-the-threefold-explorer">What do CRU, MRU, HRU and SRU mean on the Threefold Explorer?</a></li>
 <li><a href="#faq?id=how-can-i-know-if-my-3node-is-online-on-the-grid-is-there-an-explorer-for-grid-v3">How can I know if my 3node is online on the Grid? Is there an Explorer for Grid V3?</a></li>
 <li><a href="#faq?id=i-booted-my-3node-and-the-monitor-says-its-online-and-connected-to-the-grid-but-the-tf-explorer-says-it-is-offline-what-can-i-do">I booted my 3node and the monitor says it's online and connected to the Grid. But the TF Explorer says it is offline? What can I do?</a></li>
-<li><a href="#faq?id=my-3node-does-show-on-the-threefold-explorer-but-not-on-the-threefold-portal-what-can-i-do">My 3node does show on the Threefold Explorer, but not on the Threefold Portal, what can I do?</a></li>
-<li><a href="#faq?id=i-set-up-my-farm-on-threefold-connect-app-can-i-use-the-polkadot-extension-portal-instead">I set up my farm on Threefold Connect App. Can I use the Polkadot extension Portal instead?</a></li>
+<li><a href="#faq?id=my-3node-does-show-on-the-threefold-explorer-but-not-on-the-threefold-dashboard-what-can-i-do">My 3node does show on the Threefold Explorer, but not on the Threefold Portal, what can I do?</a></li>
+<li><a href="#faq?id=i-set-up-my-farm-on-threefold-connect-app-can-i-use-the-polkadot-extension-dashboard-instead">I set up my farm on Threefold Connect App. Can I use the Polkadot extension Portal instead?</a></li>
 <li><a href="#faq?id=is-it-equivalent-to-create-a-farm-on-threefold-connect-app-or-via-the-polkadot-extension">Is it equivalent to create a farm on Threefold Connect App or via the Polkadot extension?</a></li>
 <li><a href="#faq?id=if-i-upgrade-my-3node-will-it-increase-my-rewards">If I upgrade my 3node, will it increase my rewards?</a></li>
 <li><a href="#faq?id=i-booted-my-3node-for-the-first-time-at-the-beginning-of-the-month-then-i-did-some-upgrade-or-downgrade-will-the-grid-recognize-the-new-hardware-will-it-still-be-the-same-3node-id">I booted my 3node for the first time at the beginning of the month, then I did some upgrade or downgrade, will the Grid recognize the new hardware? Will it still be the same 3node ID?</a></li>
@@ -362,7 +362,7 @@
 <li><a href="#faq?id=my-3node-uses-only-pcie-adapters-and-ssd-nvme-disks-do-i-need-the-raid-controller-on">My 3node uses only PCIe adapters and SSD NVME disks. Do I need the RAID controller on?</a></li>
 <li><a href="#faq?id=can-i-change-the-name-of-my-farm-on-polkadotjs">Can I change the name of my farm on polkadot.js?</a></li>
 <li><a href="#faq?id=how-can-i-delete-a-farm-on-polkadotjs">How can I delete a farm on polkadot.js?</a></li>
-<li><a href="#faq?id=i-try-to-delete-a-node-on-the-tf-portal-but-it-doesnt-work-is-there-any-other-way-to-proceed-that-could-work">I try to delete a node on the TF Portal, but it doesn’t work. Is there any other way to proceed that could work?</a></li>
+<li><a href="#faq?id=i-try-to-delete-a-node-on-the-tf-dashboard-but-it-doesnt-work-is-there-any-other-way-to-proceed-that-could-work">I try to delete a node on the TF Portal, but it doesn’t work. Is there any other way to proceed that could work?</a></li>
 <li><a href="#faq?id=my-3node-has-2-ethernet-ports-in-the-back-with-one-written-amt-above-what-does-it-mean-can-i-use-this-port-to-connect-my-3node-to-the-grid">My 3node has 2 ethernet ports in the back, with one written AMT above, what does it mean? Can I use this port to connect my 3node to the Grid?</a></li>
 <li><a href="#faq?id=my-3node-is-based-on-a-the-hardware-z600-z620-or-z820-can-i-run-it-headless-or-without-a-gpu">My 3node is based on a the hardware Z600, Z620 or Z820, can I run it headless or without a GPU?</a></li>
 <li><a href="#faq?id=my-3node-is-based-on-a-z800-the-psu-is-not-working-anymore-is-there-an-alternative-to-buying-another-expensive-psu">My 3node is based on a Z800. The PSU is not working anymore. Is there an alternative to buying another expensive PSU?</a></li>
@@ -498,7 +498,7 @@ The mission of Threefold is to create a peer-to-peer Internet that can host all 
 
 ### Does Threefold have any partners?
 
-Threefold has great [partners](https://threefold.me/partners) and we are proud of the amazing projects we have done throughout the years. Building the New Internet is a collective project and the Threefold team is always ready to create and collaborate with new partners aligned with our Planet first ethos.
+Threefold has great [partners](https://threefold.io/partners/) and we are proud of the amazing projects we have done throughout the years. Building the New Internet is a collective project and the Threefold team is always ready to create and collaborate with new partners aligned with our Planet first ethos.
 ***
 
 
@@ -715,7 +715,7 @@ Yes! It's over [here](https://bridge.bsc.threefold.io/).
 
 ### What are the different Threefold bridges, TFChain-Stellar Bridge and BSC-Stellar Bridge? How can I go from TF Chain to Stellar chain to Binance Smart Chain?
 
-In short, there is the [BSC-Stellar Bridge](https://bridge.bsc.threefold.io/) and the [TF Chain-Stellar](https://portal.grid.tf/) Bridge.
+In short, there is the [BSC-Stellar Bridge](https://bridge.bsc.threefold.io/) and the [TF Chain-Stellar](https://dashboard.grid.tf//) Bridge.
 
 The BSC-Stellar Bridge is used to go between the Stellar Chain and Binance Smart Chain (BSC).
 The TFChain-Stellar Bridge is used to go between Stellar Chain and TF Chain.
@@ -728,7 +728,7 @@ BSC can be used to sell/buy TFT while TF Chain can be used to deploy Dapps on ht
 
 ### How can I bridge TFT from Stellar chain to TF Chain and vice versa?
 
-Go on the [Threefold Portal](https://portal.grid.tf), sign-in with your Polkadot extension account and then go in the section Twin if you aren't there already. Click on *Bridge TFT from Stellar* to transfer TFT from Stellar to TF Chain.
+Go on the [Threefold Dashboard](https://dashboard.grid.tf/), sign-in with your Polkadot extension account and then go in the section Twin if you aren't there already. Click on *Bridge TFT from Stellar* to transfer TFT from Stellar to TF Chain.
 Click on *Bridge TFT to Stellar* to transfer TFT from TF Chain to Stellar.
 
 Note: If you are on Threefold Connect App, you can export your account to the Polkadot extension. Look at the section *Move Farm from the TF app to the TF Portal (polkadot.js)* in the Threefold Farming Guide Part 2.
@@ -885,7 +885,7 @@ Threefold Connect App (TF Connect App) is available for download on [Android](ht
 
 ### What is the Threefold Portal link?
 
-To go on the Threefold Portal, use this link [https://portal.grid.tf/](https://portal.grid.tf/).
+To go on the Threefold Portal, use this link [https://dashboard.grid.tf//](https://dashboard.grid.tf//).
 ***
 
 ### To access the TF Portal, I need to use the Polkadot Extension. What is the link?
@@ -1010,7 +1010,7 @@ The prerequisites are simple:
 
 1. Add the [Polkadot Substrate Extension](https://polkadot.js.org/extension/) to your browser
 2. Create an account (write down the mnemonics somewhere safe and offline)
-3. Go to [TF Portal Grid](http://portal.grid.tf) and select the newly created account
+3. Go to [TF Portal Grid](http://dashboard.grid.tf) and select the newly created account
 4. Fund the TF Portal account by using the [TFChain-Stellar Bridge](#how-can-i-bridge-tft-from-stellar-chain-to-tf-chain-and-vice-versa) and the [Threefold Connect App](#is-there-a-threefold-app-for-mobile)
 5. Go to the [Threefold Play Grid](http://play.grid.tf) and start your deployment
 
@@ -1337,7 +1337,7 @@ There are two ways to create a Threefold farm.
 
 You can install the [Threefold Connect App](#is-there-a-threefold-app-for-mobile), set an account and then create a farm in the section Farming.
 
-You can also create a Threefold farm on the [Threefold Portal](https://portal.grid.tf/) after having created an account on the [Polkadot extension](https://polkadot.js.org/extension/).
+You can also create a Threefold farm on the [Threefold Dashboard](https://dashboard.grid.tf//) after having created an account on the [Polkadot extension](https://polkadot.js.org/extension/).
 
 ***
 
@@ -1469,7 +1469,7 @@ This process usually takes a couple of minutes but it can take a little bit long
 
 ### How can I migrate my DIY farm from V2 to V3?
 
-Create a new [bootstrap image](https://bootstrap.grid.tf/) using your new V3 Farm ID. To create a new V3 Farm ID, you can use the Threefold Connect App or the Threefold Portal.
+Create a new [bootstrap image](https://bootstrap.grid.tf/) using your new V3 Farm ID. To create a new V3 Farm ID, you can use the Threefold Connect App or the Threefold Dashboard.
 
 ***
 
@@ -2143,7 +2143,7 @@ You need the bootstrap image device plugged in every time you reboot a 3node and
 
 ***
 
-### When I set my farm on polkadot.js (https://portal.grid.tf), it asks for a Stellar payout address. What should I write?
+### When I set my farm on polkadot.js (https://dashboard.grid.tf/), it asks for a Stellar payout address. What should I write?
 
 The easiest method would be to write the address on your Threefold Connect App. You can also write any address that is on the Stellar blockchain and has a trustline enabled with Threefold Token.
 ***
@@ -2158,7 +2158,7 @@ Check in the BIOS settings and make sure you have enabled Virtual Cores (or Hype
 
 ***
 
-### Why are the 3nodes' resources different on the Threefold Explorer and the Threefold Portal?
+### Why are the 3nodes' resources different on the Threefold Explorer and the Threefold Dashboard?
 
 There is a difference because one shows the resources in GiB and the other in GB. It's just a way to display information, the resources are ultimately the same, but shown differently. 1 GiB = 1.073741824 GB.
 
@@ -2188,27 +2188,27 @@ The Explorer refetches information every 2 hours. You can wait 2 hours and see i
 
 ***
 
-### My 3node does show on the Threefold Explorer, but not on the Threefold Portal, what can I do?
+### My 3node does show on the Threefold Explorer, but not on the Threefold Dashboard, what can I do?
 
-If you're 3node is correctly registered on the Threefold Grid but you cannot see it on the Threefold Portal, there can be many different ways to solve this issue.
+If you're 3node is correctly registered on the Threefold Grid but you cannot see it on the Threefold Dashboard, there can be many different ways to solve this issue.
 
-One way to fix this is to go in the TF Portal, select *change the address* and then simply re-paste the same address, then the extension will ask you to resign. Usually this fixes the issue.
+One way to fix this is to go in the TF Dashboard, select *change the address* and then simply re-paste the same address, then the extension will ask you to resign. Usually this fixes the issue.
 
 If the first method did not work, you can try to remove the account and add it back up on the Polkadot.js extension. Before doing so, make sure you have a back up of your seed phrase as you will need it to re-enter the account. Your 3node should then appear.
 
 ***
 
-### I set up my farm on Threefold Connect App. Can I use the Polkadot extension Portal instead?
+### I set up my farm on Threefold Connect App. Can I use the Polkadot extension Dashboard instead?
 
 
-If you want to use the portal, you can take the TFChain Secret from the app and import it into the Polkadot extension. For more information, and the other way around (TF Portal to TF Connect App), read the sections Move Farm from the TF app to the TF Portal (polkadot.js) and Import TF Portal (polkadot.js) wallet to the TF Connect App Wallet of the [Farming Guide Part 2](https://forum.threefold.io/t/threefold-farming-guide-part-2/2990).
+If you want to use the Dashboard, you can take the TFChain Secret from the app and import it into the Polkadot extension. For more information, and the other way around (TF Dashboard to TF Connect App), read the sections Move Farm from the TF app to the TF Dashboard (polkadot.js) and Import TF Dashboard (polkadot.js) wallet to the TF Connect App Wallet of the [Farming Guide Part 2](https://forum.threefold.io/t/threefold-farming-guide-part-2/2990).
 
 ***
 
  
 ### Is it equivalent to create a farm on Threefold Connect App or via the Polkadot extension?
 
-Yes it is. Farm setup through the app and using the Polkadot extension with the portal are equivalent. 
+Yes it is. Farm setup through the app and using the Polkadot extension with the Dashboard are equivalent. 
 
 ***
 
@@ -2335,7 +2335,7 @@ Under *using the selected account*, select the account that owns the farm, choos
 
 ***
 
-### I try to delete a node on the TF Portal, but it doesn’t work. Is there any other way to proceed that could work?
+### I try to delete a node on the TF Dashboard, but it doesn’t work. Is there any other way to proceed that could work?
 
 It’s possible to delete nodes through the Polkadot UI. For mainnet, use [this link](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.grid.tf#/extrinsics).
 
