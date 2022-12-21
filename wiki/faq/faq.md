@@ -102,7 +102,7 @@
 <li><a href="#faq?id=is-it-possible-to-swap-tft-on-stellar-blockain">Is it possible to swap TFT on Stellar Blockain?</a></li>
 </ul>
 </li>
-<li><a href="#faq?id=tf-connect-app-tf-dashboard--polkadot-substrate">TF Connect App, TF Dashboard &amp; Polkadot Substrate</a>
+<li><a href="#faq?id=tf-connect-app-tf-dashboard-and-polkadot-substrate">TF Connect App, TF Dashboard &amp; Polkadot Substrate</a>
 <ul>
 <li><a href="#faq?id=what-is-the-threefold-connect-app-download-link">What is the Threefold Connect App download link?</a></li>
 <li><a href="#faq?id=what-is-the-threefold-dashboard-link">What is the Threefold Dashboard link?</a></li>
@@ -875,7 +875,7 @@ First, make sure your wallet has a TFT trustline. Second, go on [StellarX Swap s
 
 
 ***
-## TF Connect App, TF Dashboard & Polkadot Substrate
+## TF Connect App, TF Dashboard and Polkadot Substrate
 
 ### What is the Threefold Connect App download link?
 
