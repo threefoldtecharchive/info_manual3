@@ -511,7 +511,7 @@ Threefold is working for the Planet, the People and Profit, in this very order o
 
 ### I want to farm TFT with a 3node. What are my choices?
 
-There are three possibilities. Either [buy a 3node Titan](https://marketplace.3node.global/index.php?dispatch=categories.view&category_id=168) (plug n play), buy a [certified 3node](https://marketplace.3node.global/index.php?dispatch=companies.catalog) or build yourself a [3node DIY](#what-are-the-general-requirements-for-a-diy-3node).
+There are three possibilities. Either [buy a certified 3node](https://marketplace.3node.global/) (plug n play) or build yourself a <a href="#faq?id=what-are-the-general-requirements-for-a-diy-3node">DIY 3node</a>.
 
 ***
 
