@@ -75,6 +75,8 @@
 <li><a href="#faq?id=what-is-zero-os-from-threefold">What is Zero-OS from Threefold?</a></li>
 <li><a href="#faq?id=threefold-uses-quantum-safe-storage-technology-what-does-it-mean">Threefold uses Quantum Safe Storage technology, what does it mean?</a></li>
 <li><a href="#faq?id=where-does-the-threefold-explorer-takes-its-data-from">Where does the Threefold Explorer takes its data from?</a></li>
+<li><a href="#faq?id=how-can-i-connect-to-the-threefold-planetary-network">How can I connect to the Threefold Planetary Network?</a></li>
+<li><a href="#faq?id=where-can-i-download-the-threefold-planetary-network-connector">Where can I download the Threefold Planetary Network connector?</a></li>
 </ul>
 </li>
 <li><a href="#faq?id=buying-and-transacting-tft">Buying and Transacting TFT</a>
@@ -125,6 +127,7 @@
 <li><a href="#faq?id=how-can-i-filter-3nodes-by-country-and-by-network-ipv4-ipv6-and-planetary-network">How can I filter 3nodes by country and by network (IPv4, IPv6 and Planetary Network)?</a></li>
 <li><a href="#faq?id=can-i-have-the-link-to-deploy-a-vm-and-other-apps-on-the-grid">Can I have the link to deploy a VM and other apps on the Grid?</a></li>
 <li><a href="#faq?id=what-can-i-do-on-threefold-grid">What can I do on Threefold Grid?</a></li>
+<li><a href="#faq?id=can-i-deploy-a-mastodon-server-on-threefold-grid">Can I deploy a Mastodon server on Threefold Grid?</a></li>
 <li><a href="#faq?id=i-want-to-become-a-threefold-validator-what-are-the-steps">I want to become a Threefold validator. What are the steps?</a></li>
 <li><a href="#faq?id=is-there-delegated-staking-for-tft">Is there delegated staking for TFT?</a></li>
 <li><a href="#faq?id=what-are-the-type-of-storage-available-on-tf-grid">What are the type of storage available on TF Grid?</a></li>
@@ -225,6 +228,7 @@
 <li><a href="#faq?id=is-there-a-threefold-calculator">Is there a Threefold calculator?</a></li>
 <li><a href="#faq?id=what-is-the-tft-entry-price-of-my-3node">What is the TFT entry price of my 3node?</a></li>
 <li><a href="#faq?id=what-is-the-necessary-uptime-for-a-3node-per-period-of-one-month">What is the necessary uptime for a 3node per period of one month?</a></li>
+<li><a href="#faq?id=how-can-i-check-the-uptime-of-my-3nodes-is-there-a-tool-to-check-the-uptime-of-3node-servers-on-the-threefold-grid">How can I check the uptime of my 3nodes? Is there a tool to check the uptime of 3node servers on the Threefold Grid?</a></li>
 <li><a href="#faq?id=i-set-up-a-3node-in-the-middle-of-the-month-does-it-affect-uptime-requirements-and-rewards">I set up a 3node in the middle of the month, does it affect uptime requirements and rewards?</a></li>
 <li><a href="#faq?id=what-is-the-difference-between-a-certified-and-a-non-certified-3node">What is the difference between a certified and a non-certified 3node?</a></li>
 <li><a href="#faq?id=what-are-the-different-certifications-available-for-3node-servers-and-farms-what-are-the-gold-and-silver-certifications">What are the different certifications available for 3node servers and farms? What are the Gold and Silver certifications?</a></li>
@@ -665,6 +669,22 @@ The Threefold Explorer takes its data from this website: https://gridproxy.grid.
 
 ***
 
+### How can I connect to the Threefold Planetary Network?
+
+You can connect with your phone by using the Threefold Connect App.
+Simply select the Planetary Network option in the menu.
+
+To connect on a computer, you can download the pre-release vesion of the [Threefold Planetary Network connector](https://github.com/threefoldtech/planetary_network).
+ 
+***
+
+### Where can I download the Threefold Planetary Network connector?
+
+It is available in the Threefold [Planetary Network](https://github.com/threefoldtech/planetary_network) repository on Github.
+You can download pre-release versions [here](https://github.com/threefoldtech/planetary_network/releases) for MAC, Linux and Windows.
+
+***
+
 ## Buying and Transacting TFT
 
 ***
@@ -981,6 +1001,15 @@ Since Threefold 3nodes have their OS based on the Linux kernel, you can run just
 - [Casperlabs](https://play.grid.tf/#/casperlabs)
 
 When you take into consideration that with CapRover only, you get dozens and dozens of free and open source one-click applications, from Wordpress to Ruby, you realize the fun ahead.
+
+***
+
+### Can I deploy a Mastodon server on Threefold Grid?
+
+Yes! It is possible to [deploy a Mastodon server](https://getmastodon.threefold.io/) on the Threefold Grid.
+Check this easy-to-follow guide right [here](https://library.threefold.me/info/manual/#/manual__threefold_mastodon_home).
+This is a beta tester version. The final version will be available on Threefold Grid 3.8.
+For more information, read this [TF Forum post](https://forum.threefold.io/t/beta-testers-wanted-mastodon-powered-by-threefold/3637).
 
 ***
 
@@ -1389,6 +1418,14 @@ For Grid V3, Titans 3nodes have the entry price of the moment you bought the uni
 Note that as of now, rewards are proportional to the uptime, so (e.g.) 40% uptime farms 40% of the total uptime period.
 
 When implemented : For certified Titans 3nodes, it is 97% uptime per month (21.6h). For DIY 3nodes, it is 95% uptime per month (36h). For professional certified 3 nodes, it is 99.5% uptime per month (3.6h). 
+***
+
+### How can I check the uptime of my 3nodes? Is there a tool to check the uptime of 3node servers on the Threefold Grid?
+
+You can go on the Threefold Dashboard, and select "Farms" in the Portal menu.  When you select a specific 3node in your farm, you can see a visual graph of the 3node's uptime of the last month. By clicking on "Node Statistics", you can see past and present uptime periods.
+
+To check uptime, you can also use [this tool](http://publicuptime.tfcloud.us/uptimeCheck) made by a TF community member. This tool is also available with the Planetary Network [here](http://uptime.tfcloud.us/uptimeCheck). This link works when you are connected to the Planetary Network.
+
 ***
 
 ### I set up a 3node in the middle of the month, does it affect uptime requirements and rewards?
