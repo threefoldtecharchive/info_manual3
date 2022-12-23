@@ -74,7 +74,7 @@
 <li><a href="#faq?id=ive-read-that-threefold-built-an-operating-system-os-from-scratch-is-it-true">I've read that Threefold built an Operating System (OS) from scratch, is it true?</a></li>
 <li><a href="#faq?id=what-is-zero-os-from-threefold">What is Zero-OS from Threefold?</a></li>
 <li><a href="#faq?id=threefold-uses-quantum-safe-storage-technology-what-does-it-mean">Threefold uses Quantum Safe Storage technology, what does it mean?</a></li>
-<li><a href="#faq?id=where-does-the-threefold-explorer-takes-its-data-from">Where does the Threefold Explorer takes its data from?</a></li>
+<li><a href="#faq?id=where-does-the-threefold-explorer-take-its-data-from">Where does the Threefold Explorer take its data from?</a></li>
 <li><a href="#faq?id=how-can-i-connect-to-the-threefold-planetary-network">How can I connect to the Threefold Planetary Network?</a></li>
 <li><a href="#faq?id=where-can-i-download-the-threefold-planetary-network-connector">Where can I download the Threefold Planetary Network connector?</a></li>
 </ul>
@@ -663,7 +663,7 @@ Quantum computers are theoretically capable of doing huge calculations in a shor
 ***
 
 
-### Where does the Threefold Explorer takes its data from?
+### Where does the Threefold Explorer take its data from?
 
 The Threefold Explorer takes its data from this website: https://gridproxy.grid.tf/.
 
