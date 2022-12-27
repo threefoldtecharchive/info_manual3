@@ -142,11 +142,15 @@ Process(target=sub, args=("reader",)).start()
 
 - Zlogs streams anything written to stdout of the zinit process on a vm.
 - So, simply running ```echo "to be streamed" 1>/proc/1/fd/1``` on vm1 should successfully stream this message to the vm2 and we should be able to see it in `output.txt`.
-- Also, if we want to stream a service's logs, a service definition file should be created in ```/etc/zinit/example.yaml``` on vm1 and should look like this:
+- Also, if we want to stream a service's logs, a service definition file should be created in ```/etc/zinit/``` directroy as `yaml` file, on vm1 and should look like this:
   
 ```yaml
 exec: sh -c "echo 'to be streamed'"
 log: stdout
 ```
+> NOTE: 
+> - You must set `log: stdout` to see the logs
+> - You can replace `sh -c "echo 'to be streamed'"` with any command that you need to be executed here, the mentioned command is for testing only
+
 
 checkout more about [zinit](https://github.com/threefoldtech/zinit).
