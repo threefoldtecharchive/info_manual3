@@ -7,36 +7,23 @@ Currently, we're supporting four different networks.
 - One for testing (Testnet) where you can find it at https://play.test.grid.tf
 - One for our mainnet and you can find it at https://play.grid.tf
 
-> New Profile Manager Docs
+![](img/new_profile_manager_1.png)
+Start by click the profile manager icon to open the profile manager window.
 
-<!-- ![](img/profile_manager1.png)
+![](img/new_profile_manager_2.png)
 
-Start by creating a profile from the upper right button. This creates a profile, saved and encrypted locally in your browser.
+- Fields
+  - `Mnemonics` are the secret words of your Polkadot account, [Generate yours here!](dashboard_portal_polkadot_create_account).
+  - Your `Public SSH Key` is used to login into VM's, Kubernetes, ...
+- Actions
+  - `Migrate` clicking this button will toggle **migration** mode.  
+    _note:_ More info next section.
+  - `Create Account` clicking this button will create a new account on the current network and create a twin for you.
+  - `Generate SSH Keys` clicking this button will generate a public & private ssh keys.  
+    _note:_ Private key will be downloaded directly.
 
-### Secure
-
-![](img/pro_manager5.png)
-
-The **Profile Manager Password** is how you store your profile info in browser local storage.
-Create a new profile by visiting the **Create Profile Manager** tab and enter your new password. After you're done, click on **Create New Profile Manager**.
-
-You'll need that password to be able to load your profiles afterwards from the **Activate Profile Manager** tab.
-
-![](img/pro_manager6.png)
-
-### Process
-
-Start entering the following information required to create your new profile.
-
-![](img/dev_profile2.png)
-
-- `Profile Name`: Any chosen name, makes it easy for you to remember between sessions.
-- `Mnemonics` are the secret words of your Polkadot account, [Generate yours here!](dashboard_portal_polkadot_create_account).
-- Your `Public SSH Key` is used to login into VM's, Kubernetes, ...
-
-After you finish typing your credentials, click on **Activate**. Once your profile gets activated, you should find your **Twin ID** and **Address** generated under your ***Mnemonics*** for verification. Also, your **Account Balance** will be available at the top right corner under your profile name.
-
-![](img/dev_profile3.png) -->
+![](img/new_profile_manager_3.png)
+Migrate basiclly allows your to transfer your keys from old profile manager into the new one. All you need to do is entering your old storeSecret(aka. password) and click migrate.
 
 ### Keep Deployment Alive
 
