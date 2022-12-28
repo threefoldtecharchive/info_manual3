@@ -13,17 +13,17 @@ Start by click the profile manager icon to open the profile manager window.
 ![](img/new_profile_manager_2.png)
 
 - Fields
-  - `Mnemonics` are the secret words of your Polkadot account, [Generate yours here!](dashboard_portal_polkadot_create_account).
+  - `Mnemonics` are the secret words of your Polkadot account.
   - Your `Public SSH Key` is used to login into VM's, Kubernetes, ...
 - Actions
-  - `Migrate` clicking this button will toggle **migration** mode.  
-    _note:_ More info next section.
+  - `Migrate` clicking this button will toggle **migration** mode.
+    > **Note:** More info next section.
   - `Create Account` clicking this button will create a new account on the current network and create a twin for you.
-  - `Generate SSH Keys` clicking this button will generate a public & private ssh keys.  
-    _note:_ Private key will be downloaded directly.
+  - `Generate SSH Keys` clicking this button will generate a public & private ssh keys.
+    > **Note:** Private key will be downloaded directly.
 
 ![](img/new_profile_manager_3.png)
-Migrate basiclly allows your to transfer your keys from old profile manager into the new one. All you need to do is entering your old storeSecret(aka. password) and click migrate.
+Migrate basically allows you to transfer your keys from the old profile manager into the new one to be able to see your old deployments. All you need to do is enter your old profile's password and click migrate.
 
 ### Keep Deployment Alive
 
