@@ -28,6 +28,13 @@ You can attach one or more disks to the Full Virtual Machine by clicking on the 
 
 In the bottom of the page you can see a list of all of the virual machines you deployed. you can click on `Show details` for more details
 
+![Advanced tab](img/new_fullvm7.jpg)
+
+- `Network Name`: It's used for Wireguard's private network.
+- `Network IP Range`: It's a private subnet for Wireguard's network. You could use the auto-generated one or replace it with a **private** subnet.
+
+In the bottom of the page you can see a list of all of the virual machines you deployed. you can click on `Show details` for more details
+
 ![Deployment details](img/new_fullvm4.png)
 
 ![You can also go to JSON tab for full details](img/new_fullvm5.png)
