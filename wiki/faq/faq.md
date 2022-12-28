@@ -1349,7 +1349,7 @@ The Foundation will begin with verifying the applications:
 * Submitted wallets will be checked on for the respective minimum TFT balance (for amount of TFT required see: [L2](https://library.threefold.me/info/threefold#/decentralization/validators/threefold__validator_l2_details), [L0](https://library.threefold.me/info/threefold#/decentralization/validators/threefold__validator_l0_details).
 * Submitted individuals / companies will be asked if they have more than one validator request. This request will be recorded.
 
-*
+***
 
 ### What are the next steps after the sign-up?
 
