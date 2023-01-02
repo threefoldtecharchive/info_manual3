@@ -82,8 +82,8 @@ This main.tf file is used to deploy the following resources in the Threefold Gri
 
 - A network called "mynetwork" with a range of IP addresses from 10.20.0.0/16. The network includes a single node with ID 3000, and it has WireGuard access enabled.
 - A deployment called "d1" on node 3000. The deployment includes a single virtual machine (VM) with the following properties:
-- A root disk with a size of 50GB.
-- A VM with the name "tftest", a description of "Terraform deployment test", 4 CPU cores, 8192MB of memory, and a root filesystem specified by the file list at https://hub.grid.tf/tf-official-vms/ubuntu-22.04-lts.flist. The VM is assigned a public IPv4 address, a public IPv6 address, and an IP address on the Planetary network. The VM has an environment variable called SSH_KEY set to the value "ADD YOUR SSH KEY HERE". The root disk is mounted at the /data mount point on the VM.
+	- A root disk with a size of 50GB.
+	- A VM with the name "tftest", a description of "Terraform deployment test", 4 CPU cores, 8192MB of memory, and a root filesystem specified by the file list at https://hub.grid.tf/tf-official-vms/ubuntu-22.04-lts.flist. The VM is assigned a public IPv4 address, a public IPv6 address, and an IP address on the Planetary network. The VM has an environment variable called SSH_KEY set to the value "ADD YOUR SSH KEY HERE". The root disk is mounted at the /data mount point on the VM.
 
 
 # Terraform Block 
