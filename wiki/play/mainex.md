@@ -1,3 +1,91 @@
+# What is a Main.tf?
+
+
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A main.tf file is a configuration file that defines the infrastructure resources that should be created and managed by Terraform. It is typically the main entry point for a Terraform configuration, and it is used to specify the provider, resources, and outputs for a configuration.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The main.tf file is written in the HashiCorp Configuration Language (HCL), which is a declarative language that is used to define the desired state of an infrastructure. In the main.tf file, you can specify the properties of the resources that should be created, as well as any dependencies or relationships between those resources.
+
+For example, you might use a main.tf file to define the following resources:
+
+- Virtual machines
+- Zero-Databases
+- Containers
+- Cloud storage buckets
+
+# Example Main.tf
+
+```
+terraform {
+  required_providers {
+    grid = {
+      source = "threefoldtech/grid"
+    }
+  }
+}
+
+provider "grid" {
+}
+
+resource "grid_network" "net1" {
+    nodes = [3000]
+    ip_range = "10.20.0.0/16"
+    name = "mynetwork"
+    description = "My internal Grid network"
+    add_wg_access = true
+}
+resource "grid_deployment" "d1" {
+  node = 3000
+  network_name = grid_network.net1.name
+  ip_range = lookup(grid_network.net1.nodes_ip_range, 3000, "")
+  disks {
+    name = "root"
+    size = 50
+  }
+    vms {
+    name = "tftest"
+    description ="Terraform deployment test"
+    flist = "https://hub.grid.tf/tf-official-vms/ubuntu-22.04-lts.flist"
+    cpu = 4
+    publicip = true
+    publicip6 = true
+    memory = 8192
+    mounts {
+        disk_name = "root"
+        mount_point = "/data"
+    }
+    planetary = true
+    env_vars = {
+      SSH_KEY ="ADD YOUR SSH KEY HERE"
+    }
+  }
+}
+output "wg_config" {
+    value = grid_network.net1.access_wg_config
+}
+output "node1_vm1_ip" {
+    value = grid_deployment.d1.vms[0].ip
+}
+output "public_ip" {
+    value = grid_deployment.d1.vms[0].computedip
+}
+output "public_ip6" {
+    value = grid_deployment.d1.vms[0].computedip6
+}
+output "ygg_ip" {
+    value = grid_deployment.d1.vms[0].ygg_ip
+}
+```
+
+This main.tf file is used to deploy the following resources in the Threefold Grid:
+
+- A network called "mynetwork" with a range of IP addresses from 10.20.0.0/16. The network includes a single node with ID 3000, and it has WireGuard access enabled.
+- A deployment called "d1" on node 3000. The deployment includes a single virtual machine (VM) with the following properties:
+- A root disk with a size of 50GB.
+- A VM with the name "tftest", a description of "Terraform deployment test", 4 CPU cores, 8192MB of memory, and a root filesystem specified by the file list at https://hub.grid.tf/tf-official-vms/ubuntu-22.04-lts.flist. The VM is assigned a public IPv4 address, a public IPv6 address, and an IP address on the Planetary network. The VM has an environment variable called SSH_KEY set to the value "ADD YOUR SSH KEY HERE". The root disk is mounted at the /data mount point on the VM.
+
+
 # Terraform Block 
 ```
 terraform {
