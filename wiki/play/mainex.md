@@ -14,7 +14,7 @@ For example, you might use a main.tf file to define the following resources:
 - Containers
 - Cloud storage buckets
 
-# Example Main.tf
+# Single Node Network Example Main.tf
 
 ```
 terraform {
