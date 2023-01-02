@@ -1,3 +1,4 @@
+# Terraform Block 
 ```
 terraform {
  required_providers {
@@ -8,14 +9,28 @@ terraform {
  } 
 ```
  
-This block is specifying that the Terraform configuration will require the grid provider, which is made available by the threefoldtech/grid source.
+- The terraform block is the top-level block in the configuration file. It is used to configure the behavior of Terraform itself.
+
+- The terraform block includes a single sub-block called required_providers.
+
+	- **required_providers block**
+		- The required_providers block is used to specify the Terraform providers that are required by the configuration. A provider is a plugin that implements the logic for a specific resource type, such as a cloud platform or a configuration management tool.
+
+		- The required_providers block includes a single sub-block called grid, which specifies the threefoldtech/grid provider. This provider is required to manage resources in the Threefold Grid.
+		
+# Provider Block 
 
 ```
 provider "grid" {
 }
 ```
 
-This block is defining the configuration for the grid provider. In this case, the block is empty, which means that the provider is being configured with its default settings.
+- The provider block is used to configure a Terraform provider. It specifies the provider's name and any provider-specific configuration options.
+
+- There is a single provider block that configures the grid provider. The provider block does not include any arguments, which means that it is using the default configuration for the grid provider.
+
+# Grid Network Block 
+
 ```
 resource "grid_network" "net1" {
 	nodes = [3000]
@@ -25,7 +40,7 @@ resource "grid_network" "net1" {
 	add_wg_access = true
 }
 ```
-This block is defining a new resource of type grid_network, with the identifier net1. This resource represents a virtual network in the Threefold Grid. the grid_network resource has the identifier net1, These identifiers are used to refer to the resources elsewhere in the configuration.
+This block is defining a new resource of type grid_network, with the identifier net1. The grid_network block is used to create a network in the Threefold Grid. A network is a virtual network that connects nodes in the Grid and allows them to communicate with each other. the grid_network resource has the identifier net1, These identifiers are used to refer to the resources elsewhere in the configuration.
 
 For example, the network_name argument of the grid_deployment resource refers to the name attribute of the grid_network resource with the identifier net1
 
@@ -39,39 +54,26 @@ The block contains several arguments that are specific to the grid_network resou
 
 
 .
-```	
-}
-resource "grid_deployment" "d1" {
-node = 3000
-network_name = grid_network.net1.name
-ip_range = lookup(grid_network.net1.nodes_ip_range, 3000, "")
-disks {
-	name = "root"
-	size = 50
-}
-```	
-This part of the block is defining a new resource of type grid_deployment, with the identifier d1. This resource represents a deployment of virtual machines in the Threefold Grid.the grid_deployment resource has the identifier d1. This identifier is used to refer to the resource elsewhere in the configuration.
-
-For example, the node1_vm1_ip output variable refers to the ip attribute of the first virtual machine in the vms list of the grid_deployment resource with the identifier d1, using the following syntax:
-
-The block contains several arguments that are specific to the grid_deployment resource type:
-
-- node: The node argument specifies the node ID of the node where the deployment should be created. 
-- network_name: The network_name argument specifies the name of the network to which the deployment should be connected. The deployment will be assigned an IP address from the network's IP range, and it will be able to communicate with other nodes and devices on the network.
-- ip_range: The ip_range argument specifies the IP range of the deployment. The deployment will be assigned an IP address from this range, and it will be used to assign IP addresses to the virtual machines and disks in the deployment.
-- disks: the disks block specifies one or more disks that should be created and attached to the deployment. A disk in the Threefold Grid is a block storage device that can be used to store data. Disks can be attached to a deployment and mounted on virtual machines or other nodes in the deployment.
+# Grid Deployment Block
 ```
+resource "grid_deployment" "d1" {
+  node = 3000
+  network_name = grid_network.net1.name
+  ip_range = lookup(grid_network.net1.nodes_ip_range, 3000, "")
+  disks {
+    name = "root"
+    size = 50
   }
     vms {
-    name = "vm2"
-    description ="Test vm 2"
+    name = "tftest"
+    description ="Terraform deployment test"
     flist = "https://hub.grid.tf/tf-official-vms/ubuntu-22.04-lts.flist"
     cpu = 4
     publicip = true
     publicip6 = true
     memory = 8192
     mounts {
-        disk_name = "data"
+        disk_name = "root"
         mount_point = "/data"
     }
     planetary = true
@@ -80,25 +82,43 @@ The block contains several arguments that are specific to the grid_deployment re
     }
   }
 }
-```	
-The vms block specifies one or more virtual machines that should be created and attached to the deployment.
+```
+The grid_deployment block is used to create a deployment in the Threefold Grid. A deployment is a logical grouping of nodes, disks, and virtual machines that can be used to host applications or workloads.
 
-A virtual machine (VM) in the Threefold Grid is a logical representation of a computer that is hosted on a node in the Grid. VMs can be used to host applications or workloads, and they can be configured with different CPU, memory, and storage resources to meet the needs of the workload.
+The grid_deployment block includes the following arguments:
 
-The vms block can include one or more vm blocks, each of which specifies the properties of a single VM. In the provided main.tf file, the vms block includes a single vm block with the following arguments:	
-- name: The name of the VM, which is "tftest" in this case.
-- description: A description of the VM, which is "Terraform deployment test" in this case.
-- flist: The URL of a file list that specifies the root filesystem of the VM. The file list specifies the files and directories that should be included in the VM's root filesystem.
-- cpu: The number of CPU cores that should be allocated to the VM. In this case, the VM is allocated 4 CPU cores.
-- publicip: A flag that indicates whether the VM should be assigned a public IPv4 address. If set to true, the `
-- publicip6: A flag that indicates whether the VM should be assigned a public IPv6 address. If set to true, the grid provider will assign a public IPv6 address to the VM.
-- memory: The amount of memory (in MB) that should be allocated to the VM. In this case, the VM is allocated 8192MB of memory.
-- mounts: A list of disk mounts that should be created for the VM. Each mount block specifies the properties of a single disk mount. In this case, the mounts block includes a single mount block that mounts the disk with the name "root" at the /data mount point on the VM.
-- planetary: A flag that indicates whether the VM should be configured to run on the Planetary network. The Planetary network is a decentralized network that allows users to host applications and workloads on a global network of nodes. If set to true, the VM will be configured to run on the Planetary network.
-- env_vars: A map of environment variables that should be set on the VM. Each key-value pair in the map represents an environment variable and its value. In this case, the env_vars map includes a single environment variable called SSH_KEY, which is set to the value "ADD YOUR SSH KEY HERE".
+- node: The ID of the node where the deployment should be created.
+- network_name: The name of the network to which the deployment should be connected.
+- ip_range: The IP range of the deployment. The deployment will assign IP addresses from this range to the nodes, disks, and virtual machines in the deployment.
 
+The grid_deployment block also includes the following sub-blocks:
+
+- disks: The disks block is used to specify one or more disks that should be created and attached to the deployment. A disk is a block storage device that can be used to store data. Each disk block in the disks block specifies the properties of a single disk. The disk block includes the following arguments:
+		- name: The name of the disk
+		- size: The size of the disk in GB.
+		
+- vms: The vms block is used to specify one or more virtual machines that should be created and attached to the deployment. A virtual machine (VM) is a logical representation of a computer that is hosted on a node in the Grid. Each vm block in the vms block specifies the properties of a single VM. The vm block includes the following arguments:
+	- name: The name of the VM, which is "tftest" in this case.
+	- description: A description of the VM, which is "Terraform deployment test" in this case.
+	- flist: The URL of a file list that specifies the root filesystem of the VM. The files and links are on the Threefold Hub
+	- cpu: The number of CPU cores that should be allocated to the VM. In this case, the VM is allocated 4 CPU cores.
+	- publicip: A flag that indicates whether the VM should be assigned a public IPv4 address. If set to true, the grid provider will assign a public IPv4 address to the VM.
+	- publicip6: A flag that indicates whether the VM should be assigned a public IPv6 address. If set to true, the grid provider will assign a public IPv6 address to the VM.
+	- memory: The amount of memory (in MB) that should be allocated to the VM. In this case, the VM is allocated 8192MB of memory.
+
+		- The vm block also includes the following sub-blocks:
+			- mounts:The mounts block is used to specify one or more disk mounts that should be created for the VM. A disk mount is a connection between a disk and a mount point on the VM, which allows the disk to be accessed from the VM. Each mount block in the mounts block specifies the properties of a single disk mount. The mount block includes the following arguments:
+				- disk_name: The name of the disk that should be mounted.
+				- mount_point: The mount point on the VM where the disk should be mounted.
+				
+		- env_vars: A map of environment variables that should be set on the VM. Each key-value pair in the map represents an environment variable and its value. In this case, the env_vars map includes a single environment variable called SSH_KEY, which is set to the value "ADD YOUR SSH KEY HERE".
 	
 .
+
+# Output Blocks
+
+The output blocks are used to output the values of variables or resources to the user. They are used to display the results of the Terraform run, or to make the values of certain resources or variables available to other Terraform configurations.
+
 ```
 output "wg_config" {
 	value = grid_network.net1.access_wg_config
