@@ -478,7 +478,7 @@ In short, to accomplish a Carbon Negative footprint, Threefold has a general str
 
 ### Who are the people working for Threefold?
 
-People from all over the world contribute to the growth of Threefold. Meet them [here](https://threefold.me/people/).
+People from all over the world contribute to the growth of Threefold. Meet them [here](https://threefold.io/people/).
 
 ***
 
@@ -596,7 +596,7 @@ The News section gives you the latest information on the fast Threefold developm
 
 ### I want to reach the Threefold community. What are Threefold social links?
 
-You can find links to the Threefold community [here](https://threefold.me/community). Here's a quick list:
+You can find links to the Threefold community [here](https://threefold.io/community). Here's a quick list:
 
 - [Threefold Twitter](https://twitter.com/threefold_io)
 - [Threefold Forum](https://forum.threefold.io/)
