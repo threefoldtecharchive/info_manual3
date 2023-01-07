@@ -484,16 +484,15 @@ People from all over the world contribute to the growth of Threefold. Meet them 
 
 ### Who are the co-founders of Threefold?
 
-The [co-founders](https://threefold.me/people/memberships/cofounders/) of Threefold are:
+The [co-founders](https://threefold.io/memberships/cofounders/) of Threefold are:
 
-- [Adnan Fatayerji](https://threefold.me/people/adnan_fatayerji/)
-- [Andreas Hartl](https://threefold.me/people/andreas_hartl/)
-- [Christopher Hutton](https://threefold.me/people/christopher_hutton/)
-- [Kristof de Spiegeleer](https://threefold.me/people/kristof_de_spiegeleer/)
-- [Nickolay Babenko](https://threefold.me/people/nickolay_babenko/)
-- [Owen Kemp](https://threefold.me/people/owen_kemp/)
-- [Rob Van Mieghem](https://threefold.me/people/rob_van_mieghem/)
-- [Weynand Kuijpers](https://threefold.me/people/weynand_kuijpers/)
+- [Adnan Fatayerji](https://www.threefold.io/people/adnan-fatayerji/)
+- [Christopher Hutton](https://www.threefold.io/people/christopher-hutton/)
+- [Kristof de Spiegeleer](https://www.threefold.io/people/kristof-de-spiegeleer/)
+- [Nickolay Babenko](https://www.threefold.io/people/nickolay-babenko/)
+- [Owen Kemp](https://www.threefold.io/people/owen-kemp/)
+- [Rob Van Mieghem](https://www.threefold.io/people/rob-van-mieghem/)
+- [Weynand Kuijpers](https://www.threefold.io/people/weynand-kuijpers/)
 ***
 
 ### In a nutshell, what can be said of the Threefold team?
@@ -523,7 +522,7 @@ Threefold is working for the Planet, the People and Profit, in this very order o
 
 ### I want to farm TFT with a 3node. What are my choices?
 
-There are three possibilities. Either [buy a certified 3node](https://marketplace.3node.global/) (plug n play) or build yourself a <a href="#faq?id=what-are-the-general-requirements-for-a-diy-3node">DIY 3node</a>.
+There are two possibilities. Either [buy a certified 3node](https://marketplace.3node.global/) (plug n play) or build yourself a <a href="#faq?id=what-are-the-general-requirements-for-a-diy-3node">DIY 3node</a>.
 
 ***
 
