@@ -88,14 +88,8 @@
 <li><a href="#faq?id=is-there-a-bridge-between-binance-smart-chain-bsc-and-stellar-to-transfer-tft">Is there a bridge between Binance Smart Chain (BSC) and Stellar to transfer TFT?</a></li>
 <li><a href="#faq?id=what-are-the-different-threefold-bridges-tfchain-stellar-bridge-and-bsc-stellar-bridge-how-can-i-go-from-tf-chain-to-stellar-chain-to-binance-smart-chain">What are the different Threefold bridges, TFChain-Stellar Bridge and BSC-Stellar Bridge? How can I go from TF Chain to Stellar chain to Binance Smart Chain?</a></li>
 <li><a href="#faq?id=how-can-i-bridge-tft-from-stellar-chain-to-tf-chain-and-vice-versa">How can I bridge TFT from Stellar chain to TF Chain and vice versa?</a></li>
-<li><a href="#faq?id=how-can-i-bridge-tft-from-binance-smart-chain-bsc-to-stellar-and-vice-versa">How can I bridge TFT from Binance Smart Chain (BSC) to Stellar (and vice versa)?</a>
-<ul>
-<li><a href="#faq?id=how-to-use-the-bsc-stellar-bridge">How to use the BSC-Stellar Bridge</a></li>
-<li><a href="#faq?id=bridge-from-stellar-to-bsc">Bridge from Stellar to BSC</a></li>
-<li><a href="#faq?id=bridge-from-bsc-to-stellar">Bridge from BSC to Stellar</a></li>
+<li><a href="#faq?id=how-can-i-bridge-tft-from-binance-smart-chain-bsc-to-stellar-and-vice-versa">How can I bridge TFT from Binance Smart Chain (BSC) to Stellar (and vice versa)?</a></li>
 <li><a href="#faq?id=how-to-set-up-tft-on-metamask">How to Set Up TFT on Metamask</a></li>
-</ul>
-</li>
 <li><a href="#faq?id=how-to-set-up-a-stellar-address-for-tft-transactions">How to set up a Stellar address for TFT transactions?</a></li>
 <li><a href="#faq?id=how-long-does-it-take-when-you-use-the-bsc-stellar-bridge">How long does it take when you use the BSC-Stellar Bridge?</a></li>
 <li><a href="#faq?id=what-are-the-cost-when-bridging-from-stellar-to-metamask-and-from-metamask-to-stellar">What are the cost when bridging from Stellar to MetaMask and from MetaMask to Stellar?</a></li>
@@ -760,18 +754,18 @@ Note: If you are on Threefold Connect App, you can export your account to the Po
 ***
 ### How can I bridge TFT from Binance Smart Chain (BSC) to Stellar (and vice versa)?
 
-To use the [BSC-Stellar Bridge](https://bridge.bsc.threefold.io/), follow the following steps. If this is your first time with MetaMask and BSC, read the section How to Set Up TFT on Metamask below.
+To use the [BSC-Stellar Bridge](https://bridge.bsc.threefold.io/), read the following steps. If this is your first time with MetaMask and BSC, read the section <a href="#faq?id=how-to-set-up-tft-on-metamask">How to Set Up TFT on Metamask</a> below.
 
 Note: Always start with a small amount the first time you try the Bridge.
 
 ***
-#### How to use the BSC-Stellar Bridge
+How to use the BSC-Stellar Bridge
 ***
 To use the BSC-Stellar Bridge, follow the following steps. If this is your first time with MetaMask and BSC, read the section Setting up TFT on Metamask.
 
 Note: Always start with a small amount the first time you try the Bridge.
 *
-#### Bridge from Stellar to BSC
+How to Bridge TFT from Stellar to BSC
 *
 Pre-requisites:
 
@@ -800,7 +794,7 @@ In this method, you use the Bridge directly. Thus, it is normal if you do not se
 
 ***
 
-#### Bridge from BSC to Stellar
+How to Bridge TFT from BSC to Stellar
 ***
 Pre-requisites:
 
@@ -835,7 +829,7 @@ General Tips
 * You can try the bridge later if gas fees are high at the moment of your transaction.
 
 ***
-#### How to Set Up TFT on Metamask
+### How to Set Up TFT on Metamask
 *
 * Download Metamask [here](https://metamask.io/download.html). Then, install the Metamask extension in your local browser.
 * Create a Metamask account
