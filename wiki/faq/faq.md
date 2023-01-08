@@ -102,7 +102,7 @@
 <ul>
 <li><a href="#faq?id=what-is-the-threefold-connect-app-download-link">What is the Threefold Connect App download link?</a></li>
 <li><a href="#faq?id=what-is-the-threefold-dashboard-link">What is the Threefold Dashboard link?</a></li>
-<li><a href="#faq?id=to-access-the-tf-dashboard-i-need-to-use-the-polkadot-extension-what-is-the-link">To access the TF Dashboard, I need to use the Polkadot Extension. What is the link?</a></li>
+<li><a href="#faq?id=to-access-the-tf-dashboard-i-need-to-use-the-polkadot-extension-what-is-the-link-for-the-polkadot-extension-polkadotjs-which-browsers-support-the-polkadot-extension">To access the TF Dashboard, I need to use the Polkadot Extension. What is the link for the Polkadot Extension (polkadot.js)? Which browsers support the Polkadot Extension?</a></li>
 <li><a href="#faq?id=is-there-a-way-to-create-or-import-another-wallet-in-tf-connect-app">Is there a way to create or import another wallet in TF Connect App?</a></li>
 <li><a href="#faq?id=i-created-a-farm-on-the-tf-chain-on-the-tf-connect-app-farmer-migration-section-my-farm-is-under-other-v3-farms-is-this-normal">I created a farm on the TF Chain. On the TF Connect App Farmer Migration section, my farm is under Other v3 farms, is this normal?</a></li>
 <li><a href="#faq?id=i-am-trying-to-access-my-wallet-in-the-threefold-connect-app-it-worked-fine-before-but-now-i-just-get-a-white-screen-what-does-it-mean-and-what-can-i-do">I am trying to access my wallet in the Threefold Connect App. It worked fine before, but now I just get a white screen. What does it mean and what can I do?</a></li>
@@ -908,9 +908,11 @@ Threefold Connect App (TF Connect App) is available for download on [Android](ht
 To go on the Threefold Dashboard, use this link [https://dashboard.grid.tf//](https://dashboard.grid.tf//).
 ***
 
-### To access the TF Dashboard, I need to use the Polkadot Extension. What is the link?
+### To access the TF Dashboard, I need to use the Polkadot Extension. What is the link for the Polkadot Extension (polkadot.js)? Which browsers support the Polkadot Extension?
 
 The link to the Polkadot Extension is the following: [https://polkadot.js.org/extension/](https://polkadot.js.org/extension/).
+
+Polkadot.js is available for the following browsers: Chrome, Brave and Firefox. To install it on Brave, use the Chrome link.
 
 ***
 
