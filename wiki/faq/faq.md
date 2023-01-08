@@ -465,7 +465,7 @@ The TF Chain can issue a maximum of 100 billion TFT.
 
 ### I've read that Threefold is Carbon Negative, what does this imply?
 
-In short, to accomplish a Carbon Negative footprint, Threefold has a general strategy and many tactics that are all aimed at building and contributing to a regenerative and resilient environment. In long, check this [amazing post](https://forum.threefold.io/t/supporting-initiatives-to-regenerate-the-planet/) by @alex24.
+In short, to accomplish a Carbon Negative footprint, Threefold has a general strategy and many tactics that are all aimed at building and contributing to a regenerative and resilient environment. In long, read this [post](https://forum.threefold.io/t/supporting-initiatives-to-regenerate-the-planet/).
 
 ***
 
