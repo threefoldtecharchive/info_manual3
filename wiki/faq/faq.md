@@ -2488,7 +2488,7 @@ Formatting is one thing, but to boot properly, Zero-OS needs to work on a comple
 ***
 
 
-### I have a Dell Rx10 server (R610, 710, 910). When I boot Zero-OS I get the message Probing EDD and the 3node doesn’t boot from there. What can I do?
+### I have a Dell Rx10 server (R610, 710, 910). When I boot Zero-OS I get the message Probing EDD and the 3node doesn't boot from there. What can I do?
 
 For the R610 and 710, you can simply re-flash the card. See [this link](https://fohdeesha.com/docs/perc.html) for more information. For the 910, you can’t re-flash the card. In this case, get a LSI Dell card and it should work. (They are cheap when you buy them used online.)
 
