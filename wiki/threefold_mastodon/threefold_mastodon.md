@@ -2,7 +2,7 @@
 
 ![](img/getmastodon_tf.png)
 
-On this tutorial you will learn on how to deploy a Mastodon Server using [www.getmastodon.threefold.io](https://getmastodon.threefold.io/).
+On this tutorial you will learn on how to deploy a Mastodon Server using [https://getmastodon.threefold.io/](https://getmastodon.threefold.io/).
 To deploy a Mastodon server as weblet, please see [Mastodon Weblet Tutorial](weblets_mastodon)
 
 ThreeFold has made it possible for everyone to run their own Mastodon Instance, simply and effectively. Feel free to go to [www.mastodon.threefold.io](https://www.mastodon.threefold.io/) to read about ThreeFold's Mastodon Servers
@@ -22,7 +22,7 @@ Please download TF Connect App before you proceed.
 
 ## Get Started
 
-- Go to [www.getmastodon.threefold.io](https://getmastodon.threefold.io/) to begin the deployment journey.
+- Go to [https://getmastodon.threefold.io/](https://getmastodon.threefold.io/) to begin the deployment journey.
 
 ## Set Up New Account Credentials
 
@@ -39,7 +39,7 @@ If this is your first deployment, simply Click **'Create Account'** and the syst
 
 **Please keep a copy of your mnemonics safe.** This would be the only way to recover your instance in the future. Failure to do so will result in a loss of account.
 
-If you have created a deployment account via [www.getmastodon.threefold.io](https://getmastodon.threefold.io/) before, simply copy and paste your existing mnemonics to deploy a new instance, and the system will automatically log you in, and displaying your existing deployment (if any).
+If you have created a deployment account via [https://getmastodon.threefold.io/](https://getmastodon.threefold.io/) before, simply copy and paste your existing mnemonics to deploy a new instance, and the system will automatically log you in, and displaying your existing deployment (if any).
 
 ### Top up Account Wallet
 
@@ -117,8 +117,8 @@ To top up your wallet, simply go back to **'Credentials'** tab and transfer TFTs
 
 ### Managing Servers
 
-After you successfully deployed a mastodon server, you can simply manage your deployment on the **'Deployment List (Mastodon)'** section at the bottom of the page inside your account. This page shows all the servers you have deployed via [www.getmastodon.threefold.io
-](www.getmastodon.threefold.io) including the billing rate and all the deployment details.
+After you successfully deployed a mastodon server, you can simply manage your deployment on the **'Deployment List (Mastodon)'** section at the bottom of the page inside your account. This page shows all the servers you have deployed via [https://getmastodon.threefold.io/
+](https://getmastodon.threefold.io/) including the billing rate and all the deployment details.
 
 ![](img/getmastodon_list.png)
 
@@ -137,7 +137,7 @@ Simply click 'Open' on one of your server in the list to go to your Mastodon Ser
 
 ## Accessing (Re-login) to Your (existing) Account
 
-Once you have successfully created an account and deployed your Mastodon server, to regain access to your deployment account manage your active Mastodon Servers or to create a new one, simply go to [wwww.getmastodon.threefold.io](https://getmastodon.threefold.io/)
+Once you have successfully created an account and deployed your Mastodon server, to regain access to your deployment account manage your active Mastodon Servers or to create a new one, simply go to [https://getmastodon.threefold.io/](https://getmastodon.threefold.io/)
 and **copy paste your existing Account Mnemonics**. You will be automatically logged into your account once you have done so.
 
 Once you're logged in, you will also be shown how much TFT Balance left you have in your account, as well as the list of Mastodon Servers you currently have.
