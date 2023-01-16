@@ -39,7 +39,7 @@ If this is your first deployment, simply Click **'Create Account'** and the syst
 
 **Please keep a copy of your mnemonics safe.** This would be the only way to recover your instance in the future. Failure to do so will result in a loss of account.
 
-If you have created a deployment account via [www.getmastodon.threefold.io](www.getmastodon.threefold.io) before, simply copy and paste your existing mnemonics to deploy a new instance, and the system will automatically log you in, and displaying your existing deployment (if any).
+If you have created a deployment account via [www.getmastodon.threefold.io](https://getmastodon.threefold.io/) before, simply copy and paste your existing mnemonics to deploy a new instance, and the system will automatically log you in, and displaying your existing deployment (if any).
 
 ### Top up Account Wallet
 
