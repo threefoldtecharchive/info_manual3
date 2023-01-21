@@ -502,7 +502,7 @@ ThreeFold blockchain is the layer 0 infrastructure for an open source peer-to-pe
 
 ### What is the simple architecture of the Threefold Grid, in simple terms?
 
-Essentially, the Threefold Grid is composed on the people using it, the 3node servers offering compute, storage and network resources, and the TF Chain, which is the blockchain of Threefold.
+Essentially, the Threefold Grid is composed of the people using it, the 3node servers offering compute, storage and network resources, and the TF Chain, which is the blockchain of Threefold.
 
 Middleware is also used, such as GraphQL and GrixProxy, to get and organize data from the Threefold Chain.
 Middleware helps to make data available and to manage load.
