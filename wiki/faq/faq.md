@@ -34,13 +34,13 @@
 <ul>
 <li><a href="#faq?id=general-faq">GENERAL FAQ</a>
 <ul>
-<li><a href="#faq?id=faq?id=basic-facts">Basic Facts</a>
+<li><a href="#faq?id=basic-facts">Basic Facts</a>
 <ul>
 <li><a href="#faq?id=what-is-the-the-threefold-blockchain">What is the the Threefold blockchain?</a></li>
+<li><a href="#faq?id=what-is-the-simple-architecture-of-the-threefold-grid-in-simple-terms">What is the simple architecture of the Threefold Grid, in simple terms?</a></li>
 <li><a href="#faq?id=what-is-the-threefold-token-what-is-the-uses-of-the-tf-token">What is the Threefold Token? What is the uses of the TF token?</a></li>
 <li><a href="#faq?id=how-are-threefold-token-tft-produced">How are Threefold Token (TFT) produced?</a></li>
 <li><a href="#faq?id=how-are-the-tft-managed">How are the TFT managed?</a></li>
-<li><a href="#faq?id=what-is-the-hard-cap-of-tft-how-much-tft-can-there-ever-be">What is the hard cap of TFT? How much TFT can there ever be?</a></li>
 <li><a href="#faq?id=ive-read-that-threefold-is-carbon-negative-what-does-this-imply">I've read that Threefold is Carbon Negative, what does this imply?</a></li>
 <li><a href="#faq?id=who-are-the-people-working-for-threefold">Who are the people working for Threefold?</a></li>
 <li><a href="#faq?id=who-are-the-co-founders-of-threefold">Who are the co-founders of Threefold?</a></li>
@@ -51,8 +51,6 @@
 <li><a href="#faq?id=i-want-to-farm-tft-with-a-3node-what-are-my-choices">I want to farm TFT with a 3node. What are my choices?</a></li>
 <li><a href="#faq?id=i-want-to-buy-a-certified-3node-server-from-a-reliable-source-who-are-threefolds-partners-offering-certified-3nodes">I want to buy a certified 3node server from a reliable source. Who are Threefold's partners offering certified 3nodes?</a></li>
 <li><a href="#faq?id=i-want-to-help-build-the-new-internet-how-can-i-become-a-threefold-certified-3node-partner">I want to help build the new Internet. How can I become a Threefold certified 3node partner?</a></li>
-<li><a href="#faq?id=what-is-proof-of-capacity-used-by-threefold">What is Proof-of-Capacity used by Threefold?</a></li>
-<li><a href="#faq?id=what-is-proof-of-utilization-used-by-threefold">What is Proof-of-Utilization used by Threefold?</a></li>
 <li><a href="#faq?id=how-is-threefold-registered-as-an-entity">How is Threefold registered as an entity?</a></li>
 <li><a href="#faq?id=where-is-threefold-techs-headquarters">Where is ThreeFold Tech's headquarters?</a></li>
 <li><a href="#faq?id=can-i-have-more-information-on-threefold-tech-nv-and-threefold-sa">Can I have more information on Threefold Tech NV and Threefold S.A.?</a></li>
@@ -65,6 +63,9 @@
 <li><a href="#faq?id=is-there-a-discord-group-for-threefold">Is there a Discord group for Threefold?</a></li>
 <li><a href="#faq?id=how-can-i-reach-threefold-support">How can I reach Threefold Support?</a></li>
 <li><a href="#faq?id=is-there-a-threefold-podcast">Is there a Threefold podcast?</a></li>
+<li><a href="#faq?id=who-can-i-write-to-for-a-proposal-where-can-i-send-a-proposal-email-for-a-new-partnership-opportunity-with-threefold">Who can I write to for a proposal? Where can I send a proposal email for a new partnership opportunity with Threefold?</a></li>
+<li><a href="#faq?id=how-can-i-track-and-follow-the-progress-and-development-of-threefold">How can I track and follow the progress and development of Threefold?</a></li>
+<li><a href="#faq?id=is-there-a-way-to-search-the-faq-more-easily-what-is-the-link-for-the-threefold-faq-bot">Is there a way to search the FAQ more easily? What is the link for the Threefold FAQ Bot?</a></li>
 </ul>
 </li>
 <li><a href="#faq?id=the-technology-of-threefold">The Technology of Threefold</a>
@@ -74,14 +75,21 @@
 <li><a href="#faq?id=ive-read-that-threefold-built-an-operating-system-os-from-scratch-is-it-true">I've read that Threefold built an Operating System (OS) from scratch, is it true?</a></li>
 <li><a href="#faq?id=what-is-zero-os-from-threefold">What is Zero-OS from Threefold?</a></li>
 <li><a href="#faq?id=threefold-uses-quantum-safe-storage-technology-what-does-it-mean">Threefold uses Quantum Safe Storage technology, what does it mean?</a></li>
+<li><a href="#faq?id=quantum-safe-file-system-qsfs-allows-for-part-of-the-storage-to-go-down-and-it-can-self-repair-however-its-still-attached-to-a-single-vm-and-a-single-point-of-failure-can-a-qsfs-instance-be-reattached-to-another-vm-to-recover-it">Quantum Safe File System (QSFS) allows for part of the storage to go down and it can self repair, however it’s still attached to a single VM and a single point of failure. Can a QSFS instance be reattached to another VM to recover it?</a></li>
 <li><a href="#faq?id=where-does-the-threefold-explorer-take-its-data-from">Where does the Threefold Explorer take its data from?</a></li>
+<li><a href="#faq?id=is-there-a-way-to-see-the-threefold-grids-metrics">Is there a way to see the Threefold Grid's metrics?</a></li>
 <li><a href="#faq?id=how-can-i-connect-to-the-threefold-planetary-network">How can I connect to the Threefold Planetary Network?</a></li>
 <li><a href="#faq?id=where-can-i-download-the-threefold-planetary-network-connector">Where can I download the Threefold Planetary Network connector?</a></li>
+<li><a href="#faq?id=what-is-proof-of-capacity-used-by-threefold">What is Proof-of-Capacity used by Threefold?</a></li>
+<li><a href="#faq?id=what-is-proof-of-utilization">What is Proof-of-Utilization?</a></li>
+<li><a href="#faq?id=how-does-proof-of-utilization-work-how-is-the-threefold-token-tft-distributed-when-there-is-utilization-on-the-threefold-grid">How does Proof-of-Utilization work? How is the Threefold Token (TFT) distributed when there is utilization on the Threefold Grid?</a></li>
 </ul>
 </li>
 <li><a href="#faq?id=buying-and-transacting-tft">Buying and Transacting TFT</a>
 <ul>
 <li><a href="#faq?id=how-can-i-buy-tft">How can I buy TFT?</a></li>
+<li><a href="#faq?id=what-is-the-maximum-supply-of-threefold-tokens-what-is-the-current-supply-of-threefold-tokens">What is the maximum supply of Threefold tokens? What is the current supply of Threefold tokens?</a></li>
+<li><a href="#faq?id=how-is-the-threefold-tokentft-created-minted-threefold-token-is-a-pure-utility-token-what-does-this-mean">How is the Threefold Token(TFT) created (minted)? Threefold Token is a pure utility token. What does this mean?</a></li>
 <li><a href="#faq?id=where-can-i-find-tft-concretely-on-which-blockchains-is-tft-available">Where can I find TFT, concretely? On which blockchains is TFT available?</a></li>
 <li><a href="#faq?id=what-are-the-uses-for-each-different-blockchains-offering-tft">What are the uses for each different blockchains offering TFT?</a></li>
 <li><a href="#faq?id=what-is-the-interplay-between-stellar-chain-and-tf-chain">What is the interplay between Stellar Chain and TF Chain?</a></li>
@@ -98,7 +106,7 @@
 <li><a href="#faq?id=is-it-possible-to-swap-tft-on-stellar-blockain">Is it possible to swap TFT on Stellar Blockain?</a></li>
 </ul>
 </li>
-<li><a href="#faq?id=tf-connect-app-tf-dashboard-and-polkadot-substrate">TF Connect App, TF Dashboard and Polkadot Substrate</a>
+<li><a href="#faq?id=tf-connect-app-tf-dashboard-graphql-grix-proxy-and-polkadot-substrate">TF Connect App, TF Dashboard, GraphQL, Grix Proxy and Polkadot Substrate</a>
 <ul>
 <li><a href="#faq?id=what-is-the-threefold-connect-app-download-link">What is the Threefold Connect App download link?</a></li>
 <li><a href="#faq?id=what-is-the-threefold-dashboard-link">What is the Threefold Dashboard link?</a></li>
@@ -110,6 +118,21 @@
 <li><a href="#faq?id=i-have-some-problems-connecting-to-the-polkadot-extension-what-can-i-do">I have some problems connecting to the Polkadot extension. What can I do?</a></li>
 <li><a href="#faq?id=apart-form-the-threefold-connect-app-wallet-how-can-i-check-my-tft-balance">Apart form the Threefold Connect App Wallet, how can I check my TFT balance?</a></li>
 <li><a href="#faq?id=is-it-possible-to-export-the-transaction-history-of-a-wallet-to-a-csv-file">Is it possible to export the transaction history of a wallet to a CSV file?</a></li>
+<li><a href="#faq?id=what-is-the-role-of-the-middleware">What is the role of the middleware?</a></li>
+<li><a href="#faq?id=what-is-polkadot-ui-what-can-i-do-with-polkadot-ui">What is Polkadot UI? What can I do with Polkadot UI?</a></li>
+<li><a href="#faq?id=how-can-i-use-graphql-to-find-information-on-the-threefold-grid">How can I use GraphQl to find information on the Threefold Grid?</a></li>
+<li><a href="#faq?id=how-can-i-use-grid-proxy-to-find-information-on-the-threefold-grid-and-3nodes">How can I use Grid Proxy to find information on the Threefold Grid and 3nodes?</a></li>
+<li><a href="#faq?id=who-is-hosting-graphql-and-grid-proxy-on-the-threefold-grid">Who is hosting GraphQL and Grid Proxy on the Threefold Grid?</a></li>
+</ul>
+</li>
+<li><a href="#faq?id=threefold-commercial-grid-services">Threefold Commercial Grid Services</a>
+<ul>
+<li><a href="#faq?id=what-is-the-concept-and-the-goals-of-the-threefold-commercial-grid-services-project">What is the concept and the goals of the Threefold Commercial Grid Services project?</a></li>
+<li><a href="#faq?id=who-can-participate-to-the-threefold-commercial-grid-services">Who can participate to the Threefold Commercial Grid Services?</a></li>
+<li><a href="#faq?id=what-is-the-method-of-payment-of-the-threefold-commercial-grid-services">What is the method of payment of the Threefold Commercial Grid Services?</a></li>
+<li><a href="#faq?id=how-can-i-contribute-to-the-threefold-commercial-grid-services-what-is-the-onboarding-process-to-join-the-threefold-commercial-grid-services">How can I contribute to the Threefold Commercial Grid Services? What is the onboarding process to join the Threefold Commercial Grid Services?</a></li>
+<li><a href="#faq?id=what-are-the-requirements-and-the-process-to-be-recognized-as-a-sales-channel">What are the requirements and the process to be recognized as a sales channel?</a></li>
+<li><a href="#faq?id=how-can-i-become-a-solution-provider-on-top-of-the-threefold-grid">How can I become a solution provider on top of the Threefold Grid?</a></li>
 </ul>
 </li>
 </ul>
@@ -127,6 +150,16 @@
 <li><a href="#faq?id=what-are-the-type-of-storage-available-on-tf-grid">What are the type of storage available on TF Grid?</a></li>
 <li><a href="#faq?id=what-is-threefolds-cloud-pricing-are-there-any-discounts-available-for-threefolds-cloud-pricing">What is Threefold's cloud pricing? Are there any discounts available for Threefold's cloud pricing?</a></li>
 <li><a href="#faq?id=how-can-i-see-the-available-capacity-of-a-3node-server-on-the-threefold-grid">How can I see the available capacity of a 3node server on the Threefold Grid?</a></li>
+<li><a href="#faq?id=what-is-the-difference-between-the-playground-and-dashboard-on-mainnet-and-testnet">What is the difference between the Playground and Dashboard on mainnet and testnet?</a></li>
+</ul>
+</li>
+<li><a href="#faq?id=deployments-on-the-threefold-grid">Deployments on the Threefold Grid</a>
+<ul>
+<li><a href="#faq?id=can-i-use-the-tfchain-secret-on-the-threefold-connect-app-for-the-profile-settings-on-the-threefold-playground">Can I use the TFChain secret on the Threefold Connect App for the Profile settings on the Threefold Playground?</a></li>
+<li><a href="#faq?id=does-the-threefold-grid-charge-the-total-resources-rented-or-it-only-charges-the-resources-used-during-deployment">Does the Threefold Grid charge the total resources rented or it only charges the resources used during deployment?</a></li>
+<li><a href="#faq?id=do-i-pay-for-internet-traffic-while-deploying-workloads-on-ipv4-ipv6-or-planetary-network">Do I pay for Internet traffic while deploying workloads on IPv4, IPv6 or Planetary Network?</a></li>
+<li><a href="#faq?id=what-are-the-differences-between-a-container-a-micro-virtual-machine-and-a-full-virtual-machine-vm">What are the differences between a container, a micro virtual machine and a full virtual machine (VM)?</a></li>
+<li><a href="#faq?id=the-gateways-are-advertised-as-many-to-many-how-can-i-have-more-than-one-gateway-assigned-to-a-deployment-can-more-gateways-be-added-after-deployment">The gateways are advertised as many-to-many. How can I have more than one gateway assigned to a deployment? Can more gateways be added after deployment?</a></li>
 </ul>
 </li>
 <li><a href="#faq?id=tutorials-and-guides">Tutorials and Guides</a>
@@ -144,7 +177,25 @@
 <li><a href="#faq?id=how-can-i-deploy-peertube-on-the-threefold-grid">How can I deploy Peertube on the Threefold Grid?</a></li>
 <li><a href="#faq?id=how-can-i-deploy-owncloud-on-the-threefold-grid">How can I deploy ownCloud on the Threefold Grid?</a></li>
 <li><a href="#faq?id=how-can-i-use-and-install-yggdrasil">How can I use and install Yggdrasil?</a></li>
-<li><a href="#faq?id=how-can-i-deploy-a-3node-dedicated-node-server-on-the-threefold-grid-what-are-the-main-steps-when-deploying-workloads-on-a-dedicated-node">How can I deploy a 3node dedicated node server on the Threefold Grid? What are the main steps when deploying workloads on a dedicated node?</a></li>
+<li><a href="#faq?id=how-can-i-rent-or-reserve-a-3node-dedicated-node-server-on-the-threefold-grid-what-are-the-main-steps-when-deploying-workloads-on-a-dedicated-node">How can I rent or reserve a 3node dedicated node server on the Threefold Grid? What are the main steps when deploying workloads on a dedicated node?</a></li>
+<li><a href="#faq?id=how-can-i-import-my-polkadot-account-on-the-mainnet-and-the-testnet">How can I import my Polkadot account on the mainnet and the testnet?</a></li>
+<li><a href="#faq?id=can-i-use-the-same-seed-phrase-for-my-mainnet-and-testnest-accounts-how-can-i-transfer-my-tft-from-mainnet-to-testnet-or-vice-versa">Can I use the same seed phrase for my mainnet and testnest accounts? How can I transfer my TFT from mainnet to testnet or vice versa?</a></li>
+<li><a href="#faq?id=can-i-recover-my-seed-phrase">Can I recover my seed phrase?</a></li>
+<li><a href="#faq?id=do-i-need-a-full-or-micro-virtual-machine-vm-when-i-run-qsfs-quantum-safe-file-system-on-the-threefold-grid">Do I need a full or micro virtual machine (VM) when I run QSFS, quantum safe file system, on the Threefold Grid?</a></li>
+</ul>
+</li>
+<li><a href="#faq?id=terraform">Terraform</a>
+<ul>
+<li><a href="#faq?id=working-with-terraform-i-get-the-following-error-failed-to-create-contract-contractisnotunique-is-there-a-fix-to-this-issue">Working with Terraform, I get the following error: failed to create contract: ContractIsNotUnique. Is there a fix to this issue?</a></li>
+<li><a href="#faq?id=i-am-working-with-terraform-what-do-i-have-to-write-in-the-file-envtfvars">I am working with Terraform. What do I have to write in the file env.tfvars?</a></li>
+<li><a href="#faq?id=i-am-working-with-terraform-and-i-am-using-the-example-in-terraform-provider-grid-how-can-i-use-the-example-maintf-file-with-environment-variables-why-am-i-getting-the-message-error-account-not-found-when-deploying-with-terraform">I am working with Terraform and I am using the example in Terraform Provider Grid. How can I use the example main.tf file with environment variables? Why am I getting the message Error: account not found, when deploying with Terraform?</a></li>
+<li><a href="#faq?id=is-there-a-command-line-tool-for-terraform-when-deploying-on-the-threefold-grid">Is there a command line tool for Terraform when deploying on the Threefold Grid?</a></li>
+</ul>
+</li>
+<li><a href="#faq?id=users-troubleshooting-and-error-messages">Users Troubleshooting and Error Messages</a>
+<ul>
+<li><a href="#faq?id=when-deploying-a-virtual-machine-vm-on-the-threefold-grid-i-get-the-following-message-after-trying-a-full-system-update-and-upgrade-grub-failed-to-install-to-the-following-devices-is-there-a-fix-to-this-issue">When deploying a virtual machine (VM) on the Threefold Grid, I get the following message after trying a full system update and upgrade: GRUB failed to install to the following devices... Is there a fix to this issue?</a></li>
+<li><a href="#faq?id=i-tried-exporting-my-account-to-another-computer-but-my-password-doesnt-activate-my-profile-manager-on-the-threefold-playground-what-should-i-do">I tried exporting my account to another computer but my password doesn't activate my profile manager on the Threefold Playground. What should I do?</a></li>
 </ul>
 </li>
 <li><a href="#faq?id=threefold-connect-app">Threefold Connect App</a>
@@ -165,6 +216,7 @@
 <li><a href="#faq?id=what-is-stored-in-the-metadata-of-a-software">What is stored in the metadata of a software?</a></li>
 <li><a href="#faq?id=what-is-the-ratio-between-the-metadata-and-the-actual-files-on-a-container">What is the ratio between the metadata and the actual files on a container?</a></li>
 <li><a href="#faq?id=does-zero-os-assign-private-ipv4-addresses-to-workloads">Does Zero-OS assign private IPv4 addresses to workloads?</a></li>
+<li><a href="#faq?id=why-does-each-3node-server-have-two-ip-addresses-associated-with-it">Why does each 3node server have two IP addresses associated with it?</a></li>
 <li><a href="#faq?id=can-zero-os-assign-public-ipv4-or-ipv6-addresses-to-workloads">Can Zero-OS assign public IPv4 or IPv6 addresses to workloads?</a></li>
 <li><a href="#faq?id=what-is-yggdrasil">What is Yggdrasil?</a></li>
 <li><a href="#faq?id=what-does-mac-mean-when-it-comes-to-networking">What does MAC mean when it comes to networking?</a></li>
@@ -189,6 +241,7 @@
 <li><a href="#faq?id=how-many-validator-nodes-will-there-be">How many validator nodes will there be?</a></li>
 <li><a href="#faq?id=whats-the-difference-between-l2-and-l0">What’s the difference between L2 and L0?</a></li>
 <li><a href="#faq?id=what-are-the-rewards-for-l0-and-l2-validators">What are the rewards for L0 and L2 validators?</a></li>
+<li><a href="#faq?id=what-is-the-current-status-on-the-validator-and-staking-solution-is-there-anything-coming-soon">What is the current status on the validator and staking solution? Is there anything coming soon?</a></li>
 </ul>
 </li>
 <li><a href="#faq?id=validator-requirements">Validator Requirements</a>
@@ -218,6 +271,7 @@
 <li><a href="#faq?id=my-titan-is-v21-and-the-threefold-grid-is-v3-what-is-the-distinction">My Titan is v2.1 and the Threefold Grid is v3., what is the distinction?</a></li>
 <li><a href="#faq?id=is-there-a-way-to-know-the-current-tft-price-for-the-farming-rewards">Is there a way to know the current TFT price for the farming rewards?</a></li>
 <li><a href="#faq?id=when-will-i-receive-the-farming-rewards-for-my-3nodes">When will I receive the farming rewards for my 3nodes?</a></li>
+<li><a href="#faq?id=what-should-i-do-if-i-did-not-receive-my-farming-rewards-this-month">What should I do if I did not receive my farming rewards this month?</a></li>
 <li><a href="#faq?id=is-there-a-threefold-simulator-to-calculate-farming-rewards">Is there a Threefold simulator to calculate farming rewards?</a></li>
 <li><a href="#faq?id=what-is-the-tft-entry-price-of-my-3node-farming-rewards">What is the TFT entry price of my 3node farming rewards?</a></li>
 <li><a href="#faq?id=what-is-the-necessary-uptime-for-a-3node-per-period-of-one-month">What is the necessary uptime for a 3node per period of one month?</a></li>
@@ -340,8 +394,10 @@
 <li><a href="#faq?id=when-i-set-my-farm-on-the-threefold-dashboard-with-polkadotjs-it-asks-for-a-stellar-payout-address-what-should-i-write">When I set my farm on the Threefold Dashboard with polkadot.js, it asks for a Stellar payout address. What should I write?</a></li>
 <li><a href="#faq?id=its-written-that-my-node-is-using-100-of-hru-what-does-it-mean">It's written that my node is using 100% of HRU. What does it mean?</a></li>
 <li><a href="#faq?id=on-the-threefold-explorer-i-only-see-half-of-the-virtual-cores-or-threads-my-3node-has-what-can-i-do">On the Threefold Explorer, I only see half of the virtual cores or threads my 3node has, what can I do?</a></li>
+<li><a href="#faq?id=what-is-the-current-status-on-the-wake-on-lan-wol-feature">What is the current status on the Wake-on-LAN (WOL) feature?</a></li>
 <li><a href="#faq?id=why-are-the-3nodes-resources-different-on-the-threefold-explorer-and-the-threefold-dashboard">Why are the 3nodes' resources different on the Threefold Explorer and the Threefold Dashboard?</a></li>
 <li><a href="#faq?id=what-do-cru-mru-hru-and-sru-mean-on-the-threefold-explorer">What do CRU, MRU, HRU and SRU mean on the Threefold Explorer?</a></li>
+<li><a href="#faq?id=i-have-more-than-one-threefold-3node-farm-but-i-want-all-my-3nodes-on-only-one-farm-how-can-i-put-all-my-3nodes-on-one-farm-how-can-i-change-the-farm-id-of-my-3node">I have more than one Threefold 3node farm, but I want all my 3nodes on only one farm. How can I put all my 3nodes on one farm? How can I change the farm ID of my 3node?</a></li>
 <li><a href="#faq?id=how-can-i-know-if-my-3node-is-online-on-the-grid-is-there-an-explorer-for-grid-v3">How can I know if my 3node is online on the Grid? Is there an Explorer for Grid V3?</a></li>
 <li><a href="#faq?id=i-booted-my-3node-and-the-monitor-says-its-online-and-connected-to-the-grid-but-the-threefold-explorer-says-it-is-offline-what-can-i-do">I booted my 3node and the monitor says it's online and connected to the Grid. But the Threefold Explorer says it is offline? What can I do?</a></li>
 <li><a href="#faq?id=my-3node-does-show-on-the-threefold-explorer-but-not-on-the-threefold-dashboard-what-can-i-do">My 3node does show on the Threefold Explorer, but not on the Threefold Dashboard, what can I do?</a></li>
@@ -403,6 +459,7 @@
 <li><a href="#faq?id=how-can-i-update-dell-and-hp-servers-to-intel-e5-2600v2-e5-2400v2-and-e5-4600v2-when-applicable">How can I update Dell and HP servers to Intel E5-2600v2, E5-2400v2 and E5-4600v2, when applicable?</a></li>
 <li><a href="#faq?id=how-can-i-update-a-dell-poweredger-server-with-a-bootable-iso">How can I update a Dell PowerEdger server with a bootable ISO?</a></li>
 <li><a href="#faq?id=when-i-boot-a-3node-in-uefi-mode-it-gets-stuck-at-initializing-network-device-is-there-a-way-to-fix-this">When I boot a 3node in UEFI mode, it gets stuck at: Initializing Network Device, is there a way to fix this?</a></li>
+<li><a href="#faq?id=when-i-boot-my-3node-it-gets-stuck-during-the-zero-os-download-it-never-reaches-100-what-can-i-do-to-fix-this-issue">When I boot my 3node, it gets stuck during the Zero-OS download. It never reaches 100%. What can I do to fix this issue?</a></li>
 </ul>
 </li>
 <li><a href="#faq?id=threefold-grid-and-data">Threefold Grid and Data</a>
@@ -430,7 +487,6 @@
 </li>
 </ul>
 </li>
-<li><a href="#faq?id=ask-a-question-to-the-threefold-community">Ask a Question to the Threefold Community</a></li>
 </ul>
 
 ***
@@ -441,6 +497,17 @@
 ### What is the the Threefold blockchain?
 
 ThreeFold blockchain is the layer 0 infrastructure for an open source peer-to-peer (P2P) Internet owned by humanity.
+
+***
+
+### What is the simple architecture of the Threefold Grid, in simple terms?
+
+Essentially, the Threefold Grid is composed on the people using it, the 3node servers offering compute, storage and network resources, and the TF Chain, which is the blockchain of Threefold.
+
+Middleware is also used, such as GraphQL and GrixProxy, to get and organize data from the Threefold Chain.
+Middleware helps to make data available and to manage load.
+
+3nodes store workloads data and can report on their state to the TF Grid and to middleware.
 
 ***
 
@@ -456,10 +523,6 @@ ThreeFold Tokens are exclusively produced through a process called farming, whic
 ### How are the TFT managed?
 
 TFT are managed by the ThreeFold Blockchain (“TF Chain”). 
-***
-### What is the hard cap of TFT? How much TFT can there ever be?
-
-The TF Chain can issue a maximum of 100 billion TFT.
 
 ***
 
@@ -528,18 +591,6 @@ You can find the continually growing list of Threefold's partners provoding high
 ### I want to help build the new Internet. How can I become a Threefold certified 3node partner?
 
 Apply [here](https://marketplace.3node.global/index.php?dispatch=companies.apply_for_vendor) to become a Threefold certified 3node partner.
-
-***
-
-### What is Proof-of-Capacity used by Threefold?
-
-Proof-of-Capacity is an algorithm that verifies the Internet capacity provided by the 3nodes. More information can be found [here](https://library.threefold.me/info/threefold#/tfgrid/farming/threefold__proof_of_capacity).
-
-***
-
-### What is Proof-of-Utilization used by Threefold?
-
-Proof-of-Utilization is an algorithm that tracks the utilization of a given 3node's capacity offered on the TF Grid. More information can be found [here](https://library.threefold.me/info/threefold#/tokens/threefold__proof_of_utilization).
 
 ***
 
@@ -622,6 +673,29 @@ Yes, there is a Threefold podcast! Hosted by Kyle Ellicot, it is available to li
 
 ***
 
+### Who can I write to for a proposal? Where can I send a proposal email for a new partnership opportunity with Threefold?
+
+You can mail your proposal to info@threefold.io or write about your proposal on the [Threefold Forum](http://forum.threefold.io/).
+
+***
+
+### How can I track and follow the progress and development of Threefold?
+
+There are two main places where you can track the progress of Threefold. Threefold is open source and its developments can be easily tracked on Github.
+
+* You can read about the ongoing Threefold Tech projects [here](https://github.com/orgs/threefoldtech/projects).
+* You can read about the ongoing Threefold Foundation projects [here](https://github.com/orgs/threefoldfoundation/projects?query=is%3Aopen).
+
+***
+
+### Is there a way to search the FAQ more easily? What is the link for the Threefold FAQ Bot?
+
+There is Threefold FAQ Bot available on Telegram. You can ask the bot any questions on Threefold, and it will find the most related Q&A in the Threefold FAQ.
+
+The link to the Threefold FAQ Bot is the following: https://t.me/TF_FAQ_Bot.
+
+***
+
 ## The Technology of Threefold
 
 ### What is a 3node?
@@ -650,7 +724,17 @@ Zero-OS is a stateless and lightweight operating system designed to host anythin
 
 ### Threefold uses Quantum Safe Storage technology, what does it mean?
 
-Quantum computers are theoretically capable of doing huge calculations in a short period of time. By this fact alone, it is a great potential threat to future online safety. Threefold solves this future problem before it even becomes a reality. Indeed, Zero-os compresses, encrypts, and disperses data across the Grid. Learn more [here](https://www2.threefold.io/developer/qsfs/).
+Quantum computers are theoretically capable of doing huge calculations in a short period of time. By this fact alone, it is a great potential threat to future online safety. Threefold solves this future problem before it even becomes a reality. Indeed, Zero-os can compress, encrypt, and disperse data across the Grid. Learn more [here](https://www2.threefold.io/developer/qsfs/).
+
+***
+
+### Quantum Safe File System (QSFS) allows for part of the storage to go down and it can self repair, however it’s still attached to a single VM and a single point of failure. Can a QSFS instance be reattached to another VM to recover it?
+
+QSFS is built from storage devices which are distributed and decentralized.
+
+The storage engine is a software running on a VM that can run everywhere.
+If the storage engine needs to run on a different VM the config needs to pushed to the new VM.
+In short, yes Quantum safe file system (QSFS) can be recovered on a different VM. It is not automated yet on Zero-OS. A video tutorial will be shared soon.
 
 ***
 
@@ -658,6 +742,14 @@ Quantum computers are theoretically capable of doing huge calculations in a shor
 ### Where does the Threefold Explorer take its data from?
 
 The Threefold Explorer takes its data from this website: https://gridproxy.grid.tf/.
+
+***
+
+### Is there a way to see the Threefold Grid's metrics?
+
+You can see the Threefold Grid Devnet's metrics on the page [metrics.grid.tf](https://metrics.grid.tf/). The metric tool is using Grafana, an open source visualization web application.
+
+To see the statistics of the Threefold Grid in general, visit the [Threefold Dashboard](https://dashboard.grid.tf/explorer/statistics) and select Statistics in the left menu Explorer.
 
 ***
 
@@ -677,12 +769,61 @@ You can download pre-release versions [here](https://github.com/threefoldtech/pl
 
 ***
 
-## Buying and Transacting TFT
+### What is Proof-of-Capacity used by Threefold?
+
+Proof-of-Capacity is an algorithm that verifies the Internet capacity provided by the 3nodes. More information can be found [here](https://library.threefold.me/info/threefold#/tfgrid/farming/threefold__proof_of_capacity).
 
 ***
+
+### What is Proof-of-Utilization?
+
+[Proof-of-Utilization](https://library.threefold.me/info/manual/#/tfgrid/farming/threefold__proof_of_utilization) is the underlying mechanisms that verifies the utilization of Internet capacity on the ThreeFold Grid.
+
+Every hour, the utilization is recorded in [TFChain](https://library.threefold.me/info/manual/#/tfgrid/farming/threefold__tfchain) and the user is charged for the Internet capacity used on the ThreeFold Grid. Discount calculated in line with the amount of [TFT](https://library.threefold.me/info/manual/#/tfgrid/farming/threefold__threefold_token) users have in their accounts on TFChain. Learn more about the discount [here](https://library.threefold.me/info/manual/#/tfgrid/farming/threefold__staking_discount_levels).
+
+***
+
+### How does Proof-of-Utilization work? How is the Threefold Token (TFT) distributed when there is utilization on the Threefold Grid?
+
+Here are the general steps of the Proof-of-Utilization process:
+
+1. A user reserves Internet capacity on a given set of [3Nodes](https://library.threefold.me/info/manual/#/tfgrid/farming/threefold__3node). 
+2. [Zero-OS](https://library.threefold.me/info/manual/#/tfgrid/farming/threefold__zos) records the reserved and used CU, SU, NU and IPAddresses in correlation with [TFChain](https://library.threefold.me/info/manual/#/tfgrid/farming/threefold__tfchain) records. 
+3. The TFChain [DAO](https://library.threefold.me/info/manual/#/tfgrid/farming/threefold__dao) will charge the costs to the user in line with [discount mechanism](https://library.threefold.me/info/manual/#/tfgrid/farming/threefold__staking_discount_levels). 
+4. [TFT](https://library.threefold.me/info/manual/#/tfgrid/farming/threefold__threefold_token) from the user account are burned/distributed in line to table below.
+
+When people spend Threefold Tokens on the Threefold Grid for any kind of deployment, the TFT is distributed as per the Proof-of-Utilization distribution flow. 
+
+The Proof-of-Utilization distribution flow is the following:
+
+* 50% goes to solution providers and sales
+* 35% goes to TFT burning
+* 10% goes to the Threefold Foundation
+* 5% goes to the Validator Staking Pool
+
+To see the Proof-of-Utilization distribution flow chart, check this [link](https://library.threefold.me/info/threefold#/tokens/threefold__token_overview).
+
+***
+
+## Buying and Transacting TFT
+
 ### How can I buy TFT?
 
 There are many ways to do this. You can buy it on Liquid.com, buy on PancakeSwap, or on GetTFT.com. For more information, check [this link](https://library.threefold.me/info/threefold#/tokens/threefold__how_to_buy). 
+
+***
+
+### What is the maximum supply of Threefold tokens? What is the current supply of Threefold tokens? 
+
+The maximum token supply of the Threefold Token (TFT) is 4 billion. You can read more about this [here](https://library.threefold.me/info/threefold#/tokens/threefold__stats_token_overview_farmed).
+
+As of now, more than 880 000 000 Threefold tokens (TFT) have been farmed. 
+
+***
+
+### How is the Threefold Token(TFT) created (minted)? Threefold Token is a pure utility token. What does this mean?
+
+Threefold Tokens (TFT) are created (minted) by the ThreeFold Blockchain (TFChain) only when new Internet capacity is added to the ThreeFold Grid by farmers. For this reason, TFT is a pure utility token as minting is solely the result of farming on the Threefold Grid.
 
 ***
 
@@ -895,7 +1036,7 @@ First, make sure your wallet has a TFT trustline. Second, go on [StellarX Swap s
 
 
 ***
-## TF Connect App, TF Dashboard and Polkadot Substrate
+## TF Connect App, TF Dashboard, GraphQL, Grix Proxy and Polkadot Substrate
 
 ### What is the Threefold Connect App download link?
 
@@ -969,10 +1110,142 @@ If you are not deploying/doing things on the TF Grid (dev, test or mainnet) you 
 
 ***
 
+### What is the role of the middleware?
+
+The middleware takes data from the TF blockchain and present it in a searchable manner.
+
+***
+
+### What is Polkadot UI? What can I do with Polkadot UI?
+
+It is based on substrate, a framework for building blockchains in the polkadot ecosystem
+
+You can use polkadot UI to querry information about farms on TF Chain.
+
+For example, on Polkadot UI, you can see blocks minted on TF Chain. Have a look [here](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.grid.tf#/explorer).
+
+***
+
+### How can I use GraphQl to find information on the Threefold Grid?
+
+To find information on the Threefold Grid with GraphQL, go to this [link](https://graphql.grid.tf/graphql). On the left menu, choose the parameters you want to search and write the necessary information, if needed, then click on the Play button in the middle section, at the top. 
+
+Here's an example of a query, where we want to find all the farms containing "duck" in their name.
+
+query MyQuery {
+  farms(where: {name_contains: "duck"}) {
+    name
+    farmID
+  }
+}
+
+This code can be written automatically if you simply select the proper parameters in the left menu.
+For the previous example, we had to click on "farms", then "where", and then "name_contains". After clicking on "name_contains", you need to add the words you are looking for, in this example we had "duck". Further down the menu, we simply had to click on "farmID" and "name", and then click the Play button. The results of the query appear on the right screen.
+
+***
+
+### How can I use Grid Proxy to find information on the Threefold Grid and 3nodes?
+
+To find information on the Threefold Grid with GraphQL, you need to write this URL: https://gridproxy.grid.tf/, followed by your specific query. Here's an example if we wanted to see all the available farm on the TF Grid that has "duck" in its name:
+
+https://gridproxy.grid.tf/farms?name_contains=duck
+
+The Grid Proxy is appropriate for high volume application.
+You can find the parameters to be written in the URL when visiting the [GraphQL explorer](https://graphql.grid.tf/graphql).
+
+***
+
+### Who is hosting GraphQL and Grid Proxy on the Threefold Grid?
+
+GraphQL and Grid Proxy are hosted by Threefold for everyone to use.
+
+Note that it is also possible to run your own instance of those tools.
+
+***
+
+## Threefold Commercial Grid Services
+
+### What is the concept and the goals of the Threefold Commercial Grid Services project? 
+
+The goal of the Threefold Commercial Grid services project is to prove that the current state of the Threefold Grid is enough to start a commercial business. 
+
+The current TF technology stack is a good set of building blocks to create a service business on. While proving this by doing it we also create content that explains in steps how to use the technical building blocks and put it all together into a full fledged solution.
+
+The benefits and purposes of this project are manyfold:
+
+* Showcase that the grid stability and functionality is good enough to do this 
+  * Ex: [Zonaris](https://zonaris.com/) trailblazing this independently
+* Allow anyone to build easily
+  * Using created documentation and training material
+* Inspire the existing community 
+ * Start experimenting with the Grid functionality.
+* Attract non technical users who pay FIAT.
+* Use FIAT to fund and reward Community contribution
+  * Documentation updates, weblet improvements, outreach, teaching, etc.
+
+***
+
+### Who can participate to the Threefold Commercial Grid Services?
+
+This is meant for any internet user, from the basic user to the advanced developer. 
+The services foreseen have non development and IT professionals use cases.
+
+* Standard use cases
+    * Project management
+    * Content management systems
+    * Social networks
+    * Video conferencing
+    * More  
+* Developer use cases
+    * Full VM's
+    * Micro VM's
+    * Kubernetes
+    * Caprover
+    * More
+
+***
+
+### What is the method of payment of the Threefold Commercial Grid Services?
+
+Onboarding is meant through FIAT. It is comparable to any other online service provider experience.
+
+***
+
+### How can I contribute to the Threefold Commercial Grid Services? What is the onboarding process to join the Threefold Commercial Grid Services?
+
+* We are actively writing the story with requirements for this online business 
+  * Contribute via [GitHub](https://github.com/threefoldtech/home/issues/1378)
+* Give us feedback 
+  - [Threefold Forum](https://forum.threefold.io/)
+  - [Threefold General TG Channel](https://t.me/threefold)
+  - [Threefold Farmer TG Channel](https://t.me/threefoldfarmers)
+  - [TF Grid Tester TG Channel](https://t.me/threefoldtesting)
+
+***
+
+### What are the requirements and the process to be recognized as a sales channel?
+
+For now, you should propose your idea on the [Threefold Forum](http://forum.threefold.io/). 
+
+On the Forum, we can have public discussions on the proposed business model.
+Then, the Threefold community will decide if the proposition should become a supported sales channel.
+
+A more defined process should be discussed by the Threefold Community for the long term.
+We invite everyone to share their thoughts on how this could be done.
+
+Note: 50% of every utilized token for workload is reserved as a fund for sale channels and use cases.
+
+***
+
+### How can I become a solution provider on top of the Threefold Grid?
+
+To become a solution provider on top of the Threefold Grid, read [this](https://github.com/threefoldtech/tfchain/blob/development/substrate-node/pallets/pallet-smart-contract/solution_provider.md)
+
+***
+
 # USERS FAQ
 
 ![wethreepedia_grid](img/tf_grid.png)
-
 
 ## TF Grid Functionalities
 
@@ -1055,7 +1328,79 @@ You can use the [Threefold Grid Proxy](https://gridproxy.grid.tf/swagger/index.h
 
 ***
 
+### What is the difference between the Playground and Dashboard on mainnet and testnet?
+
+In general, mainnet is more stable and it is better to use it for official workload deployments. Mainnet and testnet offer the same features, but testnet costs 50% less TFT to run workload. 
+
+***
+
+## Deployments on the Threefold Grid
+
+### Can I use the TFChain secret on the Threefold Connect App for the Profile settings on the Threefold Playground?
+
+No, this is not possible. The twin created in the farming section of the TF Connect app is not directly associated with the mnemonics from the Threefold Playground.
+
+To generate the seed phrase, you can go to the [Threefold Dashboard](https://dashboard.grid.tf/). You will be able to install the Polkadot extension, create an account within it (keep the seed phrase safe), then activate a twin for that account on the [Threefold Dashboard](https://dashboard.grid.tf/).
+
+You will then be able to use the seed phrase to create a profile manager.
+
+***
+
+### Does the Threefold Grid charge the total resources rented or it only charges the resources used during deployment?
+
+Billing is based on how many resources you reserve, not how much you use them. For this reason, it can be a good idea to deploy the minimim resources needed per project.
+
+***
+
+### Do I pay for Internet traffic while deploying workloads on IPv4, IPv6 or Planetary Network?
+
+You do pay for internet traffic while deploying on the Threefold Grid. It is calculated during deployment and paid with Threefold tokens.
+
+***
+
+### What are the differences between a container, a micro virtual machine and a full virtual machine (VM)?
+
+The following is a list of certain features related to containers as well as full and micro virtual machines.
+
+* Container
+  * generally designed to run a single application
+  * doesn't need to include a full operating system
+  * relies on the kernel of the host system, no hypervisor needed
+  * isolated from the rest of the host system for security and can be limited in resources used
+  * examples: on the [Playground](https://play.grid.tf/), we have [Kubernetes](https://library.threefold.me/info/manual/#/manual__weblets_k8s?id=kubernetes) and [Caprover](https://library.threefold.me/info/manual/#/manual__weblets_caprover?id=caprover), which are both environments that host containers
+* Micro VM
+  * a container image promoted to run as a VM by pairing with a generic kernel
+  * more isolated than a container, thus more secure
+  * generally lighter than a full VM
+  * can be created from any Docker container image by uploading it to the [Hub](hub.grid.tf)
+  * examples: on the [Playground](https://play.grid.tf/), we have Ubuntu 20.04, Alpine-3, CentOS-8 and more.
+* Full VM
+  * contains a complete operating system including kernel
+  * capable of anything that can be done with a Linux server
+  * compatible with any guides and tutorials written for the same version of the distribution they are running
+  * normally contains systemd, unlike containers which normally do not
+  * can load kernel modules or replace the kernel entirely, so has best compatibility
+  * generally heavier than micro VM
+  * examples: on the [Playground](https://play.grid.tf/), we have Ubuntu 18.04, 20.04, 22.04 and more
+ 
+Note that you can run Kubernetes on a micro VM and you can run a very minimal operating system in a full VM. There are many possibilities when using those technologies.
+
+***
+
+### The gateways are advertised as many-to-many. How can I have more than one gateway assigned to a deployment? Can more gateways be added after deployment?
+
+As of now, gateways are a simple one-to-one HTTPS proxy, one subdomain that comes from a gateway node. A domain points to one IP address.
+
+It is currently in development, but gateways will be a simple reservation (name + hashed secret).
+
+Connecting to gateways is done with a client tool (user needs to run this). More gateways can be added later (and client then connects to them). Webgw will be a layer 4 (TCP) proxy, so user process needs to do TLS termination. User will also need a domain name. Domain can be configured with multiple IP’s to support multiple gateways.
+Implementation itself will be functionally different from V2 gateways, but high lvl idea applies.
+This means name / domain reservation as they are now will become deprecated as we no longer support TLS termination on the gateway.
+
+***
+
 ## Tutorials and Guides
+
 
 ### What are the prerequisites before using the Threefold Play Grid (play.grid.tf)?
 
@@ -1154,7 +1499,7 @@ Learn all about this [here](https://library.threefold.me/info/manual/#/manual__y
 
 ***
 
-### How can I deploy a 3node dedicated node server on the Threefold Grid? What are the main steps when deploying workloads on a dedicated node?
+### How can I rent or reserve a 3node dedicated node server on the Threefold Grid? What are the main steps when deploying workloads on a dedicated node?
 
 In short, you first need to rent the dedicated node, then deploy on the TF Grid by selecting your dedicated node. It won’t cost anything more when you select your dedicated node.
 
@@ -1171,6 +1516,163 @@ In short, you first need to rent the dedicated node, then deploy on the TF Grid 
         * no additional TFT will be billed for the deployment
     * you can deploy other workloads, as long as you have enough resources on the dedicated node
 
+For more information, read this [TF Forum post](https://forum.threefold.io/t/tf-product-focus-tfdashboards-dedicated-nodes-tfgrid-v3-8-0/3723).
+
+***
+
+### How can I import my Polkadot account on the mainnet and the testnet?
+
+To import your Polkadot account on mainnet, use those links:
+
+* https://dashboard.grid.tf/
+* https://play.grid.tf/
+
+To import your Polkadot account on testnet, use those links:
+
+* https://dashboard.test.grid.tf/
+* https://play.test.grid.tf/
+
+Exporting and importing your account through the Polkadot extension will allow you to transfer any TFT associated with the account, whether it is on testnet or mainnet. 
+
+***
+
+### Can I use the same seed phrase for my mainnet and testnest accounts? How can I transfer my TFT from mainnet to testnet or vice versa?
+
+Yes, you can use the same seed phrase for you main and testnet accounts. They will have the same address on each chain but they are really separate accounts. It is much like using the same wallet on Ethereum and BSC for example.
+
+To transfer your TFT from mainnet to testnet or vice versa, you need to send your TFT to the Stellar chain first. Let's say you want to transfer TFT from the mainnet to the testnet. Here are the steps:
+
+* Open your mainnet profile on the [mainnet Dashboard](https://dashboard.grid.tf/), on the left menu, choose Portal and then Swap. Click the button Withdraw. Send your TFTs from the mainnet address to your Stellar address.
+
+* Open your testnet profile on the [testnet Dashboard](https://dashboard.test.grid.tf/), on the left menu, choose Portal and then Swap. Click the button Deposit. Send your TFTs from your Stellar address to the testnet address. You can use the QR code option to make the transfer.
+
+To go from testnet to mainnet, simply use the URLs in the opposite order.
+
+> Note that the fees are of 1 TFT per transfer.
+
+***
+
+### Can I recover my seed phrase?
+
+This answer covers the Threefold Playground, the Polkadot.js extension and the Threefold Connect App.
+
+You can recover your seed phrase from the Threefold Playground if you have your profile manager password. On the Threefold Playground, click on the top right button to open up your profile manager settings. Write your password, then click "Load Profiles". On the following screen, your seed phrase is under **Mnemonics**. Locate on the right of this line an "eye" button and click on it to make your seed phrase visible.
+
+You can't recover the seed phrase from the Polkadot.js extension. On the Polkadot.js extension, you can only export and import private keys. In short, this allows you to move tokens but not to manage deployments through the Threefold Playground.
+
+To recover your seed phrase on the Threefold Connect App, go to the Wallet section of the app and click on the encircled "i" button at the bottom right of the screen. Go to the Secrets subsection and click to see your Steller or TFChain secret.
+
+***
+
+### Do I need a full or micro virtual machine (VM) when I run QSFS, quantum safe file system, on the Threefold Grid?
+
+QSFS can be run on both a full virtual machine or a micro virtual machine (VM). The QSFS is a "mountable" object, like a disk. It's defined in its own block, then specified as a mount within a VM. 
+
+***
+
+## Terraform
+
+### Working with Terraform, I get the following error: failed to create contract: ContractIsNotUnique. Is there a fix to this issue?
+
+This error happens when a contract with the same data is already active. For example, two conflicting contracts are not in the same deployment. You can try to change the data on the main.tf file to make sure it's not a self-conflicting terraform deployment.
+
+***
+
+### I am working with Terraform. What do I have to write in the file env.tfvars?
+
+This env.tfvars should look like the following, with the proper content within the quotes:
+
+> MNEMONICS = "write your seed phrase"
+>
+> NETWORK = "write the main network"
+>
+> SSH_KEY = "write your ssh-key"
+
+Note that this could change based on your specific Terraform deployment.
+
+***
+
+### I am working with Terraform and I am using the example in Terraform Provider Grid. How can I use the example main.tf file with environment variables? Why am I getting the message Error: account not found, when deploying with Terraform?
+
+This Q&A is linked with the main.tf file in the [QSFS section of the Threefold Tech repository](https://github.com/threefoldtech/terraform-provider-grid/blob/development/examples/resources/qsfs/main.tf).
+
+This error happens when you did not properly set your environment variables.
+In the main.tf file, add those lines at the top:
+
+> variable "MNEMONICS" {
+> 
+>   type        = string
+> 
+>   description = "The mnemonic phrase used to generate the seed for the node."
+> 
+> }
+
+> variable "NETWORK" {
+> 
+>   type        = string
+> 
+>   default     = "main"
+> 
+>   description = "The network to connect the node to."
+> 
+> }
+
+> variable "SSH_KEY" {
+> 
+>   type = string
+> 
+> }
+
+Within the file main.tf, set those lines:
+
+> provider "grid" {
+> 
+>    mnemonics = "${var.MNEMONICS}"
+> 
+>    network   = "${var.NETWORK}"  
+> 
+> }
+ 
+>  env_vars = { 
+> 
+>    SSH_KEY = "${var.SSH_KEY}" 
+> 
+>   } 
+
+Note: Make sure that you properly set your variables in the file env.tfvars.
+
+***
+
+### Is there a command line tool for Terraform when deploying on the Threefold Grid?
+
+There is a command line tool for Terraform built by a community member.
+
+Have a look at this [forum post](https://forum.threefold.io/t/terraform-helper-script/3720) to learn more.
+
+The tool has the following options:
+
+1. Install Terraform
+2. Generate a main.tf
+3. Generate an env.tfvars
+4. Modify an existing example main.tf for deployment with env.tfvars file.
+
+***
+
+## Users Troubleshooting and Error Messages
+
+### When deploying a virtual machine (VM) on the Threefold Grid, I get the following message after trying a full system update and upgrade: GRUB failed to install to the following devices... Is there a fix to this issue?
+
+When deploying a virtual machine and doing a full system update and upgrade (apt update, apt upgrade, if you get the error: GRUB failed to install to the following devices /dev/vda15, try this to fix it:
+
+> apt-mark hold grub-efi-amd64-signed
+
+This should fix the issue.
+
+***
+
+### I tried exporting my account to another computer but my password doesn't activate my profile manager on the Threefold Playground. What should I do?
+
+Your Playground profile is stored in the local browser storage, so it won't show up on a different computer with the same password. Instead, simply recreate the profile, using your seed phrase, and it will populate all information about your deployments on the different computer.
 
 ***
 
@@ -1216,6 +1718,16 @@ Metadata is usually less than 5% of the container. The rest (95%+) is the actual
 ### Does Zero-OS assign private IPv4 addresses to workloads?
 
 No. Zero-OS will request two IP address from the DHCP. If you only have one physical NIC connected, Zero-OS will assign the second IP address as a virtual device.
+
+***
+
+### Why does each 3node server have two IP addresses associated with it?
+
+Each node has two IP adresses.
+
+One is for for Zero-OS and one is for for the DMZ (demilitarized zone, sometimes referred to as a perimeter network or screened subnet). This separates public/private traffic from each other.
+
+Note: Zero-OS will request two IP address from the DHCP. If you only have one physical NIC connected, Zero-OS will assign the second IP address as a virtual device.
 ***
 ### Can Zero-OS assign public IPv4 or IPv6 addresses to workloads?
 Yes it can provide both standard and Yggdrasil connections.
@@ -1312,6 +1824,12 @@ During the 2 first years, 5% yield will be rewarded to any staker. 10% of revenu
 10% will be deducted if you did delegated staking. In other words, if you do not own the validator node. This 10% is commission for the owner of the validator node.
 
 For more information, read [this](https://library.threefold.me/info/threefold#/decentralization/validators/threefold__validators).
+
+***
+
+### What is the current status on the validator and staking solution? Is there anything coming soon?
+
+We expect validators to arrive in the first half of the year 2023 (H1 of 2023).
 
 ***
 
@@ -1429,6 +1947,15 @@ Farming rewards are usually sent around the 8th of each month.
 
 Note that this can vary slightly as the TF team is manually verifying the farming rewards.
 
+***
+
+### What should I do if I did not receive my farming rewards this month?
+
+If you did not receive your farming rewards, please contact us via our live chats. We will then investigate the situation. 
+
+You can find our live chat option on the TF Connect App ([Android](https://play.google.com/store/apps/details?id=org.jimber.threebotlogin&hl=en_CA&gl=US), [iOS](https://apps.apple.com/us/app/threefold-connect/id1459845885)), the [TF Forum](http://forum.threefold.io/), [TF Dashboard](https://dashboard.grid.tf/) and the [TF website](https://threefold.io/). 
+For the TF Connect app, select the Support option.
+For the other websites, it is a blue icon on the right bottom part of the page.
 
 ***
 
@@ -1683,7 +2210,7 @@ Yes of course! In short, you will need to use a hardware wallet (Ledger/Trezor/e
 
 ### Do I need collateral to farm Threefold tokens?
 
-No! Many decentralized data projects require enormous amounts of collateral, but not ThreeFold.
+Many decentralized data projects require collateral, but not ThreeFold. There is an ongoing discussion on collateral. Join the discussion [here](https://forum.threefold.io/t/should-tft-collateral-be-required-for-3nodes/3724).
 
 ***
 ### Can I add external drives to the 3nodes to increase rewards and resources available to the Threefold Grid?
@@ -2258,6 +2785,14 @@ Check in the BIOS settings and make sure you have enabled Virtual Cores (or Hype
 
 ***
 
+### What is the current status on the Wake-on-LAN (WOL) feature?
+
+The WOL feature has been revised. This project has transformed into the Farmer bot feature. The farmer bot is a piece of software that can run as a grid deployment and manages a farmers nodes.
+
+More information on this will be shared soon. Follow [this post](https://forum.threefold.io/t/tfgrid-3-8-engineering-status-and-wol/3716) for ongoing discussion.
+
+***
+
 ### Why are the 3nodes' resources different on the Threefold Explorer and the Threefold Dashboard?
 
 There is a difference because one shows the resources in GiB and the other in GB. It's just a way to display information, the resources are ultimately the same, but shown differently. 1 GiB = 1.073741824 GB.
@@ -2267,6 +2802,20 @@ There is a difference because one shows the resources in GiB and the other in GB
 ### What do CRU, MRU, HRU and SRU mean on the Threefold Explorer?
 
 CRU means the number of virtual cores. MRU means the GB of ram (memory). HRU means the HDD capacity storage and SRU means the SSD capacity storage.
+
+***
+
+### I have more than one Threefold 3node farm, but I want all my 3nodes on only one farm. How can I put all my 3nodes on one farm? How can I change the farm ID of my 3node?
+
+If you have more than one 3node associated with more than one farm, it is possible to put all the 3nodes under only one farm.
+The following shows how to change the farm ID of your 3node.
+
+For each 3node, you need to create a new USB key Zero-OS boostrap image associated with the chosen farm ID. This will ensure your 3node links to the chosen farm.
+To create a new USB key Zero-OS bootstrap image, you can download the bootstrap image [here](https://v3.bootstrap.grid.tf/) or you can clone an existing USB key bootstrap image associated with the chosen farm ID. In both case, you can use a software like [BalenaEtcher](https://www.balena.io/etcher/).
+Once you have the new USB key bootstrap image, plug it into the 3node and reboot the server.
+After reboot, the 3node will have the same node ID as before, but it will now be associated with the chosen farm ID.
+
+Note: If you want a new node ID for your 3node, you will need to wipe the main SSD of your 3node.
 
 ***
 
@@ -2686,6 +3235,17 @@ Dell has excellen documentation for this. Read [this](https://www.dell.com/suppo
 ### When I boot a 3node in UEFI mode, it gets stuck at: Initializing Network Device, is there a way to fix this?
 
 Usually, booting the 3node in BIOS mode instead of UEFI mode fixes this issue.
+
+***
+
+### When I boot my 3node, it gets stuck during the Zero-OS download. It never reaches 100%. What can I do to fix this issue?
+
+Here are some ways to troubleshoot your 3node when it cannot download Zero-OS completely (to 100%):
+
+* Sometimes, just rebooting the 3node and/or trying a little bit later can work.
+* It can help to reboot the modem and the router. 
+* Make sure your BIOS/UEFI is up to date. Updating the BIOS/UEFI can help. 
+* It can also help to set the correct date and time.
 
 ***
 
