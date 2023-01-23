@@ -969,7 +969,9 @@ General Tips
 
 ***
 ### How to Set Up TFT on Metamask
-*
+
+To set up Threefold token (TFT) on Metamask, you can follow those simple steps:
+
 * Download Metamask [here](https://metamask.io/download.html). Then, install the Metamask extension in your local browser.
 * Create a Metamask account
 * Switch the network to  `Binance chain` . You will have to create a new network with following information):
