@@ -38,7 +38,7 @@
 <ul>
 <li><a href="#faq?id=what-is-the-the-threefold-blockchain">What is the the Threefold blockchain?</a></li>
 <li><a href="#faq?id=what-is-the-architecture-of-the-threefold-grid-in-simple-terms">What is the architecture of the Threefold Grid in simple terms?</a></li>
-<li><a href="#faq?id=what-is-the-threefold-token-what-is-the-uses-of-the-tf-token">What is the Threefold Token? What is the uses of the TF token?</a></li>
+<li><a href="#faq?id=what-is-the-threefold-token-what-are-the-uses-of-the-threefold-token-tft">What is the Threefold Token? What are the uses of the Threefold token (TFT)?</a></li>
 <li><a href="#faq?id=how-are-threefold-token-tft-produced">How are Threefold Token (TFT) produced?</a></li>
 <li><a href="#faq?id=how-are-the-tft-managed">How are the TFT managed?</a></li>
 <li><a href="#faq?id=ive-read-that-threefold-is-carbon-negative-what-does-this-imply">I've read that Threefold is Carbon Negative, what does this imply?</a></li>
@@ -511,7 +511,7 @@ Middleware helps to make data available and to manage load.
 
 ***
 
-### What is the Threefold Token? What is the uses of the TF token?
+### What is the Threefold Token? What are the uses of the Threefold token (TFT)?
 
 ThreeFold Token (TFT) is a decentralized digital currency used to buy autonomous and decentralized Internet services (compute, storage, applications) on the ThreeFold Network – generated only when active capacity is added to the ThreeFold Grid.
 It has a specific commercial utility, since ThreeFold Tokens were conceived as the designated currency for buying and selling capacity on the ThreeFold Grid.
