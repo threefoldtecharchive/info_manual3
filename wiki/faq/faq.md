@@ -1846,9 +1846,14 @@ We expect validators to arrive in the first half of the year 2023 (H1 of 2023).
 
 ### What are the hardware requirements to run a validator node?
 
+The hardware requirements to run a validator node are the following:
+
 * 4TB of SSD Storage (good quality SSD)
 * 32 GB of RAM
 * 4 physical cores
+
+Note that you can deploy a validator node on any 3node on the Threefold Grid that satisfies those requirements.
+This means that you can also run a validator node on your own 3node if the requirements are satisfied.
 
 ***
 
