@@ -13,17 +13,17 @@
 ***
 *Hint: Use the search function (Ctrl+F) to locate specific keywords*
 
-*If you can't find the answer to your question*, <a href="#faq?id=ask-a-question-to-the-threefold-community">ask the Threefold Community</a>!
+*If you can't find the answer to your question*, <a href="#manual__faq?id=ask-a-question-to-the-threefold-community">ask the Threefold Community</a>!
 ***
 
 <h2>Main Sections</h2>
 
 <ul>
-<li><a href="#faq?id=general-faq">GENERAL FAQ</a>
-<li><a href="#faq?id=users-faq">USERS FAQ</a>
-<li><a href="#faq?id=developers-faq">DEVELOPERS FAQ</a>
-<li><a href="#faq?id=validators-faq">VALIDATORS FAQ</a>
-<li><a href="#faq?id=farmers-faq">FARMERS FAQ</a>
+<li><a href="#manual__faq?id=general-faq">GENERAL FAQ</a>
+<li><a href="#manual__faq?id=users-faq">USERS FAQ</a>
+<li><a href="#manual__faq?id=developers-faq">DEVELOPERS FAQ</a>
+<li><a href="#manual__faq?id=validators-faq">VALIDATORS FAQ</a>
+<li><a href="#manual__faq?id=farmers-faq">FARMERS FAQ</a>
 </li>
 </ul>
 
@@ -32,457 +32,457 @@
 <h2>Table of Contents</h2>
 
 <ul>
-<li><a href="#faq?id=general-faq">GENERAL FAQ</a>
+<li><a href="#manual__faq?id=general-faq">GENERAL FAQ</a>
 <ul>
-<li><a href="#faq?id=basic-facts">Basic Facts</a>
+<li><a href="#manual__faq?id=basic-facts">Basic Facts</a>
 <ul>
-<li><a href="#faq?id=what-is-the-the-threefold-blockchain">What is the the Threefold blockchain?</a></li>
-<li><a href="#faq?id=what-is-the-architecture-of-the-threefold-grid-in-simple-terms">What is the architecture of the Threefold Grid in simple terms?</a></li>
-<li><a href="#faq?id=what-is-the-threefold-token-what-are-the-uses-of-the-threefold-token-tft">What is the Threefold Token? What are the uses of the Threefold token (TFT)?</a></li>
-<li><a href="#faq?id=how-are-threefold-token-tft-produced">How are Threefold Token (TFT) produced?</a></li>
-<li><a href="#faq?id=how-are-the-tft-managed">How are the TFT managed?</a></li>
-<li><a href="#faq?id=ive-read-that-threefold-is-carbon-negative-what-does-this-imply">I've read that Threefold is Carbon Negative, what does this imply?</a></li>
-<li><a href="#faq?id=who-are-the-people-working-for-threefold">Who are the people working for Threefold?</a></li>
-<li><a href="#faq?id=who-are-the-co-founders-of-threefold">Who are the co-founders of Threefold?</a></li>
-<li><a href="#faq?id=in-a-nutshell-what-can-be-said-of-the-threefold-team">In a nutshell, what can be said of the Threefold team?</a></li>
-<li><a href="#faq?id=what-is-the-mission-of-threefold">What is the mission of Threefold?</a></li>
-<li><a href="#faq?id=who-are-the-partners-of-threefold">Who are the partners of Threefold?</a></li>
-<li><a href="#faq?id=what-are-the-priorities-of-threefold-the-three-p-of-threefold-threefold-is-a-planet-first-project-what-does-it-mean">What are the priorities of Threefold (the Three P of Threefold)? Threefold is a Planet first project, what does it mean?</a></li>
-<li><a href="#faq?id=i-want-to-farm-tft-with-a-3node-what-are-my-choices">I want to farm TFT with a 3node. What are my choices?</a></li>
-<li><a href="#faq?id=i-want-to-buy-a-certified-3node-server-from-a-reliable-source-who-are-threefolds-partners-offering-certified-3nodes">I want to buy a certified 3node server from a reliable source. Who are Threefold's partners offering certified 3nodes?</a></li>
-<li><a href="#faq?id=i-want-to-help-build-the-new-internet-how-can-i-become-a-threefold-certified-3node-partner">I want to help build the new Internet. How can I become a Threefold certified 3node partner?</a></li>
-<li><a href="#faq?id=how-is-threefold-registered-as-an-entity">How is Threefold registered as an entity?</a></li>
-<li><a href="#faq?id=where-is-threefold-techs-headquarters">Where is ThreeFold Tech's headquarters?</a></li>
-<li><a href="#faq?id=can-i-have-more-information-on-threefold-tech-nv-and-threefold-sa">Can I have more information on Threefold Tech NV and Threefold S.A.?</a></li>
+<li><a href="#manual__faq?id=what-is-the-the-threefold-blockchain">What is the the Threefold blockchain?</a></li>
+<li><a href="#manual__faq?id=what-is-the-architecture-of-the-threefold-grid-in-simple-terms">What is the architecture of the Threefold Grid in simple terms?</a></li>
+<li><a href="#manual__faq?id=what-is-the-threefold-token-what-are-the-uses-of-the-threefold-token-tft">What is the Threefold Token? What are the uses of the Threefold token (TFT)?</a></li>
+<li><a href="#manual__faq?id=how-are-threefold-token-tft-produced">How are Threefold Token (TFT) produced?</a></li>
+<li><a href="#manual__faq?id=how-are-the-tft-managed">How are the TFT managed?</a></li>
+<li><a href="#manual__faq?id=ive-read-that-threefold-is-carbon-negative-what-does-this-imply">I've read that Threefold is Carbon Negative, what does this imply?</a></li>
+<li><a href="#manual__faq?id=who-are-the-people-working-for-threefold">Who are the people working for Threefold?</a></li>
+<li><a href="#manual__faq?id=who-are-the-co-founders-of-threefold">Who are the co-founders of Threefold?</a></li>
+<li><a href="#manual__faq?id=in-a-nutshell-what-can-be-said-of-the-threefold-team">In a nutshell, what can be said of the Threefold team?</a></li>
+<li><a href="#manual__faq?id=what-is-the-mission-of-threefold">What is the mission of Threefold?</a></li>
+<li><a href="#manual__faq?id=who-are-the-partners-of-threefold">Who are the partners of Threefold?</a></li>
+<li><a href="#manual__faq?id=what-are-the-priorities-of-threefold-the-three-p-of-threefold-threefold-is-a-planet-first-project-what-does-it-mean">What are the priorities of Threefold (the Three P of Threefold)? Threefold is a Planet first project, what does it mean?</a></li>
+<li><a href="#manual__faq?id=i-want-to-farm-tft-with-a-3node-what-are-my-choices">I want to farm TFT with a 3node. What are my choices?</a></li>
+<li><a href="#manual__faq?id=i-want-to-buy-a-certified-3node-server-from-a-reliable-source-who-are-threefolds-partners-offering-certified-3nodes">I want to buy a certified 3node server from a reliable source. Who are Threefold's partners offering certified 3nodes?</a></li>
+<li><a href="#manual__faq?id=i-want-to-help-build-the-new-internet-how-can-i-become-a-threefold-certified-3node-partner">I want to help build the new Internet. How can I become a Threefold certified 3node partner?</a></li>
+<li><a href="#manual__faq?id=how-is-threefold-registered-as-an-entity">How is Threefold registered as an entity?</a></li>
+<li><a href="#manual__faq?id=where-is-threefold-techs-headquarters">Where is ThreeFold Tech's headquarters?</a></li>
+<li><a href="#manual__faq?id=can-i-have-more-information-on-threefold-tech-nv-and-threefold-sa">Can I have more information on Threefold Tech NV and Threefold S.A.?</a></li>
 </ul>
 </li>
-<li><a href="#faq?id=threefold-communication">Threefold Communication</a>
+<li><a href="#manual__faq?id=threefold-communication">Threefold Communication</a>
 <ul>
-<li><a href="#faq?id=is-there-a-threefold-app-for-mobile">Is there a Threefold app for mobile?</a></li>
-<li><a href="#faq?id=i-want-to-reach-the-threefold-community-what-are-threefold-social-links">I want to reach the Threefold community. What are Threefold social links?</a></li>
-<li><a href="#faq?id=is-there-a-discord-group-for-threefold">Is there a Discord group for Threefold?</a></li>
-<li><a href="#faq?id=how-can-i-reach-threefold-support">How can I reach Threefold Support?</a></li>
-<li><a href="#faq?id=is-there-a-threefold-podcast">Is there a Threefold podcast?</a></li>
-<li><a href="#faq?id=who-can-i-write-to-for-a-proposal-where-can-i-send-a-proposal-email-for-a-new-partnership-opportunity-with-threefold">Who can I write to for a proposal? Where can I send a proposal email for a new partnership opportunity with Threefold?</a></li>
-<li><a href="#faq?id=how-can-i-track-and-follow-the-progress-and-development-of-threefold">How can I track and follow the progress and development of Threefold?</a></li>
-<li><a href="#faq?id=is-there-a-way-to-search-the-faq-more-easily-what-is-the-link-for-the-threefold-faq-bot">Is there a way to search the FAQ more easily? What is the link for the Threefold FAQ Bot?</a></li>
+<li><a href="#manual__faq?id=is-there-a-threefold-app-for-mobile">Is there a Threefold app for mobile?</a></li>
+<li><a href="#manual__faq?id=i-want-to-reach-the-threefold-community-what-are-threefold-social-links">I want to reach the Threefold community. What are Threefold social links?</a></li>
+<li><a href="#manual__faq?id=is-there-a-discord-group-for-threefold">Is there a Discord group for Threefold?</a></li>
+<li><a href="#manual__faq?id=how-can-i-reach-threefold-support">How can I reach Threefold Support?</a></li>
+<li><a href="#manual__faq?id=is-there-a-threefold-podcast">Is there a Threefold podcast?</a></li>
+<li><a href="#manual__faq?id=who-can-i-write-to-for-a-proposal-where-can-i-send-a-proposal-email-for-a-new-partnership-opportunity-with-threefold">Who can I write to for a proposal? Where can I send a proposal email for a new partnership opportunity with Threefold?</a></li>
+<li><a href="#manual__faq?id=how-can-i-track-and-follow-the-progress-and-development-of-threefold">How can I track and follow the progress and development of Threefold?</a></li>
+<li><a href="#manual__faq?id=is-there-a-way-to-search-the-faq-more-easily-what-is-the-link-for-the-threefold-faq-bot">Is there a way to search the FAQ more easily? What is the link for the Threefold FAQ Bot?</a></li>
 </ul>
 </li>
-<li><a href="#faq?id=the-technology-of-threefold">The Technology of Threefold</a>
+<li><a href="#manual__faq?id=the-technology-of-threefold">The Technology of Threefold</a>
 <ul>
-<li><a href="#faq?id=what-is-a-3node">What is a 3node?</a></li>
-<li><a href="#faq?id=what-is-the-difference-between-a-3node-and-a-threefold-farm">What is the difference between a 3node and a Threefold farm?</a></li>
-<li><a href="#faq?id=ive-read-that-threefold-built-an-operating-system-os-from-scratch-is-it-true">I've read that Threefold built an Operating System (OS) from scratch, is it true?</a></li>
-<li><a href="#faq?id=what-is-zero-os-from-threefold">What is Zero-OS from Threefold?</a></li>
-<li><a href="#faq?id=threefold-uses-quantum-safe-storage-technology-what-does-it-mean">Threefold uses Quantum Safe Storage technology, what does it mean?</a></li>
-<li><a href="#faq?id=quantum-safe-file-system-qsfs-allows-for-part-of-the-storage-to-go-down-and-it-can-self-repair-however-its-still-attached-to-a-single-vm-and-a-single-point-of-failure-can-a-qsfs-instance-be-reattached-to-another-vm-to-recover-it">Quantum Safe File System (QSFS) allows for part of the storage to go down and it can self repair, however it’s still attached to a single VM and a single point of failure. Can a QSFS instance be reattached to another VM to recover it?</a></li>
-<li><a href="#faq?id=where-does-the-threefold-explorer-take-its-data-from">Where does the Threefold Explorer take its data from?</a></li>
-<li><a href="#faq?id=is-there-a-way-to-see-the-threefold-grids-metrics">Is there a way to see the Threefold Grid's metrics?</a></li>
-<li><a href="#faq?id=how-can-i-connect-to-the-threefold-planetary-network">How can I connect to the Threefold Planetary Network?</a></li>
-<li><a href="#faq?id=where-can-i-download-the-threefold-planetary-network-connector">Where can I download the Threefold Planetary Network connector?</a></li>
-<li><a href="#faq?id=what-is-proof-of-capacity-used-by-threefold">What is Proof-of-Capacity used by Threefold?</a></li>
-<li><a href="#faq?id=what-is-proof-of-utilization">What is Proof-of-Utilization?</a></li>
-<li><a href="#faq?id=how-does-proof-of-utilization-work-how-is-the-threefold-token-tft-distributed-when-there-is-utilization-on-the-threefold-grid">How does Proof-of-Utilization work? How is the Threefold Token (TFT) distributed when there is utilization on the Threefold Grid?</a></li>
+<li><a href="#manual__faq?id=what-is-a-3node">What is a 3node?</a></li>
+<li><a href="#manual__faq?id=what-is-the-difference-between-a-3node-and-a-threefold-farm">What is the difference between a 3node and a Threefold farm?</a></li>
+<li><a href="#manual__faq?id=ive-read-that-threefold-built-an-operating-system-os-from-scratch-is-it-true">I've read that Threefold built an Operating System (OS) from scratch, is it true?</a></li>
+<li><a href="#manual__faq?id=what-is-zero-os-from-threefold">What is Zero-OS from Threefold?</a></li>
+<li><a href="#manual__faq?id=threefold-uses-quantum-safe-storage-technology-what-does-it-mean">Threefold uses Quantum Safe Storage technology, what does it mean?</a></li>
+<li><a href="#manual__faq?id=quantum-safe-file-system-qsfs-allows-for-part-of-the-storage-to-go-down-and-it-can-self-repair-however-its-still-attached-to-a-single-vm-and-a-single-point-of-failure-can-a-qsfs-instance-be-reattached-to-another-vm-to-recover-it">Quantum Safe File System (QSFS) allows for part of the storage to go down and it can self repair, however it’s still attached to a single VM and a single point of failure. Can a QSFS instance be reattached to another VM to recover it?</a></li>
+<li><a href="#manual__faq?id=where-does-the-threefold-explorer-take-its-data-from">Where does the Threefold Explorer take its data from?</a></li>
+<li><a href="#manual__faq?id=is-there-a-way-to-see-the-threefold-grids-metrics">Is there a way to see the Threefold Grid's metrics?</a></li>
+<li><a href="#manual__faq?id=how-can-i-connect-to-the-threefold-planetary-network">How can I connect to the Threefold Planetary Network?</a></li>
+<li><a href="#manual__faq?id=where-can-i-download-the-threefold-planetary-network-connector">Where can I download the Threefold Planetary Network connector?</a></li>
+<li><a href="#manual__faq?id=what-is-proof-of-capacity-used-by-threefold">What is Proof-of-Capacity used by Threefold?</a></li>
+<li><a href="#manual__faq?id=what-is-proof-of-utilization">What is Proof-of-Utilization?</a></li>
+<li><a href="#manual__faq?id=how-does-proof-of-utilization-work-how-is-the-threefold-token-tft-distributed-when-there-is-utilization-on-the-threefold-grid">How does Proof-of-Utilization work? How is the Threefold Token (TFT) distributed when there is utilization on the Threefold Grid?</a></li>
 </ul>
 </li>
-<li><a href="#faq?id=buying-and-transacting-tft">Buying and Transacting TFT</a>
+<li><a href="#manual__faq?id=buying-and-transacting-tft">Buying and Transacting TFT</a>
 <ul>
-<li><a href="#faq?id=how-can-i-buy-tft">How can I buy TFT?</a></li>
-<li><a href="#faq?id=what-is-the-maximum-supply-of-threefold-tokens-what-is-the-current-supply-of-threefold-tokens">What is the maximum supply of Threefold tokens? What is the current supply of Threefold tokens?</a></li>
-<li><a href="#faq?id=how-is-the-threefold-tokentft-created-minted-threefold-token-is-a-pure-utility-token-what-does-this-mean">How is the Threefold Token(TFT) created (minted)? Threefold Token is a pure utility token. What does this mean?</a></li>
-<li><a href="#faq?id=where-can-i-find-tft-concretely-on-which-blockchains-is-tft-available">Where can I find TFT, concretely? On which blockchains is TFT available?</a></li>
-<li><a href="#faq?id=what-are-the-uses-for-each-different-blockchains-offering-tft">What are the uses for each different blockchains offering TFT?</a></li>
-<li><a href="#faq?id=what-is-the-interplay-between-stellar-chain-and-tf-chain">What is the interplay between Stellar Chain and TF Chain?</a></li>
-<li><a href="#faq?id=is-there-a-bridge-between-binance-smart-chain-bsc-and-stellar-to-transfer-tft">Is there a bridge between Binance Smart Chain (BSC) and Stellar to transfer TFT?</a></li>
-<li><a href="#faq?id=what-are-the-different-threefold-bridges-tfchain-stellar-bridge-and-bsc-stellar-bridge-how-can-i-go-from-tf-chain-to-stellar-chain-to-binance-smart-chain">What are the different Threefold bridges, TFChain-Stellar Bridge and BSC-Stellar Bridge? How can I go from TF Chain to Stellar chain to Binance Smart Chain?</a></li>
-<li><a href="#faq?id=how-can-i-bridge-tft-from-stellar-chain-to-tf-chain-and-vice-versa">How can I bridge TFT from Stellar chain to TF Chain and vice versa?</a></li>
-<li><a href="#faq?id=how-can-i-bridge-tft-from-binance-smart-chain-bsc-to-stellar-and-vice-versa">How can I bridge TFT from Binance Smart Chain (BSC) to Stellar (and vice versa)?</a></li>
-<li><a href="#faq?id=how-to-set-up-tft-on-metamask">How to Set Up TFT on Metamask</a></li>
-<li><a href="#faq?id=how-to-set-up-a-stellar-address-for-tft-transactions">How to set up a Stellar address for TFT transactions?</a></li>
-<li><a href="#faq?id=how-long-does-it-take-when-you-use-the-bsc-stellar-bridge">How long does it take when you use the BSC-Stellar Bridge?</a></li>
-<li><a href="#faq?id=what-are-the-cost-when-bridging-from-stellar-to-metamask-and-from-metamask-to-stellar">What are the cost when bridging from Stellar to MetaMask and from MetaMask to Stellar?</a></li>
-<li><a href="#faq?id=what-is-the-network-information-to-access-bsc-for-the-threefold-token-what-is-the-token-address-for-adding-the-token-in-the-metamask-app">What is the network information to access BSC for the Threefold token? What is the token address for adding the token in the MetaMask app?</a></li>
-<li><a href="#faq?id=how-can-i-trade-tft-on-pancake-swap-how-can-i-add-tft-on-pancake-swap">How can I trade TFT on Pancake Swap? How can I add TFT on Pancake Swap?</a></li>
-<li><a href="#faq?id=is-it-possible-to-swap-tft-on-stellar-blockain">Is it possible to swap TFT on Stellar Blockain?</a></li>
+<li><a href="#manual__faq?id=how-can-i-buy-tft">How can I buy TFT?</a></li>
+<li><a href="#manual__faq?id=what-is-the-maximum-supply-of-threefold-tokens-what-is-the-current-supply-of-threefold-tokens">What is the maximum supply of Threefold tokens? What is the current supply of Threefold tokens?</a></li>
+<li><a href="#manual__faq?id=how-is-the-threefold-tokentft-created-minted-threefold-token-is-a-pure-utility-token-what-does-this-mean">How is the Threefold Token(TFT) created (minted)? Threefold Token is a pure utility token. What does this mean?</a></li>
+<li><a href="#manual__faq?id=where-can-i-find-tft-concretely-on-which-blockchains-is-tft-available">Where can I find TFT, concretely? On which blockchains is TFT available?</a></li>
+<li><a href="#manual__faq?id=what-are-the-uses-for-each-different-blockchains-offering-tft">What are the uses for each different blockchains offering TFT?</a></li>
+<li><a href="#manual__faq?id=what-is-the-interplay-between-stellar-chain-and-tf-chain">What is the interplay between Stellar Chain and TF Chain?</a></li>
+<li><a href="#manual__faq?id=is-there-a-bridge-between-binance-smart-chain-bsc-and-stellar-to-transfer-tft">Is there a bridge between Binance Smart Chain (BSC) and Stellar to transfer TFT?</a></li>
+<li><a href="#manual__faq?id=what-are-the-different-threefold-bridges-tfchain-stellar-bridge-and-bsc-stellar-bridge-how-can-i-go-from-tf-chain-to-stellar-chain-to-binance-smart-chain">What are the different Threefold bridges, TFChain-Stellar Bridge and BSC-Stellar Bridge? How can I go from TF Chain to Stellar chain to Binance Smart Chain?</a></li>
+<li><a href="#manual__faq?id=how-can-i-bridge-tft-from-stellar-chain-to-tf-chain-and-vice-versa">How can I bridge TFT from Stellar chain to TF Chain and vice versa?</a></li>
+<li><a href="#manual__faq?id=how-can-i-bridge-tft-from-binance-smart-chain-bsc-to-stellar-and-vice-versa">How can I bridge TFT from Binance Smart Chain (BSC) to Stellar (and vice versa)?</a></li>
+<li><a href="#manual__faq?id=how-to-set-up-tft-on-metamask">How to Set Up TFT on Metamask</a></li>
+<li><a href="#manual__faq?id=how-to-set-up-a-stellar-address-for-tft-transactions">How to set up a Stellar address for TFT transactions?</a></li>
+<li><a href="#manual__faq?id=how-long-does-it-take-when-you-use-the-bsc-stellar-bridge">How long does it take when you use the BSC-Stellar Bridge?</a></li>
+<li><a href="#manual__faq?id=what-are-the-cost-when-bridging-from-stellar-to-metamask-and-from-metamask-to-stellar">What are the cost when bridging from Stellar to MetaMask and from MetaMask to Stellar?</a></li>
+<li><a href="#manual__faq?id=what-is-the-network-information-to-access-bsc-for-the-threefold-token-what-is-the-token-address-for-adding-the-token-in-the-metamask-app">What is the network information to access BSC for the Threefold token? What is the token address for adding the token in the MetaMask app?</a></li>
+<li><a href="#manual__faq?id=how-can-i-trade-tft-on-pancake-swap-how-can-i-add-tft-on-pancake-swap">How can I trade TFT on Pancake Swap? How can I add TFT on Pancake Swap?</a></li>
+<li><a href="#manual__faq?id=is-it-possible-to-swap-tft-on-stellar-blockain">Is it possible to swap TFT on Stellar Blockain?</a></li>
 </ul>
 </li>
-<li><a href="#faq?id=tf-connect-app-tf-dashboard-graphql-grix-proxy-and-polkadot-substrate">TF Connect App, TF Dashboard, GraphQL, Grix Proxy and Polkadot Substrate</a>
+<li><a href="#manual__faq?id=tf-connect-app-tf-dashboard-graphql-grix-proxy-and-polkadot-substrate">TF Connect App, TF Dashboard, GraphQL, Grix Proxy and Polkadot Substrate</a>
 <ul>
-<li><a href="#faq?id=what-is-the-threefold-connect-app-download-link">What is the Threefold Connect App download link?</a></li>
-<li><a href="#faq?id=what-is-the-threefold-dashboard-link">What is the Threefold Dashboard link?</a></li>
-<li><a href="#faq?id=to-access-the-tf-dashboard-i-need-to-use-the-polkadot-extension-what-is-the-link-for-the-polkadot-extension-polkadotjs-which-browsers-support-the-polkadot-extension">To access the TF Dashboard, I need to use the Polkadot Extension. What is the link for the Polkadot Extension (polkadot.js)? Which browsers support the Polkadot Extension?</a></li>
-<li><a href="#faq?id=is-there-a-way-to-create-or-import-another-wallet-in-tf-connect-app">Is there a way to create or import another wallet in TF Connect App?</a></li>
-<li><a href="#faq?id=i-created-a-farm-on-the-tf-chain-on-the-tf-connect-app-farmer-migration-section-my-farm-is-under-other-v3-farms-is-this-normal">I created a farm on the TF Chain. On the TF Connect App Farmer Migration section, my farm is under Other v3 farms, is this normal?</a></li>
-<li><a href="#faq?id=i-am-trying-to-access-my-wallet-in-the-threefold-connect-app-it-worked-fine-before-but-now-i-just-get-a-white-screen-what-does-it-mean-and-what-can-i-do">I am trying to access my wallet in the Threefold Connect App. It worked fine before, but now I just get a white screen. What does it mean and what can I do?</a></li>
-<li><a href="#faq?id=when-i-open-the-threefold-connect-app-i-get-the-error-error-in-initialization-in-flagsmith-how-can-i-fix-this-issue">When I open the Threefold Connect App, I get the error: Error in initialization in Flagsmith. How can I fix this issue?</a></li>
-<li><a href="#faq?id=i-have-some-problems-connecting-to-the-polkadot-extension-what-can-i-do">I have some problems connecting to the Polkadot extension. What can I do?</a></li>
-<li><a href="#faq?id=apart-form-the-threefold-connect-app-wallet-how-can-i-check-my-tft-balance">Apart form the Threefold Connect App Wallet, how can I check my TFT balance?</a></li>
-<li><a href="#faq?id=is-it-possible-to-export-the-transaction-history-of-a-wallet-to-a-csv-file">Is it possible to export the transaction history of a wallet to a CSV file?</a></li>
-<li><a href="#faq?id=what-is-the-role-of-the-middleware">What is the role of the middleware?</a></li>
-<li><a href="#faq?id=what-is-polkadot-ui-what-can-i-do-with-polkadot-ui">What is Polkadot UI? What can I do with Polkadot UI?</a></li>
-<li><a href="#faq?id=how-can-i-use-graphql-to-find-information-on-the-threefold-grid">How can I use GraphQl to find information on the Threefold Grid?</a></li>
-<li><a href="#faq?id=how-can-i-use-grid-proxy-to-find-information-on-the-threefold-grid-and-3nodes">How can I use Grid Proxy to find information on the Threefold Grid and 3nodes?</a></li>
-<li><a href="#faq?id=who-is-hosting-graphql-and-grid-proxy-on-the-threefold-grid">Who is hosting GraphQL and Grid Proxy on the Threefold Grid?</a></li>
+<li><a href="#manual__faq?id=what-is-the-threefold-connect-app-download-link">What is the Threefold Connect App download link?</a></li>
+<li><a href="#manual__faq?id=what-is-the-threefold-dashboard-link">What is the Threefold Dashboard link?</a></li>
+<li><a href="#manual__faq?id=to-access-the-tf-dashboard-i-need-to-use-the-polkadot-extension-what-is-the-link-for-the-polkadot-extension-polkadotjs-which-browsers-support-the-polkadot-extension">To access the TF Dashboard, I need to use the Polkadot Extension. What is the link for the Polkadot Extension (polkadot.js)? Which browsers support the Polkadot Extension?</a></li>
+<li><a href="#manual__faq?id=is-there-a-way-to-create-or-import-another-wallet-in-tf-connect-app">Is there a way to create or import another wallet in TF Connect App?</a></li>
+<li><a href="#manual__faq?id=i-created-a-farm-on-the-tf-chain-on-the-tf-connect-app-farmer-migration-section-my-farm-is-under-other-v3-farms-is-this-normal">I created a farm on the TF Chain. On the TF Connect App Farmer Migration section, my farm is under Other v3 farms, is this normal?</a></li>
+<li><a href="#manual__faq?id=i-am-trying-to-access-my-wallet-in-the-threefold-connect-app-it-worked-fine-before-but-now-i-just-get-a-white-screen-what-does-it-mean-and-what-can-i-do">I am trying to access my wallet in the Threefold Connect App. It worked fine before, but now I just get a white screen. What does it mean and what can I do?</a></li>
+<li><a href="#manual__faq?id=when-i-open-the-threefold-connect-app-i-get-the-error-error-in-initialization-in-flagsmith-how-can-i-fix-this-issue">When I open the Threefold Connect App, I get the error: Error in initialization in Flagsmith. How can I fix this issue?</a></li>
+<li><a href="#manual__faq?id=i-have-some-problems-connecting-to-the-polkadot-extension-what-can-i-do">I have some problems connecting to the Polkadot extension. What can I do?</a></li>
+<li><a href="#manual__faq?id=apart-form-the-threefold-connect-app-wallet-how-can-i-check-my-tft-balance">Apart form the Threefold Connect App Wallet, how can I check my TFT balance?</a></li>
+<li><a href="#manual__faq?id=is-it-possible-to-export-the-transaction-history-of-a-wallet-to-a-csv-file">Is it possible to export the transaction history of a wallet to a CSV file?</a></li>
+<li><a href="#manual__faq?id=what-is-the-role-of-the-middleware">What is the role of the middleware?</a></li>
+<li><a href="#manual__faq?id=what-is-polkadot-ui-what-can-i-do-with-polkadot-ui">What is Polkadot UI? What can I do with Polkadot UI?</a></li>
+<li><a href="#manual__faq?id=how-can-i-use-graphql-to-find-information-on-the-threefold-grid">How can I use GraphQl to find information on the Threefold Grid?</a></li>
+<li><a href="#manual__faq?id=how-can-i-use-grid-proxy-to-find-information-on-the-threefold-grid-and-3nodes">How can I use Grid Proxy to find information on the Threefold Grid and 3nodes?</a></li>
+<li><a href="#manual__faq?id=who-is-hosting-graphql-and-grid-proxy-on-the-threefold-grid">Who is hosting GraphQL and Grid Proxy on the Threefold Grid?</a></li>
 </ul>
 </li>
-<li><a href="#faq?id=threefold-commercial-grid-services">Threefold Commercial Grid Services</a>
+<li><a href="#manual__faq?id=threefold-commercial-grid-services">Threefold Commercial Grid Services</a>
 <ul>
-<li><a href="#faq?id=what-is-the-concept-and-the-goals-of-the-threefold-commercial-grid-services-project">What is the concept and the goals of the Threefold Commercial Grid Services project?</a></li>
-<li><a href="#faq?id=who-can-participate-to-the-threefold-commercial-grid-services">Who can participate to the Threefold Commercial Grid Services?</a></li>
-<li><a href="#faq?id=what-is-the-method-of-payment-of-the-threefold-commercial-grid-services">What is the method of payment of the Threefold Commercial Grid Services?</a></li>
-<li><a href="#faq?id=how-can-i-contribute-to-the-threefold-commercial-grid-services-what-is-the-onboarding-process-to-join-the-threefold-commercial-grid-services">How can I contribute to the Threefold Commercial Grid Services? What is the onboarding process to join the Threefold Commercial Grid Services?</a></li>
-<li><a href="#faq?id=what-are-the-requirements-and-the-process-to-be-recognized-as-a-sales-channel">What are the requirements and the process to be recognized as a sales channel?</a></li>
-<li><a href="#faq?id=how-can-i-become-a-solution-provider-on-top-of-the-threefold-grid">How can I become a solution provider on top of the Threefold Grid?</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="#faq?id=users-faq">USERS FAQ</a>
-<ul>
-<li><a href="#faq?id=tf-grid-functionalities">TF Grid Functionalities</a>
-<ul>
-<li><a href="#faq?id=how-can-i-filter-3nodes-by-country-and-by-network-ipv4-ipv6-and-planetary-network">How can I filter 3nodes by country and by network (IPv4, IPv6 and Planetary Network)?</a></li>
-<li><a href="#faq?id=can-i-have-the-link-to-deploy-a-vm-and-other-apps-on-the-grid">Can I have the link to deploy a VM and other apps on the Grid?</a></li>
-<li><a href="#faq?id=what-can-i-do-on-threefold-grid">What can I do on Threefold Grid?</a></li>
-<li><a href="#faq?id=can-i-deploy-a-mastodon-server-on-threefold-grid">Can I deploy a Mastodon server on Threefold Grid?</a></li>
-<li><a href="#faq?id=i-want-to-become-a-threefold-validator-what-are-the-steps">I want to become a Threefold validator. What are the steps?</a></li>
-<li><a href="#faq?id=is-there-delegated-staking-for-tft">Is there delegated staking for TFT?</a></li>
-<li><a href="#faq?id=what-are-the-type-of-storage-available-on-tf-grid">What are the type of storage available on TF Grid?</a></li>
-<li><a href="#faq?id=what-is-threefolds-cloud-pricing-are-there-any-discounts-available-for-threefolds-cloud-pricing">What is Threefold's cloud pricing? Are there any discounts available for Threefold's cloud pricing?</a></li>
-<li><a href="#faq?id=how-can-i-see-the-available-capacity-of-a-3node-server-on-the-threefold-grid">How can I see the available capacity of a 3node server on the Threefold Grid?</a></li>
-<li><a href="#faq?id=what-is-the-difference-between-the-playground-and-dashboard-on-mainnet-and-testnet">What is the difference between the Playground and Dashboard on mainnet and testnet?</a></li>
-</ul>
-</li>
-<li><a href="#faq?id=deployments-on-the-threefold-grid">Deployments on the Threefold Grid</a>
-<ul>
-<li><a href="#faq?id=can-i-use-the-tfchain-secret-on-the-threefold-connect-app-for-the-profile-settings-on-the-threefold-playground">Can I use the TFChain secret on the Threefold Connect App for the Profile settings on the Threefold Playground?</a></li>
-<li><a href="#faq?id=does-the-threefold-grid-charge-the-total-resources-rented-or-it-only-charges-the-resources-used-during-deployment">Does the Threefold Grid charge the total resources rented or it only charges the resources used during deployment?</a></li>
-<li><a href="#faq?id=do-i-pay-for-internet-traffic-while-deploying-workloads-on-ipv4-ipv6-or-planetary-network">Do I pay for Internet traffic while deploying workloads on IPv4, IPv6 or Planetary Network?</a></li>
-<li><a href="#faq?id=what-are-the-differences-between-a-container-a-micro-virtual-machine-and-a-full-virtual-machine-vm">What are the differences between a container, a micro virtual machine and a full virtual machine (VM)?</a></li>
-<li><a href="#faq?id=the-gateways-are-advertised-as-many-to-many-how-can-i-have-more-than-one-gateway-assigned-to-a-deployment-can-more-gateways-be-added-after-deployment">The gateways are advertised as many-to-many. How can I have more than one gateway assigned to a deployment? Can more gateways be added after deployment?</a></li>
-</ul>
-</li>
-<li><a href="#faq?id=tutorials-and-guides">Tutorials and Guides</a>
-<ul>
-<li><a href="#faq?id=what-are-the-prerequisites-before-using-the-threefold-play-grid-playgridtf">What are the prerequisites before using the Threefold Play Grid (play.grid.tf)?</a></li>
-<li><a href="#faq?id=how-can-i-create-a-profile-manager-on-the-threefold-playground">How can I create a profile manager on the Threefold Playground?</a></li>
-<li><a href="#faq?id=to-deploy-a-load-on-the-threefold-grid-i-need-to-generate-ssh-keys-how-can-i-generate-ssh-keys-on-mac-linux-or-windows">To deploy a load on the Threefold Grid, I need to generate SSH keys. How can I generate SSH keys on MAC, Linux or Windows?</a></li>
-<li><a href="#faq?id=i-want-to-deploy-a-virtual-machine-vm-on-threefold-how-can-i-do-this">I want to deploy a virtual machine (VM) on Threefold. How can I do this?</a></li>
-<li><a href="#faq?id=how-can-i-use-caprover-on-threefold-grid">How can I use Caprover on Threefold Grid?</a></li>
-<li><a href="#faq?id=is-there-a-picture-guide-on-how-to-deploy-wordpress-on-the-threefold-grid-using-caprover">Is there a picture guide on how to deploy Wordpress on the Threefold Grid using Caprover?</a></li>
-<li><a href="#faq?id=ive-heard-rumours-that-you-can-install-wordpress-and-discourse-on-the-tf-grid-in-less-than-15-minutes-is-it-true">I've heard rumours that you can install Wordpress and Discourse on the TF Grid in less than 15 minutes, is it true?</a></li>
-<li><a href="#faq?id=can-i-deploy-a-presearch-node">Can I deploy a Presearch Node?</a></li>
-<li><a href="#faq?id=what-is-the-minimum-amount-of-tft-to-deploy-a-presearch-node-how-can-i-get-a-tft-discount-when-i-deploy-a-presearch-node">What is the minimum amount of TFT to deploy a Presearch node? How can I get a TFT discount when I deploy a Presearch node?</a></li>
-<li><a href="#faq?id=how-can-i-deploy-kubernetes-on-the-threefold-grid">How can I deploy Kubernetes on the Threefold Grid?</a></li>
-<li><a href="#faq?id=how-can-i-deploy-peertube-on-the-threefold-grid">How can I deploy Peertube on the Threefold Grid?</a></li>
-<li><a href="#faq?id=how-can-i-deploy-owncloud-on-the-threefold-grid">How can I deploy ownCloud on the Threefold Grid?</a></li>
-<li><a href="#faq?id=how-can-i-use-and-install-yggdrasil">How can I use and install Yggdrasil?</a></li>
-<li><a href="#faq?id=how-can-i-rent-or-reserve-a-3node-dedicated-node-server-on-the-threefold-grid-what-are-the-main-steps-when-deploying-workloads-on-a-dedicated-node">How can I rent or reserve a 3node dedicated node server on the Threefold Grid? What are the main steps when deploying workloads on a dedicated node?</a></li>
-<li><a href="#faq?id=how-can-i-import-my-polkadot-account-on-the-mainnet-and-the-testnet">How can I import my Polkadot account on the mainnet and the testnet?</a></li>
-<li><a href="#faq?id=can-i-use-the-same-seed-phrase-for-my-mainnet-and-testnest-accounts-how-can-i-transfer-my-tft-from-mainnet-to-testnet-or-vice-versa">Can I use the same seed phrase for my mainnet and testnest accounts? How can I transfer my TFT from mainnet to testnet or vice versa?</a></li>
-<li><a href="#faq?id=can-i-recover-my-seed-phrase">Can I recover my seed phrase?</a></li>
-<li><a href="#faq?id=do-i-need-a-full-or-micro-virtual-machine-vm-when-i-run-qsfs-quantum-safe-file-system-on-the-threefold-grid">Do I need a full or micro virtual machine (VM) when I run QSFS, quantum safe file system, on the Threefold Grid?</a></li>
-</ul>
-</li>
-<li><a href="#faq?id=terraform">Terraform</a>
-<ul>
-<li><a href="#faq?id=working-with-terraform-i-get-the-following-error-failed-to-create-contract-contractisnotunique-is-there-a-fix-to-this-issue">Working with Terraform, I get the following error: failed to create contract: ContractIsNotUnique. Is there a fix to this issue?</a></li>
-<li><a href="#faq?id=i-am-working-with-terraform-what-do-i-have-to-write-in-the-file-envtfvars">I am working with Terraform. What do I have to write in the file env.tfvars?</a></li>
-<li><a href="#faq?id=i-am-working-with-terraform-and-i-am-using-the-example-in-terraform-provider-grid-how-can-i-use-the-example-maintf-file-with-environment-variables-why-am-i-getting-the-message-error-account-not-found-when-deploying-with-terraform">I am working with Terraform and I am using the example in Terraform Provider Grid. How can I use the example main.tf file with environment variables? Why am I getting the message Error: account not found, when deploying with Terraform?</a></li>
-<li><a href="#faq?id=is-there-a-command-line-tool-for-terraform-when-deploying-on-the-threefold-grid">Is there a command line tool for Terraform when deploying on the Threefold Grid?</a></li>
-</ul>
-</li>
-<li><a href="#faq?id=users-troubleshooting-and-error-messages">Users Troubleshooting and Error Messages</a>
-<ul>
-<li><a href="#faq?id=when-deploying-a-virtual-machine-vm-on-the-threefold-grid-i-get-the-following-message-after-trying-a-full-system-update-and-upgrade-grub-failed-to-install-to-the-following-devices-is-there-a-fix-to-this-issue">When deploying a virtual machine (VM) on the Threefold Grid, I get the following message after trying a full system update and upgrade: GRUB failed to install to the following devices... Is there a fix to this issue?</a></li>
-<li><a href="#faq?id=i-tried-exporting-my-account-to-another-computer-but-my-password-doesnt-activate-my-profile-manager-on-the-threefold-playground-what-should-i-do">I tried exporting my account to another computer but my password doesn't activate my profile manager on the Threefold Playground. What should I do?</a></li>
-</ul>
-</li>
-<li><a href="#faq?id=threefold-connect-app">Threefold Connect App</a>
-<ul>
-<li><a href="#faq?id=tf-connect-app-is-now-asking-for-a-4-digit-password-pin-i-dont-remember-it-as-i-usually-use-touch-or-face-id-to-unlock-the-app-what-can-i-do">TF Connect App is now asking for a 4-digit password (PIN). I don't remember it as I usually use touch or face ID to unlock the app. What can I do?</a></li>
-<li><a href="#faq?id=is-there-a-way-to-have-more-than-one-wallet-in-tf-connect-app">Is there a way to have more than one wallet in TF Connect App?</a></li>
+<li><a href="#manual__faq?id=what-is-the-concept-and-the-goals-of-the-threefold-commercial-grid-services-project">What is the concept and the goals of the Threefold Commercial Grid Services project?</a></li>
+<li><a href="#manual__faq?id=who-can-participate-to-the-threefold-commercial-grid-services">Who can participate to the Threefold Commercial Grid Services?</a></li>
+<li><a href="#manual__faq?id=what-is-the-method-of-payment-of-the-threefold-commercial-grid-services">What is the method of payment of the Threefold Commercial Grid Services?</a></li>
+<li><a href="#manual__faq?id=how-can-i-contribute-to-the-threefold-commercial-grid-services-what-is-the-onboarding-process-to-join-the-threefold-commercial-grid-services">How can I contribute to the Threefold Commercial Grid Services? What is the onboarding process to join the Threefold Commercial Grid Services?</a></li>
+<li><a href="#manual__faq?id=what-are-the-requirements-and-the-process-to-be-recognized-as-a-sales-channel">What are the requirements and the process to be recognized as a sales channel?</a></li>
+<li><a href="#manual__faq?id=how-can-i-become-a-solution-provider-on-top-of-the-threefold-grid">How can I become a solution provider on top of the Threefold Grid?</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#faq?id=developers-faq">DEVELOPERS FAQ</a>
+<li><a href="#manual__faq?id=users-faq">USERS FAQ</a>
 <ul>
-<li><a href="#faq?id=general-information-for-developer">General Information for Developer</a>
+<li><a href="#manual__faq?id=tf-grid-functionalities">TF Grid Functionalities</a>
 <ul>
-<li><a href="#faq?id=can-i-use-a-docker-with-the-threefold-grid">Can I use a docker with the Threefold Grid?</a></li>
-<li><a href="#faq?id=can-i-convert-an-existing-docker-into-an-flist">Can I convert an existing docker into an flist?</a></li>
-<li><a href="#faq?id=how-does-a-flist-work">How does a FList work?</a></li>
-<li><a href="#faq?id=what-is-stored-in-the-metadata-of-a-software">What is stored in the metadata of a software?</a></li>
-<li><a href="#faq?id=what-is-the-ratio-between-the-metadata-and-the-actual-files-on-a-container">What is the ratio between the metadata and the actual files on a container?</a></li>
-<li><a href="#faq?id=does-zero-os-assign-private-ipv4-addresses-to-workloads">Does Zero-OS assign private IPv4 addresses to workloads?</a></li>
-<li><a href="#faq?id=why-does-each-3node-server-have-two-ip-addresses-associated-with-it">Why does each 3node server have two IP addresses associated with it?</a></li>
-<li><a href="#faq?id=can-zero-os-assign-public-ipv4-or-ipv6-addresses-to-workloads">Can Zero-OS assign public IPv4 or IPv6 addresses to workloads?</a></li>
-<li><a href="#faq?id=what-is-yggdrasil">What is Yggdrasil?</a></li>
-<li><a href="#faq?id=what-does-mac-mean-when-it-comes-to-networking">What does MAC mean when it comes to networking?</a></li>
+<li><a href="#manual__faq?id=how-can-i-filter-3nodes-by-country-and-by-network-ipv4-ipv6-and-planetary-network">How can I filter 3nodes by country and by network (IPv4, IPv6 and Planetary Network)?</a></li>
+<li><a href="#manual__faq?id=can-i-have-the-link-to-deploy-a-vm-and-other-apps-on-the-grid">Can I have the link to deploy a VM and other apps on the Grid?</a></li>
+<li><a href="#manual__faq?id=what-can-i-do-on-threefold-grid">What can I do on Threefold Grid?</a></li>
+<li><a href="#manual__faq?id=can-i-deploy-a-mastodon-server-on-threefold-grid">Can I deploy a Mastodon server on Threefold Grid?</a></li>
+<li><a href="#manual__faq?id=i-want-to-become-a-threefold-validator-what-are-the-steps">I want to become a Threefold validator. What are the steps?</a></li>
+<li><a href="#manual__faq?id=is-there-delegated-staking-for-tft">Is there delegated staking for TFT?</a></li>
+<li><a href="#manual__faq?id=what-are-the-type-of-storage-available-on-tf-grid">What are the type of storage available on TF Grid?</a></li>
+<li><a href="#manual__faq?id=what-is-threefolds-cloud-pricing-are-there-any-discounts-available-for-threefolds-cloud-pricing">What is Threefold's cloud pricing? Are there any discounts available for Threefold's cloud pricing?</a></li>
+<li><a href="#manual__faq?id=how-can-i-see-the-available-capacity-of-a-3node-server-on-the-threefold-grid">How can I see the available capacity of a 3node server on the Threefold Grid?</a></li>
+<li><a href="#manual__faq?id=what-is-the-difference-between-the-playground-and-dashboard-on-mainnet-and-testnet">What is the difference between the Playground and Dashboard on mainnet and testnet?</a></li>
 </ul>
 </li>
-<li><a href="#faq?id=dev-net--test-net">Dev Net &amp; Test Net</a>
+<li><a href="#manual__faq?id=deployments-on-the-threefold-grid">Deployments on the Threefold Grid</a>
 <ul>
-<li><a href="#faq?id=is-there-a-way-to-test-the-grid-with-free-tft">Is there a way to test the Grid with free TFT?</a></li>
-<li><a href="#faq?id=can-i-get-some-free-tft-to-test-on-test-net">Can I get some free TFT to test on Test Net</a></li>
+<li><a href="#manual__faq?id=can-i-use-the-tfchain-secret-on-the-threefold-connect-app-for-the-profile-settings-on-the-threefold-playground">Can I use the TFChain secret on the Threefold Connect App for the Profile settings on the Threefold Playground?</a></li>
+<li><a href="#manual__faq?id=does-the-threefold-grid-charge-the-total-resources-rented-or-it-only-charges-the-resources-used-during-deployment">Does the Threefold Grid charge the total resources rented or it only charges the resources used during deployment?</a></li>
+<li><a href="#manual__faq?id=do-i-pay-for-internet-traffic-while-deploying-workloads-on-ipv4-ipv6-or-planetary-network">Do I pay for Internet traffic while deploying workloads on IPv4, IPv6 or Planetary Network?</a></li>
+<li><a href="#manual__faq?id=what-are-the-differences-between-a-container-a-micro-virtual-machine-and-a-full-virtual-machine-vm">What are the differences between a container, a micro virtual machine and a full virtual machine (VM)?</a></li>
+<li><a href="#manual__faq?id=the-gateways-are-advertised-as-many-to-many-how-can-i-have-more-than-one-gateway-assigned-to-a-deployment-can-more-gateways-be-added-after-deployment">The gateways are advertised as many-to-many. How can I have more than one gateway assigned to a deployment? Can more gateways be added after deployment?</a></li>
+</ul>
+</li>
+<li><a href="#manual__faq?id=tutorials-and-guides">Tutorials and Guides</a>
+<ul>
+<li><a href="#manual__faq?id=what-are-the-prerequisites-before-using-the-threefold-play-grid-playgridtf">What are the prerequisites before using the Threefold Play Grid (play.grid.tf)?</a></li>
+<li><a href="#manual__faq?id=how-can-i-create-a-profile-manager-on-the-threefold-playground">How can I create a profile manager on the Threefold Playground?</a></li>
+<li><a href="#manual__faq?id=to-deploy-a-load-on-the-threefold-grid-i-need-to-generate-ssh-keys-how-can-i-generate-ssh-keys-on-mac-linux-or-windows">To deploy a load on the Threefold Grid, I need to generate SSH keys. How can I generate SSH keys on MAC, Linux or Windows?</a></li>
+<li><a href="#manual__faq?id=i-want-to-deploy-a-virtual-machine-vm-on-threefold-how-can-i-do-this">I want to deploy a virtual machine (VM) on Threefold. How can I do this?</a></li>
+<li><a href="#manual__faq?id=how-can-i-use-caprover-on-threefold-grid">How can I use Caprover on Threefold Grid?</a></li>
+<li><a href="#manual__faq?id=is-there-a-picture-guide-on-how-to-deploy-wordpress-on-the-threefold-grid-using-caprover">Is there a picture guide on how to deploy Wordpress on the Threefold Grid using Caprover?</a></li>
+<li><a href="#manual__faq?id=ive-heard-rumours-that-you-can-install-wordpress-and-discourse-on-the-tf-grid-in-less-than-15-minutes-is-it-true">I've heard rumours that you can install Wordpress and Discourse on the TF Grid in less than 15 minutes, is it true?</a></li>
+<li><a href="#manual__faq?id=can-i-deploy-a-presearch-node">Can I deploy a Presearch Node?</a></li>
+<li><a href="#manual__faq?id=what-is-the-minimum-amount-of-tft-to-deploy-a-presearch-node-how-can-i-get-a-tft-discount-when-i-deploy-a-presearch-node">What is the minimum amount of TFT to deploy a Presearch node? How can I get a TFT discount when I deploy a Presearch node?</a></li>
+<li><a href="#manual__faq?id=how-can-i-deploy-kubernetes-on-the-threefold-grid">How can I deploy Kubernetes on the Threefold Grid?</a></li>
+<li><a href="#manual__faq?id=how-can-i-deploy-peertube-on-the-threefold-grid">How can I deploy Peertube on the Threefold Grid?</a></li>
+<li><a href="#manual__faq?id=how-can-i-deploy-owncloud-on-the-threefold-grid">How can I deploy ownCloud on the Threefold Grid?</a></li>
+<li><a href="#manual__faq?id=how-can-i-use-and-install-yggdrasil">How can I use and install Yggdrasil?</a></li>
+<li><a href="#manual__faq?id=how-can-i-rent-or-reserve-a-3node-dedicated-node-server-on-the-threefold-grid-what-are-the-main-steps-when-deploying-workloads-on-a-dedicated-node">How can I rent or reserve a 3node dedicated node server on the Threefold Grid? What are the main steps when deploying workloads on a dedicated node?</a></li>
+<li><a href="#manual__faq?id=how-can-i-import-my-polkadot-account-on-the-mainnet-and-the-testnet">How can I import my Polkadot account on the mainnet and the testnet?</a></li>
+<li><a href="#manual__faq?id=can-i-use-the-same-seed-phrase-for-my-mainnet-and-testnest-accounts-how-can-i-transfer-my-tft-from-mainnet-to-testnet-or-vice-versa">Can I use the same seed phrase for my mainnet and testnest accounts? How can I transfer my TFT from mainnet to testnet or vice versa?</a></li>
+<li><a href="#manual__faq?id=can-i-recover-my-seed-phrase">Can I recover my seed phrase?</a></li>
+<li><a href="#manual__faq?id=do-i-need-a-full-or-micro-virtual-machine-vm-when-i-run-qsfs-quantum-safe-file-system-on-the-threefold-grid">Do I need a full or micro virtual machine (VM) when I run QSFS, quantum safe file system, on the Threefold Grid?</a></li>
+</ul>
+</li>
+<li><a href="#manual__faq?id=terraform">Terraform</a>
+<ul>
+<li><a href="#manual__faq?id=working-with-terraform-i-get-the-following-error-failed-to-create-contract-contractisnotunique-is-there-a-fix-to-this-issue">Working with Terraform, I get the following error: failed to create contract: ContractIsNotUnique. Is there a fix to this issue?</a></li>
+<li><a href="#manual__faq?id=i-am-working-with-terraform-what-do-i-have-to-write-in-the-file-envtfvars">I am working with Terraform. What do I have to write in the file env.tfvars?</a></li>
+<li><a href="#manual__faq?id=i-am-working-with-terraform-and-i-am-using-the-example-in-terraform-provider-grid-how-can-i-use-the-example-maintf-file-with-environment-variables-why-am-i-getting-the-message-error-account-not-found-when-deploying-with-terraform">I am working with Terraform and I am using the example in Terraform Provider Grid. How can I use the example main.tf file with environment variables? Why am I getting the message Error: account not found, when deploying with Terraform?</a></li>
+<li><a href="#manual__faq?id=is-there-a-command-line-tool-for-terraform-when-deploying-on-the-threefold-grid">Is there a command line tool for Terraform when deploying on the Threefold Grid?</a></li>
+</ul>
+</li>
+<li><a href="#manual__faq?id=users-troubleshooting-and-error-messages">Users Troubleshooting and Error Messages</a>
+<ul>
+<li><a href="#manual__faq?id=when-deploying-a-virtual-machine-vm-on-the-threefold-grid-i-get-the-following-message-after-trying-a-full-system-update-and-upgrade-grub-failed-to-install-to-the-following-devices-is-there-a-fix-to-this-issue">When deploying a virtual machine (VM) on the Threefold Grid, I get the following message after trying a full system update and upgrade: GRUB failed to install to the following devices... Is there a fix to this issue?</a></li>
+<li><a href="#manual__faq?id=i-tried-exporting-my-account-to-another-computer-but-my-password-doesnt-activate-my-profile-manager-on-the-threefold-playground-what-should-i-do">I tried exporting my account to another computer but my password doesn't activate my profile manager on the Threefold Playground. What should I do?</a></li>
+</ul>
+</li>
+<li><a href="#manual__faq?id=threefold-connect-app">Threefold Connect App</a>
+<ul>
+<li><a href="#manual__faq?id=tf-connect-app-is-now-asking-for-a-4-digit-password-pin-i-dont-remember-it-as-i-usually-use-touch-or-face-id-to-unlock-the-app-what-can-i-do">TF Connect App is now asking for a 4-digit password (PIN). I don't remember it as I usually use touch or face ID to unlock the app. What can I do?</a></li>
+<li><a href="#manual__faq?id=is-there-a-way-to-have-more-than-one-wallet-in-tf-connect-app">Is there a way to have more than one wallet in TF Connect App?</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#faq?id=validators-faq">VALIDATORS FAQ</a>
+<li><a href="#manual__faq?id=developers-faq">DEVELOPERS FAQ</a>
 <ul>
-<li><a href="#faq?id=general-information-of-validator">General Information of Validator</a>
+<li><a href="#manual__faq?id=general-information-for-developer">General Information for Developer</a>
 <ul>
-<li><a href="#faq?id=what-are-validators">What are Validators?</a></li>
-<li><a href="#faq?id=why-are-validators-important-for-threefold">Why are Validators important for ThreeFold?</a></li>
-<li><a href="#faq?id=can-anyone-run-a-validator-node">Can anyone run a validator node?</a></li>
-<li><a href="#faq?id=what-are-the-rewards">What are the rewards?</a></li>
-<li><a href="#faq?id=how-many-validator-nodes-will-there-be">How many validator nodes will there be?</a></li>
-<li><a href="#faq?id=whats-the-difference-between-l2-and-l0">What’s the difference between L2 and L0?</a></li>
-<li><a href="#faq?id=what-are-the-rewards-for-l0-and-l2-validators">What are the rewards for L0 and L2 validators?</a></li>
-<li><a href="#faq?id=what-is-the-current-status-on-the-validator-and-staking-solution-is-there-anything-coming-soon">What is the current status on the validator and staking solution? Is there anything coming soon?</a></li>
+<li><a href="#manual__faq?id=can-i-use-a-docker-with-the-threefold-grid">Can I use a docker with the Threefold Grid?</a></li>
+<li><a href="#manual__faq?id=can-i-convert-an-existing-docker-into-an-flist">Can I convert an existing docker into an flist?</a></li>
+<li><a href="#manual__faq?id=how-does-a-flist-work">How does a FList work?</a></li>
+<li><a href="#manual__faq?id=what-is-stored-in-the-metadata-of-a-software">What is stored in the metadata of a software?</a></li>
+<li><a href="#manual__faq?id=what-is-the-ratio-between-the-metadata-and-the-actual-files-on-a-container">What is the ratio between the metadata and the actual files on a container?</a></li>
+<li><a href="#manual__faq?id=does-zero-os-assign-private-ipv4-addresses-to-workloads">Does Zero-OS assign private IPv4 addresses to workloads?</a></li>
+<li><a href="#manual__faq?id=why-does-each-3node-server-have-two-ip-addresses-associated-with-it">Why does each 3node server have two IP addresses associated with it?</a></li>
+<li><a href="#manual__faq?id=can-zero-os-assign-public-ipv4-or-ipv6-addresses-to-workloads">Can Zero-OS assign public IPv4 or IPv6 addresses to workloads?</a></li>
+<li><a href="#manual__faq?id=what-is-yggdrasil">What is Yggdrasil?</a></li>
+<li><a href="#manual__faq?id=what-does-mac-mean-when-it-comes-to-networking">What does MAC mean when it comes to networking?</a></li>
 </ul>
 </li>
-<li><a href="#faq?id=validator-requirements">Validator Requirements</a>
+<li><a href="#manual__faq?id=dev-net--test-net">Dev Net &amp; Test Net</a>
 <ul>
-<li><a href="#faq?id=what-are-the-general-requirements">What are the general requirements?</a></li>
-<li><a href="#faq?id=what-are-the-hardware-requirements-to-run-a-validator-node">What are the hardware requirements to run a validator node?</a></li>
-<li><a href="#faq?id=can-i-run-more-than-one-validator-node">Can I run more than one validator node?</a></li>
-<li><a href="#faq?id=does-this-mean-you-only-really-need-50-000-tft-to-run-a-validator-node">Does this mean you only really need 50 000 TFT to run a validator node?</a></li>
-<li><a href="#faq?id=if-validator-is-running-on-grid-and-the-host-shutdowns-the-machine-could-stakers-lose-staking-tokens">If validator is running on Grid and the host shutdowns the machine, could stakers lose staking tokens?</a></li>
-<li><a href="#faq?id=what-happens-if-my-validator-is-down-for-a-while">What happens if my validator is down for a while?</a></li>
-<li><a href="#faq?id=could-we-run-validator-on-our-farming-machine">Could we run validator on our farming machine?</a></li>
-</ul>
-</li>
-<li><a href="#faq?id=application-to-run-a-validator-node">Application to run a Validator Node</a>
-<ul>
-<li><a href="#faq?id=when-will-verification-of-the-validators-applications-start">When will verification of the validators' applications start?</a></li>
-<li><a href="#faq?id=what-are-the-next-steps-after-the-validator-sign-up">What are the next steps after the validator sign-up?</a></li>
+<li><a href="#manual__faq?id=is-there-a-way-to-test-the-grid-with-free-tft">Is there a way to test the Grid with free TFT?</a></li>
+<li><a href="#manual__faq?id=can-i-get-some-free-tft-to-test-on-test-net">Can I get some free TFT to test on Test Net</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#faq?id=farmers-faq">FARMERS FAQ</a>
+<li><a href="#manual__faq?id=validators-faq">VALIDATORS FAQ</a>
 <ul>
-<li><a href="#faq?id=tft-farming-basics">TFT Farming Basics</a>
+<li><a href="#manual__faq?id=general-information-of-validator">General Information of Validator</a>
 <ul>
-<li><a href="#faq?id=how-can-i-create-a-threefold-farm">How can I create a Threefold farm?</a></li>
-<li><a href="#faq?id=my-titan-is-v21-and-the-threefold-grid-is-v3-what-is-the-distinction">My Titan is v2.1 and the Threefold Grid is v3., what is the distinction?</a></li>
-<li><a href="#faq?id=is-there-a-way-to-know-the-current-tft-price-for-the-farming-rewards">Is there a way to know the current TFT price for the farming rewards?</a></li>
-<li><a href="#faq?id=when-will-i-receive-the-farming-rewards-for-my-3nodes">When will I receive the farming rewards for my 3nodes?</a></li>
-<li><a href="#faq?id=what-should-i-do-if-i-did-not-receive-my-farming-rewards-this-month">What should I do if I did not receive my farming rewards this month?</a></li>
-<li><a href="#faq?id=is-there-a-threefold-simulator-to-calculate-farming-rewards">Is there a Threefold simulator to calculate farming rewards?</a></li>
-<li><a href="#faq?id=what-is-the-tft-entry-price-of-my-3node-farming-rewards">What is the TFT entry price of my 3node farming rewards?</a></li>
-<li><a href="#faq?id=what-is-the-necessary-uptime-for-a-3node-per-period-of-one-month">What is the necessary uptime for a 3node per period of one month?</a></li>
-<li><a href="#faq?id=how-can-i-check-the-uptime-of-my-3nodes-is-there-a-tool-to-check-the-uptime-of-3node-servers-on-the-threefold-grid">How can I check the uptime of my 3nodes? Is there a tool to check the uptime of 3node servers on the Threefold Grid?</a></li>
-<li><a href="#faq?id=i-set-up-a-3node-in-the-middle-of-the-month-does-it-affect-uptime-requirements-and-rewards">I set up a 3node in the middle of the month, does it affect uptime requirements and rewards?</a></li>
-<li><a href="#faq?id=what-is-the-difference-between-a-certified-and-a-non-certified-3node">What is the difference between a certified and a non-certified 3node?</a></li>
-<li><a href="#faq?id=what-are-the-different-certifications-available-for-3node-servers-and-farms-what-are-the-gold-and-silver-certifications">What are the different certifications available for 3node servers and farms? What are the Gold and Silver certifications?</a></li>
-<li><a href="#faq?id=what-is-the-difference-between-v2-and-v3-minting">What is the difference between V2 and V3 minting?</a></li>
-<li><a href="#faq?id=how-long-is-the-minting-period-of-the-tokens-on-threefold-how-long-is-the-farming-period">How long is the minting period of the tokens on Threefold? How long is the farming period?</a></li>
-<li><a href="#faq?id=what-is-the-start-and-end-of-the-current-minting-period-what-are-the-minting-periods-for-threefold-farming-in-2023">What is the start and end of the current minting period? What are the minting periods for Threefold Farming in 2023?</a></li>
-<li><a href="#faq?id=can-titans-and-diy-3nodes-share-the-same-farm">Can Titans and DIY 3nodes share the same farm?</a></li>
-<li><a href="#faq?id=do-i-need-one-farm-for-each-3node">Do I need one farm for each 3node?</a></li>
-<li><a href="#faq?id=can-a-single-farm-be-composed-of-many-3nodes">Can a single farm be composed of many 3nodes?</a></li>
-<li><a href="#faq?id=can-a-single-3node-be-on-more-than-one-farm">Can a single 3node be on more than one farm?</a></li>
-<li><a href="#faq?id=do-i-need-one-reward-address-per-3node">Do I need one reward address per 3node?</a></li>
-<li><a href="#faq?id=when-it-comes-to-the-zero-os-bootstrap-image-can-i-simply-duplicate-the-first-image-i-burnt-when-i-build-another-3node">When it comes to the Zero-OS bootstrap image, can I simply duplicate the first image I burnt when I build another 3node?</a></li>
-<li><a href="#faq?id=if-a-node-is-unused-for-certain-time-eg-many-months-offline-will-it-be-erased-by-the-grid">If a node is unused for certain time (e.g. many months offline), will it be erased by the Grid?</a></li>
-<li><a href="#faq?id=can-a-farm-be-erased-from-tf-grid">Can a farm be erased from TF Grid?</a></li>
-<li><a href="#faq?id=on-the-threefold-connect-app-it-says-i-need-to-migrate-my-titan-farm-from-v2-to-v3-what-do-i-have-to-do-how-long-does-this-take">On the Threefold Connect App, it says I need to migrate my Titan farm from V2 to V3. What do I have to do? How long does this take?</a></li>
-<li><a href="#faq?id=how-can-i-migrate-my-diy-farm-from-v2-to-v3">How can I migrate my DIY farm from V2 to V3?</a></li>
+<li><a href="#manual__faq?id=what-are-validators">What are Validators?</a></li>
+<li><a href="#manual__faq?id=why-are-validators-important-for-threefold">Why are Validators important for ThreeFold?</a></li>
+<li><a href="#manual__faq?id=can-anyone-run-a-validator-node">Can anyone run a validator node?</a></li>
+<li><a href="#manual__faq?id=what-are-the-rewards">What are the rewards?</a></li>
+<li><a href="#manual__faq?id=how-many-validator-nodes-will-there-be">How many validator nodes will there be?</a></li>
+<li><a href="#manual__faq?id=whats-the-difference-between-l2-and-l0">What’s the difference between L2 and L0?</a></li>
+<li><a href="#manual__faq?id=what-are-the-rewards-for-l0-and-l2-validators">What are the rewards for L0 and L2 validators?</a></li>
+<li><a href="#manual__faq?id=what-is-the-current-status-on-the-validator-and-staking-solution-is-there-anything-coming-soon">What is the current status on the validator and staking solution? Is there anything coming soon?</a></li>
 </ul>
 </li>
-<li><a href="#faq?id=farming-rewards-and-related-notions">Farming Rewards and Related Notions</a>
+<li><a href="#manual__faq?id=validator-requirements">Validator Requirements</a>
 <ul>
-<li><a href="#faq?id=what-are-the-rewards-of-farming-can-i-get-more-rewards-when-my-3node-is-being-utilized">What are the rewards of farming? Can I get more rewards when my 3node is being utilized?</a></li>
-<li><a href="#faq?id=how-can-i-know-the-potential-farming-rewards-for-grid-utilization">How can I know the potential farming rewards for Grid Utilization?</a></li>
-<li><a href="#faq?id=what-is-the-easiest-way-to-farm-threefold-tokens-tft">What is the easiest way to farm Threefold tokens (TFT)?</a></li>
-<li><a href="#faq?id=when-do-i-receive-my-rewards">When do I receive my rewards?</a></li>
-<li><a href="#faq?id=on-threefold-grid-v3-how-can-i-verify-my-3nodes-payments-on-stellar-blockchain">On Threefold Grid v3, how can I verify my 3nodes' payments on Stellar Blockchain?</a></li>
-<li><a href="#faq?id=do-farming-rewards-take-into-account-the-type-of-ram-ssd-hdd-and-cpu-of-the-3node-server">Do farming rewards take into account the type of RAM, SSD, HDD and CPU of the 3node server?</a></li>
-<li><a href="#faq?id=what-is-the-farming-reward-calculation">What is the farming reward calculation?</a></li>
-<li><a href="#faq?id=can-i-send-my-farming-rewards-directly-to-a-crypto-exchange">Can I send my farming rewards directly to a crypto exchange?</a></li>
-<li><a href="#faq?id=i-received-my-farming-rewards-now-i-want-to-sell-my-threefold-tokens-tft-how-can-i-do-this">I received my farming rewards, now I want to sell my Threefold tokens (TFT). How can I do this?</a></li>
-<li><a href="#faq?id=how-can-i-swap-threefold-tokens-tft-on-stellar-blochain">How can I swap Threefold tokens (TFT) on Stellar blochain?</a></li>
-<li><a href="#faq?id=which-wallets-are-recommended-for-threefold-token-tft-farming-rewards">Which wallets are recommended for Threefold token (TFT) farming rewards?</a></li>
-<li><a href="#faq?id=can-i-have-more-details-on-storing-threefold-tokens-tft-on-hardware-wallets">Can I have more details on storing Threefold tokens (TFT) on hardware wallets?</a></li>
-<li><a href="#faq?id=do-i-need-collateral-to-farm-threefold-tokens">Do I need collateral to farm Threefold tokens?</a></li>
-<li><a href="#faq?id=can-i-add-external-drives-to-the-3nodes-to-increase-rewards-and-resources-available-to-the-threefold-grid">Can I add external drives to the 3nodes to increase rewards and resources available to the Threefold Grid?</a></li>
-<li><a href="#faq?id=do-i-have-access-to-the-tft-rewards-i-receive-each-month-when-farming">Do I have access to the TFT rewards I receive each month when farming?</a></li>
-<li><a href="#faq?id=what-is-tfta-is-it-still-used">What is TFTA? Is it still used?</a></li>
-<li><a href="#faq?id=is-there-a-way-to-certify-a-diy-3node-how-can-i-become-a-3node-certified-vendor-and-builder">Is there a way to certify a DIY 3node? How can I become a 3node certified vendor and builder?</a></li>
-<li><a href="#faq?id=does-it-make-sense-to-make-my-farm-a-company">Does it make sense to make my farm a company?</a></li>
-<li><a href="#faq?id=what-is-the-difference-between-uptime-and-downtime-and-between-online-and-offline-when-it-comes-to-3nodes">What is the difference between uptime and downtime, and between online and offline, when it comes to 3nodes?</a></li>
-<li><a href="#faq?id=my-3node-server-grid-utilization-is-low-is-it-normal">My 3node server grid utilization is low, is it normal?</a></li>
+<li><a href="#manual__faq?id=what-are-the-general-requirements">What are the general requirements?</a></li>
+<li><a href="#manual__faq?id=what-are-the-hardware-requirements-to-run-a-validator-node">What are the hardware requirements to run a validator node?</a></li>
+<li><a href="#manual__faq?id=can-i-run-more-than-one-validator-node">Can I run more than one validator node?</a></li>
+<li><a href="#manual__faq?id=does-this-mean-you-only-really-need-50-000-tft-to-run-a-validator-node">Does this mean you only really need 50 000 TFT to run a validator node?</a></li>
+<li><a href="#manual__faq?id=if-validator-is-running-on-grid-and-the-host-shutdowns-the-machine-could-stakers-lose-staking-tokens">If validator is running on Grid and the host shutdowns the machine, could stakers lose staking tokens?</a></li>
+<li><a href="#manual__faq?id=what-happens-if-my-validator-is-down-for-a-while">What happens if my validator is down for a while?</a></li>
+<li><a href="#manual__faq?id=could-we-run-validator-on-our-farming-machine">Could we run validator on our farming machine?</a></li>
 </ul>
 </li>
-<li><a href="#faq?id=3node-farming-requirements">3node Farming Requirements</a>
+<li><a href="#manual__faq?id=application-to-run-a-validator-node">Application to run a Validator Node</a>
 <ul>
-<li><a href="#faq?id=what-are-the-general-requirements-for-a-diy-3node-server">What are the general requirements for a DIY 3node server?</a></li>
-<li><a href="#faq?id=what-kind-of-computer-do-i-need-to-make-a-3node-server">What kind of computer do I need to make a 3node server?</a></li>
-<li><a href="#faq?id=i-found-a-decent-computer-or-server-to-buy-online-but-it-doesnt-come-with-a-cpu-how-can-i-know-what-cpu-models-would-work-with-a-specific-computer-or-server">I found a decent computer (or server) to buy online, but it doesn't come with a CPU. How can I know what CPU models would work with a specific computer or server?</a></li>
-<li><a href="#faq?id=can-i-host-more-than-one-3node-server-at-my-house">Can I host more than one 3node server at my house?</a></li>
-<li><a href="#faq?id=is-wifi-supported-can-i-farm-via-wifi-instead-of-an-ethernet-cable">Is Wifi supported? Can I farm via Wifi instead of an Ethernet cable?</a></li>
-<li><a href="#faq?id=is-there-any-way-to-run-zero-os-without-dhcp">Is there any way to run Zero-OS without DHCP?</a></li>
-<li><a href="#faq?id=i-have-2-routers-with-each-a-different-internet-service-provider-i-disconnected-the-ethernet-cable-from-one-router-and-connected-it-to-the-other-router-do-i-need-to-reboot-the-3node">I have 2 routers with each a different Internet service provider. I disconnected the ethernet cable from one router and connected it to the other router. Do I need to reboot the 3node?</a></li>
-<li><a href="#faq?id=do-i-need-any-specific-port-configuration-when-booting-a-3node">Do I need any specific port configuration when booting a 3node?</a></li>
-<li><a href="#faq?id=how-much-electricity-does-a-3node-use">How much electricity does a 3node use?</a></li>
-<li><a href="#faq?id=has-anyone-run-stress-tests-to-know-the-power-consumption-at-heavy-load-of-certain-3nodes">Has anyone run stress tests to know the power consumption at heavy load of certain 3nodes?</a></li>
-<li><a href="#faq?id=how-much-ac-power-do-you-need-in-btu-to-compensate-for-the-heat-generated-by-the-3node-servers-how-can-i-ensure-proper-relative-humidity-range-for-my-3node-server-farm">How much AC power do you need (in BTU) to compensate for the heat generated by the 3node servers? How can I ensure proper relative humidity range for my 3node server farm?</a></li>
-<li><a href="#faq?id=how-can-i-ensure-the-relative-humidity-in-my-server-room-stays-within-a-proper-range">How can I ensure the relative humidity in my server room stays within a proper range?</a></li>
-<li><a href="#faq?id=how-can-i-ensure-the-air-changes-per-hour-is-optimal-in-the-3node-servers-room">How can I ensure the air changes per hour is optimal in the 3node servers' room?</a></li>
-<li><a href="#faq?id=what-are-the-maximum-and-minimum-temperatures-or-humidity-levels-a-3node-server-can-handle">What are the maximum and minimum temperatures or humidity levels a 3node server can handle?</a></li>
-<li><a href="#faq?id=can-the-titan-3node-be-run-on-poe-power-over-ethernet">Can the Titan 3node be run on PoE? (Power Over Ethernet)</a></li>
-<li><a href="#faq?id=what-is-the-relationship-between-the-3nodes-resources-and-bandwidth">What is the relationship between the 3node's resources and bandwidth?</a></li>
-<li><a href="#faq?id=what-is-the-bandwidth-needed-when-it-comes-to-running-3nodes-on-the-grid">What is the bandwidth needed when it comes to running 3nodes on the Grid?</a></li>
-<li><a href="#faq?id=can-i-run-zero-os-on-a-virtual-machine">Can I run Zero-OS on a virtual machine?</a></li>
-<li><a href="#faq?id=is-it-possible-to-build-a-diy-3node-with-vmware-vm-">Is it possible to build a DIY 3Node with VMWare VM ?</a></li>
-<li><a href="#faq?id=can-i-run-a-3node-on-another-operating-system-like-windows-mac-or-linux">Can I run a 3node on another operating system, like Windows, MAC or Linux?</a></li>
-<li><a href="#faq?id=what-is-the-minimum-ssd-requirement-for-a-3node-server-to-farm-threefold-tokens-tft">What is the minimum SSD requirement for a 3node server to farm Threefold tokens (TFT)?</a></li>
-<li><a href="#faq?id=is-it-possible-to-have-a-3node-server-running-on-only-hdd-disks">Is it possible to have a 3node server running on only HDD disks?</a></li>
+<li><a href="#manual__faq?id=when-will-verification-of-the-validators-applications-start">When will verification of the validators' applications start?</a></li>
+<li><a href="#manual__faq?id=what-are-the-next-steps-after-the-validator-sign-up">What are the next steps after the validator sign-up?</a></li>
 </ul>
 </li>
-<li><a href="#faq?id=building-a-3node---steps-and-details">Building a 3node - Steps and Details</a>
-<ul>
-<li><a href="#faq?id=what-are-the-main-steps-to-build-a-diy-3node-from-start-to-finish">What are the main steps to build a DIY 3node, from start to finish?</a></li>
-<li><a href="#faq?id=i-wonder-what-type-of-desktop-computer-or-server-to-use-for-my-3node-are-there-any-recommendation-when-it-comes-to-diy-3node-hardware">I wonder what type of desktop computer or server to use for my 3node. Are there any recommendation when it comes to DIY 3node hardware?</a></li>
-<li><a href="#faq?id=what-can-you-do-to-zero-out-your-disks-how-can-i-wipe-the-disks-of-my-3node-server-with-linux">What can you do to zero out your disks? How can I wipe the disks of my 3node server with Linux?</a></li>
-<li><a href="#faq?id=how-can-i-wipe-a-disk-with-windows">How can I wipe a disk with Windows?</a></li>
-<li><a href="#faq?id=do-i-need-to-wipe-all-the-disks-on-my-3node-server-can-i-have-one-disk-with-a-different-operating-systesm-os">Do I need to wipe all the disks on my 3node server? Can I have one disk with a different operating systesm (OS)?</a></li>
-<li><a href="#faq?id=how-can-i-be-sure-that-i-properly-wiped-my-disks">How can I be sure that I properly wiped my disks?</a></li>
-<li><a href="#faq?id=my-disks-have-issues-with-zero-os-and-my-3nodes-how-can-i-do-a-factory-reset-of-the-disks">My disks have issues with Zero-OS and my 3nodes. How can I do a factory reset of the disks?</a></li>
-<li><a href="#faq?id=before-doing-a-bootstrap-image-i-need-to-format-my-usb-key-how-can-i-format-my-usb-key">Before doing a bootstrap image, I need to format my USB key. How can I format my USB key?</a></li>
-<li><a href="#faq?id=what-do-you-use-to-burn-or-to-load-the-zero-os-bootstrap-image-onto-a-usb-stick">What do you use to burn (or to load) the Zero-OS bootstrap image onto a USB stick?</a></li>
-<li><a href="#faq?id=should-i-do-a-uefi-image-or-a-bios-image-to-bootstrap-zero-os">Should I do a UEFI image or a BIOS image to bootstrap Zero-OS?</a></li>
-<li><a href="#faq?id=how-do-i-set-the-bios-or-uefi-of-my-3node">How do I set the BIOS or UEFI of my 3node?</a></li>
-<li><a href="#faq?id=for-my-3node-server-do-i-need-to-enable-virtualization-in-bios-or-uefi">For my 3node server, do I need to enable virtualization in BIOS or UEFI?</a></li>
-<li><a href="#faq?id=how-can-i-boot-a-3node-server-with-a-zero-os-bootstrap-image">How can I boot a 3node server with a Zero-OS bootstrap image?</a></li>
-<li><a href="#faq?id=the-first-time-i-booted-my-3node-server-it-says-that-the-node-is-not-registered-yet-what-can-i-do">The first time I booted my 3node server, it says that the node is not registered yet. What can I do?</a></li>
-<li><a href="#faq?id=the-first-time-i-boot-my-3node-the-node-gets-registered-but-it-says-cache-disk--no-ssd-what-can-i-do">The first time I boot my 3node, the node gets registered but it says cache disk : no ssd. What can I do?</a></li>
-<li><a href="#faq?id=the-first-time-i-boot-my-3-node-the-node-gets-registered-and-it-says-cache-disk--ok-but-the-table-system-used-capacity-is-empty-what-can-i-do">The first time I boot my 3 node, the node gets registered and it says cache disk : OK, but the table System Used Capacity is empty. What can I do?</a></li>
-<li><a href="#faq?id=i-have-a-relatively-old-server-eg-dell-r710-or-r620-z840-i-have-trouble-booting-zero-os-what-could-i-do">I have a relatively old server (e.g. Dell R710 or R620, Z840). I have trouble booting Zero-OS. What could I do?</a></li>
-<li><a href="#faq?id=i-connected-a-sata-ssd-to-a-cd-dvd-optical-drive-adaptor-my-system-does-not-recognize-the-disk-what-can-i-do">I connected a SATA SSD to a CD-DVD optical drive adaptor. My system does not recognize the disk. What can I do?</a></li>
-<li><a href="#faq?id=can-someone-explain-what-should-i-put-in-the-public-ip-part-of-my-farm-should-i-just-insert-my-public-ip-and-gateway-given-by-my-isp">Can someone explain what should I put in the Public IP part of my farm? Should I just insert my Public IP and Gateway (given by my ISP)?</a></li>
 </ul>
 </li>
-<li><a href="#faq?id=farming-optimization">Farming Optimization</a>
+<li><a href="#manual__faq?id=farmers-faq">FARMERS FAQ</a>
 <ul>
-<li><a href="#faq?id=what-is-the-difference-between-a-threefold-3node-and-a-threefold-farm-what-is-the-difference-between-the-farm-id-and-the-node-id">What is the difference between a Threefold 3node and a Threefold farm? What is the difference between the farm ID and the node ID?</a></li>
-<li><a href="#faq?id=how-can-i-know-how-many-gb-of-ssd-and-ram-do-i-need">How can I know how many GB of SSD and RAM do I need?</a></li>
-<li><a href="#faq?id=what-is-the-optimal-ratio-of-virtual-cores-vcores-or-threads-ssd-storage-and-ram-memory-what-is-the-best-optimization-scenario-for-a-3node-in-terms-of-threefold-tokens-tft-farming-rewards">What is the optimal ratio of virtual cores (vcores or threads), SSD storage and RAM memory? What is the best optimization scenario for a 3node, in terms of Threefold tokens (TFT) farming rewards?</a></li>
-<li><a href="#faq?id=what-does-tbw-mean-what-is-a-good-tbw-level-for-a-ssd-disk">What does TBW mean? What is a good TBW level for a SSD disk?</a></li>
-<li><a href="#faq?id=do-i-need-a-surge-protector">Do I need a surge protector?</a></li>
-<li><a href="#faq?id=do-i-need-a-power-distribution-unit-pdu">Do I need a power distribution unit (PDU)?</a></li>
-<li><a href="#faq?id=do-i-need-an-uninterrupted-power-supply-ups">Do I need an uninterrupted power supply (UPS)?</a></li>
-<li><a href="#faq?id=are-sata-and-sas-drives-interchangeable">Are SATA and SAS drives interchangeable?</a></li>
-<li><a href="#faq?id=what-is-the-speed-difference-between-sas-and-sata-disks">What is the speed difference between SAS and SATA disks?</a></li>
-<li><a href="#faq?id=is-it-possible-to-do-a-graceful-shutdown-to-a-3node-server-how-can-you-shutdown-or-power-off-a-3node-server">Is it possible to do a graceful shutdown to a 3node server? How can you shutdown or power off a 3node server?</a></li>
-<li><a href="#faq?id=is-it-possible-to-have-direct-access-to-zero-oss-core-to-force-a-reboot">Is it possible to have direct access to Zero-OS's core to force a reboot?</a></li>
-<li><a href="#faq?id=do-i-need-some-port-forwarding-in-my-router-for-each-3node-server">Do I need some port forwarding in my router for each 3node server?</a></li>
-<li><a href="#faq?id=are-3node-servers-noisy-are-there-certain-servers-that-are-less-noisy-than-others">Are 3node servers noisy? Are there certain servers that are less noisy than others?</a></li>
-<li><a href="#faq?id=are-there-ways-to-reduce-3node-serves-noises">Are there ways to reduce 3node serves' noises?</a></li>
-<li><a href="#faq?id=what-is-the-difference-between-the-two-cpus-i7-6700-and-i7-6700t">What is the difference between the two CPUs: i7-6700 and i7-6700T?</a></li>
-<li><a href="#faq?id=i-built-a-3node-out-of-old-hardware-is-it-possible-that-my-bios-or-uefi-has-improper-time-and-date-set-as-factory-default">I built a 3node out of old hardware. Is it possible that my BIOS or UEFI has improper time and date set as factory default?</a></li>
-<li><a href="#faq?id=i-have-rack-servers-in-my-threefold-farm-can-i-set-rack-servers-vertically">I have rack servers in my Threefold farm. Can I set rack servers vertically?</a></li>
+<li><a href="#manual__faq?id=tft-farming-basics">TFT Farming Basics</a>
+<ul>
+<li><a href="#manual__faq?id=how-can-i-create-a-threefold-farm">How can I create a Threefold farm?</a></li>
+<li><a href="#manual__faq?id=my-titan-is-v21-and-the-threefold-grid-is-v3-what-is-the-distinction">My Titan is v2.1 and the Threefold Grid is v3., what is the distinction?</a></li>
+<li><a href="#manual__faq?id=is-there-a-way-to-know-the-current-tft-price-for-the-farming-rewards">Is there a way to know the current TFT price for the farming rewards?</a></li>
+<li><a href="#manual__faq?id=when-will-i-receive-the-farming-rewards-for-my-3nodes">When will I receive the farming rewards for my 3nodes?</a></li>
+<li><a href="#manual__faq?id=what-should-i-do-if-i-did-not-receive-my-farming-rewards-this-month">What should I do if I did not receive my farming rewards this month?</a></li>
+<li><a href="#manual__faq?id=is-there-a-threefold-simulator-to-calculate-farming-rewards">Is there a Threefold simulator to calculate farming rewards?</a></li>
+<li><a href="#manual__faq?id=what-is-the-tft-entry-price-of-my-3node-farming-rewards">What is the TFT entry price of my 3node farming rewards?</a></li>
+<li><a href="#manual__faq?id=what-is-the-necessary-uptime-for-a-3node-per-period-of-one-month">What is the necessary uptime for a 3node per period of one month?</a></li>
+<li><a href="#manual__faq?id=how-can-i-check-the-uptime-of-my-3nodes-is-there-a-tool-to-check-the-uptime-of-3node-servers-on-the-threefold-grid">How can I check the uptime of my 3nodes? Is there a tool to check the uptime of 3node servers on the Threefold Grid?</a></li>
+<li><a href="#manual__faq?id=i-set-up-a-3node-in-the-middle-of-the-month-does-it-affect-uptime-requirements-and-rewards">I set up a 3node in the middle of the month, does it affect uptime requirements and rewards?</a></li>
+<li><a href="#manual__faq?id=what-is-the-difference-between-a-certified-and-a-non-certified-3node">What is the difference between a certified and a non-certified 3node?</a></li>
+<li><a href="#manual__faq?id=what-are-the-different-certifications-available-for-3node-servers-and-farms-what-are-the-gold-and-silver-certifications">What are the different certifications available for 3node servers and farms? What are the Gold and Silver certifications?</a></li>
+<li><a href="#manual__faq?id=what-is-the-difference-between-v2-and-v3-minting">What is the difference between V2 and V3 minting?</a></li>
+<li><a href="#manual__faq?id=how-long-is-the-minting-period-of-the-tokens-on-threefold-how-long-is-the-farming-period">How long is the minting period of the tokens on Threefold? How long is the farming period?</a></li>
+<li><a href="#manual__faq?id=what-is-the-start-and-end-of-the-current-minting-period-what-are-the-minting-periods-for-threefold-farming-in-2023">What is the start and end of the current minting period? What are the minting periods for Threefold Farming in 2023?</a></li>
+<li><a href="#manual__faq?id=can-titans-and-diy-3nodes-share-the-same-farm">Can Titans and DIY 3nodes share the same farm?</a></li>
+<li><a href="#manual__faq?id=do-i-need-one-farm-for-each-3node">Do I need one farm for each 3node?</a></li>
+<li><a href="#manual__faq?id=can-a-single-farm-be-composed-of-many-3nodes">Can a single farm be composed of many 3nodes?</a></li>
+<li><a href="#manual__faq?id=can-a-single-3node-be-on-more-than-one-farm">Can a single 3node be on more than one farm?</a></li>
+<li><a href="#manual__faq?id=do-i-need-one-reward-address-per-3node">Do I need one reward address per 3node?</a></li>
+<li><a href="#manual__faq?id=when-it-comes-to-the-zero-os-bootstrap-image-can-i-simply-duplicate-the-first-image-i-burnt-when-i-build-another-3node">When it comes to the Zero-OS bootstrap image, can I simply duplicate the first image I burnt when I build another 3node?</a></li>
+<li><a href="#manual__faq?id=if-a-node-is-unused-for-certain-time-eg-many-months-offline-will-it-be-erased-by-the-grid">If a node is unused for certain time (e.g. many months offline), will it be erased by the Grid?</a></li>
+<li><a href="#manual__faq?id=can-a-farm-be-erased-from-tf-grid">Can a farm be erased from TF Grid?</a></li>
+<li><a href="#manual__faq?id=on-the-threefold-connect-app-it-says-i-need-to-migrate-my-titan-farm-from-v2-to-v3-what-do-i-have-to-do-how-long-does-this-take">On the Threefold Connect App, it says I need to migrate my Titan farm from V2 to V3. What do I have to do? How long does this take?</a></li>
+<li><a href="#manual__faq?id=how-can-i-migrate-my-diy-farm-from-v2-to-v3">How can I migrate my DIY farm from V2 to V3?</a></li>
 </ul>
 </li>
-<li><a href="#faq?id=farming-and-maintenance">Farming and Maintenance</a>
+<li><a href="#manual__faq?id=farming-rewards-and-related-notions">Farming Rewards and Related Notions</a>
 <ul>
-<li><a href="#faq?id=do-i-need-the-zero-os-bootstrap-image-drive-usb-or-cd-dvd-when-i-reboot-or-can-i-boot-zero-os-from-the-3node-main-hard-drive">Do I need the Zero-OS bootstrap image drive (USB or CD-DVD) when I reboot, or can I boot Zero-OS from the 3node main hard drive?</a></li>
-<li><a href="#faq?id=when-i-set-my-farm-on-the-threefold-dashboard-with-polkadotjs-it-asks-for-a-stellar-payout-address-what-should-i-write">When I set my farm on the Threefold Dashboard with polkadot.js, it asks for a Stellar payout address. What should I write?</a></li>
-<li><a href="#faq?id=its-written-that-my-node-is-using-100-of-hru-what-does-it-mean">It's written that my node is using 100% of HRU. What does it mean?</a></li>
-<li><a href="#faq?id=on-the-threefold-explorer-i-only-see-half-of-the-virtual-cores-or-threads-my-3node-has-what-can-i-do">On the Threefold Explorer, I only see half of the virtual cores or threads my 3node has, what can I do?</a></li>
-<li><a href="#faq?id=what-is-the-current-status-on-the-wake-on-lan-wol-feature">What is the current status on the Wake-on-LAN (WOL) feature?</a></li>
-<li><a href="#faq?id=why-are-the-3nodes-resources-different-on-the-threefold-explorer-and-the-threefold-dashboard">Why are the 3nodes' resources different on the Threefold Explorer and the Threefold Dashboard?</a></li>
-<li><a href="#faq?id=what-do-cru-mru-hru-and-sru-mean-on-the-threefold-explorer">What do CRU, MRU, HRU and SRU mean on the Threefold Explorer?</a></li>
-<li><a href="#faq?id=i-have-more-than-one-threefold-3node-farm-but-i-want-all-my-3nodes-on-only-one-farm-how-can-i-put-all-my-3nodes-on-one-farm-how-can-i-change-the-farm-id-of-my-3node">I have more than one Threefold 3node farm, but I want all my 3nodes on only one farm. How can I put all my 3nodes on one farm? How can I change the farm ID of my 3node?</a></li>
-<li><a href="#faq?id=how-can-i-know-if-my-3node-is-online-on-the-grid-is-there-an-explorer-for-grid-v3">How can I know if my 3node is online on the Grid? Is there an Explorer for Grid V3?</a></li>
-<li><a href="#faq?id=i-booted-my-3node-and-the-monitor-says-its-online-and-connected-to-the-grid-but-the-threefold-explorer-says-it-is-offline-what-can-i-do">I booted my 3node and the monitor says it's online and connected to the Grid. But the Threefold Explorer says it is offline? What can I do?</a></li>
-<li><a href="#faq?id=my-3node-does-show-on-the-threefold-explorer-but-not-on-the-threefold-dashboard-what-can-i-do">My 3node does show on the Threefold Explorer, but not on the Threefold Dashboard, what can I do?</a></li>
-<li><a href="#faq?id=i-set-up-my-farm-on-threefold-connect-app-can-i-use-the-polkadot-extension-dashboard-instead">I set up my farm on Threefold Connect App. Can I use the Polkadot extension Dashboard instead?</a></li>
-<li><a href="#faq?id=is-it-equivalent-to-create-a-farm-on-threefold-connect-app-or-via-the-polkadot-extension">Is it equivalent to create a farm on Threefold Connect App or via the Polkadot extension?</a></li>
-<li><a href="#faq?id=if-i-upgrade-my-3node-will-it-increase-my-rewards">If I upgrade my 3node, will it increase my rewards?</a></li>
-<li><a href="#faq?id=i-booted-my-3node-for-the-first-time-at-the-beginning-of-the-month-then-i-did-some-upgrade-or-downgrade-will-the-threefold-grid-recognize-the-new-hardware-will-it-still-be-the-same-3node-id">I booted my 3node for the first time at the beginning of the month, then I did some upgrade or downgrade, will the Threefold Grid recognize the new hardware? Will it still be the same 3node ID?</a></li>
-<li><a href="#faq?id=is-it-possible-to-ask-the-3node-to-refetch-the-node-information-on-the-monitor">Is it possible to ask the 3node to refetch the node information on the monitor?</a></li>
-<li><a href="#faq?id=when-does-zero-os-detect-the-capacity-of-a-3node">When does Zero-OS detect the capacity of a 3node?</a></li>
-<li><a href="#faq?id=where-is-the-3node-id-stored">Where is the 3node ID stored?</a></li>
-<li><a href="#faq?id=is-there-a-way-to-backup-my-node-id-in-order-to-restore-a-3node-if-the-disk-with-the-node-id-gets-corrupted-or-breaks-down">Is there a way to backup my node ID in order to restore a 3node if the disk with the node ID gets corrupted or breaks down?</a></li>
-<li><a href="#faq?id=if-i-upgrade-my-3node-does-it-change-the-node-id">If I upgrade my 3node, does it change the node ID?</a></li>
-<li><a href="#faq?id=does-it-make-sense-to-recreate-my-node-when-the-price-drops">Does it make sense to recreate my node when the price drops?</a></li>
-<li><a href="#faq?id=my-3node-lost-power-momentarily-and-i-had-to-power-it-back-on-manually-is-there-a-better-way-to-proceed">My 3node lost power momentarily and I had to power it back on manually. Is there a better way to proceed?</a></li>
-<li><a href="#faq?id=do-i-need-to-change-the-battery-bios">Do I need to change the battery BIOS?</a></li>
-<li><a href="#faq?id=do-i-need-to-enable-uefi-network-stack">Do I need to enable UEFI Network Stack?</a></li>
-<li><a href="#faq?id=i-want-redundancy-of-power-for-my-3-nodes-i-have-two-psu-on-my-dell-server-what-can-i-do">I want redundancy of power for my 3 nodes. I have two PSU on my Dell server. What can I do?</a></li>
-<li><a href="#faq?id=why-isnt-there-support-for-raid-does-zero-os-work-with-raid">Why isn't there support for RAID? Does Zero-OS work with RAID?</a></li>
-<li><a href="#faq?id=is-there-a-way-to-bypass-raid-in-order-for-zero-os-to-have-bare-metals-on-the-system-no-raid-controller-in-between-storage-and-the-grid">Is there a way to bypass RAID in order for Zero-OS to have bare metals on the system? (No RAID controller in between storage and the Grid.)</a></li>
-<li><a href="#faq?id=i-have-a-3node-rack-server-is-it-possible-to-use-a-m2-to-sata-adapter-in-order-to-put-the-m2-sata-disk-in-the-hdd-bay-onboard-storage">I have a 3node rack server. Is it possible to use a M.2 to SATA adapter in order to put the M.2 SATA disk in the HDD bay (onboard storage)?</a></li>
-<li><a href="#faq?id=my-3node-uses-only-pcie-adapters-and-ssd-nvme-disks-do-i-need-the-raid-controller-on">My 3node uses only PCIe adapters and SSD NVME disks. Do I need the RAID controller on?</a></li>
-<li><a href="#faq?id=can-i-change-the-name-of-my-farm-on-polkadotjs">Can I change the name of my farm on polkadot.js?</a></li>
-<li><a href="#faq?id=how-can-i-delete-a-farm-on-polkadotjs">How can I delete a farm on polkadot.js?</a></li>
-<li><a href="#faq?id=i-try-to-delete-a-node-on-the-tf-dashboard-but-it-doesnt-work-is-there-any-other-way-to-proceed-that-could-work">I try to delete a node on the TF Dashboard, but it doesn’t work. Is there any other way to proceed that could work?</a></li>
-<li><a href="#faq?id=my-3node-has-2-ethernet-ports-in-the-back-with-one-written-amt-above-what-does-it-mean-can-i-use-this-port-to-connect-my-3node-to-the-threefold-grid">My 3node has 2 ethernet ports in the back, with one written AMT above, what does it mean? Can I use this port to connect my 3node to the Threefold Grid?</a></li>
-<li><a href="#faq?id=my-3node-is-based-on-a-the-hardware-z600-z620-or-z820-can-i-run-it-headless-or-without-a-gpu">My 3node is based on a the hardware Z600, Z620 or Z820, can I run it headless or without a GPU?</a></li>
-<li><a href="#faq?id=my-3node-is-based-on-a-z800-the-psu-is-not-working-anymore-is-there-an-alternative-to-buying-another-expensive-psu">My 3node is based on a Z800. The PSU is not working anymore. Is there an alternative to buying another expensive PSU?</a></li>
-<li><a href="#faq?id=is-it-possible-to-add-high-level-gpu-on-rack-servers-to-farm-more-tft">Is it possible to add high-level GPU on rack servers to farm more TFT?</a></li>
+<li><a href="#manual__faq?id=what-are-the-rewards-of-farming-can-i-get-more-rewards-when-my-3node-is-being-utilized">What are the rewards of farming? Can I get more rewards when my 3node is being utilized?</a></li>
+<li><a href="#manual__faq?id=how-can-i-know-the-potential-farming-rewards-for-grid-utilization">How can I know the potential farming rewards for Grid Utilization?</a></li>
+<li><a href="#manual__faq?id=what-is-the-easiest-way-to-farm-threefold-tokens-tft">What is the easiest way to farm Threefold tokens (TFT)?</a></li>
+<li><a href="#manual__faq?id=when-do-i-receive-my-rewards">When do I receive my rewards?</a></li>
+<li><a href="#manual__faq?id=on-threefold-grid-v3-how-can-i-verify-my-3nodes-payments-on-stellar-blockchain">On Threefold Grid v3, how can I verify my 3nodes' payments on Stellar Blockchain?</a></li>
+<li><a href="#manual__faq?id=do-farming-rewards-take-into-account-the-type-of-ram-ssd-hdd-and-cpu-of-the-3node-server">Do farming rewards take into account the type of RAM, SSD, HDD and CPU of the 3node server?</a></li>
+<li><a href="#manual__faq?id=what-is-the-farming-reward-calculation">What is the farming reward calculation?</a></li>
+<li><a href="#manual__faq?id=can-i-send-my-farming-rewards-directly-to-a-crypto-exchange">Can I send my farming rewards directly to a crypto exchange?</a></li>
+<li><a href="#manual__faq?id=i-received-my-farming-rewards-now-i-want-to-sell-my-threefold-tokens-tft-how-can-i-do-this">I received my farming rewards, now I want to sell my Threefold tokens (TFT). How can I do this?</a></li>
+<li><a href="#manual__faq?id=how-can-i-swap-threefold-tokens-tft-on-stellar-blochain">How can I swap Threefold tokens (TFT) on Stellar blochain?</a></li>
+<li><a href="#manual__faq?id=which-wallets-are-recommended-for-threefold-token-tft-farming-rewards">Which wallets are recommended for Threefold token (TFT) farming rewards?</a></li>
+<li><a href="#manual__faq?id=can-i-have-more-details-on-storing-threefold-tokens-tft-on-hardware-wallets">Can I have more details on storing Threefold tokens (TFT) on hardware wallets?</a></li>
+<li><a href="#manual__faq?id=do-i-need-collateral-to-farm-threefold-tokens">Do I need collateral to farm Threefold tokens?</a></li>
+<li><a href="#manual__faq?id=can-i-add-external-drives-to-the-3nodes-to-increase-rewards-and-resources-available-to-the-threefold-grid">Can I add external drives to the 3nodes to increase rewards and resources available to the Threefold Grid?</a></li>
+<li><a href="#manual__faq?id=do-i-have-access-to-the-tft-rewards-i-receive-each-month-when-farming">Do I have access to the TFT rewards I receive each month when farming?</a></li>
+<li><a href="#manual__faq?id=what-is-tfta-is-it-still-used">What is TFTA? Is it still used?</a></li>
+<li><a href="#manual__faq?id=is-there-a-way-to-certify-a-diy-3node-how-can-i-become-a-3node-certified-vendor-and-builder">Is there a way to certify a DIY 3node? How can I become a 3node certified vendor and builder?</a></li>
+<li><a href="#manual__faq?id=does-it-make-sense-to-make-my-farm-a-company">Does it make sense to make my farm a company?</a></li>
+<li><a href="#manual__faq?id=what-is-the-difference-between-uptime-and-downtime-and-between-online-and-offline-when-it-comes-to-3nodes">What is the difference between uptime and downtime, and between online and offline, when it comes to 3nodes?</a></li>
+<li><a href="#manual__faq?id=my-3node-server-grid-utilization-is-low-is-it-normal">My 3node server grid utilization is low, is it normal?</a></li>
 </ul>
 </li>
-<li><a href="#faq?id=troubleshooting-and-error-messages">Troubleshooting and Error Messages</a>
+<li><a href="#manual__faq?id=3node-farming-requirements">3node Farming Requirements</a>
 <ul>
-<li><a href="#faq?id=is-it-possible-to-access-the-error-screen-or-log-screen">Is it possible to access the Error Screen or Log Screen?</a></li>
-<li><a href="#faq?id=i-plugged-an-hdmi-cable-from-my-monitor-into-the-node-and-the-monitor-is-displaying-nothing-what-can-i-do">I plugged an HDMI cable from my monitor into the node and the monitor is displaying nothing. What can I do?</a></li>
-<li><a href="#faq?id=what-does-it-mean-when-i-see-during-the-3node-boot-the-message-error--context-deadline-exceeded">What does it mean when I see, during the 3node boot, the message: error = context deadline exceeded?</a></li>
-<li><a href="#faq?id=i-try-to-boot-a-3node-but-i-get-the-error-no-route-to-host-on-linux-what-does-it-mean">I try to boot a 3node, but I get the error No Route to Host on Linux. What does it mean?</a></li>
-<li><a href="#faq?id=i-try-to-boot-a-3node-but-i-get-the-message-no-route-with-default-gateway-found-what-does-it-mean">I try to boot a 3node, but I get the message no route with default gateway found. What does it mean?</a></li>
-<li><a href="#faq?id=i-have-trouble-connecting-the-3node-to-the-grid-with-a-10gb-nic-card-what-can-i-do">I have trouble connecting the 3node to the Grid with a 10GB NIC card. What can I do?</a></li>
-<li><a href="#faq?id=i-switch-the-ethernet-cable-to-a-different-port-when-my-3node-was-running-internet-connection-is-lost-what-can-i-do">I switch the ethernet cable to a different port when my 3node was running. Internet connection is lost. What can I do?</a></li>
-<li><a href="#faq?id=i--get-the-error-certificate-is-not-yet-valid-when-booting-my-3node-server-what-can-i-do">I  get the error Certificate is not yet valid when booting my 3node server, what can I do?</a></li>
-<li><a href="#faq?id=i-tried-to-wipe-my-disk-but-i-get-the-error-probing-initialized-failed-what-can-i-do">I tried to wipe my disk, but I get the error Probing Initialized Failed. What can I do?</a></li>
-<li><a href="#faq?id=i-did-a-format-on-my-ssd-disk-but-zero-os-still-does-not-recognize-them-whats-wrong">I did a format on my SSD disk, but Zero-OS still does not recognize them. What's wrong?</a></li>
-<li><a href="#faq?id=i-have-a-dell-rx10-server-r610-710-910-when-i-boot-zero-os-i-get-the-message-probing-edd-and-the-3node-doesnt-boot-from-there-what-can-i-do">I have a Dell Rx10 server (R610, 710, 910). When I boot Zero-OS I get the message Probing EDD and the 3node doesn't boot from there. What can I do?</a></li>
-<li><a href="#faq?id=my-3node-doesnt-boot-properly-without-a-monitor-plugged-in-what-can-i-do">My 3node doesn't boot properly without a monitor plugged in. What can I do?</a></li>
-<li><a href="#faq?id=my-3node-is-running-on-the-grid-but-when-i-plugged-in-the-monitor-it-states-disabling-ir-16-is-there-a-problem">My 3node is running on the Grid, but when I plugged in the monitor, it states: Disabling IR #faq?id=16. Is there a problem?</a></li>
-<li><a href="#faq?id=my-3node-wont-boot-without-disabling-the-secure-boot-option-is-it-safe">My 3node won't boot without disabling the Secure Boot option, is it safe?</a></li>
-<li><a href="#faq?id=when-i-tried-to-boot-my-3node-at-some-point-the-screen-went-black-with-or-without-a-blinking-hyphen-or-dash-what-could-cause-this-and-what-could-i-do-to-resolve-the-issue">When I tried to boot my 3node, at some point the screen went black, with or without a blinking hyphen or dash. What could cause this and what could I do to resolve the issue?</a></li>
-<li><a href="#faq?id=my-3nodes-go-offline-after-a-modem-reboot-is-there-a-way-to-prevent-this">My 3nodes go offline after a modem reboot. Is there a way to prevent this?</a></li>
-<li><a href="#faq?id=when-i-boot-my-3node-it-reaches-the-welcome-to-zero-os-window-but-it-doesnt-boot-properly-and-theres-an-error-message-failed-to-load-object--type-substrate-what-can-i-do">When I boot my 3node, it reaches the Welcome to Zero-OS window, but it doesn't boot properly and there's an error message: failed to load object : type substrate..., what can I do?</a></li>
-<li><a href="#faq?id=when-i-try-to-access-idrac-on-a-web-browswer-even-with-protected-mode-off-i-get-the-error-the-webpage-cannot-be-found-what-can-i-do">When I try to access iDRAC on a web browswer, even with protected mode off, I get the error The webpage cannot be found, what can I do?</a></li>
-<li><a href="#faq?id=when-booting-the-3node-i-get-the-error-network-interface-detected-but-autoconfiguration-failed-what-can-i-do">When booting the 3node, I get the error Network interface detected but autoconfiguration failed. What can I do?</a></li>
-<li><a href="#faq?id=when-i-boot-my-dell-server-i-get-the-message-all-of-the-disks-from-your-previous-configuration-are-gone-press-any-key-to-continue-or-c-to-load-the-configuration-utility-what-can-i-do">When I boot my Dell server, I get the message: All of the disks from your previous configuration are gone... Press any key to continue or 'C' to load the configuration utility. What can I do?</a></li>
-<li><a href="#faq?id=i-have-a-dell-r620-in-zero-os-i-get-the-failure-message-no-network-card-found-and-then-the-3node-reebots-after-few-seconds-the-same-happens-for-every-lan-input-what-can-i-do">I have a Dell R620. In Zero-OS, I get the failure message No network card found and then the 3node reebots after few seconds. The same happens for every LAN input. What can I do?</a></li>
-<li><a href="#faq?id=i-am-using-freedos-to-crossflash-my-raid-controller-on-a-dell-server-but-i-cant-see-the-raid-controller-with-the-command-info-what-can-i-do">I am using freeDos to crossflash my raid controller on a Dell server, but I can't see the RAID controller with the Command Info. What can I do?</a></li>
-<li><a href="#faq?id=can-i-use-a-vga-to-hdmi-adaptor-to-connect-a-tv-screen-or-monitor-to-the-3node-i-tried-to-boot-a-3node-with-a-vga-to-hdmi-adaptor-but-the-boot-fails-what-can-i-do">Can I use a VGA to HDMI adaptor to connect a TV screen or monitor to the 3node? I tried to boot a 3node with a VGA to HDMI adaptor but the boot fails, what can I do?</a></li>
-<li><a href="#faq?id=when-i-try-to-boot-my-3node-the-fans-start-spinning-fast-with-a-loud-noise-and-the-screen-is-black-what-can-i-do-to-resolve-this">When I try to boot my 3node, the fans start spinning fast with a loud noise and the screen is black. What can I do to resolve this?</a></li>
-<li><a href="#faq?id=when-booting-zero-os-with-ipv6-configurations-i-get-the-errors-1-dial-tcp-address-ipv6-address-too-many-columns-in-address-and-2-no-pools-matches-key-not-routable-what-can-i-do-to-fix-this-issue">When booting Zero-OS with IPV6 configurations, I get the errors (1) dial tcp: address IPV6-address too many columns in address and (2) no pools matches key: not routable. What can I do to fix this issue?</a></li>
-<li><a href="#faq?id=when-booting-a-3node-zero-os-downloads-fine-but-then-i-get-the-message-error-no-route-with-default-gateway-found-and-the-message-info-check-if-interface-has-a-cable-plugged-in-what-could-fix-this">When booting a 3node, Zero-OS downloads fine, but then I get the message: error no route with default gateway found, and the message: info check if interface has a cable plugged in. What could fix this?</a></li>
-<li><a href="#faq?id=how-can-i-update-dell-and-hp-servers-to-intel-e5-2600v2-e5-2400v2-and-e5-4600v2-when-applicable">How can I update Dell and HP servers to Intel E5-2600v2, E5-2400v2 and E5-4600v2, when applicable?</a></li>
-<li><a href="#faq?id=how-can-i-update-a-dell-poweredger-server-with-a-bootable-iso">How can I update a Dell PowerEdger server with a bootable ISO?</a></li>
-<li><a href="#faq?id=when-i-boot-a-3node-in-uefi-mode-it-gets-stuck-at-initializing-network-device-is-there-a-way-to-fix-this">When I boot a 3node in UEFI mode, it gets stuck at: Initializing Network Device, is there a way to fix this?</a></li>
-<li><a href="#faq?id=when-i-boot-my-3node-it-gets-stuck-during-the-zero-os-download-it-never-reaches-100-what-can-i-do-to-fix-this-issue">When I boot my 3node, it gets stuck during the Zero-OS download. It never reaches 100%. What can I do to fix this issue?</a></li>
+<li><a href="#manual__faq?id=what-are-the-general-requirements-for-a-diy-3node-server">What are the general requirements for a DIY 3node server?</a></li>
+<li><a href="#manual__faq?id=what-kind-of-computer-do-i-need-to-make-a-3node-server">What kind of computer do I need to make a 3node server?</a></li>
+<li><a href="#manual__faq?id=i-found-a-decent-computer-or-server-to-buy-online-but-it-doesnt-come-with-a-cpu-how-can-i-know-what-cpu-models-would-work-with-a-specific-computer-or-server">I found a decent computer (or server) to buy online, but it doesn't come with a CPU. How can I know what CPU models would work with a specific computer or server?</a></li>
+<li><a href="#manual__faq?id=can-i-host-more-than-one-3node-server-at-my-house">Can I host more than one 3node server at my house?</a></li>
+<li><a href="#manual__faq?id=is-wifi-supported-can-i-farm-via-wifi-instead-of-an-ethernet-cable">Is Wifi supported? Can I farm via Wifi instead of an Ethernet cable?</a></li>
+<li><a href="#manual__faq?id=is-there-any-way-to-run-zero-os-without-dhcp">Is there any way to run Zero-OS without DHCP?</a></li>
+<li><a href="#manual__faq?id=i-have-2-routers-with-each-a-different-internet-service-provider-i-disconnected-the-ethernet-cable-from-one-router-and-connected-it-to-the-other-router-do-i-need-to-reboot-the-3node">I have 2 routers with each a different Internet service provider. I disconnected the ethernet cable from one router and connected it to the other router. Do I need to reboot the 3node?</a></li>
+<li><a href="#manual__faq?id=do-i-need-any-specific-port-configuration-when-booting-a-3node">Do I need any specific port configuration when booting a 3node?</a></li>
+<li><a href="#manual__faq?id=how-much-electricity-does-a-3node-use">How much electricity does a 3node use?</a></li>
+<li><a href="#manual__faq?id=has-anyone-run-stress-tests-to-know-the-power-consumption-at-heavy-load-of-certain-3nodes">Has anyone run stress tests to know the power consumption at heavy load of certain 3nodes?</a></li>
+<li><a href="#manual__faq?id=how-much-ac-power-do-you-need-in-btu-to-compensate-for-the-heat-generated-by-the-3node-servers-how-can-i-ensure-proper-relative-humidity-range-for-my-3node-server-farm">How much AC power do you need (in BTU) to compensate for the heat generated by the 3node servers? How can I ensure proper relative humidity range for my 3node server farm?</a></li>
+<li><a href="#manual__faq?id=how-can-i-ensure-the-relative-humidity-in-my-server-room-stays-within-a-proper-range">How can I ensure the relative humidity in my server room stays within a proper range?</a></li>
+<li><a href="#manual__faq?id=how-can-i-ensure-the-air-changes-per-hour-is-optimal-in-the-3node-servers-room">How can I ensure the air changes per hour is optimal in the 3node servers' room?</a></li>
+<li><a href="#manual__faq?id=what-are-the-maximum-and-minimum-temperatures-or-humidity-levels-a-3node-server-can-handle">What are the maximum and minimum temperatures or humidity levels a 3node server can handle?</a></li>
+<li><a href="#manual__faq?id=can-the-titan-3node-be-run-on-poe-power-over-ethernet">Can the Titan 3node be run on PoE? (Power Over Ethernet)</a></li>
+<li><a href="#manual__faq?id=what-is-the-relationship-between-the-3nodes-resources-and-bandwidth">What is the relationship between the 3node's resources and bandwidth?</a></li>
+<li><a href="#manual__faq?id=what-is-the-bandwidth-needed-when-it-comes-to-running-3nodes-on-the-grid">What is the bandwidth needed when it comes to running 3nodes on the Grid?</a></li>
+<li><a href="#manual__faq?id=can-i-run-zero-os-on-a-virtual-machine">Can I run Zero-OS on a virtual machine?</a></li>
+<li><a href="#manual__faq?id=is-it-possible-to-build-a-diy-3node-with-vmware-vm-">Is it possible to build a DIY 3Node with VMWare VM ?</a></li>
+<li><a href="#manual__faq?id=can-i-run-a-3node-on-another-operating-system-like-windows-mac-or-linux">Can I run a 3node on another operating system, like Windows, MAC or Linux?</a></li>
+<li><a href="#manual__faq?id=what-is-the-minimum-ssd-requirement-for-a-3node-server-to-farm-threefold-tokens-tft">What is the minimum SSD requirement for a 3node server to farm Threefold tokens (TFT)?</a></li>
+<li><a href="#manual__faq?id=is-it-possible-to-have-a-3node-server-running-on-only-hdd-disks">Is it possible to have a 3node server running on only HDD disks?</a></li>
 </ul>
 </li>
-<li><a href="#faq?id=threefold-grid-and-data">Threefold Grid and Data</a>
+<li><a href="#manual__faq?id=building-a-3node---steps-and-details">Building a 3node - Steps and Details</a>
 <ul>
-<li><a href="#faq?id=how-is-the-farming-minting-reward-calculated-is-the-grid-always-monitoring-my-3node">How is the farming minting reward calculated? Is the Grid always monitoring my 3node?</a></li>
-<li><a href="#faq?id=how-does-communication-happen-on-the-threefold-grid-at-the-3nodes-level">How does communication happen on the Threefold Grid at the 3node's level?</a></li>
-<li><a href="#faq?id=what-is-the-threefold-node-status-bot-telegram-link">What is the Threefold Node Status bot Telegram link?</a></li>
-<li><a href="#faq?id=how-does-the-threefold-node-status-bot-works-how-can-i-use-the-threefold-node-status-bot-to-verify-if-my-3node-is-online">How does the Threefold Node Status bot works? How can I use the Threefold Node Status bot to verify if my 3node is online?</a></li>
-<li><a href="#faq?id=how-does-the-telegram-status-bot-get-information-from-my-3node-my-3node-is-online-on-the-threefold-explorer-but-offline-on-the-telegram-status-bot-is-this-normal">How does the Telegram Status Bot get information from my 3node? My 3node is online on the Threefold Explorer, but offline on the Telegram Status Bot, is this normal?</a></li>
-<li><a href="#faq?id=i-noticed-that-when-i-reboot-my-3node-the-uptime-counter-on-the-threefold-explorer-goes-back-to-zero-does-it-mean-i-lose-uptime-and-the-uptime-start-over-again-when-i-reboot-the-3node">I noticed that when I reboot my 3node, the uptime counter on the Threefold Explorer goes back to zero. Does it mean I lose uptime and the uptime start over again when I reboot the 3node?</a></li>
-<li><a href="#faq?id=one-of-my-nodes-is-showing-the-wrong-location-any-problem-with-that">One of my nodes is showing the wrong location. Any problem with that?</a></li>
+<li><a href="#manual__faq?id=what-are-the-main-steps-to-build-a-diy-3node-from-start-to-finish">What are the main steps to build a DIY 3node, from start to finish?</a></li>
+<li><a href="#manual__faq?id=i-wonder-what-type-of-desktop-computer-or-server-to-use-for-my-3node-are-there-any-recommendation-when-it-comes-to-diy-3node-hardware">I wonder what type of desktop computer or server to use for my 3node. Are there any recommendation when it comes to DIY 3node hardware?</a></li>
+<li><a href="#manual__faq?id=what-can-you-do-to-zero-out-your-disks-how-can-i-wipe-the-disks-of-my-3node-server-with-linux">What can you do to zero out your disks? How can I wipe the disks of my 3node server with Linux?</a></li>
+<li><a href="#manual__faq?id=how-can-i-wipe-a-disk-with-windows">How can I wipe a disk with Windows?</a></li>
+<li><a href="#manual__faq?id=do-i-need-to-wipe-all-the-disks-on-my-3node-server-can-i-have-one-disk-with-a-different-operating-systesm-os">Do I need to wipe all the disks on my 3node server? Can I have one disk with a different operating systesm (OS)?</a></li>
+<li><a href="#manual__faq?id=how-can-i-be-sure-that-i-properly-wiped-my-disks">How can I be sure that I properly wiped my disks?</a></li>
+<li><a href="#manual__faq?id=my-disks-have-issues-with-zero-os-and-my-3nodes-how-can-i-do-a-factory-reset-of-the-disks">My disks have issues with Zero-OS and my 3nodes. How can I do a factory reset of the disks?</a></li>
+<li><a href="#manual__faq?id=before-doing-a-bootstrap-image-i-need-to-format-my-usb-key-how-can-i-format-my-usb-key">Before doing a bootstrap image, I need to format my USB key. How can I format my USB key?</a></li>
+<li><a href="#manual__faq?id=what-do-you-use-to-burn-or-to-load-the-zero-os-bootstrap-image-onto-a-usb-stick">What do you use to burn (or to load) the Zero-OS bootstrap image onto a USB stick?</a></li>
+<li><a href="#manual__faq?id=should-i-do-a-uefi-image-or-a-bios-image-to-bootstrap-zero-os">Should I do a UEFI image or a BIOS image to bootstrap Zero-OS?</a></li>
+<li><a href="#manual__faq?id=how-do-i-set-the-bios-or-uefi-of-my-3node">How do I set the BIOS or UEFI of my 3node?</a></li>
+<li><a href="#manual__faq?id=for-my-3node-server-do-i-need-to-enable-virtualization-in-bios-or-uefi">For my 3node server, do I need to enable virtualization in BIOS or UEFI?</a></li>
+<li><a href="#manual__faq?id=how-can-i-boot-a-3node-server-with-a-zero-os-bootstrap-image">How can I boot a 3node server with a Zero-OS bootstrap image?</a></li>
+<li><a href="#manual__faq?id=the-first-time-i-booted-my-3node-server-it-says-that-the-node-is-not-registered-yet-what-can-i-do">The first time I booted my 3node server, it says that the node is not registered yet. What can I do?</a></li>
+<li><a href="#manual__faq?id=the-first-time-i-boot-my-3node-the-node-gets-registered-but-it-says-cache-disk--no-ssd-what-can-i-do">The first time I boot my 3node, the node gets registered but it says cache disk : no ssd. What can I do?</a></li>
+<li><a href="#manual__faq?id=the-first-time-i-boot-my-3-node-the-node-gets-registered-and-it-says-cache-disk--ok-but-the-table-system-used-capacity-is-empty-what-can-i-do">The first time I boot my 3 node, the node gets registered and it says cache disk : OK, but the table System Used Capacity is empty. What can I do?</a></li>
+<li><a href="#manual__faq?id=i-have-a-relatively-old-server-eg-dell-r710-or-r620-z840-i-have-trouble-booting-zero-os-what-could-i-do">I have a relatively old server (e.g. Dell R710 or R620, Z840). I have trouble booting Zero-OS. What could I do?</a></li>
+<li><a href="#manual__faq?id=i-connected-a-sata-ssd-to-a-cd-dvd-optical-drive-adaptor-my-system-does-not-recognize-the-disk-what-can-i-do">I connected a SATA SSD to a CD-DVD optical drive adaptor. My system does not recognize the disk. What can I do?</a></li>
+<li><a href="#manual__faq?id=can-someone-explain-what-should-i-put-in-the-public-ip-part-of-my-farm-should-i-just-insert-my-public-ip-and-gateway-given-by-my-isp">Can someone explain what should I put in the Public IP part of my farm? Should I just insert my Public IP and Gateway (given by my ISP)?</a></li>
 </ul>
 </li>
-<li><a href="#faq?id=memory">Memory</a>
+<li><a href="#manual__faq?id=farming-optimization">Farming Optimization</a>
 <ul>
-<li><a href="#faq?id=can-i-use-different-type-of-ram-for-the-same-3node">Can I use different type of RAM for the same 3node?</a></li>
-<li><a href="#faq?id=how-can-i-know-if-the-memory-i-am-buying-is-correct-for-my-specific-hardware">How can I know if the memory I am buying is correct for my specific hardware?</a></li>
-<li><a href="#faq?id=what-do-the-terms-rdimm-ldimm-udimm-lrdimm-fbdimm-mean-when-it-comes-to-ram-memory-sticks">What do the terms RDIMM, LDIMM, UDIMM, LRDIMM, FBDIMM mean when it comes to RAM memory sticks?</a></li>
-<li><a href="#faq?id=what-is-the-difference-between-ecc-and-non-ecc-memory">What is the difference between ECC and non-ECC memory?</a></li>
-<li><a href="#faq?id=how-can-i-change-the-ram-memory-sticks-on-my-3nodes-how-can-i-achieve-dual-channel-configuration-with-sticks-of-ram">How can I change the RAM memory sticks on my 3nodes? How can I achieve dual channel configuration with sticks of RAM?</a></li>
-<li><a href="#faq?id=what-does-ram-mean">What does RAM mean?</a></li>
-<li><a href="#faq?id=what-does-dimm-mean-when-it-comes-to-ram-sticks">What does DIMM mean when it comes to RAM sticks?</a></li>
-<li><a href="#faq?id=i-have-24-dimms-ram-slots-on-my-server-can-i-use-them-all">I have 24 DIMMS ram slots on my server. Can I use them all?</a></li>
+<li><a href="#manual__faq?id=what-is-the-difference-between-a-threefold-3node-and-a-threefold-farm-what-is-the-difference-between-the-farm-id-and-the-node-id">What is the difference between a Threefold 3node and a Threefold farm? What is the difference between the farm ID and the node ID?</a></li>
+<li><a href="#manual__faq?id=how-can-i-know-how-many-gb-of-ssd-and-ram-do-i-need">How can I know how many GB of SSD and RAM do I need?</a></li>
+<li><a href="#manual__faq?id=what-is-the-optimal-ratio-of-virtual-cores-vcores-or-threads-ssd-storage-and-ram-memory-what-is-the-best-optimization-scenario-for-a-3node-in-terms-of-threefold-tokens-tft-farming-rewards">What is the optimal ratio of virtual cores (vcores or threads), SSD storage and RAM memory? What is the best optimization scenario for a 3node, in terms of Threefold tokens (TFT) farming rewards?</a></li>
+<li><a href="#manual__faq?id=what-does-tbw-mean-what-is-a-good-tbw-level-for-a-ssd-disk">What does TBW mean? What is a good TBW level for a SSD disk?</a></li>
+<li><a href="#manual__faq?id=do-i-need-a-surge-protector">Do I need a surge protector?</a></li>
+<li><a href="#manual__faq?id=do-i-need-a-power-distribution-unit-pdu">Do I need a power distribution unit (PDU)?</a></li>
+<li><a href="#manual__faq?id=do-i-need-an-uninterrupted-power-supply-ups">Do I need an uninterrupted power supply (UPS)?</a></li>
+<li><a href="#manual__faq?id=are-sata-and-sas-drives-interchangeable">Are SATA and SAS drives interchangeable?</a></li>
+<li><a href="#manual__faq?id=what-is-the-speed-difference-between-sas-and-sata-disks">What is the speed difference between SAS and SATA disks?</a></li>
+<li><a href="#manual__faq?id=is-it-possible-to-do-a-graceful-shutdown-to-a-3node-server-how-can-you-shutdown-or-power-off-a-3node-server">Is it possible to do a graceful shutdown to a 3node server? How can you shutdown or power off a 3node server?</a></li>
+<li><a href="#manual__faq?id=is-it-possible-to-have-direct-access-to-zero-oss-core-to-force-a-reboot">Is it possible to have direct access to Zero-OS's core to force a reboot?</a></li>
+<li><a href="#manual__faq?id=do-i-need-some-port-forwarding-in-my-router-for-each-3node-server">Do I need some port forwarding in my router for each 3node server?</a></li>
+<li><a href="#manual__faq?id=are-3node-servers-noisy-are-there-certain-servers-that-are-less-noisy-than-others">Are 3node servers noisy? Are there certain servers that are less noisy than others?</a></li>
+<li><a href="#manual__faq?id=are-there-ways-to-reduce-3node-serves-noises">Are there ways to reduce 3node serves' noises?</a></li>
+<li><a href="#manual__faq?id=what-is-the-difference-between-the-two-cpus-i7-6700-and-i7-6700t">What is the difference between the two CPUs: i7-6700 and i7-6700T?</a></li>
+<li><a href="#manual__faq?id=i-built-a-3node-out-of-old-hardware-is-it-possible-that-my-bios-or-uefi-has-improper-time-and-date-set-as-factory-default">I built a 3node out of old hardware. Is it possible that my BIOS or UEFI has improper time and date set as factory default?</a></li>
+<li><a href="#manual__faq?id=i-have-rack-servers-in-my-threefold-farm-can-i-set-rack-servers-vertically">I have rack servers in my Threefold farm. Can I set rack servers vertically?</a></li>
+</ul>
+</li>
+<li><a href="#manual__faq?id=farming-and-maintenance">Farming and Maintenance</a>
+<ul>
+<li><a href="#manual__faq?id=do-i-need-the-zero-os-bootstrap-image-drive-usb-or-cd-dvd-when-i-reboot-or-can-i-boot-zero-os-from-the-3node-main-hard-drive">Do I need the Zero-OS bootstrap image drive (USB or CD-DVD) when I reboot, or can I boot Zero-OS from the 3node main hard drive?</a></li>
+<li><a href="#manual__faq?id=when-i-set-my-farm-on-the-threefold-dashboard-with-polkadotjs-it-asks-for-a-stellar-payout-address-what-should-i-write">When I set my farm on the Threefold Dashboard with polkadot.js, it asks for a Stellar payout address. What should I write?</a></li>
+<li><a href="#manual__faq?id=its-written-that-my-node-is-using-100-of-hru-what-does-it-mean">It's written that my node is using 100% of HRU. What does it mean?</a></li>
+<li><a href="#manual__faq?id=on-the-threefold-explorer-i-only-see-half-of-the-virtual-cores-or-threads-my-3node-has-what-can-i-do">On the Threefold Explorer, I only see half of the virtual cores or threads my 3node has, what can I do?</a></li>
+<li><a href="#manual__faq?id=what-is-the-current-status-on-the-wake-on-lan-wol-feature">What is the current status on the Wake-on-LAN (WOL) feature?</a></li>
+<li><a href="#manual__faq?id=why-are-the-3nodes-resources-different-on-the-threefold-explorer-and-the-threefold-dashboard">Why are the 3nodes' resources different on the Threefold Explorer and the Threefold Dashboard?</a></li>
+<li><a href="#manual__faq?id=what-do-cru-mru-hru-and-sru-mean-on-the-threefold-explorer">What do CRU, MRU, HRU and SRU mean on the Threefold Explorer?</a></li>
+<li><a href="#manual__faq?id=i-have-more-than-one-threefold-3node-farm-but-i-want-all-my-3nodes-on-only-one-farm-how-can-i-put-all-my-3nodes-on-one-farm-how-can-i-change-the-farm-id-of-my-3node">I have more than one Threefold 3node farm, but I want all my 3nodes on only one farm. How can I put all my 3nodes on one farm? How can I change the farm ID of my 3node?</a></li>
+<li><a href="#manual__faq?id=how-can-i-know-if-my-3node-is-online-on-the-grid-is-there-an-explorer-for-grid-v3">How can I know if my 3node is online on the Grid? Is there an Explorer for Grid V3?</a></li>
+<li><a href="#manual__faq?id=i-booted-my-3node-and-the-monitor-says-its-online-and-connected-to-the-grid-but-the-threefold-explorer-says-it-is-offline-what-can-i-do">I booted my 3node and the monitor says it's online and connected to the Grid. But the Threefold Explorer says it is offline? What can I do?</a></li>
+<li><a href="#manual__faq?id=my-3node-does-show-on-the-threefold-explorer-but-not-on-the-threefold-dashboard-what-can-i-do">My 3node does show on the Threefold Explorer, but not on the Threefold Dashboard, what can I do?</a></li>
+<li><a href="#manual__faq?id=i-set-up-my-farm-on-threefold-connect-app-can-i-use-the-polkadot-extension-dashboard-instead">I set up my farm on Threefold Connect App. Can I use the Polkadot extension Dashboard instead?</a></li>
+<li><a href="#manual__faq?id=is-it-equivalent-to-create-a-farm-on-threefold-connect-app-or-via-the-polkadot-extension">Is it equivalent to create a farm on Threefold Connect App or via the Polkadot extension?</a></li>
+<li><a href="#manual__faq?id=if-i-upgrade-my-3node-will-it-increase-my-rewards">If I upgrade my 3node, will it increase my rewards?</a></li>
+<li><a href="#manual__faq?id=i-booted-my-3node-for-the-first-time-at-the-beginning-of-the-month-then-i-did-some-upgrade-or-downgrade-will-the-threefold-grid-recognize-the-new-hardware-will-it-still-be-the-same-3node-id">I booted my 3node for the first time at the beginning of the month, then I did some upgrade or downgrade, will the Threefold Grid recognize the new hardware? Will it still be the same 3node ID?</a></li>
+<li><a href="#manual__faq?id=is-it-possible-to-ask-the-3node-to-refetch-the-node-information-on-the-monitor">Is it possible to ask the 3node to refetch the node information on the monitor?</a></li>
+<li><a href="#manual__faq?id=when-does-zero-os-detect-the-capacity-of-a-3node">When does Zero-OS detect the capacity of a 3node?</a></li>
+<li><a href="#manual__faq?id=where-is-the-3node-id-stored">Where is the 3node ID stored?</a></li>
+<li><a href="#manual__faq?id=is-there-a-way-to-backup-my-node-id-in-order-to-restore-a-3node-if-the-disk-with-the-node-id-gets-corrupted-or-breaks-down">Is there a way to backup my node ID in order to restore a 3node if the disk with the node ID gets corrupted or breaks down?</a></li>
+<li><a href="#manual__faq?id=if-i-upgrade-my-3node-does-it-change-the-node-id">If I upgrade my 3node, does it change the node ID?</a></li>
+<li><a href="#manual__faq?id=does-it-make-sense-to-recreate-my-node-when-the-price-drops">Does it make sense to recreate my node when the price drops?</a></li>
+<li><a href="#manual__faq?id=my-3node-lost-power-momentarily-and-i-had-to-power-it-back-on-manually-is-there-a-better-way-to-proceed">My 3node lost power momentarily and I had to power it back on manually. Is there a better way to proceed?</a></li>
+<li><a href="#manual__faq?id=do-i-need-to-change-the-battery-bios">Do I need to change the battery BIOS?</a></li>
+<li><a href="#manual__faq?id=do-i-need-to-enable-uefi-network-stack">Do I need to enable UEFI Network Stack?</a></li>
+<li><a href="#manual__faq?id=i-want-redundancy-of-power-for-my-3-nodes-i-have-two-psu-on-my-dell-server-what-can-i-do">I want redundancy of power for my 3 nodes. I have two PSU on my Dell server. What can I do?</a></li>
+<li><a href="#manual__faq?id=why-isnt-there-support-for-raid-does-zero-os-work-with-raid">Why isn't there support for RAID? Does Zero-OS work with RAID?</a></li>
+<li><a href="#manual__faq?id=is-there-a-way-to-bypass-raid-in-order-for-zero-os-to-have-bare-metals-on-the-system-no-raid-controller-in-between-storage-and-the-grid">Is there a way to bypass RAID in order for Zero-OS to have bare metals on the system? (No RAID controller in between storage and the Grid.)</a></li>
+<li><a href="#manual__faq?id=i-have-a-3node-rack-server-is-it-possible-to-use-a-m2-to-sata-adapter-in-order-to-put-the-m2-sata-disk-in-the-hdd-bay-onboard-storage">I have a 3node rack server. Is it possible to use a M.2 to SATA adapter in order to put the M.2 SATA disk in the HDD bay (onboard storage)?</a></li>
+<li><a href="#manual__faq?id=my-3node-uses-only-pcie-adapters-and-ssd-nvme-disks-do-i-need-the-raid-controller-on">My 3node uses only PCIe adapters and SSD NVME disks. Do I need the RAID controller on?</a></li>
+<li><a href="#manual__faq?id=can-i-change-the-name-of-my-farm-on-polkadotjs">Can I change the name of my farm on polkadot.js?</a></li>
+<li><a href="#manual__faq?id=how-can-i-delete-a-farm-on-polkadotjs">How can I delete a farm on polkadot.js?</a></li>
+<li><a href="#manual__faq?id=i-try-to-delete-a-node-on-the-tf-dashboard-but-it-doesnt-work-is-there-any-other-way-to-proceed-that-could-work">I try to delete a node on the TF Dashboard, but it doesn’t work. Is there any other way to proceed that could work?</a></li>
+<li><a href="#manual__faq?id=my-3node-has-2-ethernet-ports-in-the-back-with-one-written-amt-above-what-does-it-mean-can-i-use-this-port-to-connect-my-3node-to-the-threefold-grid">My 3node has 2 ethernet ports in the back, with one written AMT above, what does it mean? Can I use this port to connect my 3node to the Threefold Grid?</a></li>
+<li><a href="#manual__faq?id=my-3node-is-based-on-a-the-hardware-z600-z620-or-z820-can-i-run-it-headless-or-without-a-gpu">My 3node is based on a the hardware Z600, Z620 or Z820, can I run it headless or without a GPU?</a></li>
+<li><a href="#manual__faq?id=my-3node-is-based-on-a-z800-the-psu-is-not-working-anymore-is-there-an-alternative-to-buying-another-expensive-psu">My 3node is based on a Z800. The PSU is not working anymore. Is there an alternative to buying another expensive PSU?</a></li>
+<li><a href="#manual__faq?id=is-it-possible-to-add-high-level-gpu-on-rack-servers-to-farm-more-tft">Is it possible to add high-level GPU on rack servers to farm more TFT?</a></li>
+</ul>
+</li>
+<li><a href="#manual__faq?id=troubleshooting-and-error-messages">Troubleshooting and Error Messages</a>
+<ul>
+<li><a href="#manual__faq?id=is-it-possible-to-access-the-error-screen-or-log-screen">Is it possible to access the Error Screen or Log Screen?</a></li>
+<li><a href="#manual__faq?id=i-plugged-an-hdmi-cable-from-my-monitor-into-the-node-and-the-monitor-is-displaying-nothing-what-can-i-do">I plugged an HDMI cable from my monitor into the node and the monitor is displaying nothing. What can I do?</a></li>
+<li><a href="#manual__faq?id=what-does-it-mean-when-i-see-during-the-3node-boot-the-message-error--context-deadline-exceeded">What does it mean when I see, during the 3node boot, the message: error = context deadline exceeded?</a></li>
+<li><a href="#manual__faq?id=i-try-to-boot-a-3node-but-i-get-the-error-no-route-to-host-on-linux-what-does-it-mean">I try to boot a 3node, but I get the error No Route to Host on Linux. What does it mean?</a></li>
+<li><a href="#manual__faq?id=i-try-to-boot-a-3node-but-i-get-the-message-no-route-with-default-gateway-found-what-does-it-mean">I try to boot a 3node, but I get the message no route with default gateway found. What does it mean?</a></li>
+<li><a href="#manual__faq?id=i-have-trouble-connecting-the-3node-to-the-grid-with-a-10gb-nic-card-what-can-i-do">I have trouble connecting the 3node to the Grid with a 10GB NIC card. What can I do?</a></li>
+<li><a href="#manual__faq?id=i-switch-the-ethernet-cable-to-a-different-port-when-my-3node-was-running-internet-connection-is-lost-what-can-i-do">I switch the ethernet cable to a different port when my 3node was running. Internet connection is lost. What can I do?</a></li>
+<li><a href="#manual__faq?id=i--get-the-error-certificate-is-not-yet-valid-when-booting-my-3node-server-what-can-i-do">I  get the error Certificate is not yet valid when booting my 3node server, what can I do?</a></li>
+<li><a href="#manual__faq?id=i-tried-to-wipe-my-disk-but-i-get-the-error-probing-initialized-failed-what-can-i-do">I tried to wipe my disk, but I get the error Probing Initialized Failed. What can I do?</a></li>
+<li><a href="#manual__faq?id=i-did-a-format-on-my-ssd-disk-but-zero-os-still-does-not-recognize-them-whats-wrong">I did a format on my SSD disk, but Zero-OS still does not recognize them. What's wrong?</a></li>
+<li><a href="#manual__faq?id=i-have-a-dell-rx10-server-r610-710-910-when-i-boot-zero-os-i-get-the-message-probing-edd-and-the-3node-doesnt-boot-from-there-what-can-i-do">I have a Dell Rx10 server (R610, 710, 910). When I boot Zero-OS I get the message Probing EDD and the 3node doesn't boot from there. What can I do?</a></li>
+<li><a href="#manual__faq?id=my-3node-doesnt-boot-properly-without-a-monitor-plugged-in-what-can-i-do">My 3node doesn't boot properly without a monitor plugged in. What can I do?</a></li>
+<li><a href="#manual__faq?id=my-3node-is-running-on-the-grid-but-when-i-plugged-in-the-monitor-it-states-disabling-ir-16-is-there-a-problem">My 3node is running on the Grid, but when I plugged in the monitor, it states: Disabling IR #manual__faq?id=16. Is there a problem?</a></li>
+<li><a href="#manual__faq?id=my-3node-wont-boot-without-disabling-the-secure-boot-option-is-it-safe">My 3node won't boot without disabling the Secure Boot option, is it safe?</a></li>
+<li><a href="#manual__faq?id=when-i-tried-to-boot-my-3node-at-some-point-the-screen-went-black-with-or-without-a-blinking-hyphen-or-dash-what-could-cause-this-and-what-could-i-do-to-resolve-the-issue">When I tried to boot my 3node, at some point the screen went black, with or without a blinking hyphen or dash. What could cause this and what could I do to resolve the issue?</a></li>
+<li><a href="#manual__faq?id=my-3nodes-go-offline-after-a-modem-reboot-is-there-a-way-to-prevent-this">My 3nodes go offline after a modem reboot. Is there a way to prevent this?</a></li>
+<li><a href="#manual__faq?id=when-i-boot-my-3node-it-reaches-the-welcome-to-zero-os-window-but-it-doesnt-boot-properly-and-theres-an-error-message-failed-to-load-object--type-substrate-what-can-i-do">When I boot my 3node, it reaches the Welcome to Zero-OS window, but it doesn't boot properly and there's an error message: failed to load object : type substrate..., what can I do?</a></li>
+<li><a href="#manual__faq?id=when-i-try-to-access-idrac-on-a-web-browswer-even-with-protected-mode-off-i-get-the-error-the-webpage-cannot-be-found-what-can-i-do">When I try to access iDRAC on a web browswer, even with protected mode off, I get the error The webpage cannot be found, what can I do?</a></li>
+<li><a href="#manual__faq?id=when-booting-the-3node-i-get-the-error-network-interface-detected-but-autoconfiguration-failed-what-can-i-do">When booting the 3node, I get the error Network interface detected but autoconfiguration failed. What can I do?</a></li>
+<li><a href="#manual__faq?id=when-i-boot-my-dell-server-i-get-the-message-all-of-the-disks-from-your-previous-configuration-are-gone-press-any-key-to-continue-or-c-to-load-the-configuration-utility-what-can-i-do">When I boot my Dell server, I get the message: All of the disks from your previous configuration are gone... Press any key to continue or 'C' to load the configuration utility. What can I do?</a></li>
+<li><a href="#manual__faq?id=i-have-a-dell-r620-in-zero-os-i-get-the-failure-message-no-network-card-found-and-then-the-3node-reebots-after-few-seconds-the-same-happens-for-every-lan-input-what-can-i-do">I have a Dell R620. In Zero-OS, I get the failure message No network card found and then the 3node reebots after few seconds. The same happens for every LAN input. What can I do?</a></li>
+<li><a href="#manual__faq?id=i-am-using-freedos-to-crossflash-my-raid-controller-on-a-dell-server-but-i-cant-see-the-raid-controller-with-the-command-info-what-can-i-do">I am using freeDos to crossflash my raid controller on a Dell server, but I can't see the RAID controller with the Command Info. What can I do?</a></li>
+<li><a href="#manual__faq?id=can-i-use-a-vga-to-hdmi-adaptor-to-connect-a-tv-screen-or-monitor-to-the-3node-i-tried-to-boot-a-3node-with-a-vga-to-hdmi-adaptor-but-the-boot-fails-what-can-i-do">Can I use a VGA to HDMI adaptor to connect a TV screen or monitor to the 3node? I tried to boot a 3node with a VGA to HDMI adaptor but the boot fails, what can I do?</a></li>
+<li><a href="#manual__faq?id=when-i-try-to-boot-my-3node-the-fans-start-spinning-fast-with-a-loud-noise-and-the-screen-is-black-what-can-i-do-to-resolve-this">When I try to boot my 3node, the fans start spinning fast with a loud noise and the screen is black. What can I do to resolve this?</a></li>
+<li><a href="#manual__faq?id=when-booting-zero-os-with-ipv6-configurations-i-get-the-errors-1-dial-tcp-address-ipv6-address-too-many-columns-in-address-and-2-no-pools-matches-key-not-routable-what-can-i-do-to-fix-this-issue">When booting Zero-OS with IPV6 configurations, I get the errors (1) dial tcp: address IPV6-address too many columns in address and (2) no pools matches key: not routable. What can I do to fix this issue?</a></li>
+<li><a href="#manual__faq?id=when-booting-a-3node-zero-os-downloads-fine-but-then-i-get-the-message-error-no-route-with-default-gateway-found-and-the-message-info-check-if-interface-has-a-cable-plugged-in-what-could-fix-this">When booting a 3node, Zero-OS downloads fine, but then I get the message: error no route with default gateway found, and the message: info check if interface has a cable plugged in. What could fix this?</a></li>
+<li><a href="#manual__faq?id=how-can-i-update-dell-and-hp-servers-to-intel-e5-2600v2-e5-2400v2-and-e5-4600v2-when-applicable">How can I update Dell and HP servers to Intel E5-2600v2, E5-2400v2 and E5-4600v2, when applicable?</a></li>
+<li><a href="#manual__faq?id=how-can-i-update-a-dell-poweredger-server-with-a-bootable-iso">How can I update a Dell PowerEdger server with a bootable ISO?</a></li>
+<li><a href="#manual__faq?id=when-i-boot-a-3node-in-uefi-mode-it-gets-stuck-at-initializing-network-device-is-there-a-way-to-fix-this">When I boot a 3node in UEFI mode, it gets stuck at: Initializing Network Device, is there a way to fix this?</a></li>
+<li><a href="#manual__faq?id=when-i-boot-my-3node-it-gets-stuck-during-the-zero-os-download-it-never-reaches-100-what-can-i-do-to-fix-this-issue">When I boot my 3node, it gets stuck during the Zero-OS download. It never reaches 100%. What can I do to fix this issue?</a></li>
+</ul>
+</li>
+<li><a href="#manual__faq?id=threefold-grid-and-data">Threefold Grid and Data</a>
+<ul>
+<li><a href="#manual__faq?id=how-is-the-farming-minting-reward-calculated-is-the-grid-always-monitoring-my-3node">How is the farming minting reward calculated? Is the Grid always monitoring my 3node?</a></li>
+<li><a href="#manual__faq?id=how-does-communication-happen-on-the-threefold-grid-at-the-3nodes-level">How does communication happen on the Threefold Grid at the 3node's level?</a></li>
+<li><a href="#manual__faq?id=what-is-the-threefold-node-status-bot-telegram-link">What is the Threefold Node Status bot Telegram link?</a></li>
+<li><a href="#manual__faq?id=how-does-the-threefold-node-status-bot-works-how-can-i-use-the-threefold-node-status-bot-to-verify-if-my-3node-is-online">How does the Threefold Node Status bot works? How can I use the Threefold Node Status bot to verify if my 3node is online?</a></li>
+<li><a href="#manual__faq?id=how-does-the-telegram-status-bot-get-information-from-my-3node-my-3node-is-online-on-the-threefold-explorer-but-offline-on-the-telegram-status-bot-is-this-normal">How does the Telegram Status Bot get information from my 3node? My 3node is online on the Threefold Explorer, but offline on the Telegram Status Bot, is this normal?</a></li>
+<li><a href="#manual__faq?id=i-noticed-that-when-i-reboot-my-3node-the-uptime-counter-on-the-threefold-explorer-goes-back-to-zero-does-it-mean-i-lose-uptime-and-the-uptime-start-over-again-when-i-reboot-the-3node">I noticed that when I reboot my 3node, the uptime counter on the Threefold Explorer goes back to zero. Does it mean I lose uptime and the uptime start over again when I reboot the 3node?</a></li>
+<li><a href="#manual__faq?id=one-of-my-nodes-is-showing-the-wrong-location-any-problem-with-that">One of my nodes is showing the wrong location. Any problem with that?</a></li>
+</ul>
+</li>
+<li><a href="#manual__faq?id=memory">Memory</a>
+<ul>
+<li><a href="#manual__faq?id=can-i-use-different-type-of-ram-for-the-same-3node">Can I use different type of RAM for the same 3node?</a></li>
+<li><a href="#manual__faq?id=how-can-i-know-if-the-memory-i-am-buying-is-correct-for-my-specific-hardware">How can I know if the memory I am buying is correct for my specific hardware?</a></li>
+<li><a href="#manual__faq?id=what-do-the-terms-rdimm-ldimm-udimm-lrdimm-fbdimm-mean-when-it-comes-to-ram-memory-sticks">What do the terms RDIMM, LDIMM, UDIMM, LRDIMM, FBDIMM mean when it comes to RAM memory sticks?</a></li>
+<li><a href="#manual__faq?id=what-is-the-difference-between-ecc-and-non-ecc-memory">What is the difference between ECC and non-ECC memory?</a></li>
+<li><a href="#manual__faq?id=how-can-i-change-the-ram-memory-sticks-on-my-3nodes-how-can-i-achieve-dual-channel-configuration-with-sticks-of-ram">How can I change the RAM memory sticks on my 3nodes? How can I achieve dual channel configuration with sticks of RAM?</a></li>
+<li><a href="#manual__faq?id=what-does-ram-mean">What does RAM mean?</a></li>
+<li><a href="#manual__faq?id=what-does-dimm-mean-when-it-comes-to-ram-sticks">What does DIMM mean when it comes to RAM sticks?</a></li>
+<li><a href="#manual__faq?id=i-have-24-dimms-ram-slots-on-my-server-can-i-use-them-all">I have 24 DIMMS ram slots on my server. Can I use them all?</a></li>
 </ul>
 </li>
 </ul>
@@ -578,7 +578,7 @@ Threefold is working for the Planet, the People and Profit, in this very order o
 
 ### I want to farm TFT with a 3node. What are my choices?
 
-There are two possibilities. Either [buy a certified 3node](https://marketplace.3node.global/) (plug n play) or build yourself a <a href="#faq?id=what-are-the-general-requirements-for-a-diy-3node">DIY 3node</a>.
+There are two possibilities. Either [buy a certified 3node](https://marketplace.3node.global/) (plug n play) or build yourself a <a href="#manual__faq?id=what-are-the-general-requirements-for-a-diy-3node">DIY 3node</a>.
 
 ***
 
@@ -874,7 +874,7 @@ Yes! It's over [here](https://bridge.bsc.threefold.io/).
 
 ### What are the different Threefold bridges, TFChain-Stellar Bridge and BSC-Stellar Bridge? How can I go from TF Chain to Stellar chain to Binance Smart Chain?
 
-In short, there is the [BSC-Stellar Bridge](https://bridge.bsc.threefold.io/) and the [TF Chain-Stellar](https://dashboard.grid.tf//) Bridge.
+In short, there is the [BSC-Stellar Bridge](https://bridge.bsc.threefold.io/) and the [TF Chain-Stellar](https://dashboard.grid.tf/) Bridge.
 
 The BSC-Stellar Bridge is used to go between the Stellar Chain and Binance Smart Chain (BSC).
 The TFChain-Stellar Bridge is used to go between Stellar Chain and TF Chain.
@@ -894,7 +894,7 @@ Note: If you are on Threefold Connect App, you can export your account to the Po
 ***
 ### How can I bridge TFT from Binance Smart Chain (BSC) to Stellar (and vice versa)?
 
-To use the [BSC-Stellar Bridge](https://bridge.bsc.threefold.io/), read the following steps. If this is your first time with MetaMask and BSC, read the section <a href="#faq?id=how-to-set-up-tft-on-metamask">How to Set Up TFT on Metamask</a> below.
+To use the [BSC-Stellar Bridge](https://bridge.bsc.threefold.io/), read the following steps. If this is your first time with MetaMask and BSC, read the section <a href="#manual__faq?id=how-to-set-up-tft-on-metamask">How to Set Up TFT on Metamask</a> below.
 
 Note: Always start with a small amount the first time you try the Bridge.
 
@@ -1046,7 +1046,7 @@ Threefold Connect App (TF Connect App) is available for download on [Android](ht
 
 ### What is the Threefold Dashboard link?
 
-To go on the Threefold Dashboard, use this link [https://dashboard.grid.tf//](https://dashboard.grid.tf//).
+To go on the Threefold Dashboard, use this link [https://dashboard.grid.tf/](https://dashboard.grid.tf/).
 ***
 
 ### To access the TF Dashboard, I need to use the Polkadot Extension. What is the link for the Polkadot Extension (polkadot.js)? Which browsers support the Polkadot Extension?
@@ -1924,7 +1924,7 @@ There are two ways to create a Threefold farm.
 
 You can install the [Threefold Connect App](#is-there-a-threefold-app-for-mobile), set an account and then create a farm in the section Farming.
 
-You can also create a Threefold farm on the [Threefold Dashboard](https://dashboard.grid.tf//) after having created an account on the [Polkadot extension](https://polkadot.js.org/extension/).
+You can also create a Threefold farm on the [Threefold Dashboard](https://dashboard.grid.tf/) after having created an account on the [Polkadot extension](https://polkadot.js.org/extension/).
 
 ***
 
@@ -2680,7 +2680,7 @@ A UPS (uninterrupted power supply) is great for a 3node if your power goes on an
 
 ### Are SATA and SAS drives interchangeable?
 
-This goes only one way. You can put a SATA drive in a SAS slot, but you can’t put a SAS drive in a SATA slot. See the <a href="#faq?id=what-is-the-speed-difference-between-sas-and-sata-disks">next question</a> for more information.
+This goes only one way. You can put a SATA drive in a SAS slot, but you can’t put a SAS drive in a SATA slot. See the <a href="#manual__faq?id=what-is-the-speed-difference-between-sas-and-sata-disks">next question</a> for more information.
 
 ***
 ### What is the speed difference between SAS and SATA disks?
