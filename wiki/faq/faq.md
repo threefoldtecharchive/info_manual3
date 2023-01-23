@@ -305,7 +305,7 @@
 <li><a href="#manual__faq?id=what-is-the-farming-reward-calculation">What is the farming reward calculation?</a></li>
 <li><a href="#manual__faq?id=can-i-send-my-farming-rewards-directly-to-a-crypto-exchange">Can I send my farming rewards directly to a crypto exchange?</a></li>
 <li><a href="#manual__faq?id=i-received-my-farming-rewards-now-i-want-to-sell-my-threefold-tokens-tft-how-can-i-do-this">I received my farming rewards, now I want to sell my Threefold tokens (TFT). How can I do this?</a></li>
-<li><a href="#manual__faq?id=how-can-i-swap-threefold-tokens-tft-on-stellar-blochain">How can I swap Threefold tokens (TFT) on Stellar blochain?</a></li>
+<li><a href="#manual__faq?id=how-can-i-swap-threefold-tokens-tft-on-stellar-blockchain">How can I swap Threefold tokens (TFT) on Stellar blockchain?</a></li>
 <li><a href="#manual__faq?id=which-wallets-are-recommended-for-threefold-token-tft-farming-rewards">Which wallets are recommended for Threefold token (TFT) farming rewards?</a></li>
 <li><a href="#manual__faq?id=can-i-have-more-details-on-storing-threefold-tokens-tft-on-hardware-wallets">Can I have more details on storing Threefold tokens (TFT) on hardware wallets?</a></li>
 <li><a href="#manual__faq?id=do-i-need-collateral-to-farm-threefold-tokens">Do I need collateral to farm Threefold tokens?</a></li>
@@ -2189,9 +2189,9 @@ First, know that your TFT farming rewards are on the Stellar Blockchain. If you 
 
 If you stay on Stellar blockchain, you can either swap your TFT, for example on [StellarX](https://stellarx.com/swap), where some XLM will be needed, or sell your TFT on an exchange using the Stellar blockchain. Currently, this can be done on [Liquid](https://liquid.com) and on [BTC-Alpha](https://btc-alpha.com). First, send your TFT to your exchange wallet and make sure you enter the memo correctly. Once your TFT are on the exchange, you can sell them on the market. Make sure to follow the exchange specific steps where applicable.
 ***
-### How can I swap Threefold tokens (TFT) on Stellar blochain?
+### How can I swap Threefold tokens (TFT) on Stellar blockchain?
 
-This can be done with StellarX's swap function. Go on the [Swap section of StellarX](https://stellarx.com/swap) and follow the required steps.
+You can swap TFT on Stellar Chain with StellarX's swap function. Go on the [Swap section of StellarX](https://stellarx.com/swap) and follow the required steps.
 
 ***
 
