@@ -1029,7 +1029,7 @@ When searching for a Token on Pancake Swap (Select a Token), paste the TFT Token
 
 ### How can I swap Threefold tokens (TFT) on Stellar Blockchain?
 
-Yes this is possible to swap TFT on Stellar Chain. Here's how to do it with [StellarX](https://stellarx.com).
+It is possible to swap TFT on Stellar Chain. Here's how to do it with [StellarX](https://stellarx.com).
 
 First, make sure your wallet has a TFT trustline. Second, go on [StellarX Swap section](https://stellarx.com/swap). Third, choose TFT and the other token of the swapping pair then swap. If you do not see TFT, make sure you have a TFT trustline linked to your wallet.
 
