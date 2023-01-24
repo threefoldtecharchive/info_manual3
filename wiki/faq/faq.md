@@ -808,7 +808,7 @@ To see the Proof-of-Utilization distribution flow chart, check this [link](https
 
 ### How can I buy TFT?
 
-There are many ways to do this. You can buy it on Liquid.com, buy on PancakeSwap, or on GetTFT.com. For more information, check [this link](https://library.threefold.me/info/threefold#/tokens/threefold__how_to_buy). 
+There are many ways to do this. You can buy on [PancakeSwap](https://pancakeswap.finance/), on [BTC-Alpha](https://btc-alpha.com/en/trade/TFT_BTC?layout=standard&type=spot) or on the [GetTFT website](https://gettft.com/gettft/). For more information, check [this link](https://library.threefold.me/info/threefold#/tokens/threefold__how_to_buy). 
 
 ***
 
@@ -2193,7 +2193,7 @@ This is not possible. When you send tokens to a crypto exchange, you need to inc
 
 First, know that your TFT farming rewards are on the Stellar Blockchain. If you want to sell on Pancakeswap (on the Binance Chain), you will need to use the Stellar-BSC Bridge, where a 50 TFT fees is applicable. See the section *How to use the BSC-Stellar Bridge* in the [Threefold Farming Guide](https://forum.threefold.io/t/threefold-farming-guide-part-2/2990#how-to-use-the-bsc-stellar-bridge) for more information on this method.
 
-If you stay on Stellar blockchain, you can either swap your TFT, for example on [StellarX](https://stellarx.com/swap), where some XLM will be needed, or sell your TFT on an exchange using the Stellar blockchain. Currently, this can be done on [Liquid](https://liquid.com) and on [BTC-Alpha](https://btc-alpha.com). First, send your TFT to your exchange wallet and make sure you enter the memo correctly. Once your TFT are on the exchange, you can sell them on the market. Make sure to follow the exchange specific steps where applicable.
+If you stay on Stellar blockchain, you can either swap your TFT, for example on [StellarX](https://stellarx.com/swap), where some XLM will be needed, or sell your TFT on an exchange using the Stellar blockchain. Currently, this can be done on [BTC-Alpha](https://btc-alpha.com). First, send your TFT to your exchange wallet and make sure you enter the memo correctly. Once your TFT are on the exchange, you can sell them on the market. Make sure to follow the exchange specific steps where applicable.
 
 ***
 
