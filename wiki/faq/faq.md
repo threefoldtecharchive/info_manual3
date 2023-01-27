@@ -132,7 +132,8 @@
 <li><a href="#manual__faq?id=what-is-the-method-of-payment-of-the-threefold-commercial-grid-services">What is the method of payment of the Threefold Commercial Grid Services?</a></li>
 <li><a href="#manual__faq?id=how-can-i-contribute-to-the-threefold-commercial-grid-services-what-is-the-onboarding-process-to-join-the-threefold-commercial-grid-services">How can I contribute to the Threefold Commercial Grid Services? What is the onboarding process to join the Threefold Commercial Grid Services?</a></li>
 <li><a href="#manual__faq?id=what-does-it-mean-to-be-a-solution-provider-on-the-threefold-grid">What does it mean to be a solution provider on the Threefold Grid?</a></li>
-<li><a href="#manual__faq?id=what-are-the-requirements-and-the-process-to-be-recognized-as-a-sales-channel-how-can-i-become-a-solution-provider-on-top-of-the-threefold-grid">What are the requirements and the process to be recognized as a sales channel? How can I become a solution provider on top of the Threefold Grid?</a></li>
+<li><a href="#manual__faq?id=how-can-i-become-a-solution-provider-on-top-of-the-threefold-grid">How can I become a solution provider on top of the Threefold Grid?</a></li>
+<li><a href="#manual__faq?id=what-is-the-relation-between-a-solution-provider-and-a-sales-channel">What is the relation between a solution provider and a sales channel?</a></li>
 <li><a href="#manual__faq?id=how-can-i-receive-a-solution-provider-id">How can I receive a solution provider ID?</a></li>
 </ul>
 </li>
@@ -796,12 +797,14 @@ When people spend Threefold Tokens on the Threefold Grid for any kind of deploym
 
 The Proof-of-Utilization distribution flow is the following:
 
-* 50% goes to solution providers and sales
+* 50% goes to solution providers and sales channels*
 * 35% goes to TFT burning
 * 10% goes to the Threefold Foundation
 * 5% goes to the Validator Staking Pool
 
 To see the Proof-of-Utilization distribution flow chart, check this [link](https://library.threefold.me/info/threefold#/tokens/threefold__token_overview).
+
+*Note: For billing purposes, ThreeFold DAO will check if the workload comes from a known sales channel and/or solution provider. If yes, then the billing smart contract code will know how to distribute the TFTs. If the sales channel and/or solution provider is not known, then the 50% will go to a DAO owned Community Grant Wallet.
 
 ***
 
@@ -1225,25 +1228,35 @@ Onboarding is meant through FIAT. It is comparable to any other online service p
 
 ***
 
-### What does it mean to be a solution provider on the Threefold Grid? 
+### What does it mean to be a solution provider on the Threefold Grid?
 
-A solution provider offers a solution on the Threefold Grid.
+A solution provider offers a solution on the Threefold Grid and receives 50% of the TFT utilization revenues from the workload related to the solution.
 
-A "solution" is something running on the grid, created by a community member. This can be brought forward to the council, who can vote on it to recognize it as a solution. On contract creation, a recognized solution can be referenced, in which case part of the payment goes toward the address coupled to the solution. 
+A "solution" is something running on the grid, created by a community member. This can be brought forward to the council, who can vote on it to recognize it as a solution. On contract creation, a recognized solution can be referenced, in which case part of the payment goes toward the address coupled to the solution.
 
 To become a solution provider, read the next question.
 
 ***
 
-### What are the requirements and the process to be recognized as a sales channel? How can I become a solution provider on top of the Threefold Grid?
+### How can I become a solution provider on top of the Threefold Grid?
 
-Threefold uses the Proof-of-Utilization distribution where 50% of the TFT utilization revenues goes to solution providers and sales channel.
+Threefold uses the Proof-of-Utilization distribution where 50% of the TFT utilization revenues goes to the solution provider offering a solution. If there is no solution provider associated with the deployment, the 50% revenues goes to a DAO owned Community Grant Wallet.
 
-There are a few steps to follow to become a solution provider and to receive the 50% TFT reserved for sales channel:
+There are a few steps to follow to become a solution provider:
 
 1. Follow the steps detailed in this [documentation](https://github.com/threefoldtech/tfchain/blob/development/substrate-node/pallets/pallet-smart-contract/solution_provider.md)
-2. Then write a [Threefold Forum post](http://forum.threefold.io/) explaining what the solution provider does
+
+2. Then write a [Threefold Forum post](https://forum.threefold.io/c/threefold-grid-utilization/solutions-being-created/76) explaining what the solution provider does
+
 3. Once the two first steps are done, a DAO proposal will be launched to decide if the solution is approved
+
+***
+
+### What is the relation between a solution provider and a sales channel?
+
+Those two concepts are closely linked.
+
+On a technical level, the solution provider and the sales channel constitute a simple mechanism whereby up to 50% of the TFT spent on a deployment can be redirected to another wallet. The object in TF Chain that makes this possible, by linking the deployment contract and the wallet to be paid, is called a “solution provider”. This on-chain concept is thus called a solution provider, but it enables both solution providers and sales channels.
 
 ***
 
