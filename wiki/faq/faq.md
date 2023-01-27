@@ -131,8 +131,9 @@
 <li><a href="#manual__faq?id=who-can-participate-to-the-threefold-commercial-grid-services">Who can participate to the Threefold Commercial Grid Services?</a></li>
 <li><a href="#manual__faq?id=what-is-the-method-of-payment-of-the-threefold-commercial-grid-services">What is the method of payment of the Threefold Commercial Grid Services?</a></li>
 <li><a href="#manual__faq?id=how-can-i-contribute-to-the-threefold-commercial-grid-services-what-is-the-onboarding-process-to-join-the-threefold-commercial-grid-services">How can I contribute to the Threefold Commercial Grid Services? What is the onboarding process to join the Threefold Commercial Grid Services?</a></li>
-<li><a href="#manual__faq?id=what-are-the-requirements-and-the-process-to-be-recognized-as-a-sales-channel">What are the requirements and the process to be recognized as a sales channel?</a></li>
-<li><a href="#manual__faq?id=how-can-i-become-a-solution-provider-on-top-of-the-threefold-grid">How can I become a solution provider on top of the Threefold Grid?</a></li>
+<li><a href="#manual__faq?id=what-does-it-mean-to-be-a-solution-provider-on-the-threefold-grid">What does it mean to be a solution provider on the Threefold Grid?</a></li>
+<li><a href="#manual__faq?id=what-are-the-requirements-and-the-process-to-be-recognized-as-a-sales-channel-how-can-i-become-a-solution-provider-on-top-of-the-threefold-grid">What are the requirements and the process to be recognized as a sales channel? How can I become a solution provider on top of the Threefold Grid?</a></li>
+<li><a href="#manual__faq?id=how-can-i-receive-a-solution-provider-id">How can I receive a solution provider ID?</a></li>
 </ul>
 </li>
 </ul>
@@ -1224,23 +1225,31 @@ Onboarding is meant through FIAT. It is comparable to any other online service p
 
 ***
 
-### What are the requirements and the process to be recognized as a sales channel?
+### What does it mean to be a solution provider on the Threefold Grid? 
 
-For now, you should propose your idea on the [Threefold Forum](http://forum.threefold.io/). 
+A solution provider offers a solution on the Threefold Grid.
 
-On the Forum, we can have public discussions on the proposed business model.
-Then, the Threefold community will decide if the proposition should become a supported sales channel.
+A "solution" is something running on the grid, created by a community member. This can be brought forward to the council, who can vote on it to recognize it as a solution. On contract creation, a recognized solution can be referenced, in which case part of the payment goes toward the address coupled to the solution. 
 
-A more defined process should be discussed by the Threefold Community for the long term.
-We invite everyone to share their thoughts on how this could be done.
-
-Note: 50% of every utilized token for workload is reserved as a fund for sale channels and use cases.
+To become a solution provider, read the next question.
 
 ***
 
-### How can I become a solution provider on top of the Threefold Grid?
+### What are the requirements and the process to be recognized as a sales channel? How can I become a solution provider on top of the Threefold Grid?
 
-To become a solution provider on top of the Threefold Grid, read [this](https://github.com/threefoldtech/tfchain/blob/development/substrate-node/pallets/pallet-smart-contract/solution_provider.md)
+Threefold uses the Proof-of-Utilization distribution where 50% of the TFT utilization revenues goes to solution providers and sales channel.
+
+There are a few steps to follow to become a solution provider and to receive the 50% TFT reserved for sales channel:
+
+1. Follow the steps detailed in this [documentation](https://github.com/threefoldtech/tfchain/blob/development/substrate-node/pallets/pallet-smart-contract/solution_provider.md)
+2. Then write a [Threefold Forum post](http://forum.threefold.io/) explaining what the solution provider does
+3. Once the two first steps are done, a DAO proposal will be launched to decide if the solution is approved
+
+***
+
+### How can I receive a solution provider ID?
+
+To receive a solution provider ID, you need to get approved as a solution provider.
 
 ***
 
