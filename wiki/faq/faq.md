@@ -435,6 +435,7 @@
 <li><a href="#manual__faq?id=i-plugged-an-hdmi-cable-from-my-monitor-into-the-node-and-the-monitor-is-displaying-nothing-what-can-i-do">I plugged an HDMI cable from my monitor into the node and the monitor is displaying nothing. What can I do?</a></li>
 <li><a href="#manual__faq?id=what-does-it-mean-when-i-see-during-the-3node-boot-the-message-error--context-deadline-exceeded">What does it mean when I see, during the 3node boot, the message: error = context deadline exceeded?</a></li>
 <li><a href="#manual__faq?id=i-try-to-boot-a-3node-but-i-get-the-error-no-route-to-host-on-linux-what-does-it-mean">I try to boot a 3node, but I get the error No Route to Host on Linux. What does it mean?</a></li>
+<li><a href="#manual__faq?id=when-booting-a-3node-i-get-the-message-failed-to-register-node-failed-to-create-node-failed-to-submit-extrinsic-invalid-transaction-registration-failed-what-could-fix-this">When booting a 3node, I get the message: failed to register node: failed to create node: failed to submit extrinsic: Invalid Transaction: registration failed. What could fix this?</a></li>
 <li><a href="#manual__faq?id=i-try-to-boot-a-3node-but-i-get-the-message-no-route-with-default-gateway-found-what-does-it-mean">I try to boot a 3node, but I get the message no route with default gateway found. What does it mean?</a></li>
 <li><a href="#manual__faq?id=i-have-trouble-connecting-the-3node-to-the-grid-with-a-10gb-nic-card-what-can-i-do">I have trouble connecting the 3node to the Grid with a 10GB NIC card. What can I do?</a></li>
 <li><a href="#manual__faq?id=i-switch-the-ethernet-cable-to-a-different-port-when-my-3node-was-running-internet-connection-is-lost-what-can-i-do">I switch the ethernet cable to a different port when my 3node was running. Internet connection is lost. What can I do?</a></li>
@@ -3069,6 +3070,16 @@ In general, this message means that the Threefold Grid asked something to your 3
 There are many potential answers to this. Perhaps the Host is offline, the service isn't running. This is usually the reason with TF Grid. It means the Grid is not responsive. In this case, try to boot the 3node later. If it persists ask TF Support.
 
 There can also be other reasons. You might have connected to the wrong port. Perhaps you have configured iptables to block connections on that port. Your DNS might be improperly configured. You might have an Incorrect Network or Host Configuration. Many troubleshoots are possible. Here's a [good place to start](https://www.maketecheasier.com/fix-no-route-to-host-error-linux/).
+
+***
+
+### When booting a 3node, I get the message: failed to register node: failed to create node: failed to submit extrinsic: Invalid Transaction: registration failed. What could fix this?
+
+The most probable fix to this error is simply to properly wipe your disk(s):
+
+* <a href="#manual__faq?id=what-can-you-do-to-zero-out-your-disks-how-can-i-wipe-the-disks-of-my-3node-server-with-linux">Wipe your disks on Linux</a>
+
+* <a href="#manual__faq?id=how-can-i-wipe-a-disk-with-windows">Wipe your disks on Windows</a>
 
 ***
 ### I try to boot a 3node, but I get the message no route with default gateway found. What does it mean?
