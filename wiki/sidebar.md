@@ -47,6 +47,8 @@
   - [Deployments List](weblets_deployments_list)
 - [TF Mastodon](threefold_mastodon_home)
   - [Deployment Manual](threefold_mastodon)
+- [TF Publishtools](publishtools)
+  - [Website Tool](website)
   - [FAQ](threefold_mastodon_faq)
 - [Advanced](advanced)
 - [Help us Test](@testing_home)
