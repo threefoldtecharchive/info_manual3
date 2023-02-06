@@ -41,6 +41,7 @@
 <li><a href="#manual__faq?id=what-is-the-threefold-token-what-are-the-uses-of-the-threefold-token-tft">What is the Threefold Token? What are the uses of the Threefold token (TFT)?</a></li>
 <li><a href="#manual__faq?id=how-are-threefold-token-tft-produced">How are Threefold Token (TFT) produced?</a></li>
 <li><a href="#manual__faq?id=how-are-the-tft-managed">How are the TFT managed?</a></li>
+<li><a href="#manual__faq?id=what-is-the-difference-between-internet-capacity-and-connectivity-does-threefold-replace-my-internet-service-provider-isp">What is the difference between Internet capacity and connectivity? Does ThreeFold replace my Internet service provider (ISP)?</a></li>
 <li><a href="#manual__faq?id=ive-read-that-threefold-is-carbon-negative-what-does-this-imply">I've read that Threefold is Carbon Negative, what does this imply?</a></li>
 <li><a href="#manual__faq?id=who-are-the-people-working-for-threefold">Who are the people working for Threefold?</a></li>
 <li><a href="#manual__faq?id=who-are-the-co-founders-of-threefold">Who are the co-founders of Threefold?</a></li>
@@ -104,6 +105,7 @@
 <li><a href="#manual__faq?id=what-is-the-network-information-to-access-bsc-for-the-threefold-token-what-is-the-token-address-for-adding-the-token-in-the-metamask-app">What is the network information to access BSC for the Threefold token? What is the token address for adding the token in the MetaMask app?</a></li>
 <li><a href="#manual__faq?id=how-can-i-trade-tft-on-pancake-swap-how-can-i-add-tft-on-pancake-swap">How can I trade TFT on Pancake Swap? How can I add TFT on Pancake Swap?</a></li>
 <li><a href="#manual__faq?id=how-can-i-swap-threefold-tokens-tft-on-stellar-blockchain">How can I swap Threefold tokens (TFT) on Stellar Blockchain?</a></li>
+<li><a href="#manual__faq?id=on-my-website-users-can-donate-tft-on-the-stellar-chain-is-there-a-way-for-users-on-my-website-to-easily-track-the-total-sum-of-tft-donated">On my website, users can donate TFT on the Stellar Chain. Is there a way for users on my website to easily track the total sum of TFT donated?</a></li>
 </ul>
 </li>
 <li><a href="#manual__faq?id=tf-connect-app-tf-dashboard-graphql-grix-proxy-and-polkadot-substrate">TF Connect App, TF Dashboard, GraphQL, Grix Proxy and Polkadot Substrate</a>
@@ -123,6 +125,7 @@
 <li><a href="#manual__faq?id=how-can-i-use-graphql-to-find-information-on-the-threefold-grid">How can I use GraphQl to find information on the Threefold Grid?</a></li>
 <li><a href="#manual__faq?id=how-can-i-use-grid-proxy-to-find-information-on-the-threefold-grid-and-3nodes">How can I use Grid Proxy to find information on the Threefold Grid and 3nodes?</a></li>
 <li><a href="#manual__faq?id=who-is-hosting-graphql-and-grid-proxy-on-the-threefold-grid">Who is hosting GraphQL and Grid Proxy on the Threefold Grid?</a></li>
+<li><a href="#manual__faq?id=i-do-not-remember-the-name-threefold-3bot-id-associated-with-my-seed-phrase-on-the-threefold-connect-app-can-i-recover-my-tf-connect-app-account-with-only-the-seed-phrase-and-not-the-name-3bot-id-associated-with-it">I do not remember the name (Threefold 3bot ID) associated with my seed phrase on the Threefold Connect app. Can I recover my TF Connect app account with only the seed phrase and not the name (3bot ID) associated with it?</a></li>
 </ul>
 </li>
 <li><a href="#manual__faq?id=threefold-commercial-grid-services">Threefold Commercial Grid Services</a>
@@ -160,7 +163,9 @@
 <li><a href="#manual__faq?id=can-i-use-the-tfchain-secret-on-the-threefold-connect-app-for-the-profile-settings-on-the-threefold-playground">Can I use the TFChain secret on the Threefold Connect App for the Profile settings on the Threefold Playground?</a></li>
 <li><a href="#manual__faq?id=does-the-threefold-grid-charge-the-total-resources-rented-or-it-only-charges-the-resources-used-during-deployment">Does the Threefold Grid charge the total resources rented or it only charges the resources used during deployment?</a></li>
 <li><a href="#manual__faq?id=do-i-pay-for-internet-traffic-while-deploying-workloads-on-ipv4-ipv6-or-planetary-network">Do I pay for Internet traffic while deploying workloads on IPv4, IPv6 or Planetary Network?</a></li>
+<li><a href="#manual__faq?id=what-is-the-monthly-cost-for-an-ipv4-or-an-ipv6-public-address-on-the-threefold-grid">What is the monthly cost for an IPv4 or an IPv6 public address on the Threefold Grid?</a></li>
 <li><a href="#manual__faq?id=what-are-the-differences-between-a-container-a-micro-virtual-machine-and-a-full-virtual-machine-vm">What are the differences between a container, a micro virtual machine and a full virtual machine (VM)?</a></li>
+<li><a href="#manual__faq?id=what-is-a-3node-gateway-how-can-i-configure-a-3node-as-a-gateway-node">What is a 3node gateway? How can I configure a 3node as a gateway node?</a></li>
 <li><a href="#manual__faq?id=the-gateways-are-advertised-as-many-to-many-how-can-i-have-more-than-one-gateway-assigned-to-a-deployment-can-more-gateways-be-added-after-deployment">The gateways are advertised as many-to-many. How can I have more than one gateway assigned to a deployment? Can more gateways be added after deployment?</a></li>
 </ul>
 </li>
@@ -184,6 +189,8 @@
 <li><a href="#manual__faq?id=can-i-use-the-same-seed-phrase-for-my-mainnet-and-testnest-accounts-how-can-i-transfer-my-tft-from-mainnet-to-testnet-or-vice-versa">Can I use the same seed phrase for my mainnet and testnest accounts? How can I transfer my TFT from mainnet to testnet or vice versa?</a></li>
 <li><a href="#manual__faq?id=can-i-recover-my-seed-phrase">Can I recover my seed phrase?</a></li>
 <li><a href="#manual__faq?id=do-i-need-a-full-or-micro-virtual-machine-vm-when-i-run-qsfs-quantum-safe-file-system-on-the-threefold-grid">Do I need a full or micro virtual machine (VM) when I run QSFS, quantum safe file system, on the Threefold Grid?</a></li>
+<li><a href="#manual__faq?id=what-is-the-method-to-ssh-into-a-3node-on-ipv4-ipv6-and-the-planetary-network">What is the method to SSH into a 3node on IPv4, IPv6 and the Planetary Network?</a></li>
+<li><a href="#manual__faq?id=how-can-i-transfer-a-file-from-my-computer-to-the-virtual-machine-vm-deployed-on-the-threefold-grid-how-can-i-do-ssh-file-transfer-from-remote-to-local-and-vice-versa">How can I transfer a file from my computer to the virtual machine (VM) deployed on the Threefold Grid? How can I do SSH file transfer from Remote to Local and vice versa?</a></li>
 </ul>
 </li>
 <li><a href="#manual__faq?id=terraform">Terraform</a>
@@ -284,6 +291,7 @@
 <li><a href="#manual__faq?id=what-is-the-difference-between-v2-and-v3-minting">What is the difference between V2 and V3 minting?</a></li>
 <li><a href="#manual__faq?id=how-long-is-the-minting-period-of-the-tokens-on-threefold-how-long-is-the-farming-period">How long is the minting period of the tokens on Threefold? How long is the farming period?</a></li>
 <li><a href="#manual__faq?id=what-is-the-start-and-end-of-the-current-minting-period-what-are-the-minting-periods-for-threefold-farming-in-2023">What is the start and end of the current minting period? What are the minting periods for Threefold Farming in 2023?</a></li>
+<li><a href="#manual__faq?id=what-is-the-tft-minting-address-on-stellar-chain">What is the TFT minting address on Stellar Chain?</a></li>
 <li><a href="#manual__faq?id=can-titans-and-diy-3nodes-share-the-same-farm">Can Titans and DIY 3nodes share the same farm?</a></li>
 <li><a href="#manual__faq?id=do-i-need-one-farm-for-each-3node">Do I need one farm for each 3node?</a></li>
 <li><a href="#manual__faq?id=can-a-single-farm-be-composed-of-many-3nodes">Can a single farm be composed of many 3nodes?</a></li>
@@ -525,6 +533,15 @@ ThreeFold Tokens are exclusively produced through a process called farming, whic
 ### How are the TFT managed?
 
 TFT are managed by the ThreeFold Blockchain (“TF Chain”). 
+
+***
+
+### What is the difference between Internet capacity and connectivity? Does ThreeFold replace my Internet service provider (ISP)?
+
+In simple terms, the Internet is composed of both capacity and connectivity. Capacity is where the data and resources are being handled, for example in servers. Connectivity is the infrastructure that transfer data and resources between servers. The latter is linked to the typical Internet service provider (ISP).
+
+ThreeFold’s technology enables distributed capacity generation, but Threefold doesn’t deal in connectivity.
+3nodes offer Internet capacity, but farmers still rely on connectivity provider like the usual Internet service provider (ISP).
 
 ***
 
@@ -1040,6 +1057,13 @@ It is possible to swap TFT on Stellar Chain. Here's how to do it with [StellarX]
 
 First, make sure your wallet has a TFT trustline. Second, go on [StellarX Swap section](https://stellarx.com/swap). Third, choose TFT and the other token of the swapping pair then swap. If you do not see TFT, make sure you have a TFT trustline linked to your wallet.
 
+***
+
+### On my website, users can donate TFT on the Stellar Chain. Is there a way for users on my website to easily track the total sum of TFT donated? 
+
+There is a simple way to do this. The [Stellar Explorer](https://stellar.expert/explorer/public) has an embeddable widget that you can insert on any website, including WordPress. 
+
+Simply go to the account you’re interested in showing the balance of, look for “Balance History”, select TFT, and finally click the small icon next to the heading to reveal the embed code. In your WordPress page editor, in HTML mode, paste the embed code.
 
 ***
 ## TF Connect App, TF Dashboard, GraphQL, Grix Proxy and Polkadot Substrate
@@ -1166,6 +1190,14 @@ You can find the parameters to be written in the URL when visiting the [GraphQL 
 GraphQL and Grid Proxy are hosted by Threefold for everyone to use.
 
 Note that it is also possible to run your own instance of those tools.
+
+***
+
+### I do not remember the name (Threefold 3bot ID) associated with my seed phrase on the Threefold Connect app. Can I recover my TF Connect app account with only the seed phrase and not the name (3bot ID) associated with it?
+
+If you forgot the name associated with your seed phrase on the TF Connect app, you can always create a new identity (Threefold 3bot ID) and import your wallet using the old seed phrase. 
+
+Since the Connect App is also used for identity and authentication, you need both the name (3bot ID) and seed phrase to fully recover your account. The wallet is only linked to the seed phrase and not the name (3bot ID).
 
 ***
 
@@ -1378,7 +1410,17 @@ Billing is based on how many resources you reserve, not how much you use them. F
 
 ### Do I pay for Internet traffic while deploying workloads on IPv4, IPv6 or Planetary Network?
 
-You do pay for internet traffic while deploying on the Threefold Grid. It is calculated during deployment and paid with Threefold tokens.
+You do pay for internet traffic while deploying on the Threefold Grid. It is calculated during deployment and paid with Threefold tokens (TFT).
+
+Note that the private overlay network traffic is not billed.
+
+***
+
+### What is the monthly cost for an IPv4 or an IPv6 public address on the Threefold Grid? 
+
+The cost for an IPv4 public address is around 3$/month (USD).
+
+For an IPv6 address, there is no cost.
 
 ***
 
@@ -1408,6 +1450,49 @@ The following is a list of certain features related to containers as well as ful
   * examples: on the [Playground](https://play.grid.tf/), we have Ubuntu 18.04, 20.04, 22.04 and more
  
 Note that you can run Kubernetes on a micro VM and you can run a very minimal operating system in a full VM. There are many possibilities when using those technologies.
+
+***
+
+### What is a 3node gateway? How can I configure a 3node as a gateway node?
+
+A 3node becomes a gateway when a Threefold farmer adds a public IP address to the node itself on the [Threefold Dashboard](https://dashboard.grid.tf/). In doing so, the IP address is then handed over to the base operating system of the node itself. The IP address can then be used in the overall functions of the TF Grid.
+
+Note that this process differs from when an IP address that has been added to a farm is deployed with a workload in order for that workload to be accessible on the Internet.
+
+To configure a 3node as a gateway node, you need a public IP block from your internet service provider (ISP).
+
+You can configure a 3node as a gateway node on the [TF mainnet](https://dashboard.grid.tf/), [TF testnet](https://dashboard.test.grid.tf/) and [TF devnet](https://dashboard.dev.grid.tf/). You thus need to choose the correct TF Dashboard link (main, test, dev).
+
+To configure a 3node as a gateway node, follow these steps:
+
+* Configure your DNS records
+  * Type: A
+    * Name: <YOUR_SUBDOMAIN>
+    * Value: <YOUR_IPv4_ADDRESS>
+  * Type: NS
+    * Name: _acme-challenge.<YOUR_SUBDOMAIN>
+    * Value: <YOUR_SUBDOMAIN>.<YOUR_DOMAIN>
+  * Type: CNAME
+    * Name: *.<YOUR_SUBDOMAIN>.<YOUR_DOMAIN>
+    * Value: <YOUR_SUBDOMAIN>
+  * Type: AAAA 
+    * Name: <YOUR_SUBDOMAIN>
+    * Value: <YOUR_IPv6_ADDRESS>
+* Configure your 3node parameters on the TF Dashboard
+  * Go to the [Threefold Dashboard](https://dashboard.grid.tf/)
+  * Go to the section **Portal**
+  * Go to the subsection **Farms**
+  * Choose the 3node you want to turn into a gateway node and click on **Actions** (Add a public config) on the right
+  * Enter the necessary information and click **Save**
+    * IPV4: Enter the IPv4 address of your public IP block
+    * Gateway: Enter the gateway of your public IP block
+    * IPV6: Enter the IPv6 address of your public IP block
+    * Gateway IPV6: Enter the gateway of your public IP block
+    * Domain: <YOUR_SUBDOMAIN>.<YOUR_DOMAIN>
+
+Once this is done, you should see the IPv4 and IPv6 addresses in the section **PUB** of your 3node screen.
+
+To learn more about this process, [watch this great video](https://youtu.be/axvKipK7MQM).
 
 ***
 
@@ -1481,7 +1566,9 @@ Oh yes it is. Legend has it, it can even be done under 10 minutes. Would you giv
 
 ### Can I deploy a Presearch Node?
 
-Yes you can! Check [this link](https://play.grid.tf/#/presearch). Note that you will need to select on the TF Grid a 3node with a Public IP.
+It is possible to deploy a Presearch node on the Threefold Grid. You can easily deploy a Presearch node on the Threefold Playground. Follow [this link](https://play.grid.tf/#/presearch). 
+
+Note that each 3node can deploy one Presearch node without the need of having a public IP. To deploy more than one Presearch node on a 3node, you will need to select on the TF Grid a 3node with a Public IP.
 
 ***
 
@@ -1591,6 +1678,43 @@ To recover your seed phrase on the Threefold Connect App, go to the Wallet secti
 ### Do I need a full or micro virtual machine (VM) when I run QSFS, quantum safe file system, on the Threefold Grid?
 
 QSFS can be run on both a full virtual machine or a micro virtual machine (VM). The QSFS is a "mountable" object, like a disk. It's defined in its own block, then specified as a mount within a VM. 
+
+***
+
+### What is the method to SSH into a 3node on IPv4, IPv6 and the Planetary Network?
+
+To SSH into a 3node, find the IP address of your Threefold deployment and do the following on your local computer terminal:
+
+* IPv4
+  * ssh root@IPv4_Address_Deployment
+* IPv6 and Planetary Network
+  * Linux
+    * Using bracket
+      * ssh root@[IPv6_Address_Deployment]
+  * MAC
+    * Using bracket and backslash
+      * ssh root@\\[IPv6_Address_Deployment\\]
+
+Note that the Planetary Network is on IPv6, and thus IPv6 and Planetary Network share the same method.
+
+***
+
+### How can I transfer a file from my computer to the virtual machine (VM) deployed on the Threefold Grid? How can I do SSH file transfer from Remote to Local and vice versa?
+
+You can use **scp** in the terminal to achieve this. There are some differences in the syntax whether you are using IPv4 or IPv6 (and thus also the Planetary Network).
+
+* IPv4
+  * scp -r folder root@IPv4_Address_Deployment:/PATH
+* IPv6
+  * Linux
+    * Using bracket
+      * scp root@[IPv6_Address_Deployment]:/PATH
+  * MAC
+    * Using bracket and backslash
+      * scp root@\\[IPv6_Address_Deployment\\]:/PATH 
+
+For more information, read [this](http://www.whatismyipv6.com/blogs/macipv6/wordpress/?p=118). 
+
 
 ***
 
@@ -2068,6 +2192,14 @@ The minting periods for the 12 months of 2023 are the following:
 | Dec 2023 | December 1, 2023 at 3:20:40 am  | December 31, 2023 at 2:08:40 pm |
 
 Note: A minting period is 2630880 seconds
+
+***
+
+### What is the TFT minting address on Stellar Chain?
+
+The TFT minting address on Stellar Chain is the following: GBOVQKJYHXRR3DX6NOX2RRYFRCUMSADGDESTDNBDS6CDVLGVESRTAC47
+
+You can see it on the Stellar Explorer [here](https://stellar.expert/explorer/public/account/GBOVQKJYHXRR3DX6NOX2RRYFRCUMSADGDESTDNBDS6CDVLGVESRTAC47). 
 
 ***
 
