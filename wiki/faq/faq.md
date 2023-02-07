@@ -2178,18 +2178,18 @@ The minting periods for the 12 months of 2023 are the following:
 
 | Month    | Start of the Minting Period     | End of the Minting Period       |
 |----------|---------------------------------|---------------------------------|
-| Jan 2023 | December 31, 2022 at 4:32:40 am | January 30, 2023 at 3:20:40 pm  |
-| Feb 2023 | January 30, 2023 at 3:20:40 pm  | March 2, 2023 at 2:08:40 am     |
-| Mar 2023 | March 2, 2023 at 2:08:40 am     | April 1, 2023 at 12:56:40 pm    |
-| Apr 2023 | April 1, 2023 at 12:56:40 pm    | May 1, 2023 at 11:44:40 pm      |
-| May 2023 | May 1, 2023 at 11:44:40 pm      | June 1, 2023 at 10:32:40 am     |
-| Jun 2023 | June 1, 2023 at 10:32:40 am     | July 1, 2023 at 9:20:40 pm      |
-| Jul 2023 | July 1, 2023 at 9:20:40 pm      | August 1, 2023 at 8:08:40 am    |
-| Aug 2023 | August 1, 2023 at 8:08:40 am    | August 31, 2023 at 6:56:40 pm   |
-| Sep 2023 | August 31, 2023 at 6:56:40 pm   | October 1, 2023 at 5:44:40 am   |
-| Oct 2023 | October 1, 2023 at 5:44:40 am   | October 31, 2023 at 4:32:40 pm  |
-| Nov 2023 | October 31, 2023 at 4:32:40 pm  | December 1, 2023 at 3:20:40 am  |
-| Dec 2023 | December 1, 2023 at 3:20:40 am  | December 31, 2023 at 2:08:40 pm |
+| Jan 2023 | December 31, 2022 at 4\:32\:40 am | January 30, 2023 at 3\:20\:40 pm  |
+| Feb 2023 | January 30, 2023 at 3\:20\:40 pm  | March 2, 2023 at 2\:08\:40 am     |
+| Mar 2023 | March 2, 2023 at 2\:08\:40 am     | April 1, 2023 at 12\:56\:40 pm    |
+| Apr 2023 | April 1, 2023 at 12\:56\:40 pm    | May 1, 2023 at 11\:44\:40 pm      |
+| May 2023 | May 1, 2023 at 11\:44\:40 pm      | June 1, 2023 at 10\:32\:40 am     |
+| Jun 2023 | June 1, 2023 at 10\:32\:40 am     | July 1, 2023 at 9\:20\:40 pm      |
+| Jul 2023 | July 1, 2023 at 9\:20\:40 pm      | August 1, 2023 at 8\:08\:40 am    |
+| Aug 2023 | August 1, 2023 at 8\:08\:40 am    | August 31, 2023 at 6\:56\:40 pm   |
+| Sep 2023 | August 31, 2023 at 6\:56\:40 pm   | October 1, 2023 at 5\:44\:40 am   |
+| Oct 2023 | October 1, 2023 at 5\:44\:40 am   | October 31, 2023 at 4\:32\:40 pm  |
+| Nov 2023 | October 31, 2023 at 4\:32\:40 pm  | December 1, 2023 at 3\:20\:40 am  |
+| Dec 2023 | December 1, 2023 at 3\:20\:40 am  | December 31, 2023 at 2\:08\:40 pm |
 
 Note: A minting period is 2630880 seconds
 
