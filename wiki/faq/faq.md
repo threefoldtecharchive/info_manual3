@@ -391,7 +391,7 @@
 <li><a href="#manual__faq?id=is-it-possible-to-have-direct-access-to-zero-oss-core-to-force-a-reboot">Is it possible to have direct access to Zero-OS's core to force a reboot?</a></li>
 <li><a href="#manual__faq?id=do-i-need-some-port-forwarding-in-my-router-for-each-3node-server">Do I need some port forwarding in my router for each 3node server?</a></li>
 <li><a href="#manual__faq?id=are-3node-servers-noisy-are-there-certain-servers-that-are-less-noisy-than-others">Are 3node servers noisy? Are there certain servers that are less noisy than others?</a></li>
-<li><a href="#manual__faq?id=are-there-ways-to-reduce-3node-serves-noises">Are there ways to reduce 3node serves' noises?</a></li>
+<li><a href="#manual__faq?id=are-there-ways-to-reduce-3node-servers-noises">Are there ways to reduce 3node servers' noises?</a></li>
 <li><a href="#manual__faq?id=what-is-the-difference-between-the-two-cpus-i7-6700-and-i7-6700t">What is the difference between the two CPUs: i7-6700 and i7-6700T?</a></li>
 <li><a href="#manual__faq?id=i-built-a-3node-out-of-old-hardware-is-it-possible-that-my-bios-or-uefi-has-improper-time-and-date-set-as-factory-default">I built a 3node out of old hardware. Is it possible that my BIOS or UEFI has improper time and date set as factory default?</a></li>
 <li><a href="#manual__faq?id=i-have-rack-servers-in-my-threefold-farm-can-i-set-rack-servers-vertically">I have rack servers in my Threefold farm. Can I set rack servers vertically?</a></li>
@@ -2880,11 +2880,11 @@ The noises from a server can be similar to the noise of a conventional pedestal 
 
 It has been stated that Dell servers are quieter than HP. For Dell, R710-R720 are quieter than Compellent. You can check the server's manual and see directly the noise they produce in decibels.
 
-Note that serves generate *white noise*. White noise is often used for sound masking. For some, it helps them to relax and to fall asleep. A server in your bedroom, why not?
+Note that servers generate *white noise*. White noise is often used for sound masking. For some, it helps them to relax and to fall asleep. A server in your bedroom, why not?
 
 ***
 
-### Are there ways to reduce 3node serves' noises?
+### Are there ways to reduce 3node servers' noises?
 
 To reduce the noise, you can remove all the unnecessary cards in the servers as well as the HDD disks if you don't use them. Unplugging the SAS cables can also help. You can also set the fans to adjust their speed instead of being constant.
 
