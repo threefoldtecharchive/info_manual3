@@ -3130,14 +3130,17 @@ The onboard RAID controller is not linked to your PCIe SSDs. In this case, you c
 
 It’s possible to rename farms through the Polkadot UI. For mainnet, use [this link](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.grid.tf#/extrinsics).
 
-Under *using the selected account*, select the account that owns the farm, choose *tfgridModule* from the dropdown menu *submit the following extrinsic*, then select *updateFarm(id, name, pricingPolicyId)*. Then under *name: Bytes*, write the new farm name. Finally, click on the bottom *Submit Transaction* at the bottom right of the screen.
+1. Under *using the selected account*, select the account that owns the farm
+2. Choose *tfgridModule* from the dropdown menu *submit the following extrinsic*, 
+3. Select *updateFarm(id, name, pricingPolicyId)*
+4. Under *name: Bytes*, write the new farm name
+5. Finally, click on the bottom *Submit Transaction* at the bottom right of the screen
 
 ***
 
 ### How can I delete a farm on polkadot.js?
-It’s possible to delete farms through the Polkadot UI. For mainnet, use [this link](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.grid.tf#/extrinsics).
 
-Under *using the selected account*, select the account that owns the farm, choose *tfgridModule* from the dropdown menu *submit the following extrinsic*, then select *deleteFarm(id)*. Then under *id: u32*, write the ID of the Threefold farm you want to delete. Finally, click on the bottom *Submit Transaction* at the bottom right of the screen.
+The ability to delete a farm was removed from TF Chain due to concerns that nodes could be left without a farm and thus cause problems with billing.
 
 ***
 
@@ -3145,7 +3148,11 @@ Under *using the selected account*, select the account that owns the farm, choos
 
 It’s possible to delete nodes through the Polkadot UI. For mainnet, use [this link](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Ftfchain.grid.tf#/extrinsics).
 
-Under *using the selected account*, select the account that owns the farm, choose *tfgridModule* from the dropdown menu *submit the following extrinsic*, then select *deleteNode(id)*. Then under *id: u32*, write the ID of the 3node you want to delete. Finally, click on the bottom *Submit Transaction* at the bottom right of the screen.
+1. Under *using the selected account*, select the account that owns the farm, 
+2. Choose *tfgridModule* from the dropdown menu *submit the following extrinsic*
+3. Select *deleteNodeFarm(nodeId)*
+4. Under *id: u32*, write the ID of the 3node you want to delete
+5. Finally, click on the bottom *Submit Transaction* at the bottom right of the screen
 
 ***
 
