@@ -101,7 +101,7 @@
 <li><a href="#manual__faq?id=how-to-set-up-tft-on-metamask">How to Set Up TFT on Metamask</a></li>
 <li><a href="#manual__faq?id=how-to-set-up-a-stellar-address-for-tft-transactions">How to set up a Stellar address for TFT transactions?</a></li>
 <li><a href="#manual__faq?id=how-long-does-it-take-when-you-use-the-bsc-stellar-bridge">How long does it take when you use the BSC-Stellar Bridge?</a></li>
-<li><a href="#manual__faq?id=what-are-the-cost-when-bridging-from-stellar-to-metamask-and-from-metamask-to-stellar">What are the cost when bridging from Stellar to MetaMask and from MetaMask to Stellar?</a></li>
+<li><a href="#manual__faq?id=what-are-the-cost-when-bridging-from-stellar-to-metamask-bsc-and-from-metamask-to-stellar">What are the cost when bridging from Stellar to MetaMask (BSC) and from MetaMask to Stellar?</a></li>
 <li><a href="#manual__faq?id=what-is-the-network-information-to-access-bsc-for-the-threefold-token-what-is-the-token-address-for-adding-the-token-in-the-metamask-app">What is the network information to access BSC for the Threefold token? What is the token address for adding the token in the MetaMask app?</a></li>
 <li><a href="#manual__faq?id=how-can-i-trade-tft-on-pancake-swap-how-can-i-add-tft-on-pancake-swap">How can I trade TFT on Pancake Swap? How can I add TFT on Pancake Swap?</a></li>
 <li><a href="#manual__faq?id=how-can-i-swap-threefold-tokens-tft-on-stellar-blockchain">How can I swap Threefold tokens (TFT) on Stellar Blockchain?</a></li>
@@ -983,7 +983,7 @@ General Tips
 
 * It's a good idea to start with a small amount the first time.
 * The process is usually quick, but it can take up to 48h. In doubt, contact [TF Support](https://threefold.io/support/).
-* Going from Stellar to BSC costs 50 TFT.
+* Going from Stellar to BSC costs 100 TFT.
 * Going from BSC to Stellar costs 1 TFT.
 * There is also fixed fee of 0.01 TFT when using the Stellar Blockchain.
 * Gas fees on BSC is usually around 5-20 gwei.
@@ -1023,9 +1023,9 @@ The bridge will process deposits/withdrawals within 48 hours.
 
 ***
 
-### What are the cost when bridging from Stellar to MetaMask and from MetaMask to Stellar?
+### What are the cost when bridging from Stellar to MetaMask (BSC) and from MetaMask to Stellar?
 
-It will cost 50 TFT for the former, and 1 TFT for the latter. There is a fixed fee of 0.01 TFT when using the Stellar blockchain. Those fees are taken from the total of what you are bridging. For example, if you Bridge 80 TFT, from Stellar to MetaMask, you will receive 30 TFT.
+It will cost 100 TFT for the former, and 1 TFT for the latter. There is a fixed fee of 0.01 TFT when using the Stellar blockchain. Those fees are taken from the total of what you are bridging. For example, if you Bridge 200 TFT, from Stellar to MetaMask (BSC), you will receive 100 TFT.
 
 ***
 
