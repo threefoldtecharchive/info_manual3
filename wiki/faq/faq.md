@@ -497,7 +497,7 @@
 </li>
 <li><a href="#manual__faq?id=farmerbot">Farmerbot</a>
 <ul>
-<li><a href="#manual__faq?id=why-do-farmerbot-needs-to-wake-nodes-up-for-uptime-report-if-they-are-unused-and-shut-down">Why do farmerbot needs to wake nodes up for uptime report, if they are unused and shut down?</a></li>
+<li><a href="#manual__faq?id=why-does-the-farmerbot-need-to-wake-nodes-up-for-uptime-report-if-they-are-unused-and-shut-down">Why does the farmerbot need to wake nodes up for uptime report, if they are unused and shut down?</a></li>
 <li><a href="#manual__faq?id=can-a-farmer-opt-in-for-farmerbot-but-also-make-exemption-for-certain-nodes-to-never-be-shutdown-regardless-for-v1">Can a farmer opt in for farmerbot but also make exemption for certain nodes to never be shutdown regardless (for v1)?</a></li>
 <li><a href="#manual__faq?id=will-this-feature-require-a-master-node-that-will-never-be-shut-down">Will this feature require a master node that will never be shut down?</a></li>
 <li><a href="#manual__faq?id=concerning-the-turning-on-of-offline-nodes-at-the-end-how-does-a-farmer-decide-what-almost-full-means-what-do-we-decide">Concerning the turning on of offline nodes, at the end, how does a farmer decide what almost full means? What do we decide?</a></li>
@@ -3553,7 +3553,7 @@ For example, on the Dell R720, you can have 24x16gb RAM ECC sticks, but it can o
 
 ## Farmerbot
 
-### Why do farmerbot needs to wake nodes up for uptime report, if they are unused and shut down?
+### Why does the farmerbot need to wake nodes up for uptime report, if they are unused and shut down?
 
 Because we want to know that the node is still available (is still there to be used). A farmer can unplug a node at any time so we can't distinct a node that has been unplugged from a node that is off.
 
