@@ -477,7 +477,7 @@
 <li><a href="#manual__faq?id=how-is-the-farming-minting-reward-calculated-is-the-grid-always-monitoring-my-3node">How is the farming minting reward calculated? Is the Grid always monitoring my 3node?</a></li>
 <li><a href="#manual__faq?id=how-does-communication-happen-on-the-threefold-grid-at-the-3nodes-level">How does communication happen on the Threefold Grid at the 3node's level?</a></li>
 <li><a href="#manual__faq?id=what-is-the-threefold-node-status-bot-telegram-link">What is the Threefold Node Status bot Telegram link?</a></li>
-<li><a href="#manual__faq?id=how-does-the-threefold-node-status-bot-works-how-can-i-use-the-threefold-node-status-bot-to-verify-if-my-3node-is-online">How does the Threefold Node Status bot works? How can I use the Threefold Node Status bot to verify if my 3node is online?</a></li>
+<li><a href="#manual__faq?id=how-does-the-threefold-node-status-bot-work-how-can-i-use-the-threefold-node-status-bot-to-verify-if-my-3node-is-online">How does the Threefold Node Status bot work? How can I use the Threefold Node Status bot to verify if my 3node is online?</a></li>
 <li><a href="#manual__faq?id=how-does-the-telegram-status-bot-get-information-from-my-3node-my-3node-is-online-on-the-threefold-explorer-but-offline-on-the-telegram-status-bot-is-this-normal">How does the Telegram Status Bot get information from my 3node? My 3node is online on the Threefold Explorer, but offline on the Telegram Status Bot, is this normal?</a></li>
 <li><a href="#manual__faq?id=i-noticed-that-when-i-reboot-my-3node-the-uptime-counter-on-the-threefold-explorer-goes-back-to-zero-does-it-mean-i-lose-uptime-and-the-uptime-start-over-again-when-i-reboot-the-3node">I noticed that when I reboot my 3node, the uptime counter on the Threefold Explorer goes back to zero. Does it mean I lose uptime and the uptime start over again when I reboot the 3node?</a></li>
 <li><a href="#manual__faq?id=one-of-my-nodes-is-showing-the-wrong-location-any-problem-with-that">One of my nodes is showing the wrong location. Any problem with that?</a></li>
@@ -3446,7 +3446,7 @@ The link is the following: https://t.me/tfnodestatusbot.
 
 ***
 
-### How does the Threefold Node Status bot works? How can I use the Threefold Node Status bot to verify if my 3node is online?
+### How does the Threefold Node Status bot work? How can I use the Threefold Node Status bot to verify if my 3node is online?
 
 1. Click on this link: https://t.me/tfnodestatusbot
 
