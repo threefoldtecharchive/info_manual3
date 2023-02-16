@@ -495,6 +495,14 @@
 <li><a href="#manual__faq?id=i-have-24-dimms-ram-slots-on-my-server-can-i-use-them-all">I have 24 DIMMS ram slots on my server. Can I use them all?</a></li>
 </ul>
 </li>
+<li><a href="#manual__faq?id=farmerbot">Farmerbot</a>
+<ul>
+<li><a href="#manual__faq?id=why-do-farmerbot-needs-to-wake-nodes-up-for-uptime-report-if-they-are-unused-and-shut-down">Why do farmerbot needs to wake nodes up for uptime report, if they are unused and shut down?</a></li>
+<li><a href="#manual__faq?id=can-a-farmer-opt-in-for-farmerbot-but-also-make-exemption-for-certain-nodes-to-never-be-shutdown-regardless-for-v1">Can a farmer opt in for farmerbot but also make exemption for certain nodes to never be shutdown regardless (for v1)?</a></li>
+<li><a href="#manual__faq?id=will-this-feature-require-a-master-node-that-will-never-be-shut-down">Will this feature require a master node that will never be shut down?</a></li>
+<li><a href="#manual__faq?id=concerning-the-turning-on-of-offline-nodes-at-the-end-how-does-a-farmer-decide-what-almost-full-means-what-do-we-decide">Concerning the turning on of offline nodes, at the end, how does a farmer decide what almost full means? What do we decide?</a></li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
@@ -3540,6 +3548,32 @@ It means *dual in-line memory module*. This type of computer memory is natively 
 Be careful when installing memory on a server. Always check your server's documentation to make sure your RAM sticks combination are correct. 
 
 For example, on the Dell R720, you can have 24x16gb RAM ECC sticks, but it can only handle 16 Quad ranked DIMMs. In this case, you can fill up all slots with registered DIMMs if you have a maximum of 4 quad DIMMS ranked on each CPU.
+
+***
+
+## Farmerbot
+
+### Why do farmerbot needs to wake nodes up for uptime report, if they are unused and shut down?
+
+Because we want to know that the node is still available (is still there to be used). A farmer can unplug a node at any time so we can't distinct a node that has been unplugged from a node that is off.
+
+***
+
+### Can a farmer opt in for farmerbot but also make exemption for certain nodes to never be shutdown regardless (for v1)? 
+
+We could do that, but as we are in the testing phase right now, it is not a good idea. But since The farmer is already able to configure the capacity planning rule: the percentage of how much unused resources he/she wants to be available, this deemed to be unnacessary. Whenever that percentage is reached a new node is powered on.
+
+***
+
+### Will this feature require a master node that will never be shut down?
+
+Yes, that is a requirement. Nodes are powered on by other nodes (WOL packet comes from one of the nodes in the farm). So if you want to be able to power them back on you have to have at least one node powered on.
+
+***
+
+### Concerning the turning on of offline nodes, at the end, how does a farmer decide what almost full means? What do we decide?
+
+Nodes are powered on in two cases: when the total resource usage reaches a certain percentage (defined by the farmer) or when there is an incoming find_node request and that the selected node is off.
 
 ***
 
