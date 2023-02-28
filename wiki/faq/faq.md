@@ -126,6 +126,7 @@
 <li><a href="#manual__faq?id=how-can-i-use-grid-proxy-to-find-information-on-the-threefold-grid-and-3nodes">How can I use Grid Proxy to find information on the Threefold Grid and 3nodes?</a></li>
 <li><a href="#manual__faq?id=who-is-hosting-graphql-and-grid-proxy-on-the-threefold-grid">Who is hosting GraphQL and Grid Proxy on the Threefold Grid?</a></li>
 <li><a href="#manual__faq?id=i-do-not-remember-the-name-threefold-3bot-id-associated-with-my-seed-phrase-on-the-threefold-connect-app-can-i-recover-my-tf-connect-app-account-with-only-the-seed-phrase-and-not-the-name-3bot-id-associated-with-it">I do not remember the name (Threefold 3bot ID) associated with my seed phrase on the Threefold Connect app. Can I recover my TF Connect app account with only the seed phrase and not the name (3bot ID) associated with it?</a></li>
+<li><a href="#manual__faq?id=how-can-i-vote-for-a-threefold-dao-proposal">How can I vote for a Threefold DAO proposal?</a></li>
 </ul>
 </li>
 <li><a href="#manual__faq?id=threefold-commercial-grid-services">Threefold Commercial Grid Services</a>
@@ -191,6 +192,14 @@
 <li><a href="#manual__faq?id=do-i-need-a-full-or-micro-virtual-machine-vm-when-i-run-qsfs-quantum-safe-file-system-on-the-threefold-grid">Do I need a full or micro virtual machine (VM) when I run QSFS, quantum safe file system, on the Threefold Grid?</a></li>
 <li><a href="#manual__faq?id=what-is-the-method-to-ssh-into-a-3node-on-ipv4-ipv6-and-the-planetary-network">What is the method to SSH into a 3node on IPv4, IPv6 and the Planetary Network?</a></li>
 <li><a href="#manual__faq?id=how-can-i-transfer-a-file-from-my-computer-to-the-virtual-machine-vm-deployed-on-the-threefold-grid-how-can-i-do-ssh-file-transfer-from-remote-to-local-and-vice-versa">How can I transfer a file from my computer to the virtual machine (VM) deployed on the Threefold Grid? How can I do SSH file transfer from Remote to Local and vice versa?</a></li>
+</ul>
+</li>
+<li><a href="#manual__faq?id=grace-period-status-paused">Grace Period (Status Paused)</a>
+<ul>
+<li><a href="#manual__faq?id=the-status-of-my-deployment-is-paused-in-grace-period-how-can-i-resume-the-deployment">The status of my deployment is paused, in grace period, how can I resume the deployment?</a></li>
+<li><a href="#manual__faq?id=#once-i-refund-my-tf-wallet-how-long-does-it-take-for-the-deployment-to-resume-from-grace-period">Once I refund my TF wallet, how long does it take for the deployment to resume from grace period?</a></li>
+<li><a href="#manual__faq?id=can-i-ssh-into-my-deployments-when-they-are-in-grace-period-ie-when-their-status-is-paused">Can I SSH into my deployments when they are in grace period (i.e. when their status is paused)?</a></li>
+<li><a href="#manual__faq?id=how-long-is-the-grace-period-ie-when-the-deployment-status-is-paused">How long is the grace period (i.e. when the deployment status is paused)?</a></li>
 </ul>
 </li>
 <li><a href="#manual__faq?id=terraform">Terraform</a>
@@ -1209,6 +1218,15 @@ Since the Connect App is also used for identity and authentication, you need bot
 
 ***
 
+### How can I vote for a Threefold DAO proposal?
+
+Go to the [Threefold Dashboard](https://dashboard.grid.tf/). In the menu on the left, select **Portal** and then select **DAO**.
+Then vote for the DAO proposal you are interested in.
+
+Note that you need a farm with at least one active 3node to vote.
+
+***
+
 ## Threefold Commercial Grid Services
 
 ### What is the concept and the goals of the Threefold Commercial Grid Services project? 
@@ -1723,6 +1741,32 @@ You can use **scp** in the terminal to achieve this. There are some differences 
 
 For more information, read [this](http://www.whatismyipv6.com/blogs/macipv6/wordpress/?p=118). 
 
+***
+
+## Grace Period (Status Paused)
+
+### The status of my deployment is paused, in grace period, how can I resume the deployment? 
+
+When your wallet is running out of TFT to pay for deployments, your deployments will be paused.
+To resume your deployments, simply fill up your wallet with more TFT.
+
+***
+
+### Once I refund my TF wallet, how long does it take for the deployment to resume from grace period?
+
+It can take around one hour to change the status from "paused" to "ok" and thus for the deployment to resume.
+
+***
+
+### Can I SSH into my deployments when they are in grace period (i.e. when their status is paused)?
+
+While in grace period, you might not be able to SSH into your deployment. Refund your wallet to resume deployments.
+
+***
+
+### How long is the grace period (i.e. when the deployment status is paused)?
+
+The grace period is 2 weeks. During this period, you can refill your wallet to resume your deployment.
 
 ***
 
