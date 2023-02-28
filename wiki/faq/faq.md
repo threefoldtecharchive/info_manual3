@@ -1750,13 +1750,19 @@ For more information, read [this](http://www.whatismyipv6.com/blogs/macipv6/word
 When your wallet is running out of TFT to pay for deployments, your deployments will be paused.
 To resume your deployments, simply fill up your wallet with more TFT.
 
+***
+
 ### Once I refund my TF wallet, how long does it take for the deployment to resume from grace period?
 
 It can take around one hour to change the status from "paused" to "ok" and thus for the deployment to resume.
 
+***
+
 ### Can I SSH into my deployments when they are in grace period (i.e. when their status is paused)?
 
 While in grace period, you might not be able to SSH into your deployment. Refund your wallet to resume deployments.
+
+***
 
 ### How long is the grace period (i.e. when the deployment status is paused)?
 
