@@ -8,21 +8,22 @@ For a complete introduction of TFT, please refer to [__ThreeFold Library's TFT H
 
 ## Manuals on How to Buy TFT
 
-How to buy TFTs on different platforms
+How to buy and store TFTs on different platforms
 
-- [Buy TFTs on Binance Smart Chain using Pancake Swap Protocol](@threefold:tft_binance_defi.md)
-- [Buy TFTs on Binance Smart Chain using 1inch.io](@threefold:tft_1inch)
-- [Buy TFTs on GetTFT.com](https://gettft.com/gettft/#how-it-works)
-- [Buy and Store TFTs using TFConnect App](@threefold:_tft_buy_tfconnect)
-- [Buy and Store TFTs using Solar Wallet](@threefold:solar_wallet)
-- [Buy and Store TFTs inside Lobstr Wallet](@threefold:lobstr_wallet)
-- [Buy and Store TFTs on StellarTerm](@threefold:tft_stellarterm)
-- [Buy and Store TFTs on Interstellar](@threefold:tft_interstellar)
-- [Buy TFTs on BTC-Alpha Exchange](@threefold:tft_btc_alpha)
-- [Buy TFTs on StellarX Exchange](@threefold:tft_stellarx)
-- [Buy TFTs from TF Live Desk (OTC)](@threefold:tft_otc)
-- [Buy TFTs from Mazraa (Farmers)](@threefold:tft_mazraa)
-- [Buy TFTs from Bettertoken (Farmers)](@threefold:tft_bettertoken)
+- [BSC - Pancake Swap](!@threefold:tft_binance_defi)
+- [BSC - 1inch.io](@threefold:tft_1inch)
+- [GetTFT.com](https://gettft.com/gettft/#how-it-works)
+- [TFConnect App](@threefold:threefold_connect)
+- [Albedo Wallet](@threefold:albedo)
+- [Solar Wallet](@threefold:solar_wallet)
+- [Lobstr Wallet](@threefold:lobstr_wallet)
+- [StellarTerm](@threefold:tft_stellarterm)
+- [Interstellar](@threefold:tft_interstellar)
+- [BTC-Alpha Exchange](@threefold:tft_btc_alpha)
+- [StellarX Exchange](@threefold:tft_stellarx)
+- [TF Live Desk (OTC)](@threefold:tft_otc)
+- [Mazraa (Farmers)](@threefold:tft_mazraa)
+- [Bettertoken (Farmers)](@threefold:tft_bettertoken)
 
 
 ## Other Related Manuals on TFT
