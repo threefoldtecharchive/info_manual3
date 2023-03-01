@@ -10,7 +10,7 @@ For a complete introduction of TFT, please refer to [__ThreeFold Library's TFT H
 
 How to buy and store TFTs on different platforms
 
-- [BSC - Pancake Swap](!@threefold:tft_binance_defi)
+- [BSC - Pancake Swap](@threefold:tft_binance_defi)
 - [BSC - 1inch.io](@threefold:tft_1inch)
 - [GetTFT.com](https://gettft.com/gettft/#how-it-works)
 - [TFConnect App](@threefold:threefold_connect)
