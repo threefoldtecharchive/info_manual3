@@ -11,7 +11,7 @@ A twin is a unique identifier of where you can be found digitally. Click on `CRE
 ![ ](../img/dashboard_portal_create_twin.png ':size=600')
 
 If you want to connect your TwinID to the planetary network, fill in the IPv6 address you get from Yggdrasil.
-If not, no need to fill in the ip address, use ```127.0.0.1```.
+If not, no need to fill in the ip address, use the default ```::1```.
 
 This address is reserved for future usage once the digital twin will launch.
 
