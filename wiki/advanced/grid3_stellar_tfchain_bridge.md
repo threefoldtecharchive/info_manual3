@@ -22,7 +22,16 @@ go build .
 ## Stellar to TF Chain
 
 Create a Stellar wallet from the key that you generated.
-Transfer the TFT from your wallet to the bridge address GCMBZY4NGEV4CQYHJ6SXMRSTLTEOR2ERNKY6NH32LYCVDCN2E5CXZJOU. A depositfee of 1 TFT will be taken, so make sure you send a larger amount as 1 TFT.
+
+Transfer the TFT from your wallet to the bridge address:
+
+```
+GBNOTAYUMXVO5QDYWYO2SOCOYIJ3XFIP65GKOQN7H65ZZSO6BK4SLWSC
+```
+
+A deposit fee of 1 TFT will be taken, so make sure you send a larger amount as 1 TFT.
+
+> IMPORTANT NOTE: Please **always insert the memo text** for every transaction. The memo should be **twin_** (the respective person's twin id). Failure to do so will result in lost of tokens.
 
 ### Alternative Transfer to TF Chain
 
