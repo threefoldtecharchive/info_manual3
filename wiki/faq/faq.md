@@ -1287,9 +1287,9 @@ Onboarding is meant through FIAT. It is comparable to any other online service p
 
 ***
 
-### What does it mean to be a solution provider on the Threefold Grid?
+### What does it mean to be a on the Threefold Grid?
 
-A solution provider offers a solution on the Threefold Grid and receives 50% of the TFT utilization revenues from the workload related to the solution.
+A solution provider offers a solution on the Threefold Grid and receives up to 50% of the TFT utilization revenues from the workload related to the solution.
 
 A "solution" is something running on the grid, created by a community member. This can be brought forward to the council, who can vote on it to recognize it as a solution. On contract creation, a recognized solution can be referenced, in which case part of the payment goes toward the address coupled to the solution.
 
@@ -1299,7 +1299,7 @@ To become a solution provider, read the next question.
 
 ### How can I become a solution provider on top of the Threefold Grid?
 
-Threefold uses the Proof-of-Utilization distribution where 50% of the TFT utilization revenues goes to the solution provider offering a solution. If there is no solution provider associated with the deployment, the 50% revenues goes to a DAO owned Community Grant Wallet.
+Threefold uses the Proof-of-Utilization distribution where up to 50% of the TFT utilization revenues goes to the solution provider offering a solution. If there is no solution provider associated with the deployment, the (max) 50% revenues goes to a DAO owned Community Grant Wallet.
 
 There are a few steps to follow to become a solution provider:
 
