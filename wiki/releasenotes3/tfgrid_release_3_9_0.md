@@ -2,7 +2,7 @@
 
 Release Note of ThreeFold Grid v3.9.0.
 
-- Live on Mainnet 1/04/2023
+- Live on Mainnet 12/04/2023
 - Live on Testnet 23/03/2023
 
 
