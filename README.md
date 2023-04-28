@@ -4,9 +4,7 @@ How to use gitpod see publishingtools documentation https://library.threefold.me
 
 ## Planning info:
 
-> For progress please follow web presence board on Circles tool: https://circles.threefold.me/project/despiegk-product_web_threefold/wiki/home
-
-<!-- ## Develop on your own machine
+> For progress please follow web presence board on TF Foundation Projects: https://github.com/orgs/threefoldfoundation/projects
 
 Install publishtools:
 
