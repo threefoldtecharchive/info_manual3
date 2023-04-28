@@ -11,7 +11,7 @@ This release is mainly around power management/capacity planning orchestrated by
 ## The Components
 
 - TFChain v2.3.0
-- ZOS v3.6.0-rc1
+- ZOS v3.6.0
 - TF Farmerbot v1.0.0
 - TF Weblets v1.7.0
 - TF Dashboard v1.4.0
@@ -93,7 +93,7 @@ TF Farmerbot is a new component that aim as a power management solution that wou
 
 Please follow [this milestone](https://github.com/threefoldtech/tfchain/milestone/11) for more.
 
-### ZOS v3.5.0
+### ZOS v3.6.0
 
 - Support Switching dhcpd from udhcpd
 - WOL support
