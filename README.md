@@ -1,4 +1,4 @@
-# Welcome to the ThreeFold's main wiki
+# Welcome to the ThreeFold's Manual3
 
 How to use gitpod see publishingtools documentation https://library.threefold.me/info/publishtools
 
