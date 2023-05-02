@@ -8,4 +8,4 @@
 
 ## Your First Virtual Machine
 
-!!!include:getstarted_toc
+!!!include:tfgrid3_getstarted

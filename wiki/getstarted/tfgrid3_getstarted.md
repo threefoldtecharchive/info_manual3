@@ -34,7 +34,6 @@
 
 ## Advanced Deployment Techniques (Terraform)
 
-- [Terraform](terraform_home)
 - [Advanced Topics](advanced)
 
 
