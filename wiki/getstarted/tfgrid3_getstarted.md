@@ -32,7 +32,7 @@
 
 - [TFGrid Services](Manual3_tfservices)
 
-## Advanced Deployment Techniques (Terraform)
+## Advanced Deployment Techniques
 
 - [Advanced Topics](advanced)
 
