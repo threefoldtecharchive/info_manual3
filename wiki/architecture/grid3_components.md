@@ -53,21 +53,16 @@ The pricing policy defines:
 
 #### General notes :
 
-- Each price defines a price for a single UNIT/SECOND. So for example SU is the price of a single Storage Unit per second where a Storage Unit can be 1 Gigabyte
-- The price is defined as `mil` of the currency. 1 UNIT = 10,000,000 mil
+Each price (except for the NU) in defined for the consumption of a reference capacity unit during a period of time (see price table [here](https://library.threefold.me/info/manual/#/tfgrid/farming/threefold__farming_reward?id=farming-reward-calculation)).
 
 Example:
+SU price is 3.6 USD per month for 1 Gigabyte of storage usage.
+If a user reserves C = 10 Gigabytes during a period of T = 2 hours it will cost him C * T * SU price = 10 GB * 2h * 3.6/30d/24h USD/min = 0,1 USD
 
-Currency: TFT
-SU: 1000 (mil tft)
+For NU the price is defined regardless of the elapsed period of time.
 
-(Price for 1 Gigabyte of ssd storage costs 1000 / 10 000 000  TFT per second)
+Example:
+NU price is 1.5 mUSD for 1 Gigabyte of network usage. 
+If a user transfers C = 10 Gigabytes of data it will cost him C * NU price = 10 GB * 1.5/1000 USD/GB = 0.15 USD
 
-So let's assume capacity is created at **Time = T**
-- Node send first report at **T+s** with SU consumption C = (10 gigabytes)
-- price = C/(1024*1024*1024) * s * SU
-- price = 10 * s * SU
-- Assume s is 5 min (300 seconds)
-- Then price = 10 * 300 * 1000 = 3000000 mil = 3 TFT
-
-Same for each other unit EXCEPT the NU. The NU unit is incremental. It means the node will keep reporting the total amount of bytes consumed since the machine starts. So to correctly calculate the consumption over period S it has to be `now.NU - last.NU`
+In all cases the user will be charged the equivalent amount in TFT for its consumptions.
