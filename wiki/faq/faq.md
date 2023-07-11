@@ -42,7 +42,6 @@
 <li><a href="#manual__faq?id=how-are-threefold-token-tft-produced">How are Threefold Token (TFT) produced?</a></li>
 <li><a href="#manual__faq?id=how-are-the-tft-managed">How are the TFT managed?</a></li>
 <li><a href="#manual__faq?id=what-is-the-difference-between-internet-capacity-and-connectivity-does-threefold-replace-my-internet-service-provider-isp">What is the difference between Internet capacity and connectivity? Does ThreeFold replace my Internet service provider (ISP)?</a></li>
-<li><a href="#manual__faq?id=ive-read-that-threefold-is-carbon-negative-what-does-this-imply">I've read that Threefold is Carbon Negative, what does this imply?</a></li>
 <li><a href="#manual__faq?id=who-are-the-people-working-for-threefold">Who are the people working for Threefold?</a></li>
 <li><a href="#manual__faq?id=who-are-the-co-founders-of-threefold">Who are the co-founders of Threefold?</a></li>
 <li><a href="#manual__faq?id=in-a-nutshell-what-can-be-said-of-the-threefold-team">In a nutshell, what can be said of the Threefold team?</a></li>
@@ -562,9 +561,6 @@ ThreeFold’s technology enables distributed capacity generation, but Threefold 
 
 ***
 
-### I've read that Threefold is Carbon Negative, what does this imply?
-
-In short, to accomplish a Carbon Negative footprint, Threefold has a general strategy and many tactics that are all aimed at building and contributing to a regenerative and resilient environment. In long, read this [post](https://forum.threefold.io/t/supporting-initiatives-to-regenerate-the-planet/).
 
 ***
 
@@ -839,7 +835,6 @@ The Proof-of-Utilization distribution flow is the following:
 
 To see the Proof-of-Utilization distribution flow chart, check this [link](https://library.threefold.me/info/threefold#/tokens/threefold__token_overview).
 
-*Note: For billing purposes, ThreeFold DAO will check if the workload comes from a known sales channel and/or solution provider. If yes, then the billing smart contract code will know how to distribute the TFTs. If the sales channel and/or solution provider is not known, then the 50% will go to a DAO owned Community Grant Wallet.
 
 ***
 
@@ -1299,7 +1294,6 @@ To become a solution provider, read the next question.
 
 ### How can I become a solution provider on top of the Threefold Grid?
 
-Threefold uses the Proof-of-Utilization distribution where up to 50% of the TFT utilization revenues goes to the solution provider offering a solution. If there is no solution provider associated with the deployment, the (max) 50% revenues goes to a DAO owned Community Grant Wallet.
 
 There are a few steps to follow to become a solution provider:
 
