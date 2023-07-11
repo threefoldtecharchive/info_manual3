@@ -2,6 +2,7 @@
 ![](img/releasenotes.jpg)
 
 # ThreeFold TFGrid v3 Release Notes
+- [TFGrid v3.10.0](tfgrid_release_3_10_0)
 - [TFGrid v3.9.0](tfgrid_release_3_9_0)
 - [TFGrid v3.8.0](tfgrid_release_3_8_0)
 - [TFGrid v3.7.0](tfgrid_release_3_7_0)

@@ -1,11 +1,38 @@
-![](img/endlessscalable.png)
+# TFGrid Manual - Get Started
 
-# Get Started
+## Get Started - Farmers
 
-<!-- ## What do you need to know?
+- [Create a Farm](create_farm)
 
-- [The Basic Concepts of TFGrid 3.0](tfgrid3_what_to_know) -->
-
-## Your First Virtual Machine
+## Get Started Your First Virtual Machine
 
 !!!include:getstarted_toc
+
+## Grid Concepts
+
+- [TFGrid Primitives](tfgrid_primitives)
+- [Grace Period](grace_period)
+- [Buying TFT](tft_howtos)
+
+## Grid Platforms
+
+- [TF Dashboard](dashboard_readme)
+- [TF Portal](dashboard_portal_home)
+- [TF Explorer](explorer_home)
+- [TF Flist Hub](flist_hub)
+- [TF Playground / Weblets](weblets_home)
+
+## Grid Services and Data Sources
+
+- [TFGrid Services](Manual3_tfservices)
+
+## Advanced Deployment Techniques
+
+- [Advanced Topics](advanced)
+
+
+
+
+
+
+
