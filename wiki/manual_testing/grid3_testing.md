@@ -1,3 +1,6 @@
+> IMPORTANT NOTICE (05/03/2023): 
+The information of this page is outdated. ThreeFold team is in the process of migrating this this manual to its new home on manual.grid.tf. Please go to [manual.grid.tf](https://manual.grid.tf/) to read the latest documentation of ThreeFold.
+
 # Testing The ThreeFold_Grid3
 
 After each release of every newer grid version, we invite everyone within ThreeFold Community to test the grid's product components and give our engineering team constructive feedback on our product development.
