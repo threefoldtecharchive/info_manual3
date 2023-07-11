@@ -1,3 +1,6 @@
+> IMPORTANT NOTICE (05/03/2023): 
+The information of this page is outdated. ThreeFold team is in the process of migrating this this manual to its new home on manual.grid.tf. Please go to [manual.grid.tf](https://manual.grid.tf/) to read the latest documentation of ThreeFold.
+
 # TF-Chain Portal: Create a Farm
 
 If you want to start farming, you need a farmID, the ID of the farm that is owning the hardware node(s) you connect to the TFGrid.

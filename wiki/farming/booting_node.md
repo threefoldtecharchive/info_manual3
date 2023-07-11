@@ -1,3 +1,6 @@
+> IMPORTANT NOTICE (05/03/2023): 
+The information of this page is outdated. ThreeFold team is in the process of migrating this this manual to its new home on manual.grid.tf. Please go to [manual.grid.tf](https://manual.grid.tf/) to read the latest documentation of ThreeFold.
+
 ## Boot a node
 
 To boot Zero OS on your node, plug in the USB stick and configure the BIOS to use it as the boot device. You can reference the documentation for your mainboard to learn how to do this. In case the node loses power or needs to restart for an update, this setting needs to be saved within the BIOS.

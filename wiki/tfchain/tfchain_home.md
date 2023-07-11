@@ -1,3 +1,6 @@
+> IMPORTANT NOTICE (05/03/2023): 
+The information of this page is outdated. ThreeFold team is in the process of migrating this this manual to its new home on manual.grid.tf. Please go to [manual.grid.tf](https://manual.grid.tf/) to read the latest documentation of ThreeFold.
+
 # TF Chain
 
 TF Chain is the base layer for everything that interacts with the grid. Nodes, farms, users are registered on the chain. It plays the central role in achieving decentralised consensus between a user and Node to deploy a certain workload. A contract can be created on the chain that is essentially an agreement between a node and user.
